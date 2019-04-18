@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1555569291574">
+      <file name="/Python Console" timestamp="1555579892237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1555391482274">
@@ -15,14 +15,35 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1555580235162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/loginHandler.py" timestamp="1555579602844">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555581416623">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" timestamp="1555480846818">
         <mark key="^" line="846" column="37" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/jiraConnectionHandler.py" timestamp="1555570692520">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/jiraConnectionHandler.py" timestamp="1555578861416">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="77" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555581452703">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
         <mark key="'" line="106" column="109" />
@@ -31,7 +52,12 @@
         <mark key="." line="168" column="29" />
         <mark key="^" line="168" column="61" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555570127454" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555578768767">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="0" column="65" />
+      </file>
       <file name="/Dummy.cs" timestamp="1555412221476">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,17 +73,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1555570637568">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="46" />
-      </file>
-      <file name="C:/repo/apc/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1554985751820">
-        <mark key="'" line="857" column="87" />
-      </file>
-      <file name="C:/repo/bec/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile.cs" timestamp="1554879866292">
-        <mark key="'" line="764" column="39" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1555580585148">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
         <mark key="[" line="98" column="21" />
@@ -68,14 +88,11 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" timestamp="1555404105889">
-        <mark key="'" line="64" column="39" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1555415049094">
-        <mark key="'" line="153" column="67" />
-        <mark key="]" line="825" column="7" />
-        <mark key="^" line="825" column="7" />
-        <mark key="." line="825" column="7" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1555486532623">
         <mark key="'" line="1940" column="12" />
@@ -96,9 +113,6 @@
         <mark key="^" line="197" column="29" />
         <mark key="." line="177" column="68" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/UI/BP/BudgetResultSituation.cs" timestamp="1555411388810">
-        <mark key="'" line="69" column="31" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/DTO/BeregnSkatResponseDTO.cs" timestamp="1555480211397">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="17" />
@@ -110,6 +124,12 @@
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1555581262525">
+        <mark key="[" line="21" column="98" />
+        <mark key="]" line="21" column="105" />
+        <mark key="." line="21" column="98" />
+        <mark key="^" line="21" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
         <mark key="[" line="18" column="34" />
@@ -123,8 +143,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx" timestamp="1555047052493">
-        <mark key="'" line="320" column="58" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/login_manager.py" timestamp="1555581371038">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/package.json" timestamp="1555570309993">
         <mark key="[" line="0" column="0" />
@@ -242,28 +265,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self._loginHandler.getAuthentication()</text>
+        <text>asdf</text>
       </register>
       <register name="-" type="4">
-        <text>sebastian.andersen</text>
+        <text>asdf</text>
       </register>
       <register name="/" type="4">
-        <text>colored</text>
+        <text>auth</text>
       </register>
-      <register name="0" type="4">
-        <text>self._loginHandler.getAuthentication()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEtFWVJJTkdfSUQgPSAiQ09NTUFORC1MSU5FLUpJUkEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9sb2dpbkhhbmRsZXIuZ2V0QXV0aGVudGljYXRpb24oKSkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">b3BlbiBKaXJhCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgamlyYV9jb25uZWN0aW9uOiBKSVJBID0gSklSQShrd2FyZ3M9IHBhcmFtZXRlcnMpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>(int)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKipwYXJhbWV0ZXJzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -275,32 +298,32 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text>(int)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXR1cF9jb25uZWN0aW9uX3BhcmFtZXRlcnMoCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>(int)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>(int)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gewogICAgICAgICAgICAic2VydmVyIjogImh0dHA6Ly93aXAuc2NoYW50ei5jb20iLAogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
-      <register name="8" type="8">
-        <text>(int)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>(int)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNpY19hdXRoPXNlbGYuX2xvZ2luSGFuZGxlci5nZXRfbG9naW5faW5mb3JtYXRpb24oKSwgb3B0aW9ucz1vcHRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>colored</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>colored</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addtoexport</entry>
         <entry>freecar</entry>
         <entry>beregnskat</entry>
         <entry>income1</entry>
@@ -328,6 +350,7 @@
         <entry>gettax</entry>
         <entry>coloered</entry>
         <entry>colored</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
@@ -399,6 +422,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
