@@ -15,11 +15,20 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1555569291574">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1555391482274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" timestamp="1555404105889">
         <mark key="'" line="64" column="39" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src2/Pipfile" timestamp="1555569499724">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1555415049094">
         <mark key="'" line="153" column="67" />
@@ -214,17 +223,17 @@
       <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">a2V5cmluZyA=</text>
       </register>
       <register name="-" type="4">
-        <text>(int)</text>
+        <text encoding="base64">a2V5cmluZyA=</text>
       </register>
       <register name="/" type="4">
         <text>gettax</text>
       </register>
-      <register name="0" type="4">
-        <text>Rounding.Round</text>
+      <register name="0" type="2">
+        <text encoding="base64">amlyYWNsaWVudCA9ICIyLjEuOSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
