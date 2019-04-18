@@ -1,0 +1,106 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl b" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl t" />
+  </action>
+  <action id="ActivateUnitTestsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl u" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl z" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl quote" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl k" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl z" />
+  </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+    <keyboard-shortcut first-keystroke="shift alt f6" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl t" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl e" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl w" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl a" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl s" />
+  </action>
+  <action id="TabShiftActions.MoveFocusDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="down" />
+  </action>
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl b" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl f" />
+  </action>
+  <action id="TabShiftActions.MoveFocusUp">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="up" />
+  </action>
+  <action id="TabShiftActions.ShiftDown">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl down" />
+  </action>
+  <action id="TabShiftActions.ShiftLeft">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl left" />
+  </action>
+  <action id="TabShiftActions.ShiftRight">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl right" />
+  </action>
+  <action id="TabShiftActions.ShiftUp">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl up" />
+  </action>
+  <action id="TabShiftActions.StretchDown">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="TabShiftActions.StretchUp">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ToggleContentUiTypeMode">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl 1" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl d" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl q" />
+  </action>
+</keymap>

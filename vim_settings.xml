@@ -1,0 +1,373 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/fragment.js" timestamp="1555391482274">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" timestamp="1555480846818">
+        <mark key="^" line="846" column="37" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
+        <mark key="'" line="106" column="109" />
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="29" />
+        <mark key="." line="168" column="29" />
+        <mark key="^" line="168" column="61" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1555412221476">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineJira/CommandLineJira/Library.fs" timestamp="1555566541100">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="C:/repo/apc/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1554985751820">
+        <mark key="'" line="857" column="87" />
+      </file>
+      <file name="C:/repo/bec/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile.cs" timestamp="1554879866292">
+        <mark key="'" line="764" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
+        <mark key="[" line="98" column="21" />
+        <mark key="]" line="98" column="36" />
+        <mark key="^" line="98" column="36" />
+        <mark key="." line="98" column="36" />
+      </file>
+      <file name="/C# Console" timestamp="1555008579752">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" timestamp="1555404105889">
+        <mark key="'" line="64" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1555415049094">
+        <mark key="'" line="153" column="67" />
+        <mark key="]" line="825" column="7" />
+        <mark key="^" line="825" column="7" />
+        <mark key="." line="825" column="7" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1555486532623">
+        <mark key="'" line="1940" column="12" />
+        <mark key="[" line="1874" column="105" />
+        <mark key="]" line="1874" column="105" />
+        <mark key="." line="1874" column="105" />
+        <mark key="^" line="1874" column="88" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/beregnSkat.ashx.cs" timestamp="1555480195776">
+        <mark key="[" line="177" column="68" />
+        <mark key="]" line="177" column="68" />
+        <mark key="^" line="197" column="29" />
+        <mark key="." line="177" column="68" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/UI/BP/BudgetResultSituation.cs" timestamp="1555411388810">
+        <mark key="'" line="69" column="31" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/DTO/BeregnSkatResponseDTO.cs" timestamp="1555480211397">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Utilities/MathFunctions.cs" timestamp="1555051705881">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="28" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx" timestamp="1555047052493">
+        <mark key="'" line="320" column="58" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/StandardValues/Model/StandardValueItem.cs" timestamp="1555478491257">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2006" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2020" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2061" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2066" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2069" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2072" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2075" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2078" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2082" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2083" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2084" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2085" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2086" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2090" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2095" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2098" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2101" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2104" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="385" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="206" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetConverterFactory.cs" />
+      <jump line="19" column="72" filename="C:/repo/bec/build.proj" />
+      <jump line="55" column="142" filename="C:/repo/bec/build.proj" />
+      <jump line="56" column="165" filename="C:/repo/bec/build.proj" />
+      <jump line="58" column="63" filename="C:/repo/bec/build.proj" />
+      <jump line="59" column="144" filename="C:/repo/bec/build.proj" />
+      <jump line="637" column="0" filename="C:/repo/bil/build.proj" />
+      <jump line="30" column="9" filename="C:/repo/bil/build.proj" />
+      <jump line="40" column="68" filename="C:/repo/bil/build.proj" />
+      <jump line="54" column="114" filename="C:/repo/bil/build.proj" />
+      <jump line="55" column="120" filename="C:/repo/bil/build.proj" />
+      <jump line="56" column="142" filename="C:/repo/bil/build.proj" />
+      <jump line="623" column="27" filename="C:/repo/bec/build.proj" />
+      <jump line="30" column="9" filename="C:/repo/bec/build.proj" />
+      <jump line="40" column="68" filename="C:/repo/bec/build.proj" />
+      <jump line="54" column="63" filename="C:/repo/bec/build.proj" />
+      <jump line="0" column="0" filename="C:/repo/bil/build.proj" />
+      <jump line="0" column="2" filename="C:/repo/bec/build.proj" />
+      <jump line="234" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="36" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2005" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="4425" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="959" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1118" column="96" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1166" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="701" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1136" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="994" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1070" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1878" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1905" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="138" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="22" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="44" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="46" column="104" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="48" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="55" column="144" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="64" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
+      <jump line="199" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="168" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="174" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="184" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="187" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="189" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="69" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/UI/BP/BudgetResultSituation.cs" />
+      <jump line="7" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="73" column="60" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="74" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="75" column="78" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="87" column="63" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="88" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="89" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="106" column="109" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="857" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="1740" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="4953" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3093" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="4502" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="5044" column="57" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="5090" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="859" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="1940" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="762" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="816" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="872" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1187" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1193" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1195" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1222" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1900" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="617" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="618" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="622" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="639" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="32" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="108" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="151" column="91" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="153" column="67" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="846" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="867" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>(int)</text>
+      </register>
+      <register name="/" type="4">
+        <text>gettax</text>
+      </register>
+      <register name="0" type="4">
+        <text>Rounding.Round</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">b3BlbiBKaXJhCg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="4" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="6" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="7" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="w" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="8">
+        <text>(int)</text>
+      </register>
+      <register name="9" type="8">
+        <text>decimal
+decimal</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>gettax</last-search>
+      <last-offset />
+      <last-pattern>gettax</last-pattern>
+      <last-replace>bil</last-replace>
+      <last-substitute>bankdata</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>payment</entry>
+        <entry>addto</entry>
+        <entry>addtoexport</entry>
+        <entry>freecar</entry>
+        <entry>beregnskat</entry>
+        <entry>income1</entry>
+        <entry>fremtidig</entry>
+        <entry>skatberegnt</entry>
+        <entry>income</entry>
+        <entry>= 1</entry>
+        <entry>1</entry>
+        <entry>incomeafter</entry>
+        <entry>taxes</entry>
+        <entry>tax</entry>
+        <entry>beregnetskat</entry>
+        <entry>sumind</entry>
+        <entry>calcindtaegterskat</entry>
+        <entry>calcIndtaegter</entry>
+        <entry>store</entry>
+        <entry>gettax</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/2017/2015</entry>
+        <entry>wq</entry>
+        <entry>set so=9999</entry>
+        <entry>set so=0</entry>
+        <entry>s</entry>
+        <entry>W</entry>
+        <entry>setic</entry>
+        <entry>%s/expense/deduction</entry>
+        <entry>%s/Expense/Deduction</entry>
+        <entry>%s/Expense/Deduction/g</entry>
+        <entry>%s/expense/deduction/g</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry>redo</entry>
+        <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
+        <entry>q</entry>
+        <entry>%s/bankdata/nordea/g</entry>
+        <entry>%s/bankdata/bil/g</entry>
+        <entry>set ic</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
