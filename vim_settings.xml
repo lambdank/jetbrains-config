@@ -39,11 +39,11 @@
         <mark key="^" line="21" column="77" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555581452703">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555581536950">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
         <mark key="'" line="106" column="109" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asdf</text>
+        <text>file</text>
       </register>
       <register name="-" type="4">
-        <text>asdf</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
