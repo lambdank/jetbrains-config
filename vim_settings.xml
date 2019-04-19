@@ -24,9 +24,9 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555581416623">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="38" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555679719910">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="14" />
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
@@ -39,11 +39,11 @@
         <mark key="^" line="21" column="77" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555581536950">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555681553233">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="50" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
         <mark key="'" line="106" column="109" />
@@ -66,6 +66,11 @@
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/config.py" timestamp="1555681458301">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineJira/CommandLineJira/Library.fs" timestamp="1555566541100">
         <mark key="[" line="1" column="9" />
@@ -125,6 +130,12 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/command_line_utilities.py" timestamp="1555680988117">
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="23" column="87" />
+        <mark key="^" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+      </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1555581262525">
         <mark key="[" line="21" column="98" />
         <mark key="]" line="21" column="105" />
@@ -162,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2006" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2020" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2061" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2066" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -262,31 +272,32 @@
       <jump line="846" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="867" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>dumps</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEtFWVJJTkdfSUQgPSAiQ09NTUFORC1MSU5FLUpJUkEiCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uLmR1bXBzKFt7J3VzZXJuYW1lJzogc2VsZi5fY29uZmlnLnVzZXJuYW1lLCAnZGVmYXVsdF9ib2FyZCc6IHNlbGYuX2NvbmZpZy51c2VybmFtZX1dLCBzZXBhcmF0b3JzPSgnLCcsJzonKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamlyYV9jb25uZWN0aW9uOiBKSVJBID0gSklSQShrd2FyZ3M9IHBhcmFtZXRlcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKipwYXJhbWV0ZXJzKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBrZXk6IHN0cik6CiAgICAgICAgaWYga2V5ID09ICJ1c2VybmFtZSI6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl91c2VybmFtZQogICAgICAgIGVsaWYga2V5ID09ICJkZWZhdWx0X2JvYXJkIjoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2RlZmF1bHRfYm9hcmQKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE15Q2xhc3M6Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -299,22 +310,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cF9jb25uZWN0aW9uX3BhcmFtZXRlcnMoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gewogICAgICAgICAgICAic2VydmVyIjogImh0dHA6Ly93aXAuc2NoYW50ei5jb20iLAogICAgICAgIH0K</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgIAogICAg</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNpY19hdXRoPXNlbGYuX2xvZ2luSGFuZGxlci5nZXRfbG9naW5faW5mb3JtYXRpb24oKSwgb3B0aW9ucz1vcHRpb25zCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGVfaW5wdXQgPSAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -431,6 +442,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
