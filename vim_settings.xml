@@ -12,6 +12,7 @@
       <file name="/Python Console" timestamp="1555683785647">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_delivery/product/Applications/Advice.Web.FormuePlan/Financys/SessionManagerFormuePlan.cs" timestamp="1556018997682" />
       <file name="/fragment.js" timestamp="1555391482274">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +128,11 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_delivery/Customers/FSS-SDC/Advice.Customers.Fss-Sdc.FormuePlan/CustomerOverrides/SdcCreateProfile.cs" timestamp="1556015176404" />
+      <file name="C:/repo/advice_delivery/Customers/FSS-SDC/Advice.Customers.Fss-Sdc.FormuePlan/CustomerOverrides/SdcCreateProfile.cs" timestamp="1556019111212">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="C:/repo/advice_delivery/product/Standard/Advice.Kernel/Infrastructure/Container/ICompositionRootConfigurator.cs" timestamp="1556009483990" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
         <mark key="[" line="8" column="33" />
@@ -189,6 +194,11 @@
         <mark key="]" line="28" column="29" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="C:/repo/advice_delivery/Customers/FSS-BD/Advice.Customers.Fss-Bd.FormuePlan/CustomerOverrides/BdCreateProfile.cs" timestamp="1556019109593">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1555682988854">
         <mark key="'" line="38" column="45" />
@@ -339,8 +349,8 @@
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVwb3J0LklkLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmVwb3J0LklkLCA=</text>
@@ -352,16 +362,16 @@
         <text>localLoginService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -374,19 +384,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2FyZ3VtZW50c1swXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wYXJhbWV0ZXJzID0gcGFyYW1ldGVycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
