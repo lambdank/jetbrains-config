@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/advice_delivery/Customers/FSS-SDC/Advice.Customers.Fss-Sdc.FormuePlan/Services/SDCService.cs" timestamp="1556007416325">
+        <mark key="[" line="105" column="103" />
+        <mark key="]" line="105" column="103" />
+        <mark key="." line="105" column="103" />
+      </file>
       <file name="/Python Console" timestamp="1555683785647">
         <mark key="[" line="0" column="0" />
       </file>
@@ -329,11 +334,11 @@
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVwb3J0LklkLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>localLoginService</text>
+        <text encoding="base64">cmVwb3J0LklkLCA=</text>
       </register>
       <register name="/" type="4">
         <text>validatecpr</text>
