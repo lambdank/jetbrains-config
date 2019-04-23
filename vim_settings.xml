@@ -120,7 +120,7 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/ap/Build/Scripts/UpdateDatabase.ps1" timestamp="1556002410743" />
+      <file name="C:/repo/advice_delivery/Customers/FSS-SDC/Advice.Customers.Fss-Sdc.FormuePlan/CustomerOverrides/SdcCreateProfile.cs" timestamp="1556005786164" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="39" />
@@ -336,7 +336,7 @@
         <text>localLoginService</text>
       </register>
       <register name="/" type="4">
-        <text>customers</text>
+        <text>validatecpr</text>
       </register>
       <register name="0" type="4">
         <text>localLoginService</text>
@@ -386,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>customers</last-search>
+      <last-search>validatecpr</last-search>
       <last-offset />
-      <last-pattern>customers</last-pattern>
+      <last-pattern>validatecpr</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>freecar</entry>
         <entry>beregnskat</entry>
         <entry>income1</entry>
         <entry>fremtidig</entry>
@@ -416,6 +415,7 @@
         <entry>objectfactory</entry>
         <entry>ldap</entry>
         <entry>customers</entry>
+        <entry>validatecpr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
