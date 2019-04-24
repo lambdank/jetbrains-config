@@ -12,7 +12,6 @@
       <file name="/Python Console" timestamp="1555683785647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_delivery/product/Applications/Advice.Web.FormuePlan/Financys/SessionManagerFormuePlan.cs" timestamp="1556018997682" />
       <file name="/fragment.js" timestamp="1555391482274">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,12 +111,15 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="C:/repo/bankdata/product/Standard/Advice.Kernel/Profile/Cpr/CprFormatter.cs" timestamp="1556017628295" />
       <file name="C:/repo/ap/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Company/DKCompanyAccountDetailsProvider.cs" timestamp="1556001758150">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
+      </file>
+      <file name="C:/repo/advice_delivery/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/Adapter/StatementRestoreAdapter.cs" timestamp="1556085090337">
+        <mark key="[" line="191" column="57" />
+        <mark key="]" line="191" column="66" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
         <mark key="[" line="98" column="21" />
@@ -133,7 +135,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="C:/repo/advice_delivery/product/Standard/Advice.Kernel/Infrastructure/Container/ICompositionRootConfigurator.cs" timestamp="1556009483990" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="39" />
@@ -226,14 +227,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/advice_delivery/product/Applications/Advice.Web.Platform/PensionsInfo/PIService.cs" timestamp="1556008886845" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/login_manager.py" timestamp="1555581371038">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="C:/repo/advice_delivery/product/Applications/Advice.Web.FormuePlan/Web.config" timestamp="1556015316580" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/argument_parser.py" timestamp="1555685326865">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -349,8 +348,8 @@
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>GetAccount</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmVwb3J0LklkLCA=</text>
@@ -359,7 +358,7 @@
         <text>validatecpr</text>
       </register>
       <register name="0" type="4">
-        <text>localLoginService</text>
+        <text>GetAccount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
