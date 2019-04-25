@@ -22,6 +22,7 @@
         <mark key="." line="58" column="86" />
         <mark key="^" line="58" column="86" />
       </file>
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556173175973" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555578768767">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -356,7 +357,7 @@
         <text encoding="base64">cmVwb3J0LklkLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>validatecpr</text>
+        <text>profileintid</text>
       </register>
       <register name="0" type="4">
         <text>GetAccount</text>
@@ -406,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>validatecpr</last-search>
+      <last-search>profileintid</last-search>
       <last-offset />
-      <last-pattern>validatecpr</last-pattern>
+      <last-pattern>profileintid</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -416,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beregnskat</entry>
         <entry>income1</entry>
         <entry>fremtidig</entry>
         <entry>skatberegnt</entry>
@@ -436,6 +436,7 @@
         <entry>ldap</entry>
         <entry>customers</entry>
         <entry>validatecpr</entry>
+        <entry>profileintid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
