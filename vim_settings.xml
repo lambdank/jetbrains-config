@@ -9,24 +9,27 @@
       <file name="/a.dummy" timestamp="1555685235606">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/DkAdviceApiV0CoreCalculationOutputContract.cs" timestamp="1556189332205">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="69" />
+      </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555683505147">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555683884079">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="58" column="87" />
-        <mark key="]" line="58" column="86" />
-        <mark key="." line="58" column="86" />
-        <mark key="^" line="58" column="86" />
-      </file>
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556176744217">
         <mark key="[" line="740" column="34" />
         <mark key="]" line="741" column="15" />
         <mark key="." line="741" column="15" />
         <mark key="^" line="741" column="15" />
+      </file>
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/GetAccount.cs" timestamp="1556189425266">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="66" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555578768767">
         <mark key="[" line="11" column="8" />
@@ -81,13 +84,6 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1555486532623">
-        <mark key="'" line="1940" column="12" />
-        <mark key="[" line="1874" column="105" />
-        <mark key="]" line="1874" column="105" />
-        <mark key="." line="1874" column="105" />
-        <mark key="^" line="1874" column="88" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/beregnSkat.ashx.cs" timestamp="1555480195776">
         <mark key="[" line="177" column="68" />
         <mark key="]" line="177" column="68" />
@@ -110,13 +106,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" timestamp="1556001984582">
-        <mark key="'" line="242" column="54" />
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="." line="435" column="0" />
-        <mark key="^" line="454" column="72" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
         <mark key="[" line="18" column="34" />
@@ -152,6 +141,10 @@
         <mark key="." line="9" column="12" />
       </file>
       <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Skat/Output/Array/ArrayOutputManager.cs" timestamp="1556173484542" />
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccount.cs" timestamp="1556189420630">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="68" />
+      </file>
       <file name="C:/repo/ap/product/Standard/Advice.Kernel/Infrastructure/Container/ObjectFactory.cs" timestamp="1556001792078">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="34" />
@@ -178,12 +171,15 @@
         <mark key="[" line="218" column="80" />
         <mark key="]" line="218" column="144" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
-        <mark key="'" line="106" column="109" />
-        <mark key="[" line="168" column="29" />
-        <mark key="]" line="168" column="29" />
-        <mark key="." line="168" column="29" />
-        <mark key="^" line="168" column="61" />
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Api/CalculationApi.cs" timestamp="1556189252331">
+        <mark key="[" line="218" column="15" />
+        <mark key="]" line="218" column="56" />
+      </file>
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/FSUtils.cs" timestamp="1556189562524">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Liability/LiabilityPickerRule.cs" timestamp="1556173853177" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentStack.py" timestamp="1555685970041">
@@ -191,6 +187,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/Program.cs" timestamp="1556189527307">
+        <mark key="[" line="65" column="73" />
+        <mark key="]" line="65" column="71" />
+        <mark key="^" line="65" column="71" />
+        <mark key="." line="65" column="71" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/config.py" timestamp="1555682597464">
         <mark key="[" line="1" column="64" />
@@ -226,6 +228,10 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteDKFinancialStatementDKAccountKey.cs" timestamp="1556189368498">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="75" />
+      </file>
       <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Skat/Output/Array/ArrayOutputRestore.cs" timestamp="1556176289622" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
         <mark key="[" line="33" column="11" />
@@ -250,13 +256,6 @@
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1555682988854">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="20" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
         <mark key="[" line="6" column="15" />
@@ -373,29 +372,29 @@
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AccountTypeEnum</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.CalculationResult</text>
+        <text encoding="base64">RGtBZHZpY2VBcGlWMENvcmVDYWxjdWxhdGlvbk91dHB1dENvbnRyYWN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>profileintid</text>
       </register>
       <register name="0" type="4">
-        <text>AccountTypeEnum</text>
+        <text>GetAccount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgSU8uU3dhZ2dlci5BcGkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgR2V0QWNjb3VudChBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50RmluYW5jaWFsU3RhdGVtZW50IENhbGN1bGF0aW9uT3V0cHV0Q2FsY3VsYXRpb25SZXN1bHQpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">dXNpbmcgSU8uU3dhZ2dlci5BcGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -408,22 +407,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
