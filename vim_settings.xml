@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1555391482274">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1555685235606">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555683505147">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
@@ -22,7 +16,7 @@
         <mark key="." line="58" column="86" />
         <mark key="^" line="58" column="86" />
       </file>
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556173175973" />
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556174356936" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555578768767">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -34,9 +28,6 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1555412221476">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/Pipfile" timestamp="1555570103429">
         <mark key="[" line="10" column="0" />
@@ -127,15 +118,13 @@
         <mark key="." line="105" column="114" />
         <mark key="^" line="105" column="114" />
       </file>
-      <file name="/Python Console" timestamp="1555683785647">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src2/Pipfile" timestamp="1555569634259">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Skat/Output/Array/ArrayOutputManager.cs" timestamp="1556173484542" />
       <file name="C:/repo/ap/product/Standard/Advice.Kernel/Infrastructure/Container/ObjectFactory.cs" timestamp="1556001792078">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="34" />
@@ -165,6 +154,7 @@
         <mark key="." line="168" column="29" />
         <mark key="^" line="168" column="61" />
       </file>
+      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Liability/LiabilityPickerRule.cs" timestamp="1556173853177" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentStack.py" timestamp="1555685970041">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="1" column="0" />
@@ -200,9 +190,6 @@
         <mark key="]" line="98" column="36" />
         <mark key="^" line="98" column="36" />
         <mark key="." line="98" column="36" />
-      </file>
-      <file name="/C# Console" timestamp="1555008579752">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
         <mark key="[" line="33" column="11" />
