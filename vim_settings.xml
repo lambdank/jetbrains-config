@@ -53,10 +53,6 @@
         <mark key="." line="10" column="9" />
       </file>
       <file name="C:/repo/advice_delivery/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1556085768220" />
-      <file name="C:/repo/advice_delivery/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/Adapter/StatementRestoreAdapter.cs" timestamp="1556085090337">
-        <mark key="[" line="191" column="57" />
-        <mark key="]" line="191" column="66" />
-      </file>
       <file name="$USER_HOME$/swagger-codegen/local-v8/ConsoleApp1/Program.cs" timestamp="1556188758969">
         <mark key="[" line="14" column="108" />
         <mark key="]" line="14" column="107" />
@@ -96,6 +92,9 @@
         <mark key="]" line="28" column="29" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" timestamp="1556255837206">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
         <mark key="[" line="18" column="34" />
@@ -256,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2072" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2075" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2078" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2082" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -356,6 +354,7 @@
       <jump line="39" column="45" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
       <jump line="5" column="0" filename="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" />
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
+      <jump line="0" column="0" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -365,7 +364,7 @@
         <text encoding="base64">RGtBZHZpY2VBcGlWMENvcmVDYWxjdWxhdGlvbk91dHB1dENvbnRyYWN0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>profileintid</text>
+        <text>aktiespare</text>
       </register>
       <register name="0" type="4">
         <text>GetAccount</text>
@@ -415,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>profileintid</last-search>
+      <last-search>aktiespare</last-search>
       <last-offset />
-      <last-pattern>profileintid</last-pattern>
+      <last-pattern>aktiespare</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -425,8 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>income1</entry>
-        <entry>fremtidig</entry>
         <entry>skatberegnt</entry>
         <entry>income</entry>
         <entry>= 1</entry>
@@ -445,6 +442,8 @@
         <entry>customers</entry>
         <entry>validatecpr</entry>
         <entry>profileintid</entry>
+        <entry>nordea</entry>
+        <entry>aktiespare</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
