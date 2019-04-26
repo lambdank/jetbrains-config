@@ -14,13 +14,6 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" timestamp="1555683884079">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="58" column="87" />
-        <mark key="]" line="58" column="86" />
-        <mark key="." line="58" column="86" />
-        <mark key="^" line="58" column="86" />
-      </file>
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556176744217">
         <mark key="[" line="740" column="34" />
         <mark key="]" line="741" column="15" />
@@ -74,13 +67,6 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1555486532623">
-        <mark key="'" line="1940" column="12" />
-        <mark key="[" line="1874" column="105" />
-        <mark key="]" line="1874" column="105" />
-        <mark key="." line="1874" column="105" />
-        <mark key="^" line="1874" column="88" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/beregnSkat.ashx.cs" timestamp="1555480195776">
         <mark key="[" line="177" column="68" />
         <mark key="]" line="177" column="68" />
@@ -99,13 +85,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" timestamp="1556001984582">
-        <mark key="'" line="242" column="54" />
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="." line="435" column="0" />
-        <mark key="^" line="454" column="72" />
-      </file>
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" timestamp="1556266962196">
         <mark key="'" line="4461" column="23" />
         <mark key="[" line="4675" column="19" />
@@ -118,12 +97,11 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" timestamp="1556266559850">
+      <file name="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" timestamp="1556268034350">
         <mark key="'" line="54" column="3" />
-        <mark key="[" line="60" column="99" />
-        <mark key="]" line="55" column="102" />
-        <mark key="." line="60" column="101" />
-        <mark key="^" line="55" column="102" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/login_manager.py" timestamp="1555581371038">
         <mark key="[" line="5" column="0" />
@@ -182,13 +160,6 @@
       <file name="$USER_HOME$/swagger-codegen/local-v8/src/IO.Swagger/Api/CalculationApi.cs" timestamp="1556188613091">
         <mark key="[" line="218" column="80" />
         <mark key="]" line="218" column="144" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1555413400441">
-        <mark key="'" line="106" column="109" />
-        <mark key="[" line="168" column="29" />
-        <mark key="]" line="168" column="29" />
-        <mark key="." line="168" column="29" />
-        <mark key="^" line="168" column="61" />
       </file>
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Api/CalculationApi.cs" timestamp="1556189252331">
         <mark key="[" line="218" column="15" />
@@ -273,13 +244,6 @@
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1555682988854">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="20" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
         <mark key="[" line="6" column="15" />
@@ -394,8 +358,8 @@
       <jump line="4461" column="23" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>financys.input.FormueKategori.VaerdipapiererAktiesparekonto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -407,13 +371,13 @@
         <text>financys.input.FormueKategori.VaerdipapiererAktiesparekonto</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgR2V0QWNjb3VudChBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50RmluYW5jaWFsU3RhdGVtZW50IENhbGN1bGF0aW9uT3V0cHV0Q2FsY3VsYXRpb25SZXN1bHQpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgSU8uU3dhZ2dlci5BcGkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -429,25 +393,25 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgR2V0QWNjb3VudChBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50RmluYW5jaWFsU3RhdGVtZW50IENhbGN1bGF0aW9uT3V0cHV0Q2FsY3VsYXRpb25SZXN1bHQpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">dXNpbmcgSU8uU3dhZ2dlci5BcGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbk1hbmFnZXIuc2V0UHJvZmlsSWQoLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -483,7 +447,6 @@
         <entry>aktiespare</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>set so=9999</entry>
         <entry>set so=0</entry>
         <entry>s</entry>
@@ -503,6 +466,7 @@
         <entry>set iv</entry>
         <entry>set ic</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
