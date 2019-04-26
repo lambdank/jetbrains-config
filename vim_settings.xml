@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan/Configuration/NordeaInputConfiguration.cs" timestamp="1556264266812" />
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/DkAdviceApiV0CoreCalculationOutputContract.cs" timestamp="1556189332205">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="69" />
@@ -94,6 +95,13 @@
         <mark key="]" line="18" column="40" />
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
+      </file>
+      <file name="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" timestamp="1556264827958">
+        <mark key="'" line="49" column="116" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/login_manager.py" timestamp="1555581371038">
         <mark key="[" line="5" column="0" />
@@ -248,8 +256,6 @@
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/DefaultAssetTypeProvider.cs" timestamp="1556262849922" />
     </filemarks>
     <jumps>
-      <jump line="56" column="165" filename="C:/repo/bec/build.proj" />
-      <jump line="58" column="63" filename="C:/repo/bec/build.proj" />
       <jump line="59" column="144" filename="C:/repo/bec/build.proj" />
       <jump line="637" column="0" filename="C:/repo/bil/build.proj" />
       <jump line="30" column="9" filename="C:/repo/bil/build.proj" />
@@ -348,19 +354,21 @@
       <jump line="4457" column="25" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="51" column="60" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" />
       <jump line="53" column="24" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" />
+      <jump line="47" column="2" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
+      <jump line="49" column="116" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Værdipapirer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGtBZHZpY2VBcGlWMENvcmVDYWxjdWxhdGlvbk91dHB1dENvbnRyYWN0IA==</text>
+        <text>Værdipapirer</text>
       </register>
       <register name="/" type="4">
-        <text>partnerid</text>
+        <text>værdi</text>
       </register>
-      <register name="0" type="4">
-        <text>GetAccount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAoODUsICdW5nJkaXBhcGlyZXInLCAzLCAwLCAxLjAwLCAxLjAwLCBnZXRkYXRlKCksIC0xLCBnZXRkYXRlKCksIC0xLCAwLjAwLCAxMDAuMDAsIDM4LCAnJywgMCwgODUsICdEZXBvdCcsIDAsIDAsIDAsIDAsICcyMDE5OjIuMDAwMCcsICcyMDE5OjIuMDAwMCcsIDEsIDEsIDEsIDApLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -403,13 +411,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>partnerid</last-search>
+      <last-search>værdi</last-search>
       <last-offset />
-      <last-pattern>partnerid</last-pattern>
+      <last-pattern>værdi</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -417,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>taxes</entry>
         <entry>tax</entry>
         <entry>beregnetskat</entry>
         <entry>sumind</entry>
@@ -437,6 +444,7 @@
         <entry>productid</entry>
         <entry>assettypeselected</entry>
         <entry>partnerid</entry>
+        <entry>værdi</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -456,9 +464,9 @@
         <entry>%s/bankdata/nordea/g</entry>
         <entry>%s/bankdata/bil/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>set iv</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
