@@ -253,6 +253,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="C:/repo/nordea/product/Standard/Advice.Admin/DatabaseMigration/BaseUpdateStepProvider.cs" timestamp="1556256635492" />
     </filemarks>
     <jumps>
       <jump line="2075" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -364,7 +365,7 @@
         <text encoding="base64">RGtBZHZpY2VBcGlWMENvcmVDYWxjdWxhdGlvbk91dHB1dENvbnRyYWN0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>aktiespare</text>
+        <text>aktie</text>
       </register>
       <register name="0" type="4">
         <text>GetAccount</text>
@@ -410,13 +411,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvY2FsTG9naW5TZXJ2aWNlID0gOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>aktiespare</last-search>
+      <last-search>aktie</last-search>
       <last-offset />
-      <last-pattern>aktiespare</last-pattern>
+      <last-pattern>aktie</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -424,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>skatberegnt</entry>
         <entry>income</entry>
         <entry>= 1</entry>
         <entry>1</entry>
@@ -444,9 +444,9 @@
         <entry>profileintid</entry>
         <entry>nordea</entry>
         <entry>aktiespare</entry>
+        <entry>aktie</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/2017/2015</entry>
         <entry>wq</entry>
         <entry>set so=9999</entry>
         <entry>set so=0</entry>
@@ -463,9 +463,10 @@
         <entry>q</entry>
         <entry>%s/bankdata/nordea/g</entry>
         <entry>%s/bankdata/bil/g</entry>
-        <entry>set ic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>set iv</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
