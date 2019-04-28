@@ -225,11 +225,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" timestamp="1556455849976">
-        <mark key="[" line="56" column="55" />
-        <mark key="]" line="56" column="55" />
-        <mark key="." line="56" column="55" />
-        <mark key="^" line="56" column="66" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" timestamp="1556456979820">
+        <mark key="'" line="62" column="23" />
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+        <mark key="^" line="62" column="36" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/Pipfile" timestamp="1555570103429">
         <mark key="[" line="10" column="0" />
@@ -302,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2083" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2084" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2085" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2086" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -402,31 +402,32 @@
       <jump line="12" column="24" filename="$USER_HOME$/repo/command-line-jira/Pipfile.lock" />
       <jump line="45" column="36" filename="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" />
       <jump line="58" column="93" filename="$USER_HOME$/repo/command-line-jira/src/config_manager.py" />
+      <jump line="57" column="23" filename="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, &quot;agile_rest_path&quot;: 'agile'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, &quot;agile_rest_path&quot;: 'agile'</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>Issue</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBlc3RpbWF0ZWRfd29ya19sZWZ0X2luX3NwcmludChzZWxmLCBzcHJpbnQpOgo=</text>
+      <register name="0" type="4">
+        <text>self._setup_connection_parameters()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChzZWxmLCBzcHJpbnQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtZXRlcnMgaW4gc2VsZi5fc2V0dXBfY29ubmVjdGlvbl9wYXJhbWV0ZXJzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdpbGVfcGFyYW1ldGVycywgZ3JlZW5ob3BwZXJfcGFyYW1ldGVycyA9IHNlbGYuX3NldHVwX2Nvbm5lY3Rpb25fcGFyYW1ldGVycygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBKaXJhRGF0YU9iamVjdHMuaXNzdWUgaW1wb3J0IElzc3VlCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -439,31 +440,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYm9hcmRfbmFtZToKICAgICAgICAgICAgYm9hcmRfbmFtZSA9IAo=</text>
+        <text encoding="base64">ZnJvbSBKaXJhRGF0YU9iamVjdHMuYm9hcmQgaW1wb3J0IEJvYXJkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oYm9hcmRzKSA+IDE6CiAgICAgICAgICAgIHJhaXNlIE5hbWVNYXRjaGVzTXVsdGlwbGVCb2FyZHMoYm9hcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF92YWxpZGF0ZV8K</text>
+        <text encoding="base64">ICAgIChzZWxmLCBzcHJpbnQpOgo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oYm9hcmRzKSA+IDE6CiAgICAgICAgICAgIHJhaXNlIE5hbWVNYXRjaGVzTXVsdGlwbGVCb2FyZHMoYm9hcmRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>Issue</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>Issue</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>income</entry>
         <entry>= 1</entry>
         <entry>1</entry>
         <entry>incomeafter</entry>
@@ -491,6 +491,7 @@
         <entry>http</entry>
         <entry>user</entry>
         <entry>config</entry>
+        <entry>Issue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
@@ -574,6 +575,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
