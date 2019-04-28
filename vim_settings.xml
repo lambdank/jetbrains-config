@@ -143,11 +143,11 @@
       <file name="/Python Console" timestamp="1555683785647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1556438474923">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1556440664269">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+        <mark key="." line="1" column="57" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentStack.py" timestamp="1555685970041">
         <mark key="[" line="0" column="23" />
@@ -371,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>issue</text>
+        <text>Board</text>
       </register>
       <register name="-" type="4">
-        <text>issue</text>
+        <text>Board</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
