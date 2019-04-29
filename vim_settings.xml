@@ -100,6 +100,7 @@
         <mark key="]" line="4675" column="77" />
         <mark key="." line="726" column="6" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan.Tests/Specs/StepDefinitions/ControllingReportsSharedStepsStandard.cs" timestamp="1556521220145" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="40" />
@@ -150,6 +151,7 @@
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1556261970124">
         <mark key="'" line="53" column="24" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1556521360593" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/loginHandler.py" timestamp="1555579602844">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -253,11 +255,11 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556519282205">
-        <mark key="[" line="257" column="81" />
-        <mark key="]" line="257" column="81" />
-        <mark key="^" line="257" column="81" />
-        <mark key="." line="257" column="81" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
+        <mark key="[" line="264" column="105" />
+        <mark key="]" line="264" column="105" />
+        <mark key="^" line="264" column="103" />
+        <mark key="." line="264" column="105" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
         <mark key="[" line="6" column="15" />
@@ -370,16 +372,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disposableAmount</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>raadighed</text>
       </register>
-      <register name="0" type="4">
-        <text>disposableAmount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5EaXNwb3NhYmxlSW5jb21lQWx0QW1vdW50ID0gKGludD8pZi5WYWx1ZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
