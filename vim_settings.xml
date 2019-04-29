@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan/Configuration/NordeaInputConfiguration.cs" timestamp="1556264266812" />
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/DkAdviceApiV0CoreCalculationOutputContract.cs" timestamp="1556189332205">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="69" />
@@ -44,7 +43,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="C:/repo/advice_delivery/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1556085768220" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1556517772517">
+        <mark key="'" line="179" column="51" />
+        <mark key="[" line="173" column="45" />
+        <mark key="]" line="173" column="60" />
+      </file>
       <file name="$USER_HOME$/swagger-codegen/local-v8/ConsoleApp1/Program.cs" timestamp="1556188758969">
         <mark key="[" line="14" column="108" />
         <mark key="]" line="14" column="107" />
@@ -54,6 +57,12 @@
       <file name="$USER_HOME$/swagger-codegen/local-v8/src/IO.Swagger/Model/AdviceEconomicSuiteDKFinancialStatementDKAccountKey.cs" timestamp="1556188735086">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="37" column="34" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" timestamp="1556517435860">
+        <mark key="'" line="1218" column="14" />
+        <mark key="[" line="2328" column="0" />
+        <mark key="]" line="2328" column="1" />
+        <mark key="." line="2328" column="1" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
         <mark key="[" line="8" column="33" />
@@ -109,6 +118,9 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
+        <mark key="'" line="5050" column="58" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/StandardValues/Model/StandardValueItem.cs" timestamp="1555478491257">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="21" />
@@ -127,7 +139,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Skat/Output/Array/ArrayOutputManager.cs" timestamp="1556173484542" />
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccount.cs" timestamp="1556189420630">
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="68" />
@@ -171,7 +182,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Liability/LiabilityPickerRule.cs" timestamp="1556173853177" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentStack.py" timestamp="1555685970041">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="1" column="0" />
@@ -202,14 +212,12 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/TestApp/Program.cs" timestamp="1556187372878" />
       <file name="C:/repo/ap/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Company/DKCompanyAccountDetailsProvider.cs" timestamp="1556001758150">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementFinancialStatement.cs" timestamp="1556197003145" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
         <mark key="[" line="98" column="21" />
         <mark key="]" line="98" column="36" />
@@ -220,7 +228,6 @@
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="75" />
       </file>
-      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/Skat/Output/Array/ArrayOutputRestore.cs" timestamp="1556176289622" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="33" column="18" />
@@ -251,56 +258,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/nordea/product/Standard/Advice.Admin/DatabaseMigration/BaseUpdateStepProvider.cs" timestamp="1556256635492" />
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Optimization/Asset.cs" timestamp="1556263005717" />
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/DefaultAssetTypeProvider.cs" timestamp="1556262849922" />
     </filemarks>
     <jumps>
-      <jump line="1166" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="701" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1136" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="994" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1070" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1878" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1905" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="138" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="22" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="44" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="46" column="104" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="48" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="55" column="144" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="64" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="199" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="168" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="174" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="184" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="187" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="189" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="69" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/UI/BP/BudgetResultSituation.cs" />
-      <jump line="7" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="73" column="60" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="74" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="75" column="78" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="87" column="63" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="88" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="89" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="106" column="109" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="857" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="1740" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="4953" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="3093" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="4502" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="5044" column="57" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="5090" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="859" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="1940" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="762" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="816" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="872" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1187" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1193" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1195" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1222" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="1900" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="617" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="618" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
@@ -356,19 +315,64 @@
       <jump line="55" column="6" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="54" column="3" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="4461" column="23" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2328" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2185" column="19" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2796" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2802" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2105" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2110" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="2116" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="820" column="30" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="631" column="5" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="635" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="817" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="1218" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
+      <jump line="70" column="30" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="858" column="29" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="1719" column="74" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="1723" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2211" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2234" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2257" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2402" column="44" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2529" column="44" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2984" column="53" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="2995" column="36" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3000" column="36" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="181" column="66" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="191" column="53" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="192" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="193" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="196" column="62" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="173" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="179" column="51" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
+      <jump line="3077" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3198" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3214" column="56" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3230" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3232" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3714" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3729" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3736" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3752" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3828" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3843" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3849" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="3855" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="5050" column="58" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
+      <register name="&quot;" type="4">
+        <text>disposableAmount</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>aktiespare</text>
+        <text>raadighed</text>
       </register>
       <register name="0" type="4">
-        <text>financys.input.FormueKategori.VaerdipapiererAktiesparekonto</text>
+        <text>disposableAmount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
@@ -411,13 +415,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>aktiespare</last-search>
+      <last-search>raadighed</last-search>
       <last-offset />
-      <last-pattern>aktiespare</last-pattern>
+      <last-pattern>raadighed</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -425,13 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcindtaegterskat</entry>
-        <entry>calcIndtaegter</entry>
-        <entry>store</entry>
-        <entry>gettax</entry>
-        <entry>objectfactory</entry>
-        <entry>ldap</entry>
-        <entry>customers</entry>
         <entry>validatecpr</entry>
         <entry>profileintid</entry>
         <entry>nordea</entry>
@@ -445,6 +442,13 @@
         <entry>38</entry>
         <entry>85</entry>
         <entry>aktiespare</entry>
+        <entry>rådig</entry>
+        <entry>raadig</entry>
+        <entry>set ic</entry>
+        <entry>dispo</entry>
+        <entry>disposableAmount</entry>
+        <entry>disposable</entry>
+        <entry>raadighed</entry>
       </history-search>
       <history-cmd>
         <entry>set so=9999</entry>
@@ -464,9 +468,9 @@
         <entry>%s/bankdata/bil/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set iv</entry>
-        <entry>set ic</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
