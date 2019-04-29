@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/DkAdviceApiV0CoreCalculationOutputContract.cs" timestamp="1556189332205">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="69" />
-      </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555683505147">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
@@ -43,6 +39,7 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultModel.js" timestamp="1556522841242" />
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1556517772517">
         <mark key="'" line="179" column="51" />
         <mark key="[" line="173" column="45" />
@@ -53,10 +50,6 @@
         <mark key="]" line="14" column="107" />
         <mark key="^" line="14" column="107" />
         <mark key="." line="14" column="107" />
-      </file>
-      <file name="$USER_HOME$/swagger-codegen/local-v8/src/IO.Swagger/Model/AdviceEconomicSuiteDKFinancialStatementDKAccountKey.cs" timestamp="1556188735086">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="34" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" timestamp="1556517435860">
         <mark key="'" line="1218" column="14" />
@@ -140,18 +133,10 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccount.cs" timestamp="1556189420630">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="68" />
-      </file>
-      <file name="C:/repo/ap/product/Standard/Advice.Kernel/Infrastructure/Container/ObjectFactory.cs" timestamp="1556001792078">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="34" />
-      </file>
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1556261970124">
         <mark key="'" line="53" column="24" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1556521360593" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1556522674622" />
       <file name="$USER_HOME$/persrepo/command-line-jira/src/loginHandler.py" timestamp="1555579602844">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -169,14 +154,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="77" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/swagger-codegen/local-v8/src/IO.Swagger/Api/CalculationApi.cs" timestamp="1556188613091">
-        <mark key="[" line="218" column="80" />
-        <mark key="]" line="218" column="144" />
-      </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Api/CalculationApi.cs" timestamp="1556189252331">
-        <mark key="[" line="218" column="15" />
-        <mark key="]" line="218" column="56" />
       </file>
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/FSUtils.cs" timestamp="1556189562524">
         <mark key="[" line="12" column="0" />
@@ -227,9 +204,12 @@
         <mark key="^" line="98" column="36" />
         <mark key="." line="98" column="36" />
       </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteDKFinancialStatementDKAccountKey.cs" timestamp="1556189368498">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="75" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" timestamp="1556523855627">
+        <mark key="'" line="25" column="63" />
+        <mark key="[" line="29" column="114" />
+        <mark key="]" line="29" column="114" />
+        <mark key="." line="29" column="114" />
+        <mark key="^" line="29" column="114" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
         <mark key="[" line="33" column="11" />
@@ -256,10 +236,10 @@
         <mark key="." line="18" column="28" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
-        <mark key="[" line="264" column="105" />
-        <mark key="]" line="264" column="105" />
-        <mark key="^" line="264" column="103" />
-        <mark key="." line="264" column="105" />
+        <mark key="[" line="10" column="105" />
+        <mark key="]" line="10" column="105" />
+        <mark key="^" line="10" column="103" />
+        <mark key="." line="10" column="105" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
         <mark key="[" line="6" column="15" />
@@ -269,10 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1900" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="617" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="618" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="622" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="639" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="32" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="108" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
@@ -369,19 +345,23 @@
       <jump line="3849" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3855" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="5050" column="58" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="29" column="90" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
+      <jump line="32" column="108" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
+      <jump line="94" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
+      <jump line="25" column="63" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>raadighed</text>
+        <text>divider</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5EaXNwb3NhYmxlSW5jb21lQWx0QW1vdW50ID0gKGludD8pZi5WYWx1ZTsK</text>
+      <register name="0" type="4">
+        <text>roundAwayFromZero</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
@@ -428,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>raadighed</last-search>
+      <last-search>divider</last-search>
       <last-offset />
-      <last-pattern>raadighed</last-pattern>
+      <last-pattern>divider</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -438,9 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validatecpr</entry>
-        <entry>profileintid</entry>
-        <entry>nordea</entry>
         <entry>aktie</entry>
         <entry>productid</entry>
         <entry>assettypeselected</entry>
@@ -458,6 +435,9 @@
         <entry>disposableAmount</entry>
         <entry>disposable</entry>
         <entry>raadighed</entry>
+        <entry>12</entry>
+        <entry>month</entry>
+        <entry>divider</entry>
       </history-search>
       <history-cmd>
         <entry>set so=9999</entry>
