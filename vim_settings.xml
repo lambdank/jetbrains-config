@@ -32,6 +32,7 @@
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
         <mark key="'" line="5050" column="58" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Utilities/UrlBuilder.cs" timestamp="1556631407700" />
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1556261970124">
         <mark key="'" line="53" column="24" />
       </file>
@@ -51,13 +52,6 @@
         <mark key="]" line="10" column="105" />
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556628304103">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="20" />
       </file>
     </filemarks>
     <jumps>
