@@ -247,15 +247,15 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556604663980" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556609293950">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="88" column="36" />
+        <mark key="]" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+        <mark key="^" line="87" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="32" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="108" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="151" column="91" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="153" column="67" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="846" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="867" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="31" column="23" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
@@ -350,31 +350,37 @@
       <jump line="32" column="108" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
       <jump line="94" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
       <jump line="25" column="63" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" />
+      <jump line="70" column="31" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="39" column="27" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="40" column="25" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="37" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="69" column="22" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="2" column="25" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>returnedValue</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>returnedValue</text>
       </register>
       <register name="/" type="4">
-        <text>divider</text>
+        <text>custom</text>
       </register>
       <register name="0" type="4">
-        <text>roundAwayFromZero</text>
+        <text>currentClass.Name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLnNjaGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJldHVybmVkVmFsdWUuU3RhcnRzV2l0aCgiRFRPIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLlVzZUZ1bGxUeXBlTmFtZUluU2NoZW1hSWRzKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -387,10 +393,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgR2V0QWNjb3VudChBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50RmluYW5jaWFsU3RhdGVtZW50IENhbGN1bGF0aW9uT3V0cHV0Q2FsY3VsYXRpb25SZXN1bHQpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLkFkZFN3YWdnZXJHZW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgSU8uU3dhZ2dlci5BcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -399,19 +405,19 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLigodHlwZSkgPT4gdHlwZS5GdWxsTmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlc3Npb25NYW5hZ2VyID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJU2Vzc2lvbk1hbmFnZXJGb3JtdWVQbGFuPigpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZmJmMDlhNTE5Li4uIFtBUEQtMTc3Nl0gQWRkZWQgYWt0aWVzcGFyZWtvbnRvIHRvIG5vcmRlYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>divider</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>divider</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -419,8 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aktie</entry>
-        <entry>productid</entry>
         <entry>assettypeselected</entry>
         <entry>partnerid</entry>
         <entry>værdi</entry>
@@ -439,6 +443,8 @@
         <entry>12</entry>
         <entry>month</entry>
         <entry>divider</entry>
+        <entry>full</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>set so=9999</entry>
