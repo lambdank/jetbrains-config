@@ -247,12 +247,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556624335500">
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556625869475">
         <mark key="'" line="22" column="12" />
-        <mark key="[" line="87" column="91" />
+        <mark key="[" line="32" column="0" />
         <mark key="]" line="87" column="94" />
         <mark key="^" line="87" column="94" />
-        <mark key="." line="87" column="94" />
+        <mark key="." line="32" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -365,7 +365,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>v9</text>
+        <text>geturl</text>
       </register>
       <register name="0" type="4">
         <text>currentClass.FullName</text>
@@ -411,13 +411,13 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>v9</last-search>
+      <last-search>geturl</last-search>
       <last-offset />
-      <last-pattern>v9</last-pattern>
+      <last-pattern>geturl</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>værdi</entry>
         <entry>aktiespar</entry>
         <entry>107</entry>
         <entry>38</entry>
@@ -445,6 +444,7 @@
         <entry>custom</entry>
         <entry>v</entry>
         <entry>v9</entry>
+        <entry>geturl</entry>
       </history-search>
       <history-cmd>
         <entry>set so=9999</entry>
@@ -465,8 +465,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set iv</entry>
         <entry>wq</entry>
-        <entry>set ic</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
