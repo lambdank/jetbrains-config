@@ -247,8 +247,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556619408966">
-        <mark key="'" line="3" column="25" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556624335500">
+        <mark key="'" line="22" column="12" />
         <mark key="[" line="87" column="91" />
         <mark key="]" line="87" column="94" />
         <mark key="^" line="87" column="94" />
@@ -256,10 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="867" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="31" column="23" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
       <jump line="39" column="45" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
       <jump line="5" column="0" filename="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" />
       <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
@@ -356,6 +352,10 @@
       <jump line="37" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
       <jump line="69" column="22" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
       <jump line="2" column="25" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="7" column="36" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="17" column="105" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="19" column="12" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
+      <jump line="22" column="12" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,7 +365,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>custom</text>
+        <text>v9</text>
       </register>
       <register name="0" type="4">
         <text>currentClass.FullName</text>
@@ -415,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>custom</last-search>
+      <last-search>v9</last-search>
       <last-offset />
-      <last-pattern>custom</last-pattern>
+      <last-pattern>v9</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -425,8 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assettypeselected</entry>
-        <entry>partnerid</entry>
         <entry>værdi</entry>
         <entry>aktiespar</entry>
         <entry>107</entry>
@@ -445,6 +443,8 @@
         <entry>divider</entry>
         <entry>full</entry>
         <entry>custom</entry>
+        <entry>v</entry>
+        <entry>v9</entry>
       </history-search>
       <history-cmd>
         <entry>set so=9999</entry>
