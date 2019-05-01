@@ -19,6 +19,15 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="28" column="21" />
       </file>
+      <file name="/fragment.js" timestamp="1556710560861">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556710963055">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556698844400">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="48" />
@@ -40,23 +49,30 @@
         <mark key="^" line="26" column="53" />
         <mark key="." line="26" column="53" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/WebApiConfig.cs" timestamp="1556710395322">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+      </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
         <mark key="[" line="10" column="105" />
         <mark key="]" line="10" column="105" />
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556698438666">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="31" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556710990008">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="60" />
+        <mark key="^" line="67" column="60" />
+        <mark key="." line="67" column="60" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556698018569">
-        <mark key="[" line="25" column="78" />
-        <mark key="]" line="25" column="96" />
-        <mark key="^" line="25" column="96" />
-        <mark key="." line="25" column="96" />
+        <mark key="[" line="13" column="78" />
+        <mark key="]" line="13" column="96" />
+        <mark key="^" line="13" column="96" />
+        <mark key="." line="13" column="96" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
         <mark key="'" line="5050" column="58" />
@@ -174,16 +190,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sebastiansFlotteService:5000/loldemort</text>
+        <text>BasePathDocumentFilter</text>
       </register>
       <register name="-" type="4">
-        <text>sebastiansFlotteService:5000/loldemort</text>
+        <text>throw new System.NotImplementedException();</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="4">
-        <text>rootUrl</text>
+        <text>BasePathDocumentFilter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwhLS0gYWRkIGtleT0idXJsVmVyc2lvbiIgdmFsdWU9ImxvY2FsaG9zdCIgLz4K</text>
