@@ -66,6 +66,12 @@
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556696399513">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4781" column="48" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -171,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
