@@ -3,53 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultModel.js" timestamp="1556522841242" />
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556698018569">
-        <mark key="[" line="25" column="78" />
-        <mark key="]" line="25" column="96" />
-        <mark key="^" line="25" column="96" />
-        <mark key="." line="25" column="96" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1556517772517">
-        <mark key="'" line="179" column="51" />
-        <mark key="[" line="173" column="45" />
-        <mark key="]" line="173" column="60" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556698178493">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan.Tests/Specs/StepDefinitions/ControllingReportsSharedStepsStandard.cs" timestamp="1556521220145" />
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
-        <mark key="'" line="5050" column="58" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Utilities/UrlBuilder.cs" timestamp="1556631407700" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/OptimizationController.cs" timestamp="1556636380232">
         <mark key="'" line="90" column="24" />
-      </file>
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1556261970124">
-        <mark key="'" line="53" column="24" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1556522674622" />
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/AppSettings.cs" timestamp="1556697831689">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="67" />
-        <mark key="^" line="38" column="63" />
-        <mark key="." line="38" column="67" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/WhitelistFilter.cs" timestamp="1556629299954" />
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1556697970329">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="26" column="53" />
-        <mark key="." line="26" column="53" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/App_Start/SwaggerConfig.cs" timestamp="1556627834233" />
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Integrations/BudgetService.cs" timestamp="1556518953604" />
-      <file name="C:/repo/advice_productcustomer/SetConfig.ps1" timestamp="1556636857315">
-        <mark key="'" line="367" column="37" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetResult/BudgetResultNode.jsx" timestamp="1556523855627">
         <mark key="'" line="25" column="63" />
@@ -64,17 +19,55 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="28" column="21" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556698844400">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+      </file>
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1556261970124">
+        <mark key="'" line="53" column="24" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/AppSettings.cs" timestamp="1556697831689">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="38" column="67" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="38" column="67" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1556697970329">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="53" />
+        <mark key="^" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+      </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
         <mark key="[" line="10" column="105" />
         <mark key="]" line="10" column="105" />
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556698061206">
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556698438666">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="31" />
         <mark key="^" line="37" column="31" />
         <mark key="." line="37" column="31" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556698018569">
+        <mark key="[" line="25" column="78" />
+        <mark key="]" line="25" column="96" />
+        <mark key="^" line="25" column="96" />
+        <mark key="." line="25" column="96" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
+        <mark key="'" line="5050" column="58" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/SetConfig.ps1" timestamp="1556636857315">
+        <mark key="'" line="367" column="37" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" timestamp="1556517772517">
+        <mark key="'" line="179" column="51" />
+        <mark key="[" line="173" column="45" />
+        <mark key="]" line="173" column="60" />
       </file>
     </filemarks>
     <jumps>
