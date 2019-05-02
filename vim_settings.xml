@@ -48,11 +48,11 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556788886675">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556795412378">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556714153388">
         <mark key="[" line="25" column="58" />
@@ -77,6 +77,12 @@
         <mark key="]" line="21" column="44" />
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556795162174">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
         <mark key="[" line="10" column="105" />
@@ -197,29 +203,29 @@
       <jump line="11" column="60" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoREspCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHcm93dGggPSBuZXcgUGVyY2VudGFnZVNlcmllcyhuZXdbXSB7VGltZVZhbHVlLkNyZWF0ZShUaW1lLkNhbGN1bGF0aW9uLCAxMC5Bc1BlcmNlbnQoKSl9KSwK</text>
+      <register name="0" type="4">
+        <text>CopySubaccountsToIncome</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb21pbmFsVmFsdWUgPSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoREspCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHcm93dGggPSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdGF0dXMgPSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWVhci5VbHRpbW8oKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -232,22 +238,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gQ2FsY3VsYXRpb25ZZWFyLTE1LAogICAgICAgICAgICAgICAgICAgIERlYXRoQWdlID0gQ2FsY3VsYXRpb25ZZWFyKzUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSAxOTM3LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDkwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2ZpbmFuY2lhbFN0YXRlbWVudE1hbmFnZXIuQ29weVN1YkFjY291bnRzKG5ld1tdIHsgREtJbnRlcm5hbEFjY291bnRUeXBlLkxpa3ZpZGl0ZXRzS29udG9Gb3JyZW50bmluZywgREtJbnRlcm5hbEFjY291bnRUeXBlLlJlbnRlaW5kdGFlZ3RlciB9LCBES0ludGVybmFsQWNjb3VudFR5cGUuSW5ka29tc3QsIHllYXIuVWx0aW1vKCksIDEuMG0pOwogICAgICAgICAgICBfZmluYW5jaWFsU3RhdGVtZW50TWFuYWdlci5Db3B5U3ViQWNjb3VudHMobmV3W10geyBES0ludGVybmFsQWNjb3VudFR5cGUuUGFzc2l2ZXJSZW50ZSwgREtJbnRlcm5hbEFjY291bnRUeXBlLlJlbnRlaW5kdGFlZ3RlciB9LCBES0ludGVybmFsQWNjb3VudFR5cGUuSW5ka29tc3QsIHllYXIuVWx0aW1vKCksIC0xLjBtKTsKICAgICAgICAgICAgX2ZpbmFuY2lhbFN0YXRlbWVudE1hbmFnZXIuQ29weVN1YkFjY291bnRzKG5ld1tdIHsgREtJbnRlcm5hbEFjY291bnRUeXBlLkFrdGl2ZXJGb3JyZW50bmluZywgREtJbnRlcm5hbEFjY291bnRUeXBlLkFrdGl2ZXJMaWt2aWQsIERLSW50ZXJuYWxBY2NvdW50VHlwZS5Ba3RpdmVyT2JsaWdhdGlvbmVyIH0sIERLSW50ZXJuYWxBY2NvdW50VHlwZS5JbmRrb21zdCwgeWVhci5VbHRpbW8oKSwgMS4wbSk7CiAgICAgICAgICAgIF9maW5hbmNpYWxTdGF0ZW1lbnRNYW5hZ2VyLkNvcHlTdWJBY2NvdW50cyhuZXdbXSB7IERLSW50ZXJuYWxBY2NvdW50VHlwZS5Ba3RpdmVyRm9ycmVudG5pbmcsIERLSW50ZXJuYWxBY2NvdW50VHlwZS5Ba3RpdmVyTGlrdmlkLCBES0ludGVybmFsQWNjb3VudFR5cGUuQWt0aXZlcktvbnRhbnRlciB9LCBES0ludGVybmFsQWNjb3VudFR5cGUuSW5ka29tc3QsIHllYXIuVWx0aW1vKCksIDEuMG0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuRHRvLlV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TdGFuZGFyZFZhbHVlcy5QZXJzb247CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU3RhbmRhcmRWYWx1ZXMuUHJvZmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlYWRQMSA9IFJ1bGVVdGlsLkdldElzRGVhZCh5ZWFyLCBjb250ZXh0LCBQZXJzb24uUDEpOwogICAgICAgICAgICB2YXIgZGVhZFAyID0gUnVsZVV0aWwuR2V0SXNEZWFkKHllYXIsIGNvbnRleHQsIFBlcnNvbi5QMik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -286,7 +292,6 @@
         <entry>localhost</entry>
       </history-search>
       <history-cmd>
-        <entry>set so=9999</entry>
         <entry>set so=0</entry>
         <entry>s</entry>
         <entry>W</entry>
@@ -305,6 +310,7 @@
         <entry>set iv</entry>
         <entry>wq</entry>
         <entry>set ic</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
