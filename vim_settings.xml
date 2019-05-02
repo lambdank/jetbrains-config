@@ -30,7 +30,7 @@
         <mark key="^" line="35" column="69" />
         <mark key="." line="35" column="69" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnDeathUtils.cs" timestamp="1556785996706">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnDeathUtils.cs" timestamp="1556793091472">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="32" />
         <mark key="." line="31" column="32" />
@@ -197,11 +197,11 @@
       <jump line="11" column="60" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb21pbmFsVmFsdWUgPSAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>AssetLiquid</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
