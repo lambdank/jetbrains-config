@@ -22,13 +22,13 @@
       <file name="/fragment.js" timestamp="1556710560861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556722792541">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556722827698">
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="44" />
         <mark key="." line="21" column="35" />
@@ -190,10 +190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Something</text>
+        <text>Empty</text>
       </register>
       <register name="-" type="4">
-        <text>Something</text>
+        <text>Empty</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
