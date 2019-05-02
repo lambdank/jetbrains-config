@@ -23,11 +23,19 @@
       <file name="/fragment.js" timestamp="1556710560861">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556779353767">
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="114" column="109" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="42" />
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Utils/ProfileBuilder.cs" timestamp="1556778866156">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="10" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
         <mark key="[" line="21" column="35" />
@@ -61,6 +69,12 @@
         <mark key="]" line="10" column="105" />
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556779661523">
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556715248387">
         <mark key="[" line="68" column="23" />
@@ -190,29 +204,29 @@
       <jump line="11" column="60" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Empty</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Empty</text>
+        <text encoding="base64">IEdldENhbGN1bGF0aW9uUmVzdWx0KCA9KQ==</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEdldHMgdGhlIGFwaSB2ZXJzaW9uLgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0cmluZyBBcGlWZXJzaW9uIHsgZ2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbW91bnQgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9IkFwaXZlcnNpb24iPjwvcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZW5lZml0cyA9IAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -225,22 +239,23 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dhZ2dlckRvYy5iYXNlUGF0aCA9ICJMT0wiOwo=</text>
+      <register name="6" type="4">
+        <text>new ProfileBuilder().Build();
+            profile.Primary.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gYWRkIGtleT0idXJsVmVyc2lvbiIgdmFsdWU9ImxvY2FsaG9zdCIgLz4K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9IkFwaXZlcnNpb24iPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhZGQga2V5PSJ1cmxWZXJzaW9uIiB2YWx1ZT0ibG9jYWxob3N0OjUzMzAzL3Y1IiAvPgogICAgPCEtLSBkZWJ1ZzogImxvY2FsaG9zdCIgb3IgIiIsIHJlbGVhc2U6IGUuZy4gImRlbW8ua2V5bGFuZWFwaS5kay92NSIgIC0tPgo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
