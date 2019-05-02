@@ -48,11 +48,11 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556788065303">
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="44" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556788886675">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556714153388">
         <mark key="[" line="25" column="58" />
@@ -71,6 +71,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKKapitalindkomstDistribute.cs" timestamp="1556788386236" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="44" />
@@ -196,29 +197,29 @@
       <jump line="11" column="60" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Obligationer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb21pbmFsVmFsdWUgPSAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Obligationer</text>
+        <text>AssetLiquid</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5GaXJzdChhY2NvdW50ID0+IGFjY291bnQuS2V5Lk93bmVyID09IFBlcnNvbi5QMiAmJiAoKERLQWNjb3VudEtleSlhY2NvdW50LktleSkuQWNjb3VudFR5cGUgPT0gREtBY2NvdW50VHlwZS5Ta2F0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHcm93dGggPSBuZXcgUGVyY2VudGFnZVNlcmllcyhuZXdbXSB7VGltZVZhbHVlLkNyZWF0ZShUaW1lLkNhbGN1bGF0aW9uLCAxMC5Bc1BlcmNlbnQoKSl9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gQ2FsY3VsYXRpb25ZZWFyLTE1LAogICAgICAgICAgICAgICAgICAgIERlYXRoQWdlID0gQ2FsY3VsYXRpb25ZZWFyKzUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb21pbmFsVmFsdWUgPSAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSAxOTM3LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDkwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHcm93dGggPSAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuRHRvLlV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdGF0dXMgPSAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TdGFuZGFyZFZhbHVlcy5QZXJzb247CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU3RhbmRhcmRWYWx1ZXMuUHJvZmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -231,22 +232,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gQ2FsY3VsYXRpb25ZZWFyLTE1LAogICAgICAgICAgICAgICAgICAgIERlYXRoQWdlID0gQ2FsY3VsYXRpb25ZZWFyKzUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSAxOTM3LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDkwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuRHRvLlV0aWxzOwo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIF9wdWJsaWNCZW5lZml0cyA9IG5ldyBQdWJsaWNCZW5lZml0cwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBJc0VudGl0bGVkRm9yRm9sa2VwZW5zaW9uID0gZmFsc2UsCiAgICAgICAgICAgICAgICBJc0VudGl0bGVkRm9yRm9sa2VwZW5zaW9uVGlsbGFlZyA9IGZhbHNlLAogICAgICAgICAgICAgICAgSXNFbnRpdGxlZEZvckFlbGRyZUNoZWNrID0gZmFsc2UKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHZhciBwcm9maWxlID0gbmV3IFByb2ZpbGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgUHJpbWFyeSA9IG5ldyBQZXJzb24KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBOYW1lID0gIlBlcnNvbiAxIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSAxOTM3LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDkwLAogICAgICAgICAgICAgICAgICAgIFBheXNLaXJrZXNrYXQgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIEJlbmVmaXRzID0gX3B1YmxpY0JlbmVmaXRzCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgU3BvdXNlID0gbmV3IFBlcnNvbgogICAgICAgICAgICAgICAgewoKICAgICAgICAgICAgICAgICAgICBOYW1lID0gIlBlcnNvbiAyIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSAxOTM3LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDg1LAogICAgICAgICAgICAgICAgICAgIFBheXNLaXJrZXNrYXQgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIEJlbmVmaXRzID0gX3B1YmxpY0JlbmVmaXRzCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgTWFycmllZCA9IHRydWUKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TdGFuZGFyZFZhbHVlcy5QZXJzb247CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU3RhbmRhcmRWYWx1ZXMuUHJvZmlsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5Qcm9maWxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
