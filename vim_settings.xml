@@ -48,11 +48,11 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556786422100">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556788065303">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1556714153388">
         <mark key="[" line="25" column="58" />
@@ -197,16 +197,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Obligationer</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Obligationer</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA4NSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5GaXJzdChhY2NvdW50ID0+IGFjY291bnQuS2V5Lk93bmVyID09IFBlcnNvbi5QMiAmJiAoKERLQWNjb3VudEtleSlhY2NvdW50LktleSkuQWNjb3VudFR5cGUgPT0gREtBY2NvdW50VHlwZS5Ta2F0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gQ2FsY3VsYXRpb25ZZWFyLTE1LAogICAgICAgICAgICAgICAgICAgIERlYXRoQWdlID0gQ2FsY3VsYXRpb25ZZWFyKzUsCg==</text>
