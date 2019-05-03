@@ -61,11 +61,12 @@
         <mark key="." line="143" column="33" />
         <mark key="^" line="143" column="32" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" timestamp="1556880513460">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="36" column="61" />
-        <mark key="^" line="36" column="61" />
-        <mark key="." line="36" column="61" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" timestamp="1556882190803">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="44" column="40" />
+        <mark key="." line="44" column="40" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/BuildingBlocks/PaymentEntry.cs" timestamp="1556862089679" />
       <file name="C:/repo/advice_productcustomer/SetConfig.ps1" timestamp="1556636857315">
@@ -78,6 +79,10 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PersonBirthDate.cs" timestamp="1556781668844">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="41" column="54" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/BaseEconomicSuiteTest.cs" timestamp="1556880676515">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="9" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKAssetTypes.cs" timestamp="1556859656431">
         <mark key="[" line="41" column="16" />
@@ -97,12 +102,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556880328049">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556881903587">
         <mark key="'" line="34" column="22" />
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="84" />
-        <mark key="." line="36" column="85" />
-        <mark key="^" line="27" column="19" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="35" column="20" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556872292262" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
@@ -135,9 +140,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
     </filemarks>
     <jumps>
-      <jump line="5219" column="115" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="5221" column="24" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="0" column="0" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="225" column="54" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="726" column="0" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="4561" column="4" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -235,31 +237,34 @@
       <jump line="34" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" />
       <jump line="208" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" />
       <jump line="16" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Asset/AcquisitionAndRealization/RealizationLiquidityLiquidAssetPickerRuleTest.cs" />
+      <jump line="51" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
+      <jump line="61" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
+      <jump line="41" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>numberOfPersons</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>numberOfPersons</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>setup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vY2s8SUNhbGN1bGF0aW9uQ29udGV4dD4gR2V0Q2FsY3VsYXRpb25Db250ZXh0TW9jayhpbnQgbnVtYmVyT2ZQZXJzb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UoUGVyc29uLlAxKV0KICAgICAgICBbVGVzdENhc2UoUGVyc29uLlAyKV0KICAgICAgICBwdWJsaWMgdm9pZCBQZXJzb25Jc0RlYWRfTmF0dXJhbERlYXRoKFBlcnNvbiBwZXJzb24pCiAgICAgICAgewogICAgICAgICAgICBTZXR1cE51bWJlck9mUGVyc29ucygyKTsKICAgICAgICAgICAgU2V0dXBEZWF0aFllYXIocGVyc29uLCAyMDE5KTsKCiAgICAgICAgICAgIFNldHVwU2NlbmFyaW9FdmVudChQZW5FdmVudC5Ob25lLCBwZXJzb24pOwoKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoR2V0Q2FsY3VsYXRpb25Db250ZXh0KCkuUGVyc29uSXNEZWFkKDIwMjAsIHBlcnNvbiksIElzLlRydWUpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOSwgcGVyc29uKSwgSXMuRmFsc2UpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOCwgcGVyc29uKSwgSXMuRmFsc2UpOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vY2sgPSBuZXcgTW9jazxJQ2FsY3VsYXRpb25Db250ZXh0PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoR2V0Q2FsY3VsYXRpb25Db250ZXh0KCkuUGVyc29uSXNEZWFkKDIwMjAsIHBlcnNvbiksIElzLlRydWUpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOSwgcGVyc29uKSwgSXMuRmFsc2UpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOCwgcGVyc29uKSwgSXMuRmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIHBlcnNvbik7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -272,31 +277,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiBjb250ZXh0LlByb2ZpbGUuTnVtYmVyT2ZQZXJzb25zID09IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50LkRlYXRoLCBwZXJzb24pOwoKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoR2V0Q2FsY3VsYXRpb25Db250ZXh0KCkuUGVyc29uSXNEZWFkKDIwMjAsIHBlcnNvbiksIElzLlRydWUpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOSwgcGVyc29uKSwgSXMuVHJ1ZSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KEdldENhbGN1bGF0aW9uQ29udGV4dCgpLlBlcnNvbklzRGVhZCgyMDE4LCBwZXJzb24pLCBJcy5UcnVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50LkRlYXRoLCBwZXJzb24pOwoKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoR2V0Q2FsY3VsYXRpb25Db250ZXh0KCkuUGVyc29uSXNEZWFkKDIwMjAsIHBlcnNvbiksIElzLlRydWUpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOSwgcGVyc29uKSwgSXMuVHJ1ZSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KEdldENhbGN1bGF0aW9uQ29udGV4dCgpLlBlcnNvbklzRGVhZCgyMDE4LCBwZXJzb24pLCBJcy5UcnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFNldHVwU2NlbmFyaW9FdmVudChQZW5FdmVudC5EZWF0aCwgUGVyc29uLlAxKTsKCiAgICAgICAgICAgIEFzc2VydC5UaGF0KEdldENhbGN1bGF0aW9uQ29udGV4dCgpLlBlcnNvbklzRGVhZCgyMDIwLCBQZXJzb24uUDEpLCBJcy5UcnVlKTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoR2V0Q2FsY3VsYXRpb25Db250ZXh0KCkuUGVyc29uSXNEZWFkKDIwMTksIFBlcnNvbi5QMSksIElzLlRydWUpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAxOCwgUGVyc29uLlAxKSwgSXMuVHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UoUGVyc29uLlAyKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0dXBOdW1iZXJPZlBlcnNvbnMoMik7CgogICAgICAgICAgICBTZXR1cERlYXRoWWVhcihQZXJzb24uUDIsIDIwMTkpOwoKICAgICAgICAgICAgU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMik7CgogICAgICAgICAgICBBc3NlcnQuVGhhdChHZXRDYWxjdWxhdGlvbkNvbnRleHQoKS5QZXJzb25Jc0RlYWQoMjAyMCwgUGVyc29uLlAyKSwgSXMuVHJ1ZSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KEdldENhbGN1bGF0aW9uQ29udGV4dCgpLlBlcnNvbklzRGVhZCgyMDE5LCBQZXJzb24uUDIpLCBJcy5GYWxzZSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KEdldENhbGN1bGF0aW9uQ29udGV4dCgpLlBlcnNvbklzRGVhZCgyMDE4LCBQZXJzb24uUDIpLCBJcy5GYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -304,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disposable</entry>
         <entry>raadighed</entry>
         <entry>12</entry>
         <entry>month</entry>
@@ -324,6 +328,7 @@
         <entry>calculationbo</entry>
         <entry>calculate</entry>
         <entry>mock</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
