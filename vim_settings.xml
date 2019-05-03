@@ -9,6 +9,67 @@
         <mark key="." line="123" column="16" />
         <mark key="^" line="123" column="87" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnDeathUtils.cs" timestamp="1556861555697">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="21" />
+        <mark key="^" line="35" column="74" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" timestamp="1556872907543">
+        <mark key="'" line="208" column="34" />
+        <mark key="[" line="216" column="48" />
+        <mark key="]" line="216" column="48" />
+        <mark key="^" line="216" column="55" />
+        <mark key="." line="216" column="48" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/DKTaxAmountsProviderTest.cs" timestamp="1556887445017">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="128" column="63" />
+        <mark key="^" line="186" column="11" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1556883005623">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="19" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKey.cs" timestamp="1556784014767" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/BaseEconomicSuiteTest.cs" timestamp="1556880676515">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKKapitalindkomstDistribute.cs" timestamp="1556788386236" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Kapital/KapitalBevaegelserOevrigeStatementRuleTest.cs" timestamp="1556889584233" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKCalculateCommon.cs" timestamp="1556891049896" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556883032412">
+        <mark key="'" line="29" column="22" />
+        <mark key="[" line="22" column="120" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556872292262" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="78" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="52" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1556871864301">
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="180" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
+        <mark key="'" line="5050" column="58" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556781988298">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
@@ -38,25 +99,7 @@
         <mark key="^" line="35" column="69" />
         <mark key="." line="35" column="69" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnDeathUtils.cs" timestamp="1556861555697">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="21" />
-        <mark key="^" line="35" column="74" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" timestamp="1556872907543">
-        <mark key="'" line="208" column="34" />
-        <mark key="[" line="216" column="48" />
-        <mark key="]" line="216" column="48" />
-        <mark key="^" line="216" column="55" />
-        <mark key="." line="216" column="48" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/DKTaxAmountsProviderTest.cs" timestamp="1556887445017">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="128" column="63" />
-        <mark key="^" line="186" column="11" />
-        <mark key="." line="126" column="0" />
-      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleVerifyParams.cs" timestamp="1556890227712" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/WebApiConfig.cs" timestamp="1556710395322">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
@@ -66,12 +109,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleUtil.cs" timestamp="1556798668799">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="151" column="76" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1556883005623">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556863924815">
         <mark key="[" line="143" column="32" />
@@ -93,53 +130,15 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Asset/AcquisitionAndRealization/RealizationLiquidityLiquidAssetPickerRuleTest.cs" timestamp="1556879934761">
         <mark key="'" line="16" column="17" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKey.cs" timestamp="1556784014767" />
       <file name="/Dummy.txt" timestamp="1556883816951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PersonBirthDate.cs" timestamp="1556781668844">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="54" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/BaseEconomicSuiteTest.cs" timestamp="1556880676515">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="9" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKAssetTypes.cs" timestamp="1556859656431">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="36" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKKapitalindkomstDistribute.cs" timestamp="1556788386236" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatInputSourceOutputSink.cs" timestamp="1556795914959" />
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556796343452">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556890793694">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="141" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="48" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556883032412">
-        <mark key="'" line="29" column="22" />
-        <mark key="[" line="22" column="120" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556872292262" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
-        <mark key="[" line="38" column="53" />
-        <mark key="]" line="38" column="78" />
-        <mark key="." line="38" column="53" />
-        <mark key="^" line="38" column="52" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1556871864301">
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="180" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556715248387">
         <mark key="[" line="68" column="23" />
@@ -154,34 +153,12 @@
         <mark key="^" line="15" column="31" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
-        <mark key="'" line="5050" column="58" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1556890444059">
+        <mark key="'" line="199" column="40" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
     </filemarks>
     <jumps>
-      <jump line="225" column="54" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="726" column="0" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="4561" column="4" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="4675" column="13" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="4457" column="25" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="51" column="60" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" />
-      <jump line="53" column="24" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" />
-      <jump line="117" column="39" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="94" column="9" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="42" column="95" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="43" column="111" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="44" column="100" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="45" column="89" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="46" column="89" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="47" column="88" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="48" column="86" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="49" column="92" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="50" column="84" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="51" column="86" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="52" column="84" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="53" column="92" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="56" column="111" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="57" column="101" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="58" column="78" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
@@ -261,6 +238,27 @@
       <jump line="51" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
       <jump line="61" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
       <jump line="41" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Context/CalculationContextExtensionsTests.cs" />
+      <jump line="44" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="52" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="60" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="68" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="76" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="84" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="92" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="133" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="136" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="144" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="147" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="155" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="158" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="166" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="169" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="177" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="180" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="188" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="189" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="191" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="199" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -270,7 +268,7 @@
         <text>2025</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAxLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAyLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMSk7Cg==</text>
@@ -320,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raadighed</entry>
         <entry>12</entry>
         <entry>month</entry>
         <entry>divider</entry>
@@ -350,6 +347,7 @@
         <entry>calculate</entry>
         <entry>mock</entry>
         <entry>setup</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
