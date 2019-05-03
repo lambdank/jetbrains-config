@@ -35,7 +35,8 @@
         <mark key="." line="43" column="21" />
         <mark key="^" line="35" column="74" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" timestamp="1556871531457">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" timestamp="1556872907543">
+        <mark key="'" line="208" column="34" />
         <mark key="[" line="216" column="48" />
         <mark key="]" line="216" column="48" />
         <mark key="^" line="216" column="55" />
@@ -88,7 +89,7 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556870832728" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556872292262" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
         <mark key="[" line="38" column="53" />
         <mark key="]" line="38" column="78" />
@@ -116,7 +117,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
     </filemarks>
     <jumps>
-      <jump line="4798" column="20" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="5199" column="20" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="5219" column="115" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="5221" column="24" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -216,6 +216,7 @@
       <jump line="10" column="18" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
       <jump line="11" column="60" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
       <jump line="34" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" />
+      <jump line="208" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -225,7 +226,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>utils</text>
+        <text>calculate</text>
       </register>
       <register name="0" type="4">
         <text>response.ValidationResult</text>
@@ -274,13 +275,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>utils</last-search>
+      <last-search>calculate</last-search>
       <last-offset />
-      <last-pattern>utils</last-pattern>
+      <last-pattern>calculate</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -288,9 +289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raadig</entry>
-        <entry>set ic</entry>
-        <entry>dispo</entry>
         <entry>disposableAmount</entry>
         <entry>disposable</entry>
         <entry>raadighed</entry>
@@ -308,6 +306,9 @@
         <entry>localhost</entry>
         <entry>null</entry>
         <entry>utils</entry>
+        <entry>calculatebound</entry>
+        <entry>calculationbo</entry>
+        <entry>calculate</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
@@ -327,9 +328,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set iv</entry>
         <entry>wq</entry>
-        <entry>set ic</entry>
         <entry>e</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
