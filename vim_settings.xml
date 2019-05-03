@@ -35,6 +35,12 @@
         <mark key="." line="43" column="21" />
         <mark key="^" line="35" column="74" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Asset/AssetCashFlowInputItem.cs" timestamp="1556871531457">
+        <mark key="[" line="216" column="48" />
+        <mark key="]" line="216" column="48" />
+        <mark key="^" line="216" column="55" />
+        <mark key="." line="216" column="48" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/WebApiConfig.cs" timestamp="1556710395322">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
@@ -75,12 +81,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556799474561">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1556871677179">
         <mark key="'" line="34" column="22" />
-        <mark key="[" line="26" column="72" />
-        <mark key="]" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-        <mark key="^" line="36" column="22" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/CashFlowInputItem.cs" timestamp="1556870832728" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
@@ -89,7 +95,7 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1556796899256">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1556871864301">
         <mark key="[" line="396" column="0" />
         <mark key="]" line="396" column="180" />
       </file>
@@ -107,7 +113,7 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556796402969" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
     </filemarks>
     <jumps>
       <jump line="4798" column="20" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -213,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response.ValidationResult</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.Errors</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>utils</text>
