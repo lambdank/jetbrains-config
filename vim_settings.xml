@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/command_controller" timestamp="1557154545140">
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="/Python Console" timestamp="1555683785647">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,8 +20,13 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1555685235606">
+      <file name="/a.dummy" timestamp="1557154738804">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/command_controller.py" timestamp="1557154833884">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/loginHandler.py" timestamp="1555579602844">
         <mark key="[" line="44" column="0" />
@@ -88,11 +98,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1557152752426">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1557154611670">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/argument_parser.py" timestamp="1557154329645">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
         <mark key="[" line="98" column="21" />
@@ -103,9 +119,9 @@
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_command_manager.py" timestamp="1557152969787">
-        <mark key="[" line="62" column="40" />
-        <mark key="]" line="62" column="66" />
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_command_manager.py" timestamp="1557153559478">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="34" />
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="66" />
       </file>
@@ -162,6 +178,12 @@
         <mark key="]" line="28" column="29" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/command_line_input.py" timestamp="1557153927580">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" timestamp="1557153042909">
         <mark key="'" line="0" column="45" />
@@ -303,29 +325,31 @@
       <jump line="5" column="0" filename="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>board</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBDb21tYW5kTGluZUhhbmRsaW5nLmFyZ3VtZW50X3BhcnNlciBpbXBvcnQgcGFyc2VfYXJndW1lbnRzCmZyb20gY29uZmlnX21hbmFnZXIgaW1wb3J0IENvbmZpZ01hbmFnZXIKZnJvbSBqaXJhX2NvbW1hbmRfbWFuYWdlciBpbXBvcnQgSmlyYUNvbW1hbmRNYW5hZ2VyCmZyb20gamlyYV9jb25uZWN0aW9uX21hbmFnZXIgaW1wb3J0IEppcmFDb25uZWN0aW9uSGFuZGxlcgpmcm9tIGxvZ2luX21hbmFnZXIgaW1wb3J0IExvZ2luTWFuYWdlcgoKCmNsYXNzIENvbW1hbmRDb250cm9sbGVyKCk6CiAgICAKICAgIGRlZiBoYW5kbGVfYXJndW1lbnRzKHNlbGYpOgogICAgICAgIGNvbmZpZ19tYW5hZ2VyID0gQ29uZmlnTWFuYWdlcigpCiAgICAgICAgbG9naW5faGFuZGxlciA9IExvZ2luTWFuYWdlcihjb25maWdfbWFuYWdlci5nZXRfdXNlcm5hbWUoKSkKICAgICAgICBqY2ggPSBKaXJhQ29ubmVjdGlvbkhhbmRsZXIobG9naW5faGFuZGxlcikKICAgICAgICBqY20gPSBKaXJhQ29tbWFuZE1hbmFnZXIoY29uZmlnX21hbmFnZXIsIGpjaCkKCiAgICAgICAgYXJncyA9IHBhcnNlX2FyZ3VtZW50cygpCgogICAgICAgIGlmIGFyZ3MuaXNzdWU6CiAgICAgICAgICAgaXNzdWUgPSBqY20uZ2V0X2lzc3VlKGFyZ3MuaXNzdWUpCiAgICAgICAgICAgaXNzdWUucHByaW50KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>board</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1iJywgJy0tYm9hcmQnLCBtZXRhdmFyPSdCb2FyZCcsIG5hcmdzPScxJywgaGVscD0nVGhlIHJlbGV2YW50IGJvYXJkJykK</text>
+        <text encoding="base64">ZnJvbSBDb21tYW5kTGluZUhhbmRsaW5nLmFyZ3VtZW50X3BhcnNlciBpbXBvcnQgcGFyc2VfYXJndW1lbnRzCmZyb20gY29uZmlnX21hbmFnZXIgaW1wb3J0IENvbmZpZ01hbmFnZXIKZnJvbSBqaXJhX2NvbW1hbmRfbWFuYWdlciBpbXBvcnQgSmlyYUNvbW1hbmRNYW5hZ2VyCmZyb20gamlyYV9jb25uZWN0aW9uX21hbmFnZXIgaW1wb3J0IEppcmFDb25uZWN0aW9uSGFuZGxlcgpmcm9tIGxvZ2luX21hbmFnZXIgaW1wb3J0IExvZ2luTWFuYWdlcgoKCmNsYXNzIENvbW1hbmRDb250cm9sbGVyKCk6CiAgICAKICAgIGRlZiBoYW5kbGVfYXJndW1lbnRzKHNlbGYpOgogICAgICAgIGNvbmZpZ19tYW5hZ2VyID0gQ29uZmlnTWFuYWdlcigpCiAgICAgICAgbG9naW5faGFuZGxlciA9IExvZ2luTWFuYWdlcihjb25maWdfbWFuYWdlci5nZXRfdXNlcm5hbWUoKSkKICAgICAgICBqY2ggPSBKaXJhQ29ubmVjdGlvbkhhbmRsZXIobG9naW5faGFuZGxlcikKICAgICAgICBqY20gPSBKaXJhQ29tbWFuZE1hbmFnZXIoY29uZmlnX21hbmFnZXIsIGpjaCkKCiAgICAgICAgYXJncyA9IHBhcnNlX2FyZ3VtZW50cygpCgogICAgICAgIGlmIGFyZ3MuaXNzdWU6CiAgICAgICAgICAgaXNzdWUgPSBqY20uZ2V0X2lzc3VlKGFyZ3MuaXNzdWUpCiAgICAgICAgICAgaXNzdWUucHByaW50KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuYWNjdW11bGF0ZShhcmdzLmludGVnZXJzKSkK</text>
+        <text encoding="base64">ZnJvbSBjb21tYW5kX2NvbnRyb2xsZXIgaW1wb3J0IENvbW1hbmRDb250cm9sbGVyCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnX21hbmFnZXIgPSBDb25maWdNYW5hZ2VyKCkKbG9naW5faGFuZGxlciA9IExvZ2luTWFuYWdlcihjb25maWdfbWFuYWdlci5nZXRfdXNlcm5hbWUoKSkKamNoID0gSmlyYUNvbm5lY3Rpb25IYW5kbGVyKGxvZ2luX2hhbmRsZXIpCmpjbSA9IEppcmFDb21tYW5kTWFuYWdlcihjb25maWdfbWFuYWdlciwgamNoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2pjbS5wcmludF9pc3N1ZSgiQVBELTE2MzgiKQo=</text>
+        <text encoding="base64">ZnJvbSBqaXJhX2Nvbm5lY3Rpb25fbWFuYWdlciBpbXBvcnQgSmlyYUNvbm5lY3Rpb25IYW5kbGVyCmZyb20gamlyYV9jb21tYW5kX21hbmFnZXIgaW1wb3J0IEppcmFDb21tYW5kTWFuYWdlcgpmcm9tIGxvZ2luX21hbmFnZXIgaW1wb3J0IExvZ2luTWFuYWdlcgpmcm9tIGNvbmZpZ19tYW5hZ2VyIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -338,13 +362,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
@@ -353,7 +377,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2FyZ3VtZW50c1swXQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlcjogQXJndW1lbnRQYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nQ29tbWFuZCBsaW5lIGludGVyZmFjZSBmb3IgSklSQS4nKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLWInLCAnLS1ib2FyZCcsIG1ldGF2YXI9J0JvYXJkJywgbmFyZ3M9JzEnLCBoZWxwPSdUaGUgcmVsZXZhbnQgYm9hcmQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnaScsICctLWlzc3VlJywgbWV0YXZhcj0nSXNzdWUnLCBuYXJncz0nMScsIGhlbHA9J1RoZSByZWxldmFudCBpc3N1ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
