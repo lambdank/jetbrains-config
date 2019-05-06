@@ -175,11 +175,11 @@
         <mark key="^" line="10" column="103" />
         <mark key="." line="10" column="105" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1556715248387">
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="68" column="64" />
-        <mark key="^" line="68" column="64" />
-        <mark key="." line="68" column="64" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557140069281">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Products/Asset/Validators/AssetRealEstateValidator.cs" timestamp="1556860251315">
         <mark key="[" line="15" column="43" />
@@ -301,16 +301,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>Sebastian</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>Sebastian</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAxLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAyLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Authorization</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gODUwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwK</text>
