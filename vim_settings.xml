@@ -46,10 +46,25 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
+      <file name="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" timestamp="1557141595119">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKey.cs" timestamp="1556784014767" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PersonBirthDate.cs" timestamp="1556781668844">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="41" column="54" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/BaseEconomicSuiteTest.cs" timestamp="1556880676515">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKAssetTypes.cs" timestamp="1556859656431">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="36" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKKapitalindkomstDistribute.cs" timestamp="1556788386236" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1556773530388">
@@ -162,6 +177,10 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" timestamp="1557130629801">
         <mark key="'" line="46" column="36" />
       </file>
+      <file name="$USER_HOME$/pensure-workshop/calculation-api/src/Org.OpenAPITools/Model/AdviceEconomicSuiteApiDtoInputProfileProfile.cs" timestamp="1557140958614">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="68" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatInputSourceOutputSink.cs" timestamp="1556795914959" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556890793694">
         <mark key="[" line="46" column="0" />
@@ -198,7 +217,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
     </filemarks>
     <jumps>
-      <jump line="2185" column="19" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2796" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2802" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2105" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
@@ -298,31 +316,32 @@
       <jump line="15" column="22" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
       <jump line="17" column="37" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
       <jump line="46" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
+      <jump line="49" column="12" filename="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Sebastian</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXN0cmlidXRlU3Vtc1BheW1lbnRzRnJvbVBlbnNpb25zT3ZlclllYXJzID0gLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Sebastian</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
       </register>
       <register name="0" type="4">
-        <text>Authorization</text>
+        <text>CreateProfile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gODUwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXN0cmlidXRlU3Vtc1BheW1lbnRzRnJvbVBlbnNpb25zT3ZlclllYXJzID0gLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gODAwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5QcmVzZW50VGltZVZhbHVlcyA9ICwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclZhZXJkaXBhcGlyZXJQMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeUFrdGl2ZXJPYmxpZ2F0aW9uZXJWYWVyZGlwYXBpcmVyUDEgPSA3NTAwbSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZlcnNpb25BZGRBY2NvdW50RW50cnlBa3RpdmVyT2JsaWdhdGlvbmVyVmFlcmRpcGFwaXJlclAxID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2VuYXJpb1BlcnNvbiA9ICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZXVkZ2lmdGVyUDEgPSAwLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVBZGRBY2NvdW50RW50cnlQYXNzaXZlclJlbnRldWRnaWZ0ZXJQMSA9IDBtLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmVyc2lvbkFkZEFjY291bnRFbnRyeVBhc3NpdmVyUmVudGV1ZGdpZnRlclAxID0gMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2VuYXJpb0V2ZW50ID0gLAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -335,22 +354,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeVBhc3NpdmVyUmVudGVpbmR0YWVndGVyUDEgPSAxMDAwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5SW5ka29tc3RLYXBpdGFsQW5kZW5QMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeUluZGtvbXN0S2FwaXRhbEFuZGVuUDEgPSA3MDAwbSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZlcnNpb25BZGRBY2NvdW50RW50cnlJbmRrb21zdEthcGl0YWxBbmRlblAxID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2ZpbGUgPSBDcmVhdGVQcm9maWxlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMCwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2ZpbGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVByb2ZpbGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVByb2ZpbGVJZCgxKSwKICAgICAgICAgICAgICAgIFByaW1hcnkgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiQW5kZXJzIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbkJpcnRoRGF0ZSgxOTc1KSwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjcsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA4NywKICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFNwb3VzZSA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9maWxlUGVyc29uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJTdXNhbm5lIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbkJpcnRoRGF0ZSgxOTcwKSwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjYsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA5MSwKICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIE1hcnJpZWQgPSB0cnVlLAogICAgICAgICAgICAgICAgQ2hpbGRyZW4gPSBuZXcgTGlzdDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9maWxlQ2hpbGQ+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2ZpbGVDaGlsZAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgQmVuZWZpdFJlY2VpdmVyID0gQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZUNoaWxkLkJlbmVmaXRSZWNlaXZlckVudW0uUHJpbWFyeSwKICAgICAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJKb2huIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICAgICAgQmlydGhEYXRlID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2ZpbGVQZXJzb25CaXJ0aERhdGUoMjAwNSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgTXVuaWNpcGFsaXR5SWQgPSA4NQogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UmVudGVpbmR0YWVndGVyUDEgPSAwLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVBZGRBY2NvdW50RW50cnlSZW50ZWluZHRhZWd0ZXJQMSA9IDYwMDBtLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmVyc2lvbkFkZEFjY291bnRFbnRyeVJlbnRlaW5kdGFlZ3RlclAxID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQ29weVN1YkFjY291bnRFbnRyaWVzUGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYWxjdWxhdGlvbkluZm9ybWF0aW9uID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
