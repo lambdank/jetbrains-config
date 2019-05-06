@@ -62,14 +62,14 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1556871864301">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1557121050916">
         <mark key="[" line="396" column="0" />
         <mark key="]" line="396" column="180" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
         <mark key="'" line="5050" column="58" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1556871893209" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKDistributeCommon.cs" timestamp="1557121585224" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556781988298">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
@@ -155,11 +155,11 @@
         <mark key="^" line="15" column="31" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1557120655683">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1557121971898">
         <mark key="'" line="126" column="24" />
-        <mark key="[" line="188" column="83" />
-        <mark key="]" line="188" column="83" />
-        <mark key="." line="188" column="83" />
+        <mark key="[" line="157" column="90" />
+        <mark key="]" line="157" column="91" />
+        <mark key="." line="157" column="91" />
         <mark key="^" line="188" column="83" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
