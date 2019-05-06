@@ -155,16 +155,16 @@
         <mark key="^" line="15" column="31" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1557119958299">
-        <mark key="'" line="217" column="20" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1557120655683">
+        <mark key="'" line="126" column="24" />
+        <mark key="[" line="188" column="83" />
+        <mark key="]" line="188" column="83" />
+        <mark key="." line="188" column="83" />
+        <mark key="^" line="188" column="83" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
     </filemarks>
     <jumps>
-      <jump line="59" column="87" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="60" column="99" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="55" column="6" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="54" column="3" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
@@ -264,16 +264,17 @@
       <jump line="170" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
       <jump line="120" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
       <jump line="241" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="126" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gODUwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>2025</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>given_twoPerson</text>
+        <text>p1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAxLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAyLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMSk7Cg==</text>
@@ -323,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>given_twoPerson</last-search>
+      <last-search>p1</last-search>
       <last-offset />
-      <last-pattern>given_twoPerson</last-pattern>
+      <last-pattern>p1</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>month</entry>
         <entry>divider</entry>
         <entry>full</entry>
         <entry>custom</entry>
@@ -353,6 +353,7 @@
         <entry>setup</entry>
         <entry>version</entry>
         <entry>given_twoPerson</entry>
+        <entry>p1</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
