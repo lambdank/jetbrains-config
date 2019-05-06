@@ -130,8 +130,10 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Asset/AcquisitionAndRealization/RealizationLiquidityLiquidAssetPickerRuleTest.cs" timestamp="1556879934761">
         <mark key="'" line="16" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556883816951">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1557119216179">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatInputSourceOutputSink.cs" timestamp="1556795914959" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556890793694">
@@ -153,15 +155,15 @@
         <mark key="^" line="15" column="31" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1556710035601" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1556890444059">
-        <mark key="'" line="199" column="40" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" timestamp="1557119958299">
+        <mark key="'" line="217" column="20" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1556784006063" />
     </filemarks>
     <jumps>
-      <jump line="56" column="111" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="57" column="101" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
-      <jump line="58" column="78" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="59" column="87" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="60" column="99" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
       <jump line="55" column="6" filename="C:/repo/nordea/Advice.Customers.Nordea.FormuePlan.Admin/DataScripts/20180302.Advice.Customers.Nordea.UpdateProductsDefault.sql" />
@@ -259,31 +261,34 @@
       <jump line="189" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
       <jump line="191" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
       <jump line="199" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="170" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="120" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
+      <jump line="241" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/ForrentningDistributeCommonAndCopyToIncomeRule/ForrentningDistirbuteCommonAndCopyToIncomeRuleTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAxLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAyLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gODUwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwK</text>
       </register>
       <register name="-" type="4">
         <text>2025</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>given_twoPerson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAxLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBEZWF0aFllYXIoUGVyc29uLlAyLCAyMDI1KTsKICAgICAgICAgICAgY01vY2suU2V0dXBTY2VuYXJpb0V2ZW50KFBlbkV2ZW50Lk5vbmUsIFBlcnNvbi5QMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gODUwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlcktvbnRhbnRlclAxID0gMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gMSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gODAwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclAxID0gMSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLlRlc3RpbmcuU2Vzc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5QWt0aXZlck9ibGlnYXRpb25lclZhZXJkaXBhcGlyZXJQMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeUFrdGl2ZXJPYmxpZ2F0aW9uZXJWYWVyZGlwYXBpcmVyUDEgPSA3NTAwbSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZlcnNpb25BZGRBY2NvdW50RW50cnlBa3RpdmVyT2JsaWdhdGlvbmVyVmFlcmRpcGFwaXJlclAxID0gMSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZXVkZ2lmdGVyUDEgPSAwLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVBZGRBY2NvdW50RW50cnlQYXNzaXZlclJlbnRldWRnaWZ0ZXJQMSA9IDBtLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmVyc2lvbkFkZEFjY291bnRFbnRyeVBhc3NpdmVyUmVudGV1ZGdpZnRlclAxID0gMCwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -295,32 +300,32 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeVBhc3NpdmVyUmVudGVpbmR0YWVndGVyUDEgPSAxMDAwMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5UGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5SW5ka29tc3RLYXBpdGFsQW5kZW5QMSA9IDEsCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWYWx1ZUFkZEFjY291bnRFbnRyeUluZGtvbXN0S2FwaXRhbEFuZGVuUDEgPSA3MDAwbSwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZlcnNpb25BZGRBY2NvdW50RW50cnlJbmRrb21zdEthcGl0YWxBbmRlblAxID0gMSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMCwKICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFZhbHVlQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMG0sCiAgICAgICAgICAgICAgICBTdGF0ZW1lbnRNYW5hZ2VyRXhwZWN0ZWRWZXJzaW9uQWRkQWNjb3VudEVudHJ5UmVudGV1ZGdpZnRlclAxID0gMCwK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRleHRNb2NrID0gR2V0Q2FsY3VsYXRpb25Db250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQWRkQWNjb3VudEVudHJ5UmVudGVpbmR0YWVndGVyUDEgPSAwLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVBZGRBY2NvdW50RW50cnlSZW50ZWluZHRhZWd0ZXJQMSA9IDYwMDBtLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmVyc2lvbkFkZEFjY291bnRFbnRyeVJlbnRlaW5kdGFlZ3RlclAxID0gMSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzQ29weVN1YkFjY291bnRFbnRyaWVzUGFzc2l2ZXJSZW50ZWluZHRhZWd0ZXJQMSA9IDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>given_twoPerson</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>given_twoPerson</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>12</entry>
         <entry>month</entry>
         <entry>divider</entry>
         <entry>full</entry>
@@ -348,6 +352,7 @@
         <entry>mock</entry>
         <entry>setup</entry>
         <entry>version</entry>
+        <entry>given_twoPerson</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
