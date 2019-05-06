@@ -46,12 +46,12 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" timestamp="1557141595119">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
+      <file name="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" timestamp="1557146974123">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="73" column="37" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKey.cs" timestamp="1556784014767" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PersonBirthDate.cs" timestamp="1556781668844">
@@ -320,28 +320,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXN0cmlidXRlU3Vtc1BheW1lbnRzRnJvbVBlbnNpb25zT3ZlclllYXJzID0gLAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
       </register>
       <register name="0" type="4">
-        <text>CreateProfile</text>
+        <text>new AdviceEconomicSuiteApiDtoInputTime(2019)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXN0cmlidXRlU3Vtc1BheW1lbnRzRnJvbVBlbnNpb25zT3ZlclllYXJzID0gLAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5QcmVzZW50VGltZVZhbHVlcyA9ICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2VuYXJpb1BlcnNvbiA9ICwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2VuYXJpb0V2ZW50ID0gLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -354,22 +354,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZVJldGVudGlvblRheCA9ICwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2ZpbGUgPSBDcmVhdGVQcm9maWxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOb21pbmFsID0gLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2ZpbGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVByb2ZpbGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVByb2ZpbGVJZCgxKSwKICAgICAgICAgICAgICAgIFByaW1hcnkgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiQW5kZXJzIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbkJpcnRoRGF0ZSgxOTc1KSwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjcsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA4NywKICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFNwb3VzZSA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9maWxlUGVyc29uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJTdXNhbm5lIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZVBlcnNvbkJpcnRoRGF0ZSgxOTcwKSwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjYsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA5MSwKICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIE1hcnJpZWQgPSB0cnVlLAogICAgICAgICAgICAgICAgQ2hpbGRyZW4gPSBuZXcgTGlzdDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9maWxlQ2hpbGQ+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2ZpbGVDaGlsZAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgQmVuZWZpdFJlY2VpdmVyID0gQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZmlsZUNoaWxkLkJlbmVmaXRSZWNlaXZlckVudW0uUHJpbWFyeSwKICAgICAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJKb2huIEFuZGVyc2VuIiwKICAgICAgICAgICAgICAgICAgICAgICAgQmlydGhEYXRlID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2ZpbGVQZXJzb25CaXJ0aERhdGUoMjAwNSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgTXVuaWNpcGFsaXR5SWQgPSA4NQogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZXJlc3RSYXRlID0gLAo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGVuc2lvbkNyZWF0ZWRBdCA9ICwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYWxjdWxhdGlvbkluZm9ybWF0aW9uID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2ZVBlbnNpb25zID0gLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
