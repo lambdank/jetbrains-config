@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ArgumentStack.py" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="config_manager" type="Python" />
     </extensionMap>
   </component>
