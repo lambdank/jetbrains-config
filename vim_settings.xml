@@ -179,11 +179,11 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Skat/SkatTest.cs" timestamp="1557207462981">
-        <mark key="[" line="567" column="8" />
-        <mark key="]" line="567" column="9" />
-        <mark key="^" line="567" column="9" />
-        <mark key="." line="567" column="9" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Skat/SkatTest.cs" timestamp="1557209292766">
+        <mark key="[" line="581" column="8" />
+        <mark key="]" line="581" column="8" />
+        <mark key="^" line="581" column="15" />
+        <mark key="." line="581" column="8" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/ForrentningDistributeCommonAndCopyToIncome.cs" timestamp="1556890793694">
         <mark key="[" line="46" column="0" />
@@ -341,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
