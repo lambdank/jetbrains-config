@@ -94,11 +94,10 @@
         <mark key="^" line="400" column="9" />
         <mark key="." line="413" column="8" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1556883005623">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="19" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1557229199523">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1557154989036">
         <mark key="[" line="3" column="9" />
@@ -242,6 +241,12 @@
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" timestamp="1556518101292">
         <mark key="'" line="5050" column="58" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Optimization/OptimizationTests.cs" timestamp="1557229126863">
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="8" />
+        <mark key="^" line="116" column="9" />
+        <mark key="." line="116" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2796" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
@@ -346,29 +351,29 @@
       <jump line="49" column="12" filename="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBlcnNvbiA9PSBQZXJzb24uUDMpIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24obmFtZW9mKHBlcnNvbiksIHBlcnNvbiwgbnVsbCk7CiAgICAgICAgICAgIHJldHVybiBwZXJzb24gPT0gUGVyc29uLlAxID8gUGVyc29uLlAyIDogUGVyc29uLlAxOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>break</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
       </register>
-      <register name="0" type="4">
-        <text>get_remaining_estimate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gUGVyc29uLlAyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBlcnNvbiA9PSBQZXJzb24uUDMpIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24obmFtZW9mKHBlcnNvbiksIHBlcnNvbiwgbnVsbCk7CiAgICAgICAgICAgIHJldHVybiBwZXJzb24gPT0gUGVyc29uLlAxID8gUGVyc29uLlAyIDogUGVyc29uLlAxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlLmZpZWxkcy5hZ2dyZWdhdGV0aW1lZXN0aW1hdGUgLyA2MCAvIDYwIC8gNikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjd3JpdGVfdG9fY29uc29sZSgKICAgICAgICAjICAgICJ7Ol44MH0iLmZvcm1hdCgiRXN0aW1hdGlvbjogJTIuM2YiICUgKGZsb2F0KHNlbGYuaXNzdWUuZmllbGRzLnRpbWVlc3RpbWF0ZSkgLyA2MCAvIDYwIC8gNikgKyAiIGRheXMiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGVyc29uLlAzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -381,19 +386,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aCA9IGxlbih0aXRsZSkgKyAyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlLmZpZWxkcy5hZ2dyZWdhdGV0aW1lZXN0aW1hdGUgLyA2MCAvIDYwIC8gNikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aCA9IGxlbih0aXRsZSkgKyAyCg==</text>
+        <text encoding="base64">ICAgICAgICAjd3JpdGVfdG9fY29uc29sZSgKICAgICAgICAjICAgICJ7Ol44MH0iLmZvcm1hdCgiRXN0aW1hdGlvbjogJTIuM2YiICUgKGZsb2F0KHNlbGYuaXNzdWUuZmllbGRzLnRpbWVlc3RpbWF0ZSkgLyA2MCAvIDYwIC8gNikgKyAiIGRheXMiKSkK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChqY20uZ2V0X3RyYW5zaXRpb25zKGlzc3VlKSkKICAgICAgICAgICAgI3ByaW50KFsodFsnaWQnXSwgdFsnbmFtZSddKSBmb3IgdCBpbiBqY20uZ2V0X3RyYW5zaXRpb25zKGlzc3VlKV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
