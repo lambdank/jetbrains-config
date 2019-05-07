@@ -88,6 +88,12 @@
         <mark key="[" line="150" column="0" />
         <mark key="]" line="151" column="76" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/RegressionTest.cs" timestamp="1557210358273">
+        <mark key="[" line="413" column="8" />
+        <mark key="]" line="413" column="8" />
+        <mark key="^" line="400" column="9" />
+        <mark key="." line="413" column="8" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1556883005623">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="39" />
@@ -341,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>dea</text>
