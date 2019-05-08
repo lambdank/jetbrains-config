@@ -102,6 +102,10 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/Org.OpenAPITools/Controllers/CalculationApi.cs" timestamp="1557301946955">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="41" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxesInvolvingDeath/TaxesBasedOnNaturalDeath.cs" timestamp="1556863924815">
         <mark key="[" line="143" column="32" />
         <mark key="]" line="143" column="33" />
@@ -133,12 +137,22 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/Program/Program.cs" timestamp="1557302235017">
+        <mark key="[" line="150" column="318" />
+        <mark key="]" line="150" column="318" />
+        <mark key="." line="150" column="318" />
+        <mark key="^" line="150" column="318" />
+      </file>
       <file name="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" timestamp="1557146974123">
         <mark key="'" line="91" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="73" column="37" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/Org.OpenAPITools/Program.cs" timestamp="1557301795236">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1557157189550">
         <mark key="[" line="0" column="0" />
@@ -185,10 +199,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" timestamp="1557300638365">
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" timestamp="1557301832352">
+        <mark key="'" line="0" column="21" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="192" column="1" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContextExtensions.cs" timestamp="1557130907926">
         <mark key="'" line="29" column="22" />
@@ -242,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2796" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2802" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2105" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
       <jump line="2110" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
@@ -342,10 +357,11 @@
       <jump line="17" column="37" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
       <jump line="46" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
       <jump line="49" column="12" filename="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" />
+      <jump line="0" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -353,20 +369,20 @@
       <register name="/" type="4">
         <text>dea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjcmVnaW9uIEFsZGVyc29wc3BhcmluZyAoRGVwb3QpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">e1llYXIgPSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvZSA9IDIgKyAyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS53Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c1BlbnNpb25EZXBvdEJhc2VkUGVuc2lvbiBDcmVhdGVEZXBvdFBlbnNpb25BbGRlcihpbnQgaWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzUGVuc2lvbkRlcG90QmFzZWRQZW5zaW9uCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFR5cGUgPSBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c1BlbnNpb25EZXBvdEJhc2VkUGVuc2lvbi5UeXBlRW51bS5BbGRlcnNvcHNwYXJpbmcsCiAgICAgICAgICAgICAgICBQZW5zaW9uQ29udHJpYnV0aW9uID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzUGVuc2lvblBlbnNpb25Db250cmlidXRpb24ge0NvbnRyaWJ1dGlvbiA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRCdWlsZGluZ0Jsb2Nrc1BheW1lbnRFbnRyeSB7QW1vdW50ID0gNTEwMCwgRnJvbSA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lKHRpbWVUeXBlOiBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lLlRpbWVUeXBlRW51bS5DYWxjdWxhdGlvbiksIFRvID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUodGltZVR5cGU6IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkF0UGVuc2lvbiksIFRpbWVzUGFpZEVhY2hZZWFyID0gMX0sIEZyb21FbXBsb3llciA9IGZhbHNlLCBJbmNsdXNpdmVBbWIgPSB0cnVlLH0sCiAgICAgICAgICAgICAgICBQYXlPdXQgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZHVjdHNQZW5zaW9uUGF5T3V0RW50cnkge1BheU91dEFnZSA9IDcwLCBUZW51cmUgPSAxfSwKICAgICAgICAgICAgICAgIEluaXRpYWxSZXNlcnZlID0gNTAwMDAsCiAgICAgICAgICAgICAgICBJZCA9IGlkLAogICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSAiQW5kZXJzIC0gQWxkZXJzb3BzcGFyaW5nIiwKICAgICAgICAgICAgICAgIE93bmVyc2hpcCA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRPd25lcnNoaXAoKSB7UHJpbWFyeSA9IDF9CiAgICAgICAgICAgIH07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG91dHB1dCA9IG5ldyBDYWxjdWxhdGlvbkFwaUNvbnRyb2xsZXIoKS5DYWxjdWxhdGlvbkNhbGN1bGF0ZShpbnB1dENvbnRyYWN0KTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -379,26 +395,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAvLyB2YXIgb3V0cHV0ID0gbmV3IENhbGN1bGF0aW9uQXBpKCkuQ2FsY3VsYXRpb25DYWxjdWxhdGUoaW5wdXRDb250cmFjdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c1BlbnNpb25EZXBvdEJhc2VkUGVuc2lvbiBDcmVhdGVEZXBvdFBlbnNpb25SYXRlKGludCBpZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZHVjdHNQZW5zaW9uRGVwb3RCYXNlZFBlbnNpb24KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVHlwZSA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzUGVuc2lvbkRlcG90QmFzZWRQZW5zaW9uLlR5cGVFbnVtLlJhdGVwZW5zaW9uLAogICAgICAgICAgICAgICAgUGVuc2lvbkNvbnRyaWJ1dGlvbiA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c1BlbnNpb25QZW5zaW9uQ29udHJpYnV0aW9uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgT3duQ29udHJpYnV0aW9uID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dEJ1aWxkaW5nQmxvY2tzUGVyY2VudCgwLjI1KSwKICAgICAgICAgICAgICAgICAgICBDb250cmlidXRpb24gPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQYXltZW50RW50cnkge0Ftb3VudCA9IDEwMDAwLCBGcm9tID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUodGltZVR5cGU6IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkNhbGN1bGF0aW9uKSwgVG8gPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZSh0aW1lVHlwZTogQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZS5UaW1lVHlwZUVudW0uQXRQZW5zaW9uKSwgVGltZXNQYWlkRWFjaFllYXIgPSAxMn0sCiAgICAgICAgICAgICAgICAgICAgRnJvbUVtcGxveWVyID0gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBJbmNsdXNpdmVBbWIgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIENvbnRyaWJ1dGlvblRvSW5zdXJhbmNlID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dEJ1aWxkaW5nQmxvY2tzUGVyY2VudCgwLjA1KQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFBheU91dCA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c1BlbnNpb25QYXlPdXRFbnRyeSB7UGF5T3V0QWdlID0gNjgsIFRlbnVyZSA9IDE1LH0sCiAgICAgICAgICAgICAgICBJbml0aWFsUmVzZXJ2ZSA9IDMwMDAwMCwKICAgICAgICAgICAgICAgIElkID0gaWQsCiAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICJBbmRlcnMgLSBSYXRlcGVuc2lvbiIsCiAgICAgICAgICAgICAgICBPd25lcnNoaXAgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0T3duZXJzaGlwKCkge1ByaW1hcnkgPSAxfQogICAgICAgICAgICB9OwogICAgICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwoKbmFtZXNwYWNlIFByb2dyYW0KewogICAgY2xhc3MgUHJvZ3JhbQogICAgewogICAgICAgIHN0YXRpYyB2b2lkIE1haW4oc3RyaW5nW10gYXJncykKICAgICAgICB7CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJIZWxsbyBXb3JsZCEiKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgTWFpbihzdHJpbmdbXSBhcmdzKQo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c0luY29tZSBDcmVhdGVJbmNvbWUoaW50IGlkKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRQcm9kdWN0c0luY29tZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBUeXBlID0gQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZHVjdHNJbmNvbWUuVHlwZUVudW0uQWxtaW5kZWxpZ0xvZW5JbmR0YWVndCwKICAgICAgICAgICAgICAgIEFtb3VudCA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRCdWlsZGluZ0Jsb2Nrc1BheW1lbnRFbnRyeSB7QW1vdW50ID0gNTAwMDAsIEZyb20gPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZSh0aW1lVHlwZTogQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZS5UaW1lVHlwZUVudW0uQ2FsY3VsYXRpb24pLCBUbyA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lKHRpbWVUeXBlOiBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lLlRpbWVUeXBlRW51bS5BdFBlbnNpb24pLCBUaW1lc1BhaWRFYWNoWWVhciA9IDEyfSwKICAgICAgICAgICAgICAgIElkID0gaWQsCiAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICJBbmRlcnMgLSBBbG1pbmRlbGlnIGxvZW5pbmRrb21zdCIsCiAgICAgICAgICAgICAgICBPd25lcnNoaXAgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0T3duZXJzaGlwIHtQcmltYXJ5ID0gMX0KICAgICAgICAgICAgfTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgT3JnLk9wZW5BUElUb29scy5Nb2RlbHMuQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZVZhbHVlU3lzdGVtRGVjaW1hbC5wdWJsaWMgZGQK</text>
       </register>
-      <register name="9" type="4">
-        <text>new AdviceEconomicSuiteApiDtoInputProfilePublicBenefits()
-                    {
-                        IsEntitledForFolkepension = true,
-                        IsEntitledForFolkepensionTillaeg = true
-                    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNpbmcgT3JnLk9wZW5BUElUb29scy5BcGk7CnVzaW5nIE9yZy5PcGVuQVBJVG9vbHMuTW9kZWw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
