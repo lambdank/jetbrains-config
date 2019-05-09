@@ -82,6 +82,13 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557386605526">
+        <mark key="'" line="47" column="46" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="64" column="78" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
         <mark key="[" line="38" column="53" />
         <mark key="]" line="38" column="78" />
@@ -113,11 +120,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/AccountPlotter.cs" timestamp="1557385177229">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/AccountPlotter.cs" timestamp="1557386570177">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="80" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -164,11 +171,11 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557385023964">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557386712926">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="21" column="59" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleUtil.cs" timestamp="1556798668799">
         <mark key="[" line="150" column="0" />
@@ -220,11 +227,11 @@
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="68" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557385088853">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557386363757">
+        <mark key="[" line="42" column="59" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Skat/SkatTest.cs" timestamp="1557209292766">
         <mark key="[" line="581" column="8" />
@@ -244,6 +251,12 @@
         <mark key="]" line="192" column="1" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotManager.cs" timestamp="1557386591485">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1556520810955">
         <mark key="[" line="10" column="105" />
@@ -275,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3230" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3232" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3714" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3729" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -375,31 +387,32 @@
       <jump line="108" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
       <jump line="16" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="81" column="68" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="53" column="46" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CreatePensionPayOutPlot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImNhbGN1bGF0aW9uUmVzdWx0Ij48L3BhcmFtPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>AccountPlotter</text>
       </register>
       <register name="/" type="4">
-        <text>unauthorized</text>
+        <text>line</text>
       </register>
-      <register name="0" type="4">
-        <text>CreatePensionPayOutPlot</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENvbnN0cnVjdG9yIG9mIEFjY291bnRQbG90dGVyCiAgICAgICAgLy8vIDwvc3VtbWFyeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImNhbGN1bGF0aW9uUmVzdWx0Ij48L3BhcmFtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBDcmVhdGVQbG90cygpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcGxvdExpc3QgPSBuZXcgTGlzdDxQbG90PigpOwoKICAgICAgICAgICAgcGxvdExpc3QuQWRkKG5ldyBQbG90KENyZWF0ZVBlbnNpb25QYXlPdXRQbG90KCkpKTsKICAgICAgICAgICAgLy9wbG90TGlzdC5BZGQobmV3IFBsb3QoQ3JlYXRlRGlzcG9zYWJsZUluY29tZVBsb3QoKSkpOwoKICAgICAgICAgICAgcGxvdExpc3QuRm9yRWFjaChfcGxvdE1hbmFnZXIuU2hvd1Bsb3QpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X3Bsb3RNYW5hZ2VyLlNob3dQbG90KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8uQ3JlYXRlUGxvdHMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBsb3RIYW5kbGVyKGNhbGN1bGF0aW9uUmVzdWx0T3V0cHV0LkFjY291bnRzKS5DcmVhdGVQbG90cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -412,31 +425,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIExpc3Q8U3RhaXJTdGVwU2VyaWVzPiBGaW5kRGlmZmVyZW5jZUJldHdlZW5TdGFpclN0ZXBTZXJpZXMoU3RhaXJTdGVwU2VyaWVzIHMxLCBTdGFpclN0ZXBTZXJpZXMgczIpCiAgICAgICAgewogICAgICAgICAgICB2YXIgc3RlcFNlcmllcyA9IG5ldyBTdGFpclN0ZXBTZXJpZXMoKTsKICAgICAgICAgICAgdmFyIGRpY3QgPSBzMS5Qb2ludHMuVG9EaWN0aW9uYXJ5KHggPT4geC5YLCB5ID0+IHkuWSkuQ29uY2F0KHMyLlBvaW50cy5Ub0RpY3Rpb25hcnkoeCA9PiB4LlgsIHkgPT4geS5ZKQogICAgICAgICAgICAgICAgLlRvTG9va3VwKHkgPT4geS5LZXksIHggPT4geC5WYWx1ZSkuVG9EaWN0aW9uYXJ5KHggPT4geC5LZXksIHkgPT4geS5NYXgoKSAtIHkuTWluKCkpKS5Ub0RpY3Rpb25hcnkoeD0+eC5LZXksIHkgPT4geS5WYWx1ZSk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIga2V5VmFsdWVQYWlyIGluIGRpY3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN0ZXBTZXJpZXMuUG9pbnRzLkFkZChuZXcgRGF0YVBvaW50KGtleVZhbHVlUGFpci5LZXksIGtleVZhbHVlUGFpci5WYWx1ZSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbmV3IExpc3Q8U3RhaXJTdGVwU2VyaWVzPigpe3N0ZXBTZXJpZXN9OwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBjID0gbmV3IFBpZUNoYXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBsb3QiPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uRW5hYmxlVmlzdWFsU3R5bGVzKCk7CiAgICAgICAgICAgIEFwcGxpY2F0aW9uLlNldENvbXBhdGlibGVUZXh0UmVuZGVyaW5nRGVmYXVsdChmYWxzZSk7CiAgICAgICAgICAgIEFwcGxpY2F0aW9uLlJ1bihuZXcgUGxvdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBsb3RNb2RlbCI+PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InN0YXJ0WWVhciI+PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImVuZFllYXIiPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unauthorized</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>unauthorized</last-pattern>
+      <last-pattern>line</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -460,10 +473,10 @@
         <entry>p1</entry>
         <entry>dea</entry>
         <entry>plotview</entry>
-        <entry>line</entry>
         <entry>tick</entry>
         <entry>step</entry>
         <entry>unauthorized</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
