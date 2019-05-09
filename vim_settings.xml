@@ -72,12 +72,6 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557324223593">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="51" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="51" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1556864033895">
         <mark key="[" line="38" column="53" />
         <mark key="]" line="38" column="78" />
@@ -95,11 +89,6 @@
         <mark key="." line="41" column="11" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" timestamp="1557324519646">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1557379305789">
         <mark key="'" line="81" column="68" />
       </file>
@@ -108,10 +97,9 @@
         <mark key="]" line="13" column="17" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/AccountPlotter.cs" timestamp="1557322815247">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -142,9 +130,9 @@
         <mark key="." line="35" column="69" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.Designer.cs" timestamp="1557322779940">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1556714315661">
         <mark key="[" line="26" column="41" />
