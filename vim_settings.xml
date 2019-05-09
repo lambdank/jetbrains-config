@@ -46,11 +46,8 @@
         <mark key="." line="119" column="34" />
         <mark key="^" line="119" column="34" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557388720653">
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="67" column="30" />
-        <mark key="." line="67" column="30" />
-        <mark key="^" line="67" column="30" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557393935071">
+        <mark key="[" line="88" column="25" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1557121050916">
         <mark key="[" line="396" column="0" />
@@ -92,10 +89,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557392826260">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557394183361">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleUtil.cs" timestamp="1556798668799">
         <mark key="[" line="150" column="0" />
@@ -119,15 +116,22 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" timestamp="1557394339233">
+        <mark key="'" line="34" column="73" />
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="47" />
+        <mark key="." line="55" column="47" />
+        <mark key="^" line="51" column="110" />
+      </file>
       <file name="$USER_HOME$/pensure-workshop/calculation-api/src/Org.OpenAPITools/Model/AdviceEconomicSuiteApiDtoInputProfileProfile.cs" timestamp="1557140958614">
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="68" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557392939845">
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="45" />
-        <mark key="." line="50" column="45" />
-        <mark key="^" line="47" column="114" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557394367146">
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="78" />
+        <mark key="^" line="51" column="144" />
+        <mark key="." line="51" column="51" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" timestamp="1557302748238">
         <mark key="'" line="0" column="0" />
@@ -148,7 +152,6 @@
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PieChart.Designer.cs" timestamp="1557386772343" />
     </filemarks>
     <jumps>
-      <jump line="3843" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3849" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3855" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="5050" column="58" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -248,31 +251,32 @@
       <jump line="49" column="47" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
       <jump line="36" column="36" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
       <jump line="257" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
+      <jump line="34" column="73" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GetEndNodeAccountsForAllPersons</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGlzcG9uaWJlbCA=</text>
+        <text>GetEndNodeAccountsForAllPersons</text>
       </register>
       <register name="/" type="4">
-        <text>alders</text>
+        <text>GetEnd</text>
       </register>
       <register name="0" type="4">
-        <text>CreateDisposableIncomePlot</text>
+        <text>GetEndNodeAccountsForPerson</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBTaG93cyBhIHBsb3Qgb24gdGhlIHNjcmVlbgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHZvaWQgU2hvd1BpZUNoYXJ0KFBpZUNoYXJ0IHBsb3QpCiAgICAgICAgewogICAgICAgICAgICBBcHBsaWNhdGlvbi5SdW4ocGxvdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnQgPT0gbnVsbCkKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChhY2NvdW50ID09IG51bGwpCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxvdEhhbmRsZXIuQ3JlYXRlQXNzZXRQaWVDaGFydCgzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -285,31 +289,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBlcnNvbiBpbiBFbnVtLkdldFZhbHVlcyh0eXBlb2YoQWR2aWNlRWNvbm9taWNTdWl0ZUZpbmFuY2lhbFN0YXRlbWVudEFjY291bnRLZXkuT3duZXJFbnVtKSkpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIENvbnNvbGUuUmVhZExpbmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIExpc3Q8QWR2aWNlRWNvbm9taWNTdWl0ZUZpbmFuY2lhbFN0YXRlbWVudEFjY291bnQ+IEdldEFjY291bnRzRm9yQWxsUGVyc29uc1dpdGhTdWJBY2NvdW50cyhJRW51bWVyYWJsZTxBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50QWNjb3VudD4gYWNjb3VudHMsIEFkdmljZUVjb25vbWljU3VpdGVES0ZpbmFuY2lhbFN0YXRlbWVudERLQWNjb3VudEtleS5BY2NvdW50VHlwZUVudW1bXSBhY2NvdW50VHlwZXMsIGludCBkZXB0aCA9IDEpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZm91bmRBY2NvdW50cyA9IG5ldyBMaXN0PEFkdmljZUVjb25vbWljU3VpdGVGaW5hbmNpYWxTdGF0ZW1lbnRBY2NvdW50PigpOwoKICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBlcnNvbiBpbiBFbnVtLkdldFZhbHVlcyh0eXBlb2YoQWR2aWNlRWNvbm9taWNTdWl0ZUZpbmFuY2lhbFN0YXRlbWVudEFjY291bnRLZXkuT3duZXJFbnVtKSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBhY2NvdW50ID0gR2V0QWNjb3VudChhY2NvdW50cywgKEFkdmljZUVjb25vbWljU3VpdGVGaW5hbmNpYWxTdGF0ZW1lbnRBY2NvdW50S2V5Lk93bmVyRW51bSlwZXJzb24sIGFjY291bnRUeXBlcyk7CgogICAgICAgICAgICAgICAgaWYgKGFjY291bnQgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKCiAgICAgICAgICAgICAgICBSZWN1cnNpdmVseUFkZEFjY291bnRzKGZvdW5kQWNjb3VudHMsIGFjY291bnQsIGRlcHRoLCBmYWxzZSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBmb3VuZEFjY291bnRzOwogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuc2lvbkVudW0gPSBuZXdbXSB7IEFkdmljZUVjb25vbWljU3VpdGVES0ZpbmFuY2lhbFN0YXRlbWVudERLQWNjb3VudEtleS5BY2NvdW50VHlwZUVudW0uVWRnaWZ0ZXIgfTsKICAgICAgICAgICAgcGVuc2lvblN1YkFjY291bnRzID0gT3V0cHV0SGVscGVyLkdldEVuZE5vZGVBY2NvdW50c0ZvckFsbFBlcnNvbnMoX2FjY291bnRzLCBwZW5zaW9uRW51bSwgZGV0YWlsRGVncmVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alders</last-search>
+      <last-search>GetEnd</last-search>
       <last-offset />
-      <last-pattern>alders</last-pattern>
+      <last-pattern>GetEnd</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -317,9 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>basepath</entry>
-        <entry>localhost</entry>
-        <entry>null</entry>
         <entry>utils</entry>
         <entry>calculatebound</entry>
         <entry>calculationbo</entry>
@@ -337,6 +338,9 @@
         <entry>line</entry>
         <entry encoding="base64">XDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lXD4=</entry>
         <entry>alders</entry>
+        <entry>opa</entry>
+        <entry>opacity</entry>
+        <entry>GetEnd</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
@@ -356,8 +360,8 @@
         <entry>set iv</entry>
         <entry>wq</entry>
         <entry>e</entry>
-        <entry>set ic</entry>
         <entry>W</entry>
+        <entry>set ic</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
