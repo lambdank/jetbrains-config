@@ -39,12 +39,12 @@
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="36" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" timestamp="1557391389573">
-        <mark key="'" line="36" column="36" />
-        <mark key="[" line="38" column="154" />
-        <mark key="]" line="38" column="154" />
-        <mark key="^" line="38" column="154" />
-        <mark key="." line="38" column="154" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" timestamp="1557393017635">
+        <mark key="'" line="257" column="0" />
+        <mark key="[" line="119" column="34" />
+        <mark key="]" line="119" column="34" />
+        <mark key="." line="119" column="34" />
+        <mark key="^" line="119" column="34" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557388720653">
         <mark key="[" line="67" column="30" />
@@ -92,10 +92,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557391432418">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557392826260">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleUtil.cs" timestamp="1556798668799">
         <mark key="[" line="150" column="0" />
@@ -123,11 +123,11 @@
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="68" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557389878022">
-        <mark key="[" line="47" column="119" />
-        <mark key="]" line="47" column="119" />
-        <mark key="." line="47" column="119" />
-        <mark key="^" line="47" column="119" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557392939845">
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="47" column="114" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" timestamp="1557302748238">
         <mark key="'" line="0" column="0" />
@@ -136,11 +136,10 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotManager.cs" timestamp="1557389569549">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="27" column="31" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotManager.cs" timestamp="1557393035252">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Sikkerhed.cs" timestamp="1557379945832">
         <mark key="[" line="49" column="27" />
@@ -149,7 +148,6 @@
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PieChart.Designer.cs" timestamp="1557386772343" />
     </filemarks>
     <jumps>
-      <jump line="3828" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3843" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3849" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3855" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -249,50 +247,32 @@
       <jump line="51" column="39" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
       <jump line="49" column="47" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
       <jump line="36" column="36" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
+      <jump line="257" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">RGlzcG9uaWJlbCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lXD4=</text>
+        <text>alders</text>
       </register>
       <register name="0" type="4">
-        <text>new AdviceEconomicSuiteApiDtoInputTime
-                        {
-                            TimeType = AdviceEconomicSuiteApiDtoInputTime.TimeTypeEnum.AtLastDeath
-                        },</text>
+        <text>CreateDisposableIncomePlot</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNhbGN1bGF0aW9uVmFsaWRhdGVPdXRwdXQgPSBuZXcgQ2FsY3VsYXRpb25BcGkoKS5DYWxjdWxhdGlvblZhbGlkYXRlQ2FsY3VsYXRlKGlucHV0Q29udHJhY3QpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBTaG93cyBhIHBsb3Qgb24gdGhlIHNjcmVlbgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHZvaWQgU2hvd1BpZUNoYXJ0KFBpZUNoYXJ0IHBsb3QpCiAgICAgICAgewogICAgICAgICAgICBBcHBsaWNhdGlvbi5SdW4ocGxvdCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3duZXJzaGlwID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dE93bmVyc2hpcCgxKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxvdEhhbmRsZXIuQ3JlYXRlQXNzZXRQaWVDaGFydCgzKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -305,39 +285,38 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIENvbnNvbGUuUmVhZExpbmUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb252ZW50aW9uID0gLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9mZnNldCA9ICwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBZZWFyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkNhbGN1bGF0aW9uLCAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lXD4=</last-search>
+      <last-search>alders</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lXD4=</last-pattern>
+      <last-pattern>alders</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>urlversion</entry>
         <entry>basepath</entry>
         <entry>localhost</entry>
         <entry>null</entry>
@@ -357,11 +336,11 @@
         <entry>unauthorized</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lXD4=</entry>
+        <entry>alders</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry>setic</entry>
         <entry>%s/expense/deduction</entry>
         <entry>%s/Expense/Deduction</entry>
@@ -378,6 +357,7 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry>set ic</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
