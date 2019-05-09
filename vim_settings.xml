@@ -100,6 +100,9 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1557379305789">
+        <mark key="'" line="81" column="68" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556781988298">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
@@ -253,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3198" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="3214" column="56" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3230" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3232" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="3714" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
@@ -353,6 +354,8 @@
       <jump line="101" column="28" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
       <jump line="102" column="28" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
       <jump line="108" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
+      <jump line="16" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="81" column="68" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -362,7 +365,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text>unauthorized</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1pbmltdW1NYWpvclN0ZXAgPSAxLAo=</text>
@@ -425,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search>unauthorized</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
+      <last-pattern>unauthorized</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geturl</entry>
         <entry>preseria</entry>
         <entry>urlversion</entry>
         <entry>basepath</entry>
@@ -455,6 +457,7 @@
         <entry>line</entry>
         <entry>tick</entry>
         <entry>step</entry>
+        <entry>unauthorized</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
