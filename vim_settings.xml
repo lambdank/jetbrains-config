@@ -46,11 +46,11 @@
         <mark key="." line="154" column="99" />
         <mark key="^" line="82" column="134" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557397952980">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="68" />
-        <mark key="." line="46" column="52" />
-        <mark key="^" line="46" column="52" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557468740542">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1557121050916">
         <mark key="[" line="396" column="0" />
@@ -120,12 +120,12 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" timestamp="1557398848574">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="51" column="110" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" timestamp="1557468704154">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="143" column="55" />
+        <mark key="]" line="143" column="59" />
+        <mark key="." line="143" column="59" />
+        <mark key="^" line="143" column="59" />
       </file>
       <file name="$USER_HOME$/pensure-workshop/calculation-api/src/Org.OpenAPITools/Model/AdviceEconomicSuiteApiDtoInputProfileProfile.cs" timestamp="1557140958614">
         <mark key="[" line="30" column="25" />
@@ -260,28 +260,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>GetEnd</text>
       </register>
-      <register name="0" type="4">
-        <text>, bool stack</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vICBDaGVja3Mgd2hldGhlciBhbiBhY2NvdW50IGtleSBtYXRjaGVzIHRoZSBnaXZlbiBhY2NvdW50IHR5cGUKICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGVsUDEgPSBuZXcgUGxvdE1vZGVsIHsgVGl0bGUgPSAiUGllIFNhbXBsZTEiIH07CgogICAgICAgICAgICBkeW5hbWljIHNlcmllc1AxID0gbmV3IFBpZVNlcmllcyB7IFN0cm9rZVRoaWNrbmVzcyA9IDIuMCwgSW5zaWRlTGFiZWxQb3NpdGlvbiA9IDAuOCwgQW5nbGVTcGFuID0gMzYwLCBTdGFydEFuZ2xlID0gMCB9OwoKICAgICAgICAgICAgc2VyaWVzUDEuU2xpY2VzLkFkZChuZXcgUGllU2xpY2UoIkFmcmljYSIsIDEwMzApIHsgSXNFeHBsb2RlZCA9IGZhbHNlLCBGaWxsID0gT3h5Q29sb3JzLlBhbGVWaW9sZXRSZWQgfSk7CiAgICAgICAgICAgIHNlcmllc1AxLlNsaWNlcy5BZGQobmV3IFBpZVNsaWNlKCJBbWVyaWNhcyIsIDkyOSkgeyBJc0V4cGxvZGVkID0gdHJ1ZSB9KTsKICAgICAgICAgICAgc2VyaWVzUDEuU2xpY2VzLkFkZChuZXcgUGllU2xpY2UoIkFzaWEiLCA0MTU3KSB7IElzRXhwbG9kZWQgPSB0cnVlIH0pOwogICAgICAgICAgICBzZXJpZXNQMS5TbGljZXMuQWRkKG5ldyBQaWVTbGljZSgiRXVyb3BlIiwgNzM5KSB7IElzRXhwbG9kZWQgPSB0cnVlIH0pOwogICAgICAgICAgICBzZXJpZXNQMS5TbGljZXMuQWRkKG5ldyBQaWVTbGljZSgiT2NlYW5pYSIsIDM1KSB7IElzRXhwbG9kZWQgPSB0cnVlIH0pOwoKICAgICAgICAgICAgbW9kZWxQMS5TZXJpZXMuQWRkKHNlcmllc1AxKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY2FzZSBBZHZpY2VFY29ub21pY1N1aXRlREtGaW5hbmNpYWxTdGF0ZW1lbnRES0FjY291bnRJbnB1dEtleSBrZXk6CiAgICAgICAgICAgICAgICAvLyAgICByZXR1cm4ga2V5LkFjY291bnRUeXBlID09IChBZHZpY2VFY29ub21pY1N1aXRlREtGaW5hbmNpYWxTdGF0ZW1lbnRES0FjY291bnRJbnB1dEtleS5BY2NvdW50VHlwZUVudW0pYWNjb3VudFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -294,22 +294,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJlY3Vyc2l2ZWx5IGFkZHMgc3ViIGFjY291bnRzIHRvIGEgbGlzdAogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0YXRpYyBMaXN0PEFkdmljZUVjb25vbWljU3VpdGVGaW5hbmNpYWxTdGF0ZW1lbnRBY2NvdW50PiBHZXRBY2NvdW50c0ZvckFsbFBlcnNvbnMoSUVudW1lcmFibGU8QWR2aWNlRWNvbm9taWNTdWl0ZUZpbmFuY2lhbFN0YXRlbWVudEFjY291bnQ+IGFjY291bnRzLCBBZHZpY2VFY29ub21pY1N1aXRlREtGaW5hbmNpYWxTdGF0ZW1lbnRES0FjY291bnRLZXkuQWNjb3VudFR5cGVFbnVtW10gYWNjb3VudFR5cGVzKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGZvdW5kQWNjb3VudHMgPSBuZXcgTGlzdDxBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50QWNjb3VudD4oKTsKCiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwZXJzb24gaW4gRW51bS5HZXRWYWx1ZXModHlwZW9mKEFkdmljZUVjb25vbWljU3VpdGVGaW5hbmNpYWxTdGF0ZW1lbnRBY2NvdW50S2V5Lk93bmVyRW51bSkpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgYWNjb3VudCA9IEdldEFjY291bnQoYWNjb3VudHMsIChBZHZpY2VFY29ub21pY1N1aXRlRmluYW5jaWFsU3RhdGVtZW50QWNjb3VudEtleS5Pd25lckVudW0pcGVyc29uLCBhY2NvdW50VHlwZXMpOwoKICAgICAgICAgICAgICAgIGlmIChhY2NvdW50ID09IG51bGwpCiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm91bmRBY2NvdW50cy5BZGQoYWNjb3VudCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBmb3VuZEFjY291bnRzOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgUGxvdEhlbHBlcnMuU3RhY2tTdGFpclNlcmllcyhhY2NvdW50TGluZVNlcmllcykuUmV2ZXJzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLy8KICAgICAgICAvLy8KICAgICAgICAvLy8gIAo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImFjY291bnRzIj48L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYWNjb3VudFR5cGVzIj48L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iZGVwdGgiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
