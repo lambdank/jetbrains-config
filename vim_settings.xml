@@ -13,11 +13,11 @@
         <mark key="." line="39" column="116" />
         <mark key="^" line="39" column="126" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1557729559910">
-        <mark key="[" line="147" column="91" />
-        <mark key="]" line="147" column="91" />
-        <mark key="." line="147" column="91" />
-        <mark key="^" line="147" column="93" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1557731177113">
+        <mark key="[" line="128" column="108" />
+        <mark key="]" line="128" column="114" />
+        <mark key="." line="128" column="114" />
+        <mark key="^" line="128" column="114" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Utils/ProfileBuilder.cs" timestamp="1556778866156">
         <mark key="[" line="8" column="0" />
@@ -71,10 +71,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnDeathUtils.cs" timestamp="1557469902052">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="59" />
-        <mark key="." line="4" column="59" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnDeathUtils.cs" timestamp="1557730875488">
+        <mark key="[" line="12" column="78" />
+        <mark key="]" line="12" column="91" />
+        <mark key="^" line="11" column="80" />
+        <mark key="." line="12" column="78" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/Org.OpenAPITools/Program.cs" timestamp="1557301795236">
         <mark key="[" line="14" column="0" />
@@ -255,28 +256,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>GetEnd</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JiYgYWNjb3VudC5LZXkuT3duZXIgPT0gcGVyc29uLk90aGVyUGVyc29uKCk=</text>
+        <text>liquidityAccount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoc2thdEVudHJpZXNXaXRoT25lUGVyc29uID09IHNrYXRFbnRyaWVzV2l0aFR3b1BlcnNvbnMsIElzLlRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG90aGVyUGVyc29uID0gcGVyc29uID09IFBlcnNvbi5QMSA/IG5ldyBPd25lcnNoaXAoMCwgMSkgOiBuZXcgT3duZXJzaGlwKDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1haW5QZXJzb24gID0gcGVyc29uID09IFBlcnNvbi5QMSA/IG5ldyBPd25lcnNoaXAoMSkgOiBuZXcgT3duZXJzaGlwKDAsIDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNwb3VzZT0gbmV3IFBlcnNvbgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiUGVyc29uIDIiLAogICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZSA9IGNhbGN1bGF0aW9uWWVhci04MCwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSBwZXJzb24gPT0gS2VybmVsLkVudW1zLlBlcnNvbi5QMiA/IDg1IDogOTAsCiAgICAgICAgICAgICAgICAgICAgUGF5c0tpcmtlc2thdCA9IHRydWUsCiAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPSBHZW5lcmF0ZVB1YmxpY0JlbmVmaXRzKCkKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdFdpdGhUd29QZXJzb25zID0gRXhlY3V0ZUNhbGN1bGF0aW9uKHByb2ZpbGUsIHByb2R1Y3RzUGVyc29uLkNvbmNhdChwcm9kdWN0c090aGVyUGVyc29uKS5Ub0FycmF5KCkpOwo=</text>
+      <register name="4" type="4">
+        <text>new Person
+                {
+                    Name = &quot;Person 1&quot;,
+                    BirthDate = calculationYear-80,
+                    PensionAge = 65,
+                    DeathAge = person == Kernel.Enums.Person.P1 ? 85 : 90,
+                    PaysKirkeskat = true,
+                    Benefits = GeneratePublicBenefits()
+                },</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -289,10 +298,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVzdE5vQWNjb3VudFR5cGVFbnRyaWVzRGlmZmVyZW50RnJvbVplcm8ocHJvZmlsZSwgcGVyc29uLCBwcm9kdWN0c1BlcnNvbi5Db25jYXQocHJvZHVjdHNPdGhlclBlcnNvbikuVG9BcnJheSgpLCBES0FjY291bnRUeXBlLkZyYWRyYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFByb2ZpbGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgUHJpbWFyeSA9IG5ldyBEdG8uSW5wdXQuUHJvZmlsZS5QZXJzb24KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBOYW1lID0gIlBlcnNvbiIsCiAgICAgICAgICAgICAgICAgICAgQmlydGhEYXRlID0gQ2FsY3VsYXRpb25ZZWFyLTgwLAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IHBlcnNvbiA9PSBLZXJuZWwuRW51bXMuUGVyc29uLlAxID8gODUgOiA5MCwKICAgICAgICAgICAgICAgICAgICBQYXlzS2lya2Vza2F0ID0gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBCZW5lZml0cyA9IEdlbmVyYXRlUHVibGljQmVuZWZpdHMoKQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIE1hcnJpZWQgPSB0cnVlCiAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNwb3VzZT0gbmV3IFBlcnNvbgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiUGVyc29uIDIiLAogICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZSA9IGNhbGN1bGF0aW9uWWVhci04MCwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSBwZXJzb24gPT0gS2VybmVsLkVudW1zLlBlcnNvbi5QMiA/IDg1IDogOTAsCiAgICAgICAgICAgICAgICAgICAgUGF5c0tpcmtlc2thdCA9IHRydWUsCiAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPSBHZW5lcmF0ZVB1YmxpY0JlbmVmaXRzKCkKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -301,10 +310,10 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2R1Y3RzUGVyc29uID0gbmV3IExpc3Q8SVByb2R1Y3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBJbmNvbWUKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZCA9IDEsCiAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSAiSW5ka29tc3QgKFBlcnNvbiBtZWQgbGF2aW5ka29tc3QpIiwKICAgICAgICAgICAgICAgICAgICBPd25lcnNoaXAgPSBtYWluUGVyc29uLAogICAgICAgICAgICAgICAgICAgIFR5cGUgPSBES0luY29tZVR5cGUuQWxtaW5kZWxpZ0xvZW5JbmR0YWVndCwKICAgICAgICAgICAgICAgICAgICBBbW91bnQgPSBuZXcgUGF5bWVudEVudHJ5CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBBbW91bnQgPSAyMDAwLAogICAgICAgICAgICAgICAgICAgICAgICBGcm9tID0gVGltZS5DYWxjdWxhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgVG8gPSAyMDIyLAogICAgICAgICAgICAgICAgICAgICAgICBUaW1lc1BhaWRFYWNoWWVhciA9IDEyCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoc2thdEVudHJpZXNXaXRoT25lUGVyc29uID09IHNrYXRFbnRyaWVzV2l0aFR3b1BlcnNvbnMsIElzLlRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
