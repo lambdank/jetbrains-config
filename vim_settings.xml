@@ -156,63 +156,15 @@
         <mark key="[" line="49" column="27" />
         <mark key="]" line="49" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" timestamp="1557814444436">
-        <mark key="'" line="3920" column="23" />
-        <mark key="[" line="3924" column="9" />
-        <mark key="]" line="3925" column="7" />
-        <mark key="." line="3925" column="7" />
-        <mark key="^" line="3925" column="7" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" timestamp="1557817507833">
+        <mark key="'" line="3931" column="14" />
+        <mark key="[" line="2044" column="0" />
+        <mark key="]" line="2044" column="0" />
+        <mark key="^" line="2042" column="33" />
+        <mark key="." line="2044" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
-      <jump line="15" column="22" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
-      <jump line="17" column="37" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
-      <jump line="46" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Financys/Stubs/ProfilData/ProfilDataStub_3022_1_5CE0D9A3-9E6C-47BB-A43B-480C6619EF31.xml" />
-      <jump line="49" column="12" filename="$USER_HOME$/pensure-workshop/calculation-api/TestApp/Program.cs" />
-      <jump line="21" column="52" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" />
-      <jump line="7" column="32" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" />
-      <jump line="110" column="8" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/TestApp/Program.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/TestApp/Program.cs" />
-      <jump line="11" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/TestApp/Program.cs" />
-      <jump line="22" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="59" column="12" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="61" column="12" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="80" column="12" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="81" column="12" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="83" column="12" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="84" column="75" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="86" column="57" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="42" column="16" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="53" column="17" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="70" column="20" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="96" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="109" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="110" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="118" column="16" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="119" column="16" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="14" column="6" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="55" column="22" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="60" column="27" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="63" column="27" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="95" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="101" column="28" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="102" column="28" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="108" column="21" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.cs" />
-      <jump line="16" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
-      <jump line="81" column="68" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
-      <jump line="53" column="46" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" />
-      <jump line="69" column="17" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" />
-      <jump line="52" column="37" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
-      <jump line="51" column="39" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
-      <jump line="49" column="47" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
-      <jump line="36" column="36" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
-      <jump line="257" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" />
-      <jump line="34" column="73" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" />
-      <jump line="126" column="0" filename="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" />
-      <jump line="10" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="205" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6205" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6387" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7134" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -226,8 +178,6 @@
       <jump line="7097" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7809" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="5737" column="83" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="2011" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="2038" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="3098" column="116" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="3139" column="116" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="3176" column="116" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -265,31 +215,81 @@
       <jump line="7008" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7024" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="3918" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6708" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7300" column="84" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7732" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7733" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7744" column="136" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7750" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7753" column="71" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7758" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7759" column="88" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7770" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7776" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7787" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7791" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7858" column="64" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7860" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7867" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7868" column="55" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7970" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7977" column="68" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="32" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="157" column="225" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="158" column="154" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="161" column="132" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="162" column="124" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="549" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="603" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="1218" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="1300" column="75" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2010" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2011" column="54" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2037" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2041" column="40" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3887" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3921" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3923" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="4790" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="5545" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6035" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6064" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6079" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6269" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6275" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="6276" column="41" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="7141" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2038" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="2089" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3652" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3819" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3886" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="3929" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Fra</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Fra</text>
       </register>
       <register name="/" type="4">
-        <text>UtilYear</text>
+        <text>&quot;Fra&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>financys.common.UtilYear</text>
+        <text>+$fra.val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFWYWwgPSBmcmFWYWwgIT09IHVuZGVmaW5lZCA/IGZyYVZhbCA6ICskZnJhLnZhbCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkKHByZWZpeCArICJGcmEiKS52YWwobW9kZWwuRnJhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -302,13 +302,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJChwcmVmaXggKyAiRnJhIikudmFsKG1vZGVsLkZyYSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkKHByZWZpeCArICJGcmEiKS52YWwobW9kZWwuRnJhKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3IERhdGUoKS5nZXRGdWxsWWVhcigpID09IDIwMTUpIC8vIFRPRE86IE1ELSAgUmVtb3ZlIGluIDIwMTYKICAgICAgICAgICAgcmV0dXJuIDIwMTY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJChwcmVmaXggKyAiRnJhIikudmFsKG1vZGVsLkZyYSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
@@ -317,16 +317,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV3IERhdGUoKS5nZXRGdWxsWWVhcigpID09IDIwMTUpIC8vIFRPRE86IE1ELSAgUmVtb3ZlIGluIDIwMTYKICAgICAgICAgICAgcmV0dXJuIDIwMTY7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UtilYear</last-search>
+      <last-search>&quot;Fra&quot;</last-search>
       <last-offset />
-      <last-pattern>UtilYear</last-pattern>
+      <last-pattern>&quot;Fra&quot;</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p1</entry>
         <entry>dea</entry>
         <entry>plotview</entry>
         <entry>tick</entry>
@@ -349,11 +348,12 @@
         <entry>onpersonpersonchanged</entry>
         <entry>onpersonchanged</entry>
         <entry>PensionData_Fra</entry>
-        <entry>Fra</entry>
         <entry>onPersonPersonChanged</entry>
         <entry>OnPensionPersonChanged</entry>
         <entry>PensionData</entry>
         <entry>UtilYear</entry>
+        <entry>Fra</entry>
+        <entry>&quot;Fra&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
