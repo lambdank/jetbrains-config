@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556781988298">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="17" />
-      </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/AccountPlotter.cs" timestamp="1557398239079">
         <mark key="[" line="39" column="116" />
         <mark key="]" line="39" column="116" />
@@ -19,18 +15,10 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Utils/ProfileBuilder.cs" timestamp="1556778866156">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="10" />
-      </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.Designer.cs" timestamp="1557322779940">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccount.cs" timestamp="1557321183034">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="68" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557399091649">
         <mark key="[" line="26" column="52" />
@@ -44,22 +32,10 @@
         <mark key="." line="18" column="65" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleUtil.cs" timestamp="1556798668799">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="151" column="76" />
-      </file>
-      <file name="/Program.cs" timestamp="1557383185411">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="40" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1557229199523">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/Org.OpenAPITools/Controllers/CalculationApi.cs" timestamp="1557301946955">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
         <mark key="[" line="25" column="8" />
@@ -77,10 +53,7 @@
         <mark key="^" line="11" column="80" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/CalculationCore/csharp/src/Org.OpenAPITools/Program.cs" timestamp="1557301795236">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="46" />
-      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKey.cs" timestamp="1557837063847" />
       <file name="/Dummy.txt" timestamp="1557157189550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
@@ -93,22 +66,6 @@
         <mark key="." line="143" column="59" />
         <mark key="^" line="143" column="59" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PersonBirthDate.cs" timestamp="1556781668844">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="54" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/BaseEconomicSuiteTest.cs" timestamp="1556880676515">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="9" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKAssetTypes.cs" timestamp="1556859656431">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="36" />
-      </file>
-      <file name="$USER_HOME$/pensure-workshop/calculation-api/src/Org.OpenAPITools/Model/AdviceEconomicSuiteApiDtoInputProfileProfile.cs" timestamp="1557140958614">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="68" />
-      </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557398899933">
         <mark key="[" line="52" column="52" />
         <mark key="]" line="52" column="62" />
@@ -119,9 +76,11 @@
       <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" timestamp="1557835156950">
         <mark key="'" line="49" column="9" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatement.cs" timestamp="1557836426144" />
       <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/CCA-Library/GetAccount.cs" timestamp="1557734257762">
         <mark key="." line="27" column="60" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" timestamp="1557836652661" />
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" timestamp="1557398676273">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="154" column="98" />
@@ -141,10 +100,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="45" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Extensions/DKInternalFinancialStatementManagerExtensions.cs" timestamp="1557121050916">
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="180" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557832762618">
         <mark key="[" line="42" column="20" />
         <mark key="]" line="42" column="21" />
@@ -157,10 +112,6 @@
         <mark key="]" line="55" column="76" />
         <mark key="." line="55" column="76" />
         <mark key="^" line="55" column="76" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Sikkerhed.cs" timestamp="1557379945832">
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="52" />
       </file>
     </filemarks>
     <jumps>
