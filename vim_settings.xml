@@ -115,6 +115,10 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountInputItemReference.cs" timestamp="1557835393556" />
+      <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" timestamp="1557835156950">
+        <mark key="'" line="49" column="9" />
+      </file>
       <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/CCA-Library/GetAccount.cs" timestamp="1557734257762">
         <mark key="." line="27" column="60" />
       </file>
@@ -160,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6387" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="7134" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6280" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6277" column="87" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6324" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -260,6 +262,8 @@
       <jump line="3886" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="3929" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="2050" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
+      <jump line="65" column="1" filename="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" />
+      <jump line="49" column="9" filename="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +273,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;Fra&quot;</text>
+        <text>datamember</text>
       </register>
       <register name="0" type="4">
         <text>+$fra.val()</text>
@@ -315,13 +319,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;Fra&quot;</last-search>
+      <last-search>datamember</last-search>
       <last-offset />
-      <last-pattern>&quot;Fra&quot;</last-pattern>
+      <last-pattern>datamember</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dea</entry>
         <entry>plotview</entry>
         <entry>tick</entry>
         <entry>step</entry>
@@ -349,6 +352,7 @@
         <entry>UtilYear</entry>
         <entry>Fra</entry>
         <entry>&quot;Fra&quot;</entry>
+        <entry>datamember</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
@@ -369,8 +373,8 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>set ic</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
