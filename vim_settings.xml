@@ -141,11 +141,12 @@
         <mark key="[" line="396" column="0" />
         <mark key="]" line="396" column="180" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557736857296">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="51" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557832762618">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+        <mark key="." line="42" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/EntryAnnotation.cs" timestamp="1557739456322" />
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/IO.Swagger/Client/ApiClient.cs" timestamp="1557383536725">
         <mark key="[" line="55" column="41" />
         <mark key="]" line="55" column="76" />
@@ -260,11 +261,11 @@
       <jump line="2050" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>Fra</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>&quot;Fra&quot;</text>
