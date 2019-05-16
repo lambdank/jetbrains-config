@@ -163,7 +163,7 @@
         <mark key="]" line="38" column="145" />
         <mark key="." line="38" column="145" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" timestamp="1558005191906">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" timestamp="1558008977063">
         <mark key="[" line="30" column="123" />
         <mark key="]" line="30" column="123" />
         <mark key="." line="30" column="123" />
@@ -548,10 +548,10 @@
         <mark key="]" line="72" column="88" />
         <mark key="." line="72" column="88" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/TaxAndBenefits/AdapterRules/AdapterRuleInputSourceOutputSinkTest.cs" timestamp="1558008293710">
-        <mark key="[" line="582" column="57" />
-        <mark key="]" line="582" column="57" />
-        <mark key="." line="582" column="57" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/TaxAndBenefits/AdapterRules/AdapterRuleInputSourceOutputSinkTest.cs" timestamp="1558009096844">
+        <mark key="[" line="1192" column="57" />
+        <mark key="]" line="1192" column="57" />
+        <mark key="." line="1192" column="57" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatCalculate.cs" timestamp="1558005066436">
         <mark key="[" line="16" column="0" />
@@ -693,10 +693,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, new EntryAnnotation(&quot;&quot;)</text>
+        <text encoding="base64">LCBJdC5Jc0FueTxFbnRyeUFubm90YXRpb24+KCk=</text>
       </register>
       <register name="-" type="4">
-        <text>, new EntryAnnotation(&quot;&quot;)</text>
+        <text encoding="base64">LCBJdC5Jc0FueTxFbnRyeUFubm90YXRpb24+KCk=</text>
       </register>
       <register name="/" type="4">
         <text>can</text>
