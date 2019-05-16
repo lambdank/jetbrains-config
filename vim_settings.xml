@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManagerExtensions.cs" timestamp="1557999689998">
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="34" column="70" />
+        <mark key="." line="34" column="70" />
+      </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/AccountPlotter.cs" timestamp="1557398239079">
         <mark key="[" line="39" column="116" />
         <mark key="]" line="39" column="116" />
@@ -15,14 +20,29 @@
         <mark key="." line="59" column="44" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Plot.Designer.cs" timestamp="1557322779940">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/AdapterRule/IAdapterRuleCalculate.cs" timestamp="1557999720358">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1557999705173">
+        <mark key="[" line="92" column="131" />
+        <mark key="]" line="92" column="131" />
+        <mark key="." line="92" column="131" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/MutableEntry.cs" timestamp="1557999840202">
+        <mark key="[" line="45" column="157" />
+        <mark key="]" line="45" column="157" />
+        <mark key="." line="45" column="157" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/store/budgetConst.js" timestamp="1557985796062">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="24" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/AdapterRule/IAdapterRuleInputSourceOutputSink.cs" timestamp="1557999726001">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/Program.cs" timestamp="1557399091649">
         <mark key="[" line="26" column="52" />
@@ -30,26 +50,21 @@
         <mark key="." line="26" column="58" />
         <mark key="^" line="26" column="58" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/AdapterRule/AdapterRule.cs" timestamp="1557999879774">
+        <mark key="[" line="101" column="74" />
+        <mark key="]" line="101" column="74" />
+        <mark key="." line="101" column="74" />
+      </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/Program.cs" timestamp="1557383324831">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="65" />
         <mark key="." line="18" column="65" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/EnumHelper.cs" timestamp="1557229199523">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PieChart.cs" timestamp="1557398877386">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1557999864066">
+        <mark key="[" line="376" column="144" />
+        <mark key="]" line="376" column="144" />
+        <mark key="." line="376" column="144" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnDeathUtils.cs" timestamp="1557737372288">
         <mark key="[" line="12" column="47" />
@@ -57,17 +72,15 @@
         <mark key="^" line="11" column="80" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557157189550">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/BinaryOperationNode.cs" timestamp="1557999798121">
+        <mark key="[" line="85" column="104" />
+        <mark key="]" line="85" column="104" />
+        <mark key="." line="85" column="104" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/OutputHelper.cs" timestamp="1557468704154">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="143" column="55" />
-        <mark key="]" line="143" column="59" />
-        <mark key="." line="143" column="59" />
-        <mark key="^" line="143" column="59" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/ConstMulNode.cs" timestamp="1557999814455">
+        <mark key="[" line="52" column="137" />
+        <mark key="]" line="52" column="137" />
+        <mark key="." line="52" column="137" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/PlotHandler.cs" timestamp="1557398899933">
         <mark key="[" line="52" column="52" />
@@ -75,31 +88,24 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/EntryFormatters.cs" timestamp="1557999832762">
+        <mark key="[" line="8" column="117" />
+        <mark key="]" line="8" column="117" />
+        <mark key="." line="8" column="117" />
+      </file>
       <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" timestamp="1557835156950">
         <mark key="'" line="49" column="9" />
-      </file>
-      <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/CCA-Library/GetAccount.cs" timestamp="1557734257762">
-        <mark key="." line="27" column="60" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1557991318130">
-        <mark key="'" line="381" column="39" />
-        <mark key="[" line="381" column="39" />
-        <mark key="]" line="381" column="40" />
-        <mark key="." line="381" column="40" />
-        <mark key="^" line="381" column="39" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" timestamp="1557398676273">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="154" column="98" />
-        <mark key="]" line="154" column="99" />
-        <mark key="." line="154" column="99" />
-        <mark key="^" line="82" column="134" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotManager.cs" timestamp="1557397544473">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1557999780785">
+        <mark key="[" line="664" column="130" />
+        <mark key="]" line="664" column="130" />
+        <mark key="." line="664" column="130" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/WindowsFormsApp/PlotHelpers.cs" timestamp="1557468740542">
         <mark key="[" line="0" column="0" />
@@ -108,11 +114,12 @@
         <mark key="^" line="45" column="52" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" timestamp="1557991261598">
-        <mark key="'" line="409" column="8" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-        <mark key="^" line="163" column="15" />
+        <mark key="'" line="403" column="8" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/Entry.cs" timestamp="1557999824237">
+        <mark key="[" line="52" column="121" />
+        <mark key="]" line="52" column="121" />
+        <mark key="." line="52" column="121" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557832762618">
         <mark key="[" line="42" column="20" />
@@ -230,11 +237,11 @@
       <jump line="381" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIgPSBhZHZpY2UucmVhY3RCcmlkZ2UuY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, annotation</text>
       </register>
       <register name="-" type="4">
-        <text>canAddAdditionalLoenindkomstFoerAMB</text>
+        <text>, annotation</text>
       </register>
       <register name="/" type="4">
         <text>loenind</text>
@@ -243,16 +250,16 @@
         <text>advice.reactBridge.canAddAdditionalLoenindkomstFoerAMB()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIgPSBhZHZpY2UucmVhY3RCcmlkZ2UuY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhbm5vdGF0aW9uID0gX2NhbGN1bGF0ZS5HZXRBbm5vdGF0aW9uKGNvbnRleHQsIHNhdHNJbnB1dCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIE5vIGZ1cnRoZXIgTG9lbmluZGtvbXN0Rm9lckFNQiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhbm5vdGF0aW9uID0gX2NhbGN1bGF0ZS5HZXRBbm5vdGF0aW9uKGNvbnRleHQsIHNhdHNJbnB1dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhbm5vdGF0aW9uID0gX2NhbGN1bGF0ZS5HZXRBbm5vdGF0aW9uKGNvbnRleHQsIHNhdHNJbnB1dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImFubm90YXRpb24iPkVudHJ5LXNwZWNpZmljIGFubm90YXRpb248L3BhcmFtPgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -265,22 +272,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJlc3RvcmVzIHJ1bGUgb3V0cHV0CiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InllYXIiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJjb250ZXh0Ij48L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ib3V0cHV0Ij48L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYW5ub3RhdGlvbiI+PC9wYXJhbT4KICAgICAgICB2b2lkIFJlc3RvcmVPdXRwdXQoaW50IHllYXIsIElDYWxjdWxhdGlvbkNvbnRleHQgY29udGV4dCwgVE91dCBvdXRwdXQsIEVudHJ5QW5ub3RhdGlvbiBhbm5vdGF0aW9uKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChqID4gMSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgZW50cnkgYW5ub3RhdGlvbgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJjb250ZXh0Ij5Db250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InNhdHNJbnB1dCI+U2F0cyBpbnB1dDwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPkVudHJ5IGFubm90YXRpb248L3JldHVybnM+CiAgICAgICAgRW50cnlBbm5vdGF0aW9uIEdldEFubm90YXRpb24oSUNhbGN1bGF0aW9uQ29udGV4dCBjb250ZXh0LCBUU2F0c0luIHNhdHNJbnB1dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJldHVybnMgZW50cnkgYW5ub3RhdGlvbgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJjb250ZXh0Ij5Db250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InNhdHNJbnB1dCI+U2F0cyBpbnB1dDwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPkVudHJ5IGFubm90YXRpb248L3JldHVybnM+CiAgICAgICAgRW50cnlBbm5vdGF0aW9uIEdldEFubm90YXRpb24oSUNhbGN1bGF0aW9uQ29udGV4dCBjb250ZXh0LCBUU2F0c0luIHNhdHNJbnB1dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
