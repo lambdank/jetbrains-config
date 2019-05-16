@@ -81,12 +81,12 @@
       <file name="C:/repo/financialmodeling/BP Api Client/v8.0.0/CCA-Library/GetAccount.cs" timestamp="1557734257762">
         <mark key="." line="27" column="60" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1557989027496">
-        <mark key="'" line="383" column="32" />
-        <mark key="[" line="375" column="24" />
-        <mark key="]" line="375" column="24" />
-        <mark key="." line="375" column="24" />
-        <mark key="^" line="373" column="74" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1557991318130">
+        <mark key="'" line="381" column="39" />
+        <mark key="[" line="381" column="39" />
+        <mark key="]" line="381" column="40" />
+        <mark key="." line="381" column="40" />
+        <mark key="^" line="381" column="39" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/SwaggerCodegen/src/TestNetStandard/CalculationContractProvider.cs" timestamp="1557398676273">
         <mark key="'" line="257" column="0" />
@@ -107,12 +107,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="45" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" timestamp="1557988961694">
-        <mark key="'" line="408" column="8" />
-        <mark key="[" line="162" column="78" />
-        <mark key="]" line="162" column="112" />
-        <mark key="." line="162" column="113" />
-        <mark key="^" line="156" column="47" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" timestamp="1557991261598">
+        <mark key="'" line="409" column="8" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="163" column="15" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1557832762618">
         <mark key="[" line="42" column="20" />
@@ -128,9 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6683" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="6695" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="6701" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6752" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6809" column="60" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="6825" column="60" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -225,34 +222,37 @@
       <jump line="356" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
       <jump line="407" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
       <jump line="377" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="381" column="64" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="382" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="383" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="458" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="904" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="1290" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
+      <jump line="381" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>flag indicating whether an additional LoenindkomstFoerAMBs can be added to the store</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIgPSBhZHZpY2UucmVhY3RCcmlkZ2UuY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>flag indicating whether an additional LoenindkomstFoerAMBs can be added to the store</text>
+        <text>canAddAdditionalLoenindkomstFoerAMB</text>
       </register>
       <register name="/" type="4">
-        <text>foer</text>
+        <text>loenind</text>
       </register>
       <register name="0" type="4">
-        <text>LoenindkomstFoerAMB</text>
+        <text>advice.reactBridge.canAddAdditionalLoenindkomstFoerAMB()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIE5vIGZ1cnRoZXIgTG9lbmluZGtvbXN0Rm9lckFNQiAK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIgPSBhZHZpY2UucmVhY3RCcmlkZ2UuY2FuQWRkQWRkaXRpb25hbExvZW5pbmRrb21zdEZvZXJBTUIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbikK</text>
+        <text encoding="base64">ICAgICAqIE5vIGZ1cnRoZXIgTG9lbmluZGtvbXN0Rm9lckFNQiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -265,31 +265,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChqID4gMSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChqID4gMSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZENhdGVnb3J5U2VsZWN0LnB1c2goY3JlYXRlT3B0aW9uKGNhdGVnb3JpZXNbaV0uY2F0ZWdvcnlJZCwgY2F0ZWdvcmllc1tpXS5uYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>foer</last-search>
+      <last-search>loenind</last-search>
       <last-offset />
-      <last-pattern>foer</last-pattern>
+      <last-pattern>loenind</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -297,8 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onPersonPersonChanged</entry>
-        <entry>OnPensionPersonChanged</entry>
         <entry>PensionData</entry>
         <entry>UtilYear</entry>
         <entry>Fra</entry>
@@ -317,6 +315,8 @@
         <entry>rendercategory</entry>
         <entry>loenfor</entry>
         <entry>foer</entry>
+        <entry>londind</entry>
+        <entry>loenind</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
