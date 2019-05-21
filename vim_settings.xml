@@ -90,12 +90,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetAgesRequest.cs" timestamp="1558420679394">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetAgesRequest.cs" timestamp="1558427406290">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="59" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="6" column="59" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/PersonAppliers/SetAgesEventApplier.cs" timestamp="1558422202767">
         <mark key="[" line="14" column="26" />
@@ -421,11 +421,11 @@
       <jump line="0" column="12" filename="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/PersonAppliers/EfterloenSetEventApplierTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5jbHVkZShuZXcgQ2FzZVJlcXVlc3RCYXNlVmFsaWRhdG9yKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">R2V0cyBvciBzZXRzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>ExpectedDeathAge</text>
+        <text encoding="base64">R2V0cyBvciBzZXRzIA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
