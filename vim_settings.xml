@@ -38,6 +38,12 @@
         <mark key="]" line="37" column="99" />
         <mark key="." line="37" column="99" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/CalculationPersonMapper.cs" timestamp="1558360604922">
+        <mark key="[" line="86" column="83" />
+        <mark key="]" line="86" column="83" />
+        <mark key="^" line="86" column="83" />
+        <mark key="." line="86" column="83" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoernetilskudDoed/DKBoernetilskudDoedCalculate.cs" timestamp="1558004095093">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -63,6 +69,13 @@
         <mark key="[" line="116" column="105" />
         <mark key="]" line="116" column="105" />
         <mark key="." line="116" column="105" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" timestamp="1558360252086">
+        <mark key="'" line="29" column="68" />
+        <mark key="[" line="244" column="12" />
+        <mark key="]" line="244" column="37" />
+        <mark key="^" line="244" column="37" />
+        <mark key="." line="244" column="37" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoernetilskudDoed/DKBoernetilskudDoedInputSourceOutputSink.cs" timestamp="1558004111114">
         <mark key="[" line="26" column="105" />
@@ -182,8 +195,12 @@
         <mark key="." line="38" column="145" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/Repositories/SatsDataRepository.cs" timestamp="1558357519234" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1558349904770">
-        <mark key="'" line="1005" column="56" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1558360404661">
+        <mark key="'" line="1006" column="56" />
+        <mark key="[" line="2013" column="104" />
+        <mark key="]" line="2013" column="105" />
+        <mark key="." line="2013" column="105" />
+        <mark key="^" line="2013" column="105" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/EntryFormatters.cs" timestamp="1557999832762">
         <mark key="[" line="8" column="117" />
@@ -331,6 +348,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Person/DKTaxBenefitsPerson.cs" timestamp="1558360006568">
+        <mark key="[" line="11" column="209" />
+        <mark key="]" line="11" column="209" />
+        <mark key="^" line="11" column="205" />
+        <mark key="." line="11" column="209" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/ConstMulNode.cs" timestamp="1557999814455">
         <mark key="[" line="52" column="137" />
@@ -609,6 +632,12 @@
         <mark key="]" line="69" column="165" />
         <mark key="." line="69" column="165" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PublicBenefits.cs" timestamp="1558360586908">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="50" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="33" column="33" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/Entry.cs" timestamp="1557999824237">
         <mark key="[" line="52" column="121" />
         <mark key="]" line="52" column="121" />
@@ -636,8 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7758" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="7759" column="88" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7770" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7776" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
       <jump line="7787" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
@@ -736,19 +763,21 @@
       <jump line="839" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="939" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1005" column="56" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="19" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" />
+      <jump line="29" column="68" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuaW9yZ29kdGf4cmVsc2UKCQkJewogICAgICAgICAgICAJdmFyIFNlbmlvcmdvZHRnb2VyZWxzZUNhdGVnb3JpZXMgPSBuZXcgSVNhdHNEYXRhQ2F0ZWdvcnlbMV07CgoJCQkJLy9TZW5pb3Jnb2R0Z/hyZWxzZQoJCQkJdmFyIFNlbmlvcmdvZHRnb2VyZWxzZUVudHJpZXMgPSBuZXcgW10KCQkJCXsKCQkJCQluZXcgU2F0c0RhdGFFbnRyeSgpLkZpbGwoQCJTZW5pb3Jnb2R0Z/hyZWxzZXMgYmVs+GIiLCBAInNlbmlvcmdvZHRnb2VyZWxzZUJlbG9lYiIsIHRydWUsIGZhbHNlLCBuZXcgU2VyaWVzPGludCxkZWNpbWFsPiB7ezIwMDksIDBtfSx7MjAxMCwgMG19LHsyMDExLCAwbX0sezIwMTIsIDBtfSx7MjAxMywgMG19LHsyMDE0LCAwbX0sezIwMTUsIDBtfSx7MjAxNiwgMG19LHsyMDE3LCAwbX0sezIwMTgsIDBtfSx7MjAxOSwgMzAwMDBtfX0uQnVpbGQoKSwgbnVsbCwgZmFsc2UsIDAsIGZhbHNlLCBmYWxzZSksCiAgICAgICAgICAgIAl9OwogICAgICAgICAgICAJU2VuaW9yZ29kdGdvZXJlbHNlQ2F0ZWdvcmllc1swXSA9IG5ldyBTYXRzRGF0YUNhdGVnb3J5KCkuRmlsbChAIlNlbmlvcmdvZHRn+HJlbHNlIiwgQCJTZW5pb3Jnb2R0Z29lcmVsc2UiLCAyNCkuRmlsbChTZW5pb3Jnb2R0Z29lcmVsc2VFbnRyaWVzKTsKCiAgICAgICAgICAgIAlncm91cHNbMTFdID0gbmV3IFNhdHNEYXRhR3JvdXAoKS5GaWxsKEAiU2VuaW9yZ29kdGf4cmVsc2UiLCBAIlNlbmlvcmdvZHRnb2VyZWxzZSIsIDExKS5GaWxsKFNlbmlvcmdvZHRnb2VyZWxzZUNhdGVnb3JpZXMpOwogICAgICAgICAgICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>IsEntitledForSeniorgodtgoerelse</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>AeldreCheck</text>
       </register>
       <register name="/" type="4">
-        <text>senior</text>
+        <text>aeldre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuaW9yZ29kdGf4cmVsc2UKCQkJewogICAgICAgICAgICAJdmFyIFNlbmlvcmdvZHRnb2VyZWxzZUNhdGVnb3JpZXMgPSBuZXcgSVNhdHNEYXRhQ2F0ZWdvcnlbMV07CgoJCQkJLy9TZW5pb3Jnb2R0Z/hyZWxzZQoJCQkJdmFyIFNlbmlvcmdvZHRnb2VyZWxzZUVudHJpZXMgPSBuZXcgW10KCQkJCXsKCQkJCQluZXcgU2F0c0RhdGFFbnRyeSgpLkZpbGwoQCJTZW5pb3Jnb2R0Z/hyZWxzZXMgYmVs+GIiLCBAInNlbmlvcmdvZHRnb2VyZWxzZUJlbG9lYiIsIHRydWUsIGZhbHNlLCBuZXcgU2VyaWVzPGludCxkZWNpbWFsPiB7ezIwMDksIDBtfSx7MjAxMCwgMG19LHsyMDExLCAwbX0sezIwMTIsIDBtfSx7MjAxMywgMG19LHsyMDE0LCAwbX0sezIwMTUsIDBtfSx7MjAxNiwgMG19LHsyMDE3LCAwbX0sezIwMTgsIDBtfSx7MjAxOSwgMzAwMDBtfX0uQnVpbGQoKSwgbnVsbCwgZmFsc2UsIDAsIGZhbHNlLCBmYWxzZSksCiAgICAgICAgICAgIAl9OwogICAgICAgICAgICAJU2VuaW9yZ29kdGdvZXJlbHNlQ2F0ZWdvcmllc1swXSA9IG5ldyBTYXRzRGF0YUNhdGVnb3J5KCkuRmlsbChAIlNlbmlvcmdvZHRn+HJlbHNlIiwgQCJTZW5pb3Jnb2R0Z29lcmVsc2UiLCAyNCkuRmlsbChTZW5pb3Jnb2R0Z29lcmVsc2VFbnRyaWVzKTsKCiAgICAgICAgICAgIAlncm91cHNbMTFdID0gbmV3IFNhdHNEYXRhR3JvdXAoKS5GaWxsKEAiU2VuaW9yZ29kdGf4cmVsc2UiLCBAIlNlbmlvcmdvZHRnb2VyZWxzZSIsIDExKS5GaWxsKFNlbmlvcmdvZHRnb2VyZWxzZUNhdGVnb3JpZXMpOwogICAgICAgICAgICB9Owo=</text>
+      <register name="0" type="4">
+        <text>IsEntitledForSeniorgodtgoerelse</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuU2VuaW9yZ29kdGdvZXJlbHNlID0gc2F0c2VyLlJldHJpZXZlQ2F0ZWdvcnk8U2VuaW9yZ29kdGdvZXJlbHNlPigpOwo=</text>
@@ -795,9 +824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>senior</last-search>
+      <last-search>aeldre</last-search>
       <last-offset />
-      <last-pattern>senior</last-pattern>
+      <last-pattern>aeldre</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -805,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inputdialoginputcategory</entry>
         <entry>for</entry>
         <entry encoding="base64">Zm9yIA==</entry>
         <entry>loenfoer</entry>
@@ -825,6 +853,7 @@
         <entry>beregnskat</entry>
         <entry>sats</entry>
         <entry>senior</entry>
+        <entry>aeldre</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
