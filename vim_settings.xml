@@ -59,6 +59,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="26" column="9" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Mapping/DeductionMapperTests.cs" timestamp="1558529716491" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/ScenarioAppliers/ScenarioRemovedEventApplierTests.cs" timestamp="1558510306806">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="9" />
@@ -231,6 +232,7 @@
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="68" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/Engagements/Deduction.cs" timestamp="1558503352496" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/Other/Validation/FoundationValidator.cs" timestamp="1558522071584">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="56" />
@@ -323,6 +325,7 @@
         <mark key="^" line="269" column="159" />
         <mark key="." line="269" column="159" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1558416576602" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Validation/DeductionValidatorTests.cs" timestamp="1558505868672">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="75" column="9" />
@@ -331,6 +334,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="9" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetInvestmentProfileRequest.cs" timestamp="1558441819278" />
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetAgesRequestExample.cs" timestamp="1558422930043">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="18" />
@@ -355,6 +359,7 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetPublicBenefitsRequest.cs" timestamp="1558419477059" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetInvestmentProfileRequestExample.cs" timestamp="1558504336725">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="39" />
@@ -381,6 +386,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="21" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/Repositories/SatsDataRepository.cs" timestamp="1558357519234" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/SynchronizationStatus.cs" timestamp="1558444459815">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="46" />
@@ -502,6 +508,7 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="37" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/ScenarioAppliers/ScenarioAddedEventApplier.cs" timestamp="1558443279174" />
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/PersonAppliers/SecondaryAdultAddedEventApplier.cs" timestamp="1558422195105">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="21" column="9" />
