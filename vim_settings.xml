@@ -248,6 +248,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Application.DB.Scripts/UpdateScripts/20190521.Advice.Common.Seniorgodtgoerelse.sql" timestamp="1558525305087">
+        <mark key="[" line="13" column="109" />
+        <mark key="]" line="13" column="110" />
+        <mark key="." line="13" column="110" />
+        <mark key="^" line="13" column="111" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Model/TableRows/ProfilTableRow.cs" timestamp="1558429896254">
         <mark key="[" line="112" column="15" />
         <mark key="]" line="112" column="19" />
@@ -580,16 +586,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgT2JleC5QbGF0Zm9ybS5BcGkuTW9kZWwuQmFzZVR5cGVzLk90aGVyLlZhbGlkYXRpb247CnVzaW5nIE9iZXguUGxhdGZvcm0uTW9kZWwuRG9tYWluLkJhc2VUeXBlcy5PdGhlcjsK</text>
+        <text encoding="base64">SUYgTk9UIEVYSVNUUwoJKFNFTEVDVCAqIEZST00gc3lzLmNvbHVtbnMgV0hFUkUgb2JqZWN0X2lkID0gT0JKRUNUX0lEKE4nW2Rib10uW1Byb2ZpbF0nKSBBTkQgbmFtZSA9ICdTZW5pb3Jnb2R0Z29lcmVsc2VQMScpCgpCRUdJTgoJQUxURVIgVEFCTEUgW2Rib10uW1Byb2ZpbF0KCUFERCBTZW5pb3Jnb2R0Z29lcmVsc2VQMSBCSVQgTk9UIE5VTEwKCUNPTlNUUkFJTlQgW0RGX1Byb2ZpbGVfU2VuaW9yZ29kdGdvZXJlbHNlUDFdICBERUZBVUxUICgwKQoKCUFMVEVSIFRBQkxFIFtkYm9dLltQcm9maWxdCglEUk9QIENPTlNUUkFJTlQgW0RGX1Byb2ZpbGVfU2VuaW9yZ29kdGdvZXJlbHNlUDFdCkVORAo=</text>
       </register>
       <register name="-" type="4">
-        <text>PositiveInterest</text>
+        <text>DF_Pension_UseRetentionTax</text>
       </register>
       <register name="/" type="4">
         <text>child</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguTGlxdWlkaXR5QWNjb3VudCkuU2V0VmFsaWRhdG9yKG5ldyBMaXF1aWRpdHlBY2NvdW50VmFsaWRhdG9yKHByb3ZpZGVyKSk7Cg==</text>
+        <text encoding="base64">SUYgTk9UIEVYSVNUUwoJKFNFTEVDVCAqIEZST00gc3lzLmNvbHVtbnMgV0hFUkUgb2JqZWN0X2lkID0gT0JKRUNUX0lEKE4nW2Rib10uW1Byb2ZpbF0nKSBBTkQgbmFtZSA9ICdTZW5pb3Jnb2R0Z29lcmVsc2VQMScpCgpCRUdJTgoJQUxURVIgVEFCTEUgW2Rib10uW1Byb2ZpbF0KCUFERCBTZW5pb3Jnb2R0Z29lcmVsc2VQMSBCSVQgTk9UIE5VTEwKCUNPTlNUUkFJTlQgW0RGX1Byb2ZpbGVfU2VuaW9yZ29kdGdvZXJlbHNlUDFdICBERUZBVUxUICgwKQoKCUFMVEVSIFRBQkxFIFtkYm9dLltQcm9maWxdCglEUk9QIENPTlNUUkFJTlQgW0RGX1Byb2ZpbGVfU2VuaW9yZ29kdGdvZXJlbHNlUDFdCkVORAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgT2JleC5QbGF0Zm9ybS5BcGkuTW9kZWwuQmFzZVR5cGVzLk90aGVyLlZhbGlkYXRpb247CnVzaW5nIE9iZXguUGxhdGZvcm0uTW9kZWwuRG9tYWluLkJhc2VUeXBlcy5PdGhlcjsK</text>
