@@ -489,6 +489,12 @@
         <mark key="]" line="25" column="216" />
         <mark key="." line="25" column="216" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" timestamp="1558604775320">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK.Tests/Gain/GainCalculatorTaxTest.cs" timestamp="1558008398339">
         <mark key="[" line="36" column="61" />
         <mark key="]" line="36" column="61" />
@@ -827,16 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2038" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="2089" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="3652" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="3819" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="3886" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="3929" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="2050" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/js/financys.input.js" />
-      <jump line="65" column="1" filename="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" />
-      <jump line="49" column="9" filename="C:/repo/financialmodeling/BP Api Client/v8.0.0/src/IO.Swagger/Model/AdviceEconomicSuiteFinancialStatementAccountInputKey.cs" />
-      <jump line="163" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
       <jump line="208" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
       <jump line="269" column="18" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
       <jump line="281" column="41" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
@@ -927,6 +923,16 @@
       <jump line="208" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.EconomicSuite.Applications.Mapping.Tests/SkatInputData/Profile/PersonMapperTest.cs" />
       <jump line="210" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.EconomicSuite.Applications.Mapping.Tests/SkatInputData/Profile/PersonMapperTest.cs" />
       <jump line="214" column="72" filename="C:/repo/advice_productcustomer/product/Applications/Advice.EconomicSuite.Applications.Mapping.Tests/SkatInputData/Profile/PersonMapperTest.cs" />
+      <jump line="55" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="57" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="58" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="59" column="74" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="66" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="67" column="88" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="10" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="25" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="27" column="299" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
+      <jump line="34" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -936,7 +942,7 @@
         <text>Spouse</text>
       </register>
       <register name="/" type="4">
-        <text>aeldre</text>
+        <text>validat</text>
       </register>
       <register name="0" type="4">
         <text>[aeldrecheckP1], [aeldrecheckP2]</text>
@@ -987,9 +993,9 @@ int</text>
       </register>
     </registers>
     <search>
-      <last-search>aeldre</last-search>
+      <last-search>validat</last-search>
       <last-offset />
-      <last-pattern>aeldre</last-pattern>
+      <last-pattern>validat</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -997,7 +1003,6 @@ int</text>
     </search>
     <history>
       <history-search>
-        <entry>rendercat</entry>
         <entry>loen</entry>
         <entry>foeramb</entry>
         <entry>count</entry>
@@ -1017,6 +1022,7 @@ int</text>
         <entry>maptoentity</entry>
         <entry>senior</entry>
         <entry>aeldre</entry>
+        <entry>validat</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
