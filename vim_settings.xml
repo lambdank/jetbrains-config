@@ -1033,6 +1033,10 @@
         <mark key="." line="31" column="62" />
         <mark key="^" line="31" column="62" />
       </file>
+      <file name="C:/repo/advice_product/Applications/Advice.FormuePlan.DB.Tests/App.config" timestamp="1558590483978">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="113" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/Adapter/StatementManagerRestoreAdapter.cs" timestamp="1558005780172">
         <mark key="[" line="78" column="50" />
         <mark key="]" line="78" column="50" />
@@ -1290,8 +1294,8 @@
       <jump line="27" column="8" filename="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/ScenarioAppliers/LiquidityAccountSetEventApplierTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2R0b0ZpeHR1cmUgPSBDYXNlRHRvRml4dHVyZUhlbHBlci5HZXRGaXh0dXJlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>testAdvicePlatformTestsPENPLAN6456</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -1299,8 +1303,8 @@
       <register name="/" type="4">
         <text>validevent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2R0b0ZpeHR1cmUgPSBEdG9GaXh0dXJlSGVscGVyLkdldEZpeHR1cmUoKTsK</text>
+      <register name="0" type="4">
+        <text>testAdvicePlatformTestsPENPLAN6456</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2R0b0ZpeHR1cmUgPSBDYXNlRHRvRml4dHVyZUhlbHBlci5HZXRGaXh0dXJlKCk7Cg==</text>
