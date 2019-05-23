@@ -23,6 +23,11 @@
         <mark key="]" line="27" column="85" />
         <mark key="." line="27" column="85" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform.DBTests/app.config" timestamp="1558594626422">
+        <mark key="[" line="4" column="80" />
+        <mark key="]" line="4" column="110" />
+        <mark key="." line="4" column="80" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativSkattepligtigIndkomstOverfoersel/DKNegativSkattepligtigIndkomstOverfoerselCalculate.cs" timestamp="1558005338432">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -56,7 +61,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" timestamp="1558593866916" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" timestamp="1558594576391" />
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/ScenarioAppliers/LiquidityAccountSetEventApplier.cs" timestamp="1558443431451">
         <mark key="[" line="17" column="134" />
         <mark key="]" line="17" column="149" />
@@ -144,9 +149,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="26" column="9" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/App.config" timestamp="1558591521308">
-        <mark key="[" line="12" column="103" />
-        <mark key="]" line="12" column="109" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/App.config" timestamp="1558594621361">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="109" />
         <mark key="." line="12" column="109" />
         <mark key="^" line="12" column="109" />
       </file>
@@ -1314,16 +1319,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>testAdvicePlatformTestsPENPLAN6456</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>testAdvicePlatformTestsPENPLAN6456</text>
       </register>
       <register name="/" type="4">
         <text>senior</text>
       </register>
       <register name="0" type="4">
-        <text>bool</text>
+        <text>testAdvicePlatformTestsAPD1854</text>
       </register>
       <register name="1" type="8">
         <text>int
