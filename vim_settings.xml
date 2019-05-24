@@ -224,6 +224,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="123" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Indkomst/IndkomstAndenStatementRule.cs" timestamp="1558699894963">
+        <mark key="[" line="75" column="127" />
+        <mark key="]" line="75" column="135" />
+        <mark key="^" line="75" column="135" />
+        <mark key="." line="75" column="135" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/EntryFormatters.cs" timestamp="1557999832762">
         <mark key="[" line="8" column="117" />
         <mark key="]" line="8" column="117" />
@@ -769,6 +775,9 @@
         <mark key="^" line="269" column="159" />
         <mark key="." line="269" column="159" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1558699189247">
+        <mark key="'" line="12" column="8" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Validation/DeductionValidatorTests.cs" timestamp="1558505868672">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="75" column="9" />
@@ -874,6 +883,11 @@
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/RenameCaseRequestExample.cs" timestamp="1558422723096">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="21" column="5" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1558699622626">
+        <mark key="'" line="1148" column="12" />
+        <mark key="[" line="373" column="33" />
+        <mark key="." line="373" column="35" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/SynchronizationStatus.cs" timestamp="1558444459815">
         <mark key="[" line="2" column="26" />
@@ -1089,6 +1103,10 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/CompositeDecimalBuilder/Indkomst/AktieindkomstTotalCompositeDecimalBuilder.cs" timestamp="1558699282918">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="40" column="155" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" timestamp="1558341991589">
         <mark key="[" line="149" column="71" />
         <mark key="]" line="149" column="81" />
@@ -1292,20 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
-      <jump line="283" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
-      <jump line="440" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/InputDialog.js" />
-      <jump line="373" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="424" column="67" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="427" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="429" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="481" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="878" column="58" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="857" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="365" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="315" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="48" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="45" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="35" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="1288" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="1247" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
@@ -1392,19 +1396,33 @@
       <jump line="122" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/IValidationMessageProvider.cs" />
       <jump line="16" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/SamfundsForudsaetninger.cs" />
       <jump line="50" column="86" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" />
+      <jump line="1538" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="61" column="28" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="373" column="38" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="8" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" />
+      <jump line="11" column="160" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" />
+      <jump line="12" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" />
+      <jump line="371" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="606" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="608" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="613" column="80" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="888" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="889" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="890" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1148" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Primary</text>
+        <text>.Ultimo()</text>
       </register>
       <register name="-" type="4">
-        <text>Primary</text>
+        <text>.Ultimo()</text>
       </register>
       <register name="/" type="4">
-        <text>tidlig</text>
+        <text>aktieindkomst</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2hlbih4ID0+IHguUHJvZmlsZS5QcmltYXJ5ICE9IG51bGwgJiYgeC5Qcm9maWxlLlByaW1hcnkuQmVuZWZpdHMuSXNFbnRpdGxlZEZvclNlbmlvcmdvZHRnb2VyZWxzZSwKICAgICAgICAgICAgICAgICgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUnVsZUZvcihjYWxjdWxhdGlvbkNvbnRleHQgPT4gY2FsY3VsYXRpb25Db250ZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAuTXVzdChjYWxjdWxhdGlvbkNvbnRleHQgPT4gR2V0QWxtaW5kZWxpZ0xvZW5pbmR0YWVndChjYWxjdWxhdGlvbkNvbnRleHQuUHJvZHVjdHMpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BbnkoYWxtaW5kZWxpZ0xvZW5JbmR0YWVndCA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgSXNJbmNvbWVBY3RpdmVJbkVhcmxpZXN0Rm9sa2VwZW5zaW9uWWVhcihjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5QcmltYXJ5LCBhbG1pbmRlbGlnTG9lbkluZHRhZWd0KSkpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>.Ultimo()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQWR2aWNlLktlcm5lbC5TYXRzZXI7Cg==</text>
@@ -1451,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tidlig</last-search>
+      <last-search>aktieindkomst</last-search>
       <last-offset />
-      <last-pattern>tidlig</last-pattern>
+      <last-pattern>aktieindkomst</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1461,7 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>rendercategory</entry>
         <entry>loenfor</entry>
         <entry>foer</entry>
@@ -1469,7 +1486,6 @@
         <entry>loenind</entry>
         <entry>restore</entry>
         <entry>can</entry>
-        <entry>beregnskat</entry>
         <entry>sats</entry>
         <entry>aktie</entry>
         <entry>set</entry>
@@ -1481,6 +1497,8 @@
         <entry>validat</entry>
         <entry>62</entry>
         <entry>tidlig</entry>
+        <entry>beregnskat</entry>
+        <entry>aktieindkomst</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
