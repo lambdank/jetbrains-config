@@ -39,21 +39,57 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Scenario/LiquidityAccountSetEvent.cs" timestamp="1558443420772">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="81" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="16" column="71" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Person/IDKTaxBenefitsPerson.cs" timestamp="1558416717733">
+        <mark key="[" line="72" column="13" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="72" column="30" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Company/CompanyPickerRuleTest.cs" timestamp="1558008238571">
         <mark key="[" line="116" column="105" />
         <mark key="]" line="116" column="105" />
         <mark key="." line="116" column="105" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/PersonAppliers/AgesSetEventApplier.cs" timestamp="1558423763584">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" timestamp="1558594576391" />
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/ScenarioAppliers/LiquidityAccountSetEventApplier.cs" timestamp="1558443431451">
+        <mark key="[" line="17" column="134" />
+        <mark key="]" line="17" column="149" />
+        <mark key="." line="17" column="149" />
+        <mark key="^" line="17" column="149" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoernetilskudDoed/DKBoernetilskudDoedInputSourceOutputSink.cs" timestamp="1558004111114">
         <mark key="[" line="26" column="105" />
         <mark key="]" line="26" column="105" />
         <mark key="." line="26" column="105" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/Case/Validation/ScenarioValidator.cs" timestamp="1558522836217">
+        <mark key="[" line="23" column="88" />
+        <mark key="]" line="23" column="95" />
+        <mark key="." line="23" column="95" />
+        <mark key="^" line="23" column="95" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKGroenCheck/DKGroenCheckCalculate.cs" timestamp="1558005240897">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/TestDomain/TestModel/TestScenario.cs" timestamp="1558431454298">
+        <mark key="[" line="28" column="124" />
+        <mark key="]" line="28" column="140" />
+        <mark key="^" line="28" column="123" />
+        <mark key="." line="28" column="124" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKCalculateCommon.cs" timestamp="1558005825179">
         <mark key="[" line="52" column="146" />
@@ -73,11 +109,11 @@
         <mark key="]" line="31" column="107" />
         <mark key="." line="31" column="107" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/Validators/PersonValidator.cs" timestamp="1558685490487">
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="141" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="78" column="19" />
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1558444227384">
+        <mark key="[" line="259" column="26" />
+        <mark key="]" line="259" column="49" />
+        <mark key="^" line="259" column="49" />
+        <mark key="." line="259" column="49" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/Metrics/AccountMergers/AccountTreeMergerTests.cs" timestamp="1558007846532">
         <mark key="[" line="120" column="103" />
@@ -89,16 +125,20 @@
         <mark key="]" line="22" column="117" />
         <mark key="." line="22" column="117" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Validation/SetAgesRequestValidator.cs" timestamp="1558424460759">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="11" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKPublicPensionsDistribute.cs" timestamp="1558005910134">
         <mark key="[" line="55" column="153" />
         <mark key="]" line="55" column="153" />
         <mark key="." line="55" column="153" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/App.config" timestamp="1558594621361">
-        <mark key="[" line="11" column="80" />
-        <mark key="]" line="11" column="109" />
-        <mark key="." line="12" column="109" />
-        <mark key="^" line="12" column="109" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/TimeMapperUtil.cs" timestamp="1558964236416">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="37" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK/Solver/Insurance/SolverInsuranceHandler.cs" timestamp="1558007479665">
         <mark key="[" line="70" column="335" />
@@ -110,11 +150,12 @@
         <mark key="]" line="92" column="131" />
         <mark key="." line="92" column="131" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1558963121572">
-        <mark key="[" line="40" column="58" />
-        <mark key="]" line="40" column="63" />
-        <mark key="^" line="40" column="63" />
-        <mark key="." line="40" column="63" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1558964709844">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="116" />
+        <mark key="]" line="37" column="129" />
+        <mark key="^" line="37" column="129" />
+        <mark key="." line="37" column="129" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKFoertidspension/DKFoertidspensionInputSourceOutputSink.cs" timestamp="1558004941319">
         <mark key="[" line="36" column="103" />
@@ -135,16 +176,16 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="69" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.Tests/Optimization/SolverUtilitiesTest.cs" timestamp="1558592722281">
-        <mark key="[" line="502" column="15" />
-        <mark key="]" line="502" column="18" />
-        <mark key="." line="502" column="18" />
-        <mark key="^" line="502" column="18" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetAgesRequestExample.cs" timestamp="1558504709836">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Shared/Model.Tests/Domain/BaseTypes/Other/Validation/LiquidAccountValidatorTests.cs" timestamp="1558526499244">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="123" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/EntryFormatters.cs" timestamp="1557999832762">
         <mark key="[" line="8" column="117" />
@@ -171,22 +212,58 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/ProfilData.cs" timestamp="1558592730303">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKJobfradrag/DKJobfradragInputSourceOutputSink.cs" timestamp="1558005293005">
         <mark key="[" line="30" column="98" />
         <mark key="]" line="30" column="98" />
         <mark key="." line="30" column="98" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseSatsSource.cs" timestamp="1558952857213" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform/Api/DataExchange/Models/Profile/ProfileDto.cs" timestamp="1558417617068">
+        <mark key="[" line="60" column="43" />
+        <mark key="]" line="60" column="61" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="59" column="60" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/Other/Mapping/LiquidityAccountMapper.cs" timestamp="1558522451042">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKSkatFoerFradrag/DKSkatFoerFradragInputSourceOutputSink.cs" timestamp="1558005516322">
         <mark key="[" line="30" column="134" />
         <mark key="]" line="30" column="134" />
         <mark key="." line="30" column="134" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Service/TimeService.cs" timestamp="1558963758280">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Advice.EconomicSuite.DK.Tests.csproj" timestamp="1558340361465">
+        <mark key="[" line="666" column="45" />
+        <mark key="]" line="666" column="46" />
+        <mark key="." line="666" column="46" />
+        <mark key="^" line="666" column="45" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/PersonAppliers/SecondaryAdultRemovedEventApplierTests.cs" timestamp="1558431808087">
+        <mark key="[" line="76" column="137" />
+        <mark key="]" line="76" column="142" />
+        <mark key="^" line="76" column="142" />
+        <mark key="." line="76" column="142" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Providers/IProfileDefaultProvider.cs" timestamp="1558415790619">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Other/LiquidityAccount.cs" timestamp="1558502537708">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsindbetalingsFradrag/DKPensionsindbetalingsFradragInputSourceOutputSink.cs" timestamp="1558005426309">
         <mark key="[" line="38" column="89" />
@@ -198,6 +275,12 @@
         <mark key="]" line="99" column="95" />
         <mark key="." line="99" column="95" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Model.Tests/Domain/Case/Validation/DkScenarioValidatorTests.cs" timestamp="1558431631775">
+        <mark key="[" line="93" column="30" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="93" column="19" />
+        <mark key="." line="93" column="54" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKIndkomstskat/DKIndkomstskatCalculate.cs" timestamp="1558005259421">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -208,10 +291,40 @@
         <mark key="[" line="155" column="12" />
         <mark key="]" line="155" column="26" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Mapping/ScenarioMapper.cs" timestamp="1558522359021">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="24" column="69" />
+        <mark key="^" line="24" column="47" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsfradrag/DKPensionsfradragInputSourceOutputSink.cs" timestamp="1558005380253">
         <mark key="[" line="42" column="125" />
         <mark key="]" line="42" column="125" />
         <mark key="." line="42" column="125" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Person/SetAgesEvent.cs" timestamp="1558422034420">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="20" column="11" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Controllers/ScenarioController.cs" timestamp="1558509246402">
+        <mark key="[" line="123" column="166" />
+        <mark key="]" line="123" column="197" />
+        <mark key="^" line="123" column="197" />
+        <mark key="." line="123" column="197" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/Other/Mapping/LiquidityAccountMapper.cs" timestamp="1558527740292">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/LiquidityAccount/LiquidityAccount.cs" timestamp="1558431723255">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Satser/Categories/AutogeneratedSatsDataRepositoryForTestUse.cs" timestamp="1558936571466">
         <mark key="]" line="555" column="13" />
@@ -223,11 +336,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Validators/CalculationContextValidator.cs" timestamp="1558679033458">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/StandardValidationMessageProvider.cs" timestamp="1558685343730">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="127" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKKapitalindkomstDistribute.cs" timestamp="1558005900172">
         <mark key="[" line="88" column="64" />
@@ -264,24 +377,36 @@
         <mark key="]" line="113" column="108" />
         <mark key="." line="113" column="108" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Person/AgesSetEvent.cs" timestamp="1558422288893">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManagerExtensions.cs" timestamp="1557999689998">
         <mark key="[" line="34" column="70" />
         <mark key="]" line="34" column="70" />
         <mark key="." line="34" column="70" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform.DBTests/EngagementData/Repositories/TypedEngagementDataRepositoryTestBase.cs" timestamp="1558601166247">
-        <mark key="[" line="782" column="206" />
-        <mark key="]" line="782" column="211" />
-        <mark key="^" line="782" column="211" />
-        <mark key="." line="782" column="211" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/TaxAndBenefits/AdapterRules/AdapterRuleSatsSourceTest.cs" timestamp="1558953774007" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/Validators/ProfileValidator.cs" timestamp="1558694392605" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Model/SatserModel.cs" timestamp="1558935358047">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1558422510857">
+        <mark key="[" line="253" column="26" />
+        <mark key="]" line="253" column="38" />
+        <mark key="^" line="253" column="38" />
+        <mark key="." line="253" column="38" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Person/SetAgesCommand.cs" timestamp="1558423757263">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="24" column="55" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/appsettings.json" timestamp="1558508848797">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetLiquidityAccountRequestExample.cs" timestamp="1558530896253">
         <mark key="[" line="3" column="0" />
@@ -293,6 +418,24 @@
         <mark key="]" line="45" column="157" />
         <mark key="." line="45" column="157" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/Case/Extensions/ScenarioExtensionTests.cs" timestamp="1558431532571">
+        <mark key="[" line="127" column="178" />
+        <mark key="]" line="127" column="183" />
+        <mark key="^" line="127" column="183" />
+        <mark key="." line="127" column="183" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/Helpers/EntitySynchronizationHelperTests.cs" timestamp="1558431477763">
+        <mark key="[" line="101" column="180" />
+        <mark key="]" line="101" column="184" />
+        <mark key="^" line="101" column="179" />
+        <mark key="." line="101" column="180" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/ScenarioAppliers/LiquidityAccountSetEventApplierTests.cs" timestamp="1558521861776">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="43" column="11" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKSkattepligtigLoenindkomst/DKSkattepligtigLoenindkomstCalculate.cs" timestamp="1558005540128">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -302,12 +445,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" timestamp="1558592710005">
-        <mark key="[" line="272" column="15" />
-        <mark key="]" line="272" column="18" />
-        <mark key="." line="272" column="18" />
-        <mark key="^" line="272" column="18" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1557999864066">
         <mark key="[" line="376" column="144" />
@@ -337,6 +474,12 @@
         <mark key="[" line="85" column="104" />
         <mark key="]" line="85" column="104" />
         <mark key="." line="85" column="104" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Validation/SetLiquidityAccountRequestValidatorTests.cs" timestamp="1558523188335">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKFagligeKontingenterFradrag/DKFagligeKontingenterFradragCalculate.cs" timestamp="1558005198273">
         <mark key="[" line="16" column="0" />
@@ -390,27 +533,57 @@
         <mark key="]" line="148" column="160" />
         <mark key="." line="148" column="160" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Validation/SetLiquidityAccountRequestValidator.cs" timestamp="1558523123409">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="99" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativSkattepligtigIndkomstOverfoersel/DKNegativSkattepligtigIndkomstOverfoerselInputSourceOutputSink.cs" timestamp="1558005624922">
         <mark key="[" line="69" column="165" />
         <mark key="]" line="69" column="165" />
         <mark key="." line="69" column="165" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CommandData/SetLiquidityAccountCommandData.cs" timestamp="1558501852223">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/Entry.cs" timestamp="1557999824237">
         <mark key="[" line="52" column="121" />
         <mark key="]" line="52" column="121" />
         <mark key="." line="52" column="121" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1558961645818">
-        <mark key="'" line="85" column="18" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Application.DB.Scripts/UpdateScripts/20190521.Advice.Common.Seniorgodtgoerelse.sql" timestamp="1558525305087">
+        <mark key="[" line="13" column="109" />
+        <mark key="]" line="13" column="110" />
+        <mark key="." line="13" column="110" />
+        <mark key="^" line="13" column="111" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1558964777645">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="83" column="78" />
+        <mark key="]" line="83" column="90" />
         <mark key="^" line="82" column="11" />
-        <mark key="." line="92" column="0" />
+        <mark key="." line="83" column="78" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAMBidrag/DKAMBidragCalculate.cs" timestamp="1558005025640">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Model/TableRows/ProfilTableRow.cs" timestamp="1558429896254">
+        <mark key="[" line="112" column="15" />
+        <mark key="]" line="112" column="19" />
+        <mark key="." line="112" column="15" />
+        <mark key="^" line="109" column="18" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Providers/ProfileDefaultProvider.cs" timestamp="1558415770099">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="60" />
+        <mark key="." line="18" column="60" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKEfterloen/DKEfterloenInputSourceOutputSink.cs" timestamp="1558005599429">
         <mark key="[" line="86" column="150" />
@@ -421,6 +594,18 @@
         <mark key="[" line="74" column="146" />
         <mark key="]" line="74" column="146" />
         <mark key="." line="74" column="146" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Mapping/PersonRequestsMapper.cs" timestamp="1558422545133">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="25" column="45" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetLiquidityAccountRequest.cs" timestamp="1558503559169">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK/Solver/Pension/SolverPublicPensionHandler.cs" timestamp="1558007458291">
         <mark key="[" line="44" column="231" />
@@ -437,44 +622,68 @@
         <mark key="]" line="37" column="99" />
         <mark key="." line="37" column="99" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/CalculationPersonMapper.cs" timestamp="1558415834301">
+        <mark key="[" line="44" column="101" />
+        <mark key="]" line="44" column="118" />
+        <mark key="^" line="44" column="118" />
+        <mark key="." line="44" column="118" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/SetLiquidityAccountRequest.cs" timestamp="1558530892937">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform.DBTests/EngagementData/Repositories/VsoDataRepositoryTests.cs" timestamp="1558602094864">
-        <mark key="[" line="574" column="191" />
-        <mark key="]" line="574" column="196" />
-        <mark key="^" line="574" column="196" />
-        <mark key="." line="574" column="196" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Application.DB.Scripts/Advice.Application.DB.Scripts.csproj" timestamp="1558941162192">
         <mark key="[" line="377" column="0" />
         <mark key="]" line="377" column="0" />
         <mark key="." line="377" column="0" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Validation/IncomeValidatorTests.cs" timestamp="1558526286276">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoernetilskudDoed/DKBoernetilskudDoedCalculate.cs" timestamp="1558004095093">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Other/Mapping/LiquidityAccountMapperTests.cs" timestamp="1558530867497">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/DanishSatserFactory.cs" timestamp="1558935225115">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Profile/IProfilData.cs" timestamp="1558592701408">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="8" />
-        <mark key="^" line="31" column="8" />
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseAggregate.cs" timestamp="1558443549300">
+        <mark key="[" line="269" column="144" />
+        <mark key="]" line="269" column="159" />
+        <mark key="^" line="269" column="159" />
+        <mark key="." line="269" column="159" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK/Solver/Company/SolverCompanyHandler.cs" timestamp="1558007426904">
         <mark key="[" line="25" column="216" />
         <mark key="]" line="25" column="216" />
         <mark key="." line="25" column="216" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetAgesRequestExample.cs" timestamp="1558422930043">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseStatusSource.cs" timestamp="1558952896441" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TestBase.cs" timestamp="1558357469828">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK.Tests/Gain/GainCalculatorTaxTest.cs" timestamp="1558008398339">
         <mark key="[" line="36" column="61" />
         <mark key="]" line="36" column="61" />
@@ -484,6 +693,18 @@
         <mark key="[" line="118" column="235" />
         <mark key="]" line="118" column="235" />
         <mark key="." line="118" column="235" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Subscribers/PersonEventSubscriber.cs" timestamp="1558422457887">
+        <mark key="[" line="110" column="68" />
+        <mark key="]" line="110" column="79" />
+        <mark key="." line="110" column="79" />
+        <mark key="^" line="110" column="79" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/Other/Validation/LiquidityAccountValidator.cs" timestamp="1558505189067">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsfradrag/DKPensionsfradragCalculate.cs" timestamp="1558005369687">
         <mark key="[" line="16" column="0" />
@@ -502,6 +723,24 @@
         <mark key="." line="244" column="48" />
         <mark key="^" line="244" column="48" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/PersonAppliers/SetAgesEventApplier.cs" timestamp="1558422202767">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Person/SetEfterloenCommand.cs" timestamp="1558421731102">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/Other/Validation/LiquidityAccountValidator.cs" timestamp="1558522079490">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAlderspensionsafgift/DKAlderspensionsafgiftCalculate.cs" timestamp="1558005137443">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -512,17 +751,47 @@
         <mark key="]" line="38" column="145" />
         <mark key="." line="38" column="145" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/SynchronizationStatus.cs" timestamp="1558444459815">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatInputSourceOutputSink.cs" timestamp="1558005100920">
         <mark key="[" line="68" column="106" />
         <mark key="]" line="68" column="106" />
         <mark key="." line="68" column="106" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/Case/Extensions/CaseExtensionsTests.cs" timestamp="1558431502352">
+        <mark key="[" line="77" column="131" />
+        <mark key="]" line="77" column="136" />
+        <mark key="^" line="77" column="136" />
+        <mark key="." line="77" column="136" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativKapitalindkomstNedslag/DKNegativKapitalindkomstNedslagInputSourceOutputSink.cs" timestamp="1558005329311">
         <mark key="[" line="31" column="151" />
         <mark key="]" line="31" column="151" />
         <mark key="." line="31" column="151" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/Case/Scenario.cs" timestamp="1558443441459">
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="56" />
+        <mark key="^" line="50" column="47" />
+        <mark key="." line="30" column="56" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/TaxAndBenefits/CommonRules/DKTaxAndBenefitsCommonRulesTest.cs" timestamp="1558953837653" />
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Subscribers/ScenarioEventSubscriber.cs" timestamp="1558443480004">
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="56" column="91" />
+        <mark key="^" line="56" column="91" />
+        <mark key="." line="56" column="91" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Mapping/ScenarioRequestsMapperTests.cs" timestamp="1558521197635">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="77" column="79" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKFriTelefon/DKFriTelefonInputSourceOutputSink.cs" timestamp="1558005235537">
         <mark key="[" line="26" column="98" />
         <mark key="]" line="26" column="98" />
@@ -548,6 +817,12 @@
         <mark key="]" line="30" column="88" />
         <mark key="." line="30" column="88" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Model/Domain/Case/DkScenario.cs" timestamp="1558431599690">
+        <mark key="[" line="36" column="124" />
+        <mark key="]" line="36" column="140" />
+        <mark key="^" line="36" column="123" />
+        <mark key="." line="36" column="124" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Validators/Cross/Benefits/SeniorgodtgoerelseValidator.cs" timestamp="1558678847141">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="69" />
@@ -557,12 +832,6 @@
         <mark key="[" line="281" column="255" />
         <mark key="]" line="281" column="255" />
         <mark key="." line="281" column="255" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile.cs" timestamp="1558592566994">
-        <mark key="[" line="278" column="15" />
-        <mark key="]" line="278" column="19" />
-        <mark key="." line="278" column="15" />
-        <mark key="^" line="276" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAlderspensionsafgift/DKAlderspensionsafgiftInputSourceOutputSink.cs" timestamp="1558005157933">
         <mark key="[" line="38" column="129" />
@@ -589,6 +858,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/LiquidityAccount/LiquidityAccount.cs" timestamp="1558503608308">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Controllers/SatserController.cs" timestamp="1558935154090">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -598,6 +873,24 @@
         <mark key="[" line="25" column="118" />
         <mark key="]" line="25" column="118" />
         <mark key="." line="25" column="118" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/PersonController.cs" timestamp="1558423119034">
+        <mark key="[" line="267" column="31" />
+        <mark key="]" line="267" column="32" />
+        <mark key="." line="267" column="32" />
+        <mark key="^" line="257" column="58" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Person/DKTaxBenefitsPerson.cs" timestamp="1558418099604">
+        <mark key="[" line="11" column="209" />
+        <mark key="]" line="11" column="209" />
+        <mark key="^" line="11" column="205" />
+        <mark key="." line="11" column="209" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/IDKCalculationContextBuilder.cs" timestamp="1558416686383">
+        <mark key="[" line="111" column="63" />
+        <mark key="]" line="111" column="63" />
+        <mark key="." line="111" column="63" />
+        <mark key="^" line="111" column="61" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/ConstMulNode.cs" timestamp="1557999814455">
         <mark key="[" line="52" column="137" />
@@ -667,10 +960,34 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetLiquidityAccountRequestExample.cs" timestamp="1558511047266">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/Other/LiquidityAccount.cs" timestamp="1558522433653">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Other/Validation/LiquidityAccountValidatorTests.cs" timestamp="1558521424349">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="62" />
+        <mark key="." line="31" column="62" />
+        <mark key="^" line="31" column="62" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/Adapter/StatementManagerRestoreAdapter.cs" timestamp="1558005780172">
         <mark key="[" line="78" column="50" />
         <mark key="]" line="78" column="50" />
         <mark key="." line="78" column="50" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Mapping/PersonRequestsMapperTests.cs" timestamp="1558424406541">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="90" column="65" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK/Solver/Income/SolverIncomeHandler.cs" timestamp="1558007448934">
         <mark key="[" line="62" column="203" />
@@ -775,6 +1092,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/PersonAppliers/AgesSetEventApplierTests.cs" timestamp="1558423571082">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="64" column="62" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Api/Api.Model/BaseTypes/Other/LiquidityAccount.cs" timestamp="1558502443589">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1558955336504">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="109" />
@@ -787,9 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="55" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Categories/AutogeneratedSatsDataRepository.cs" />
-      <jump line="560" column="87" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Categories/AutogeneratedSatsDataRepository.cs" />
-      <jump line="21" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="30" column="42" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="372" column="26" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="468" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
@@ -885,33 +1211,36 @@
       <jump line="143" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
       <jump line="146" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
       <jump line="147" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
-      <jump line="83" column="44" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
       <jump line="84" column="18" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
+      <jump line="62" column="134" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" />
+      <jump line="83" column="50" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
+      <jump line="4" column="24" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P2</text>
+        <text>_timeService</text>
       </register>
       <register name="-" type="4">
-        <text>P2</text>
+        <text>Spouse</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>timeser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKGNhbGN1bGF0aW9uQ29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLkZvcm1hdChfZXJyb3JNZXNzYWdlLCAiUDEiLCBHZXRFYXJsaWVzdEZvbGtlcGVuc2lvblllYXIoY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUHJpbWFyeSkpKTsK</text>
+      <register name="0" type="4">
+        <text>_timeService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKHN0cmluZy5Gb3JtYXQoX2Vycm9yTWVzc2FnZSwgIlAyIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSdWxlRm9yKGNhbGN1bGF0aW9uQ29udGV4dCA9PiBjYWxjdWxhdGlvbkNvbnRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5NdXN0KGNhbGN1bGF0aW9uQ29udGV4dCA9PiBHZXRBbG1pbmRlbGlnTG9lbmluZHRhZWd0KGNhbGN1bGF0aW9uQ29udGV4dC5Qcm9kdWN0cykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BbnkoYWxtaW5kZWxpZ0xvZW5JbmR0YWVndCA9PiBJc0luY29tZUFjdGl2ZUluRWFybGllc3RGb2xrZXBlbnNpb25ZZWFyKHRpbWVTZXJ2aWNlLCBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5QcmltYXJ5LCBhbG1pbmRlbGlnTG9lbkluZHRhZWd0KSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoTWVzc2FnZShjYWxjdWxhdGlvbkNvbnRleHQgPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZy5Gb3JtYXQoX2Vycm9yTWVzc2FnZSwgIlByaW1hcnkiLCBHZXRFYXJsaWVzdEZvbGtlcGVuc2lvblllYXIoY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUHJpbWFyeSkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNhbWZ1bmRzRm9ydWRzYWV0bmluZ2VyLlRpZGxpZ3N0ZUZvbGtlcGVuc2lvbnNBbGRlcihuZXcgRGF0ZVRpbWUocGVyc29uLkJpcnRoRGF0ZS5ZZWFyLlZhbHVlLCAxLCAxKSkuQWdlSW5ZZWFyczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVhcmxpZXN0Rm9sa2VwZW5zaW9uQWxkZXIgPQogICAgICAgICAgICAgICAgU2FtZnVuZHNGb3J1ZHNhZXRuaW5nZXIuVGlkbGlnc3RlRm9sa2VwZW5zaW9uc0FsZGVyKG5ldyBEYXRlVGltZShwZXJzb24uQmlydGhEYXRlLlllYXIuVmFsdWUsIDEsIDEpKS5BZ2VJblllYXJzOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJc0luY29tZUFjdGl2ZUluRWFybGllc3RGb2xrZXBlbnNpb25ZZWFyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5TcG91c2UpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -924,31 +1253,36 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZU1hcHBlcihpbmNvbWUuQW1vdW50LlRvLCB0aW1lU2VydmljZS5DYWxjdWxhdGlvblllYXIsIHBlcnNvbi5QZW5zaW9uQWdlLCApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>TimeMapper(
+                income.Amount.To,
+                timeService.CalculationYear,
+                personPrimary.PensionAge,
+                personPrimary.DeathAge, )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKCJTZW5pb3Jnb2R0Z29lcmVsc2UgZm9yIFBlcnNvbiAlaGhzIGlzIGRlcGVuZGVudCB1cG9uIGFuIGluY29tZSBpbiB0aGUgZWFybGllc3QgZm9sa2VwZW5zaW9uIGFnZS4iKTsK</text>
+      <register name="7" type="8">
+        <text>Primary
+Primary</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RyaW5nIGVycm9yTWVzc2FnZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcnNvblByaW1hcnkuRGVhdGhBZ2UsIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>timeser</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>timeser</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -956,8 +1290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
-        <entry>sats</entry>
         <entry>aktie</entry>
         <entry>set</entry>
         <entry>child</entry>
@@ -976,6 +1308,8 @@
         <entry>_6</entry>
         <entry>satser</entry>
         <entry>result</entry>
+        <entry>time</entry>
+        <entry>timeser</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
