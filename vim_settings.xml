@@ -150,12 +150,12 @@
         <mark key="]" line="92" column="131" />
         <mark key="." line="92" column="131" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1558964709844">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1558965783769">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="116" />
-        <mark key="]" line="37" column="129" />
-        <mark key="^" line="37" column="129" />
-        <mark key="." line="37" column="129" />
+        <mark key="[" line="80" column="148" />
+        <mark key="]" line="80" column="149" />
+        <mark key="." line="80" column="149" />
+        <mark key="^" line="80" column="149" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKFoertidspension/DKFoertidspensionInputSourceOutputSink.cs" timestamp="1558004941319">
         <mark key="[" line="36" column="103" />
@@ -1219,28 +1219,30 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_timeService</text>
+        <text>spouseDeathAge</text>
       </register>
       <register name="-" type="4">
-        <text>Spouse</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>timeser</text>
       </register>
       <register name="0" type="4">
-        <text>_timeService</text>
+        <text>spouseDeathAge</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSdWxlRm9yKGNhbGN1bGF0aW9uQ29udGV4dCA9PiBjYWxjdWxhdGlvbkNvbnRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5NdXN0KGNhbGN1bGF0aW9uQ29udGV4dCA9PiBHZXRBbG1pbmRlbGlnTG9lbmluZHRhZWd0KGNhbGN1bGF0aW9uQ29udGV4dC5Qcm9kdWN0cykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BbnkoYWxtaW5kZWxpZ0xvZW5JbmR0YWVndCA9PiBJc0luY29tZUFjdGl2ZUluRWFybGllc3RGb2xrZXBlbnNpb25ZZWFyKHRpbWVTZXJ2aWNlLCBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5QcmltYXJ5LCBhbG1pbmRlbGlnTG9lbkluZHRhZWd0KSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoTWVzc2FnZShjYWxjdWxhdGlvbkNvbnRleHQgPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZy5Gb3JtYXQoX2Vycm9yTWVzc2FnZSwgIlByaW1hcnkiLCBHZXRFYXJsaWVzdEZvbGtlcGVuc2lvblllYXIoY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUHJpbWFyeSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJzb25QcmltYXJ5LkRlYXRoQWdlID8/IDAsCiAgICAgICAgICAgICAgICAgICAgcGVyc29uU3BvdXNlLlBlbnNpb25BZ2UgPz8gMCwKICAgICAgICAgICAgICAgICAgICBwZXJzb25TcG91c2UuRGVhdGhBZ2UgPz8gMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJzb25TcG91c2UuUGVuc2lvbkFnZSA/PyAwLAogICAgICAgICAgICAgICAgICAgIHBlcnNvblNwb3VzZS5EZWF0aEFnZSA/PyAwKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJc0luY29tZUFjdGl2ZUluRWFybGllc3RGb2xrZXBlbnNpb25ZZWFyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5TcG91c2UpKSkK</text>
+      <register name="3" type="8">
+        <text>Primary
+Primary</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>primary
+primary</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1253,27 +1255,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZU1hcHBlcihpbmNvbWUuQW1vdW50LlRvLCB0aW1lU2VydmljZS5DYWxjdWxhdGlvblllYXIsIHBlcnNvbi5QZW5zaW9uQWdlLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>TimeMapper(
-                income.Amount.To,
-                timeService.CalculationYear,
-                personPrimary.PensionAge,
-                personPrimary.DeathAge, )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJzb25QcmltYXJ5LkRlYXRoQWdlID8/IDAsCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>Primary
-Primary</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcnNvblByaW1hcnkuRGVhdGhBZ2UsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSdWxlRm9yKGNhbGN1bGF0aW9uQ29udGV4dCA9PiBjYWxjdWxhdGlvbkNvbnRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5NdXN0KGNhbGN1bGF0aW9uQ29udGV4dCA9PiBHZXRBbG1pbmRlbGlnTG9lbmluZHRhZWd0KGNhbGN1bGF0aW9uQ29udGV4dC5Qcm9kdWN0cykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BbnkoYWxtaW5kZWxpZ0xvZW5JbmR0YWVndCA9PiBJc0luY29tZUFjdGl2ZUluRWFybGllc3RGb2xrZXBlbnNpb25ZZWFyKHRpbWVTZXJ2aWNlLCBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5QcmltYXJ5LCBhbG1pbmRlbGlnTG9lbkluZHRhZWd0KSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoTWVzc2FnZShjYWxjdWxhdGlvbkNvbnRleHQgPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZy5Gb3JtYXQoX2Vycm9yTWVzc2FnZSwgIlByaW1hcnkiLCBHZXRFYXJsaWVzdEZvbGtlcGVuc2lvblllYXIoY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUHJpbWFyeSkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
