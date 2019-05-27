@@ -110,6 +110,12 @@
         <mark key="]" line="92" column="131" />
         <mark key="." line="92" column="131" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1558963121572">
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="40" column="63" />
+        <mark key="^" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKFoertidspension/DKFoertidspensionInputSourceOutputSink.cs" timestamp="1558004941319">
         <mark key="[" line="36" column="103" />
         <mark key="]" line="36" column="103" />
@@ -352,6 +358,7 @@
         <mark key="]" line="22" column="114" />
         <mark key="." line="22" column="114" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/BuildingBlocks/Time.cs" timestamp="1558963374067" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Restore/DKInternalFinancialStatementRestoreTests.cs" timestamp="1558008105601">
         <mark key="[" line="135" column="68" />
         <mark key="]" line="135" column="68" />
@@ -392,6 +399,13 @@
         <mark key="[" line="52" column="121" />
         <mark key="]" line="52" column="121" />
         <mark key="." line="52" column="121" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1558961645818">
+        <mark key="'" line="85" column="18" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAMBidrag/DKAMBidragCalculate.cs" timestamp="1558005025640">
         <mark key="[" line="16" column="0" />
@@ -481,6 +495,13 @@
         <mark key="]" line="36" column="61" />
         <mark key="." line="36" column="61" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.EconomicSuite.Applications.Mapping.Tests/SkatInputData/Profile/PersonMapperTest.cs" timestamp="1558602814176">
+        <mark key="'" line="214" column="72" />
+        <mark key="[" line="244" column="41" />
+        <mark key="]" line="244" column="48" />
+        <mark key="." line="244" column="48" />
+        <mark key="^" line="244" column="48" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAlderspensionsafgift/DKAlderspensionsafgiftCalculate.cs" timestamp="1558005137443">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -490,11 +511,6 @@
         <mark key="[" line="38" column="145" />
         <mark key="]" line="38" column="145" />
         <mark key="." line="38" column="145" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1558705250381">
-        <mark key="'" line="2013" column="79" />
-        <mark key="[" line="373" column="33" />
-        <mark key="." line="373" column="35" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatInputSourceOutputSink.cs" timestamp="1558005100920">
         <mark key="[" line="68" column="106" />
@@ -747,6 +763,13 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/IValidationMessageProvider.cs" timestamp="1558685346408">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="35" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatCalculate.cs" timestamp="1558005066436">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -764,8 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="18" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="43" column="285" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAMBidrag/DKAMBidragInputSourceOutputSink.cs" />
       <jump line="420" column="55" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Categories/AutogeneratedSatsDataRepository.cs" />
       <jump line="560" column="87" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Categories/AutogeneratedSatsDataRepository.cs" />
       <jump line="21" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
@@ -864,31 +885,33 @@
       <jump line="143" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
       <jump line="146" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
       <jump line="147" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.BudgetPlan.DB.Scripts/BudgetPlanUpdateStepProvider.cs" />
+      <jump line="83" column="44" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
+      <jump line="84" column="18" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MTMuQWR2aWNlLkNvbW1vbi5BbHRlclJpc2lrb0RhZWtuaW5nUG9saWNlTnVtbWVyVG9WYXJjaGFyTWF4LnNxbCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>P2</text>
       </register>
       <register name="-" type="4">
-        <text>08</text>
+        <text>P2</text>
       </register>
       <register name="/" type="4">
-        <text>satser</text>
+        <text>result</text>
       </register>
-      <register name="0" type="4">
-        <text>Assert.AreEqual</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKGNhbGN1bGF0aW9uQ29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLkZvcm1hdChfZXJyb3JNZXNzYWdlLCAiUDEiLCBHZXRFYXJsaWVzdEZvbGtlcGVuc2lvblllYXIoY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUHJpbWFyeSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MTMuQWR2aWNlLkNvbW1vbi5BbHRlclJpc2lrb0RhZWtuaW5nUG9saWNlTnVtbWVyVG9WYXJjaGFyTWF4LnNxbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKHN0cmluZy5Gb3JtYXQoX2Vycm9yTWVzc2FnZSwgIlAyIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA0MDguQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNhbWZ1bmRzRm9ydWRzYWV0bmluZ2VyLlRpZGxpZ3N0ZUZvbGtlcGVuc2lvbnNBbGRlcihuZXcgRGF0ZVRpbWUocGVyc29uLkJpcnRoRGF0ZS5ZZWFyLlZhbHVlLCAxLCAxKSkuQWdlSW5ZZWFyczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICB5aWVsZCByZXR1cm4gQWRkU2NyaXB0KCIyMDE5MDQwOC5BZHZpY2UuQ29tbW9uLlNhdHNlci5zcWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVhcmxpZXN0Rm9sa2VwZW5zaW9uQWxkZXIgPQogICAgICAgICAgICAgICAgU2FtZnVuZHNGb3J1ZHNhZXRuaW5nZXIuVGlkbGlnc3RlRm9sa2VwZW5zaW9uc0FsZGVyKG5ldyBEYXRlVGltZShwZXJzb24uQmlydGhEYXRlLlllYXIuVmFsdWUsIDEsIDEpKS5BZ2VJblllYXJzOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTAyMjEuQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIikuT2Jzb2xldGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -901,31 +924,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA0MDguQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPEVtYmVkZGVkUmVzb3VyY2UgSW5jbHVkZT0iVXBkYXRlU2NyaXB0c1wyMDE5MDQwOC5BZHZpY2UuQ29tbW9uLlNhdHNlci5zcWwiIC8+CiAgPC9JdGVtR3JvdXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPEVtYmVkZGVkUmVzb3VyY2UgSW5jbHVkZT0iVXBkYXRlU2NyaXB0c1wyMDE5MDUyNC5BZHZpY2UuQ29tbW9uLlNhdHNlci5zcWwiIC8+CiAgPC9JdGVtR3JvdXA+CiAgPEl0ZW1Hcm91cD4KICAgIDxFbWJlZGRlZFJlc291cmNlIEluY2x1ZGU9IlVwZGF0ZVNjcmlwdHNcMjAxOTA0MDguQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIiAvPgogIDwvSXRlbUdyb3VwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhNZXNzYWdlKCJTZW5pb3Jnb2R0Z29lcmVsc2UgZm9yIFBlcnNvbiAlaGhzIGlzIGRlcGVuZGVudCB1cG9uIGFuIGluY29tZSBpbiB0aGUgZWFybGllc3QgZm9sa2VwZW5zaW9uIGFnZS4iKTsK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA0MDguQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIikuT2Jzb2xldGUoKTsKICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MjQuQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIik7CgogICAgICAgICAgICB5aWVsZCByZXR1cm4gQWRkU2NyaXB0KCIyMDE5MDIyMS5BZHZpY2UuQ29tbW9uLlNhdHNlci5zcWwiKS5PYnNvbGV0ZSgpOwogICAgICAgICAgICB5aWVsZCByZXR1cm4gQWRkU2NyaXB0KCIyMDE5MDQwOC5BZHZpY2UuQ29tbW9uLlNhdHNlci5zcWwiKS5PYnNvbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RyaW5nIGVycm9yTWVzc2FnZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTAxMTcuQWR2aWNlLkJ1ZGdldFBsYW4uVHJhbnNsYXRpb25zLnNxbCIpOwogICAgICAgICAgICB5aWVsZCByZXR1cm4gQWRkU2NyaXB0KCIyMDE5MDMwNi5BZHZpY2UuQnVkZ2V0UGxhbi5VcGRhdGVEZXNjQ2F0QW5kQnVkZ2V0RGVzY0NhdC5WYWx1ZXMuc3FsIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>satser</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>satser</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -933,7 +956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restore</entry>
         <entry>can</entry>
         <entry>sats</entry>
         <entry>aktie</entry>
@@ -953,6 +975,7 @@
         <entry>_5</entry>
         <entry>_6</entry>
         <entry>satser</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
