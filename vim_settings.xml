@@ -1166,10 +1166,12 @@
         <mark key="]" line="113" column="57" />
         <mark key="." line="113" column="57" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" timestamp="1559029210221">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" timestamp="1559045845629">
+        <mark key="'" line="65" column="40" />
+        <mark key="[" line="82" column="59" />
+        <mark key="]" line="82" column="59" />
+        <mark key="^" line="82" column="59" />
+        <mark key="." line="82" column="59" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseInputSourceOutputSink.cs" timestamp="1558004013779">
         <mark key="[" line="28" column="104" />
@@ -1256,8 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="68" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="551" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="839" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="939" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1005" column="56" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
@@ -1356,31 +1356,33 @@
       <jump line="331" column="8" filename="C:/repo/advice_delivery/Applications/Advice.PensionsPlan.DB.Scripts/PensionsPlanUpdateStepProvider.cs" />
       <jump line="330" column="59" filename="C:/repo/advice_delivery/Applications/Advice.PensionsPlan.DB.Scripts/PensionsPlanUpdateStepProvider.cs" />
       <jump line="321" column="59" filename="C:/repo/advice_delivery/Applications/Advice.PensionsPlan.DB.Scripts/PensionsPlanUpdateStepProvider.cs" />
+      <jump line="30" column="11" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" />
+      <jump line="69" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>()WithOffset</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>()WithOffset</text>
       </register>
       <register name="/" type="4">
         <text>satser</text>
       </register>
-      <register name="0" type="4">
-        <text>P1PesionAge</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZW5lZml0cyA9IG5ldyBQdWJsaWNCZW5lZml0cwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9sa2VwZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgICAgIElzRW50aXRsZWRGb3JTZW5pb3Jnb2R0Z29lcmVsc2UgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcFRpbWUgPSB0aW1lID0+IFRpbWVNYXBwZXJVdGlsLlRpbWVNYXBwZXIodGltZSwgdGltZVNlcnZpY2UuQ2FsY3VsYXRpb25ZZWFyLAogICAgICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uUHJpbWFyeSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25TcG91c2UsIHAgPT4gcC5QZW5zaW9uQWdlLlZhbHVlKSwKICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uU3BvdXNlLCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5c0tpcmtlc2thdCA9ICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwVGltZSA9IChUaW1lIHRpbWUpID0+IFRpbWVNYXBwZXJVdGlsLlRpbWVNYXBwZXIoCiAgICAgICAgICAgICAgICB0aW1lLAogICAgICAgICAgICAgICAgdGltZVNlcnZpY2UuQ2FsY3VsYXRpb25ZZWFyLAogICAgICAgICAgICAgICAgTWFrZVllYXJOb25SZWxhdGl2ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuUGVuc2lvbkFnZS5WYWx1ZSksCiAgICAgICAgICAgICAgICBNYWtlWWVhck5vblJlbGF0aXZlKHBlcnNvblByaW1hcnksIHAgPT4gcC5EZWF0aEFnZS5WYWx1ZSksCiAgICAgICAgICAgICAgICBNYWtlWWVhck5vblJlbGF0aXZlKHBlcnNvblNwb3VzZSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJOb25SZWxhdGl2ZShwZXJzb25TcG91c2UsIHAgPT4gcC5EZWF0aEFnZS5WYWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmlza1Njb3JlID0gCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1393,22 +1395,56 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxQZXJzb24sIFllYXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1ha2VZZWFyTm9uUmVsYXRpdmUocGVyc29uUHJpbWFyeSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJOb25SZWxhdGl2ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpLAo=</text>
+      <register name="6" type="4">
+        <text>new Api.Dto.Input.Profile.Profile
+                        {
+                            Id = new ProfileId(),
+                            Primary = new Person
+                            {
+                                Name = &quot;George Washington&quot;,
+                                BirthDate = new PersonBirthDate
+                                {
+                                    Year = 1960
+                                },
+                                PensionAge = 67,
+                                DeathAge = 95,
+                                Benefits = new PublicBenefits
+                                {
+                                    FolkepensionAge = 65,
+                                    IsEntitledForSeniorgodtgoerelse = true,
+                                }
+                            },
+                            MunicipalityId = 65,
+                        }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxQZXJzb24+Cg==</text>
+      <register name="7" type="4">
+        <text>new []
+                        {
+                            new Income
+                            {
+                                Id = 1,
+                                Ownership = new Ownership(1),
+                                Type = DKIncomeType.AlmindeligLoenIndtaegt,
+                                Amount = new PaymentEntry
+                                {
+                                    Amount = 10000,
+                                    From = Time.Calculation,
+                                    To = Time.AtPensionPrimaryWithOffset(1),
+                                    TimesPaidEachYear = 12,
+                                }
+                            }
+                        },</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIChwcmltYXJ5QWJzb2x1dGVQZW5zaW9uWWVhciwgcHJpbWFyeUFic29sdXRlRGVhdGhZZWFyKSA9IE1ha2VZZWFyTm9uUmVsYXRpdmUocGVyc29uUHJpbWFyeSk7CgogICAgICAgICAgICB2YXIgKHNwb3VzZUFic29sdXRlUGVuc2lvblllYXIsIHNwb3VzZUFic29sdXRlRGVhdGhZZWFyKSA9IHBlcnNvblNwb3VzZSAhPSBudWxsID8gTWFrZVllYXJOb25SZWxhdGl2ZShwZXJzb25TcG91c2UpIDogKG51bGwsIG51bGwpOwogICAgICAgICAgICBpZiAocGVyc29uU3BvdXNlICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIChzcG91c2VBYnNvbHV0ZVBlbnNpb25ZZWFyLCBzcG91c2VBYnNvbHV0ZURlYXRoWWVhcikgPSBNYWtlWWVhck5vblJlbGF0aXZlKHBlcnNvblNwb3VzZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzcG91c2VBYnNvbHV0ZVBlbnNpb25ZZWFyID0gbnVsbDsKICAgICAgICAgICAgICAgIHNwb3VzZUFic29sdXRlRGVhdGhZZWFyID0gbnVsbDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcFRpbWUgPSB0aW1lID0+IFRpbWVNYXBwZXJVdGlsLlRpbWVNYXBwZXIodGltZSwgdGltZVNlcnZpY2UuQ2FsY3VsYXRpb25ZZWFyLAogICAgICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uUHJpbWFyeSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25TcG91c2UsIHAgPT4gcC5QZW5zaW9uQWdlLlZhbHVlKSwKICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uU3BvdXNlLCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW1hcnlBYnNvbHV0ZURlYXRocFllYXIsCiAgICAgICAgICAgICAgICBzcG91c2VBYnNvbHV0ZVBlbnNpb25ZZWFyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
