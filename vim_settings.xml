@@ -1104,9 +1104,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1558955336504">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="109" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1559025666690">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="141" column="72" />
         <mark key="." line="138" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Optimization.DK/Solver/Expense/SolverExpenseHandler.cs" timestamp="1558007436602">
@@ -1218,8 +1218,8 @@
       <jump line="4" column="24" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MjAuQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIikuT2Jzb2xldGUoKTsKICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MjEuQWR2aWNlLkNvbW1vbi5TZW5pb3Jnb2R0Z29lcmVsc2Uuc3FsIik7CiAgICAgICAgICAgIHlpZWxkIHJldHVybiBBZGRTY3JpcHQoIjIwMTkwNTI0LkFkdmljZS5Db21tb24uU2F0c2VyLnNxbCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -1227,8 +1227,8 @@
       <register name="/" type="4">
         <text>timeser</text>
       </register>
-      <register name="0" type="4">
-        <text>GetRelevantPerson(person, calculationContext)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MjAuQWR2aWNlLkNvbW1vbi5TYXRzZXIuc3FsIikuT2Jzb2xldGUoKTsKICAgICAgICAgICAgeWllbGQgcmV0dXJuIEFkZFNjcmlwdCgiMjAxOTA1MjEuQWR2aWNlLkNvbW1vbi5TZW5pb3Jnb2R0Z29lcmVsc2Uuc3FsIik7CiAgICAgICAgICAgIHlpZWxkIHJldHVybiBBZGRTY3JpcHQoIjIwMTkwNTI0LkFkdmljZS5Db21tb24uU2F0c2VyLnNxbCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
