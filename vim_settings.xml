@@ -163,12 +163,12 @@
         <mark key="]" line="92" column="131" />
         <mark key="." line="92" column="131" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1559040278400">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/Validators/CalculationContextValidator.cs" timestamp="1559040401872">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="37" />
-        <mark key="]" line="79" column="11" />
-        <mark key="." line="79" column="11" />
-        <mark key="^" line="79" column="11" />
+        <mark key="[" line="88" column="60" />
+        <mark key="]" line="88" column="60" />
+        <mark key="." line="88" column="60" />
+        <mark key="^" line="88" column="39" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKFoertidspension/DKFoertidspensionInputSourceOutputSink.cs" timestamp="1558004941319">
         <mark key="[" line="36" column="103" />
@@ -1359,16 +1359,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>personSpouseDeathAge</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>personSpouseDeathAge</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>satser</text>
       </register>
       <register name="0" type="4">
-        <text>null</text>
+        <text>P1PesionAge</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcFRpbWUgPSB0aW1lID0+IFRpbWVNYXBwZXJVdGlsLlRpbWVNYXBwZXIodGltZSwgdGltZVNlcnZpY2UuQ2FsY3VsYXRpb25ZZWFyLAogICAgICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uUHJpbWFyeSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25TcG91c2UsIHAgPT4gcC5QZW5zaW9uQWdlLlZhbHVlKSwKICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uU3BvdXNlLCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpKTsK</text>
