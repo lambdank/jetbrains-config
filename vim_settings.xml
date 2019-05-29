@@ -1166,12 +1166,12 @@
         <mark key="]" line="113" column="57" />
         <mark key="." line="113" column="57" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" timestamp="1559045866062">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" timestamp="1559106143309">
         <mark key="'" line="65" column="40" />
-        <mark key="[" line="82" column="59" />
-        <mark key="]" line="82" column="59" />
-        <mark key="^" line="82" column="59" />
-        <mark key="." line="82" column="59" />
+        <mark key="[" line="163" column="123" />
+        <mark key="]" line="163" column="127" />
+        <mark key="." line="163" column="127" />
+        <mark key="^" line="163" column="127" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseInputSourceOutputSink.cs" timestamp="1558004013779">
         <mark key="[" line="28" column="104" />
@@ -1361,28 +1361,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()WithOffset</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>()WithOffset</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>satser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZW5lZml0cyA9IG5ldyBQdWJsaWNCZW5lZml0cwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9sa2VwZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgICAgIElzRW50aXRsZWRGb3JTZW5pb3Jnb2R0Z29lcmVsc2UgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBTZW5pb3Jnb2R0Z29lcmVsc2VfUHJpbWFyeV9WYWxpZElucHV0KCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBwcm9kdWN0cyA9IG5ldyBbXQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgSW5jb21lCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE93bmVyc2hpcCA9IG5ldyBPd25lcnNoaXAoMSksCiAgICAgICAgICAgICAgICAgICAgVHlwZSA9IERLSW5jb21lVHlwZS5BbG1pbmRlbGlnTG9lbkluZHRhZWd0LAogICAgICAgICAgICAgICAgICAgIEFtb3VudCA9IG5ldyBQYXltZW50RW50cnkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEFtb3VudCA9IDEwMDAwLAogICAgICAgICAgICAgICAgICAgICAgICBGcm9tID0gVGltZS5DYWxjdWxhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgVG8gPSBUaW1lLkF0UGVuc2lvblByaW1hcnlXaXRoT2Zmc2V0KDEpLAogICAgICAgICAgICAgICAgICAgICAgICBUaW1lc1BhaWRFYWNoWWVhciA9IDEyLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKICAgICAgICB2YXIgcHJvZmlsZSA9IG5ldyBBcGkuRHRvLklucHV0LlByb2ZpbGUuUHJvZmlsZQogICAgICAgIHsKICAgICAgICAgICAgSWQgPSBuZXcgUHJvZmlsZUlkKCksCiAgICAgICAgICAgICAgICBQcmltYXJ5ID0gbmV3IFBlcnNvbgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiR2VvcmdlIFdhc2hpbmd0b24iLAogICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZSA9IG5ldyBQZXJzb25CaXJ0aERhdGUKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFllYXIgPSAxOTYwCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBQZW5zaW9uQWdlID0gNjcsCiAgICAgICAgICAgICAgICAgICAgRGVhdGhBZ2UgPSA5NSwKICAgICAgICAgICAgICAgICAgICBCZW5lZml0cyA9IG5ldyBQdWJsaWNCZW5lZml0cwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRm9sa2VwZW5zaW9uQWdlID0gNjUsCiAgICAgICAgICAgICAgICAgICAgICAgIElzRW50aXRsZWRGb3JTZW5pb3Jnb2R0Z29lcmVsc2UgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlJZCA9IDY1LAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoX3ZhbGlkYXRvci5WYWxpZGF0ZShuZXcgQ2FsY3VsYXRpb25Db250ZXh0IHsgUHJvZHVjdHMgPSBwcm9kdWN0cywgUHJvZmlsZSA9IHByb2ZpbGUgfSkuSXNWYWxpZCwgSXMuVHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBTZW5pb3Jnb2R0Z29lcmVsc2VfU3BvdXNlX1ZhbGlkSW5wdXQoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHByb2R1Y3RzID0gbmV3IFtdCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBJbmNvbWUKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZCA9IDEsCiAgICAgICAgICAgICAgICAgICAgT3duZXJzaGlwID0gbmV3IE93bmVyc2hpcCgwLDEpLAogICAgICAgICAgICAgICAgICAgIFR5cGUgPSBES0luY29tZVR5cGUuQWxtaW5kZWxpZ0xvZW5JbmR0YWVndCwKICAgICAgICAgICAgICAgICAgICBBbW91bnQgPSBuZXcgUGF5bWVudEVudHJ5CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBBbW91bnQgPSAxMDAwMCwKICAgICAgICAgICAgICAgICAgICAgICAgRnJvbSA9IFRpbWUuQ2FsY3VsYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgIFRvID0gVGltZS5BdFBlbnNpb25TcG91c2VXaXRoT2Zmc2V0KDEpLAogICAgICAgICAgICAgICAgICAgICAgICBUaW1lc1BhaWRFYWNoWWVhciA9IDEyCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwogICAgICAgIHZhciBwcm9maWxlID0gbmV3IEFwaS5EdG8uSW5wdXQuUHJvZmlsZS5Qcm9maWxlCiAgICAgICAgewogICAgICAgICAgICBJZCA9IG5ldyBQcm9maWxlSWQoKSwKICAgICAgICAgICAgICAgIFByaW1hcnkgPSBuZXcgUGVyc29uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJHZW9yZ2UgV2FzaGluZ3RvbiIsCiAgICAgICAgICAgICAgICAgICAgQmlydGhEYXRlID0gbmV3IFBlcnNvbkJpcnRoRGF0ZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgWWVhciA9IDE5NjAKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIFBlbnNpb25BZ2UgPSA2NywKICAgICAgICAgICAgICAgICAgICBEZWF0aEFnZSA9IDk1LAogICAgICAgICAgICAgICAgICAgIEJlbmVmaXRzID0gbmV3IFB1YmxpY0JlbmVmaXRzCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBGb2xrZXBlbnNpb25BZ2UgPSA2NSwKICAgICAgICAgICAgICAgICAgICAgICAgSXNFbnRpdGxlZEZvclNlbmlvcmdvZHRnb2VyZWxzZSA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFNwb3VzZSA9IG5ldyBQZXJzb24KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBOYW1lID0gIkFuZ2VsYSBNZXJrZWwiLAogICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZSA9IDE5NjUsCiAgICAgICAgICAgICAgICAgICAgUGVuc2lvbkFnZSA9IDY4LAogICAgICAgICAgICAgICAgICAgIERlYXRoQWdlID0gOTcsCiAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPSBuZXcgUHVibGljQmVuZWZpdHMKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEZvbGtlcGVuc2lvbkFnZSA9IDY2LAogICAgICAgICAgICAgICAgICAgICAgICBJc0VudGl0bGVkRm9yU2VuaW9yZ29kdGdvZXJlbHNlID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlJZCA9IDY1CiAgICAgICAgICAgIH07CgogICAgICAgICAgICBBc3NlcnQuVGhhdChfdmFsaWRhdG9yLlZhbGlkYXRlKG5ldyBDYWxjdWxhdGlvbkNvbnRleHQgeyBQcm9kdWN0cyA9IHByb2R1Y3RzLCBQcm9maWxlID0gcHJvZmlsZSB9KS5Jc1ZhbGlkLCBJcy5UcnVlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBlcnNvbiBfcHJpbWFyeTsKICAgICAgICBwcml2YXRlIFBlcnNvbiBfc3BvdXNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5c0tpcmtlc2thdCA9ICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmlza1Njb3JlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmVuZWZpdHMgPQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1395,9 +1395,18 @@
         </keys>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5c0tpcmtlc2thdCA9ICwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmlza1Njb3JlID0gCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
         <text>new Api.Dto.Input.Profile.Profile
                         {
                             Id = new ProfileId(),
@@ -1419,7 +1428,7 @@
                             MunicipalityId = 65,
                         }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>new []
                         {
                             new Income
@@ -1436,15 +1445,6 @@
                                 }
                             }
                         },</text>
-      </register>
-      <register name="w" type="4">
-        <text>.</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcFRpbWUgPSB0aW1lID0+IFRpbWVNYXBwZXJVdGlsLlRpbWVNYXBwZXIodGltZSwgdGltZVNlcnZpY2UuQ2FsY3VsYXRpb25ZZWFyLAogICAgICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uUHJpbWFyeSwgcCA9PiBwLlBlbnNpb25BZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25QcmltYXJ5LCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpLAogICAgICAgICAgICAgICAgTWFrZVllYXJBYnNvbHV0ZShwZXJzb25TcG91c2UsIHAgPT4gcC5QZW5zaW9uQWdlLlZhbHVlKSwKICAgICAgICAgICAgICAgIE1ha2VZZWFyQWJzb2x1dGUocGVyc29uU3BvdXNlLCBwID0+IHAuRGVhdGhBZ2UuVmFsdWUpKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
