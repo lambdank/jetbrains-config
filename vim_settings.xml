@@ -59,6 +59,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="52" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/Validators/PersonValidator.cs" timestamp="1559109978396">
+        <mark key="[" line="74" column="119" />
+        <mark key="]" line="74" column="119" />
+        <mark key="." line="74" column="119" />
+        <mark key="^" line="74" column="126" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1558444227384">
         <mark key="[" line="259" column="26" />
         <mark key="]" line="259" column="49" />
@@ -79,6 +85,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="26" column="9" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/App.config" timestamp="1558594621361">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="109" />
+        <mark key="." line="12" column="109" />
+        <mark key="^" line="12" column="109" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/TimeMapperUtil.cs" timestamp="1558964236416">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="37" />
@@ -98,11 +110,23 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="69" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.Tests/Optimization/SolverUtilitiesTest.cs" timestamp="1558592722281">
+        <mark key="[" line="502" column="15" />
+        <mark key="]" line="502" column="18" />
+        <mark key="." line="502" column="18" />
+        <mark key="^" line="502" column="18" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Shared/Model.Tests/Domain/BaseTypes/Other/Validation/LiquidAccountValidatorTests.cs" timestamp="1558526499244">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="123" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/ProfilData.cs" timestamp="1558592730303">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseSatsSource.cs" timestamp="1558952857213" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform/Api/DataExchange/Models/Profile/ProfileDto.cs" timestamp="1558417617068">
@@ -196,6 +220,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="18" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Validators/CalculationContextValidator.cs" timestamp="1558679033458">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/StandardValidationMessageProvider.cs" timestamp="1558685343730">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -220,6 +250,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="85" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform.DBTests/EngagementData/Repositories/TypedEngagementDataRepositoryTestBase.cs" timestamp="1558601166247">
+        <mark key="[" line="782" column="206" />
+        <mark key="]" line="782" column="211" />
+        <mark key="^" line="782" column="211" />
+        <mark key="." line="782" column="211" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/TaxAndBenefits/AdapterRules/AdapterRuleSatsSourceTest.cs" timestamp="1558953774007" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/Validators/ProfileValidator.cs" timestamp="1558694392605" />
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Validation/SetEfterloenRequestValidator.cs" timestamp="1558424456468">
@@ -231,6 +267,12 @@
         <mark key="]" line="253" column="38" />
         <mark key="^" line="253" column="38" />
         <mark key="." line="253" column="38" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Model/SatserModel.cs" timestamp="1558935358047">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Person/SetAgesCommand.cs" timestamp="1558423757263">
         <mark key="[" line="19" column="0" />
@@ -261,6 +303,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="43" column="11" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" timestamp="1558592710005">
+        <mark key="[" line="272" column="15" />
+        <mark key="]" line="272" column="18" />
+        <mark key="." line="272" column="18" />
+        <mark key="^" line="272" column="18" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Validators/Cross/CrossValidators.cs" timestamp="1558679014440">
         <mark key="[" line="17" column="33" />
@@ -349,6 +397,12 @@
         <mark key="^" line="44" column="118" />
         <mark key="." line="44" column="118" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.Platform.DBTests/EngagementData/Repositories/VsoDataRepositoryTests.cs" timestamp="1558602094864">
+        <mark key="[" line="574" column="191" />
+        <mark key="]" line="574" column="196" />
+        <mark key="^" line="574" column="196" />
+        <mark key="." line="574" column="196" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Application.DB.Scripts/Advice.Application.DB.Scripts.csproj" timestamp="1558941162192">
         <mark key="[" line="377" column="0" />
         <mark key="]" line="377" column="0" />
@@ -369,6 +423,12 @@
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/DeductionAddedEventApplierTests.cs" timestamp="1558510396592">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="34" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Profile/IProfilData.cs" timestamp="1558592701408">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="8" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseAggregate.cs" timestamp="1558443549300">
         <mark key="[" line="269" column="144" />
@@ -491,6 +551,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="31" column="9" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile.cs" timestamp="1558592566994">
+        <mark key="[" line="278" column="15" />
+        <mark key="]" line="278" column="19" />
+        <mark key="." line="278" column="15" />
+        <mark key="^" line="276" column="19" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/ScenarioAppliers/LiquidityAccountSetEventApplierTests.cs" timestamp="1558526328785">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="52" column="35" />
@@ -602,6 +668,7 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="35" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Profile/PersonValidatorTests.cs" timestamp="1559109149192" />
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Person/AdultRenamedEvent.cs" timestamp="1558421887811">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="25" column="5" />
@@ -743,29 +810,29 @@
       <jump line="69" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5DYWxjdWxhdGlvbi5WYWxpZGF0b3JzOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>satser</text>
       </register>
       <register name="0" type="4">
-        <text>Advice.EconomicSuite.Api.Mappers.Implementations.</text>
+        <text>p.Benefits?.IsEntitledForSeniorgodtgoerelse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5DYWxjdWxhdGlvbi5WYWxpZGF0b3JzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bGVGb3IocCA9PiBwLkJlbmVmaXRzLklzRW50aXRsZWRGb3JTZW5pb3Jnb2R0Z29lcmVsc2UpLk5vdE51bGwoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLlZhbGlkYXRvcnM7CnVzaW5nIEZsdWVudFZhbGlkYXRpb24uQXR0cmlidXRlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5DYWxjdWxhdGlvbi5WYWxpZGF0b3JzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtWYWxpZGF0b3IodHlwZW9mKENhbGN1bGF0aW9uQ29udGV4dFZhbGlkYXRvcikpXQo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLlZhbGlkYXRvcnM7CnVzaW5nIEZsdWVudFZhbGlkYXRpb24uQXR0cmlidXRlczsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -778,22 +845,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnMuSW1wbGVtZW50YXRpb25zOwo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dC5DYWxjdWxhdGlvbi5WYWxpZGF0b3JzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnM7Cg==</text>
+        <text encoding="base64">ICAgIFtWYWxpZGF0b3IodHlwZW9mKENhbGN1bGF0aW9uQ29udGV4dFZhbGlkYXRvcikpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnM7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnMuSW1wbGVtZW50YXRpb25zOwo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBlcnNvbiBfcHJpbWFyeTsKICAgICAgICBwcml2YXRlIFBlcnNvbiBfc3BvdXNlOwo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZwo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLk1hcHBlcnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
