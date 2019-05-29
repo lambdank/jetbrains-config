@@ -59,12 +59,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/Validators/PersonValidator.cs" timestamp="1559109978396">
-        <mark key="[" line="74" column="119" />
-        <mark key="]" line="74" column="119" />
-        <mark key="." line="74" column="119" />
-        <mark key="^" line="74" column="126" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1558444227384">
         <mark key="[" line="259" column="26" />
         <mark key="]" line="259" column="49" />
@@ -408,6 +402,12 @@
         <mark key="]" line="377" column="0" />
         <mark key="." line="377" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1559112847758">
+        <mark key="'" line="69" column="55" />
+        <mark key="[" line="302" column="12" />
+        <mark key="]" line="302" column="13" />
+        <mark key="." line="302" column="13" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Validation/IncomeValidatorTests.cs" timestamp="1558526286276">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="19" column="3" />
@@ -451,6 +451,12 @@
         <mark key="." line="8" column="18" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoerneUngeYdelse/DKBoerneUngeYdelseStatusSource.cs" timestamp="1558952896441" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" timestamp="1558678695260">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TestBase.cs" timestamp="1558357469828">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="6" />
@@ -713,13 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="839" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="939" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1005" column="56" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="19" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" />
-      <jump line="29" column="68" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Builder/DKCalculationContextBuilder.cs" />
-      <jump line="201" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile.cs" />
-      <jump line="79" column="82" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Profile/PublicBenefits.cs" />
       <jump line="286" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.Tests/Optimization/SolverUtilitiesTest.cs" />
       <jump line="15" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/ProfilData.cs" />
       <jump line="27" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
@@ -813,6 +812,13 @@
       <jump line="321" column="59" filename="C:/repo/advice_delivery/Applications/Advice.PensionsPlan.DB.Scripts/PensionsPlanUpdateStepProvider.cs" />
       <jump line="30" column="11" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" />
       <jump line="69" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/Calculation/CalculationContextValidatorTests.cs" />
+      <jump line="302" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="99" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="230" column="172" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="233" column="127" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="238" column="172" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="764" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="69" column="55" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -822,7 +828,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>satser</text>
+        <text>reserve</text>
       </register>
       <register name="0" type="4">
         <text>p.Benefits?.IsEntitledForSeniorgodtgoerelse</text>
@@ -872,9 +878,9 @@
       </register>
     </registers>
     <search>
-      <last-search>satser</last-search>
+      <last-search>reserve</last-search>
       <last-offset />
-      <last-pattern>satser</last-pattern>
+      <last-pattern>reserve</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -882,7 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aktie</entry>
         <entry>set</entry>
         <entry>child</entry>
         <entry>validevent</entry>
@@ -902,6 +907,7 @@
         <entry>time</entry>
         <entry>timeser</entry>
         <entry>satser</entry>
+        <entry>reserve</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
