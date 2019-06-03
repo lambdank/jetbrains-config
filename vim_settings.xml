@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/Examples/CalculationInputFullContractExample.cs" timestamp="1559538292663">
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="^" line="453" column="17" />
-        <mark key="." line="454" column="0" />
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKAeldrecheck/DKAeldrecheckStatusSource.cs" timestamp="1558952933508" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBeskaeftigelsesfradrag/DKBeskaeftigelsesfradragCalculate.cs" timestamp="1558005166577">
@@ -115,12 +114,12 @@
         <mark key="]" line="31" column="107" />
         <mark key="." line="31" column="107" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1559538138803">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1559569040533">
         <mark key="'" line="38" column="92" />
-        <mark key="[" line="36" column="147" />
-        <mark key="]" line="36" column="147" />
-        <mark key="." line="36" column="147" />
-        <mark key="^" line="36" column="147" />
+        <mark key="[" line="36" column="172" />
+        <mark key="]" line="36" column="175" />
+        <mark key="." line="36" column="175" />
+        <mark key="^" line="36" column="175" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1558444227384">
         <mark key="[" line="259" column="26" />
@@ -172,7 +171,7 @@
         <mark key="]" line="70" column="335" />
         <mark key="." line="70" column="335" />
       </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger/Client/Configuration.cs" timestamp="1559551516595">
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger/Client/Configuration.cs" timestamp="1559569245405">
         <mark key="'" line="117" column="24" />
         <mark key="[" line="133" column="31" />
         <mark key="]" line="133" column="54" />
@@ -322,11 +321,6 @@
         <mark key="[" line="38" column="89" />
         <mark key="]" line="38" column="89" />
         <mark key="." line="38" column="89" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/CalculationCaseSetting.cs" timestamp="1559537881124">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Company/CompanyPersonalEquityPickerRuleTest.cs" timestamp="1558008210607">
         <mark key="[" line="99" column="95" />
@@ -603,11 +597,11 @@
         <mark key="]" line="23" column="117" />
         <mark key="." line="23" column="117" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559568063065">
-        <mark key="[" line="514" column="100" />
-        <mark key="]" line="514" column="100" />
-        <mark key="^" line="507" column="99" />
-        <mark key="." line="514" column="100" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559569254888">
+        <mark key="'" line="677" column="0" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="511" column="13" />
+        <mark key="." line="506" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKFinalTaxDeath.cs" timestamp="1558005892198">
         <mark key="[" line="72" column="88" />
@@ -1205,10 +1199,10 @@
         <mark key="." line="49" column="52" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" timestamp="1559542108396">
-        <mark key="[" line="1002" column="49" />
-        <mark key="]" line="1003" column="43" />
-        <mark key="^" line="1003" column="43" />
-        <mark key="." line="1003" column="43" />
+        <mark key="[" line="1004" column="49" />
+        <mark key="]" line="1005" column="43" />
+        <mark key="^" line="1005" column="43" />
+        <mark key="." line="1005" column="43" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKKKS/DKKKSInputSourceOutputSink.cs" timestamp="1558005313621">
         <mark key="[" line="27" column="91" />
@@ -1292,12 +1286,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1559566246564">
-        <mark key="'" line="539" column="22" />
-        <mark key="[" line="481" column="38" />
-        <mark key="]" line="481" column="38" />
-        <mark key="^" line="481" column="38" />
-        <mark key="." line="481" column="38" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1559568138209">
+        <mark key="'" line="532" column="77" />
+        <mark key="[" line="539" column="38" />
+        <mark key="]" line="539" column="43" />
+        <mark key="^" line="539" column="43" />
+        <mark key="." line="539" column="43" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1559025666690">
         <mark key="[" line="139" column="0" />
@@ -1311,10 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1148" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="16" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Satser/Categories/AutogeneratedSatsDataRepositoryTests.cs" />
-      <jump line="23" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Satser/Categories/AutogeneratedSatsDataRepositoryTests.cs" />
-      <jump line="1253" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="378" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1916" column="79" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1933" column="79" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
@@ -1411,31 +1401,35 @@
       <jump line="474" column="83" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
       <jump line="481" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
       <jump line="539" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="482" column="13" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="532" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="637" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
+      <jump line="711" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.ToList()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1hcHBlZEFjY291bnQgaW4gbWFwcGVkU3ViQWNjb3VudHMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeS5BZGQobWFwcGVkQWNjb3VudC5LZXksIG1hcHBlZEFjY291bnQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2F0Y2ggKEFyZ3VtZW50RXhjZXB0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJCJBY2NvdW50IGtleSBhbHJlYWR5IGV4aXN0czpcbiB7bWFwcGVkQWNjb3VudC5LZXl9Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFyIGFjY291bnQgPSBuZXcgTXV0YWJsZUFjY291bnQobWFwcGVkS2V5LCBtYXBwZWREZXRhaWxzLCBfZW50cmllcy5WYWx1ZXMuVG9MaXN0KCksIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.ToList()</text>
+        <text>returnStandardFormat</text>
       </register>
       <register name="/" type="4">
-        <text>standardf</text>
+        <text>addsub</text>
       </register>
-      <register name="0" type="4">
-        <text>MutableAccount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnQgPSBuZXcgTXV0YWJsZUFjY291bnQobWFwcGVkS2V5LCBtYXBwZWREZXRhaWxzLCBfZW50cmllcy5WYWx1ZXMuVG9MaXN0KCksIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeSk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgc3ViQWNjb3VudCBpbiBtYXBwZWRTdWJBY2NvdW50cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYWNjb3VudC5BZGRTdWJBY2NvdW50KG5ldyBBY2NvdW50S2V5WzBdLCBuZXcgW10geyBzdWJBY2NvdW50LkRldGFpbHMgfSwgc3ViQWNjb3VudC5HZXRJbW11dGFibGUoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjdXJzaXZlbHlBZGRTdWJhY2NvdW50cyhtYXBwZWRTdWJBY2NvdW50c0RpY3Rpb25hcnksIG1hcHBlZFN1YkFjY291bnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1hcHBlZEFjY291bnQgaW4gbWFwcGVkU3ViQWNjb3VudHMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeS5BZGQobWFwcGVkQWNjb3VudC5LZXksIG1hcHBlZEFjY291bnQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2F0Y2ggKEFyZ3VtZW50RXhjZXB0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJCJBY2NvdW50IGtleSBhbHJlYWR5IGV4aXN0czpcbiB7bWFwcGVkQWNjb3VudC5LZXl9Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFyIGFjY291bnQgPSBuZXcgTXV0YWJsZUFjY291bnQobWFwcGVkS2V5LCBtYXBwZWREZXRhaWxzLCBfZW50cmllcy5WYWx1ZXMuVG9MaXN0KCksIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWIK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSB2b2lkIFJlY3Vyc2l2ZWx5QWRkU3ViYWNjb3VudHMoSUVudW1lcmFibGU8TXV0YWJsZUFjY291bnQ+IHN1YnMpCiAgICAgICAgewogICAgICAgICAgICBmb3JlYWNoICh2YXIgc3ViIGluIHN1YnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzdWJLZXkgPSBzdWIuS2V5OwogICAgICAgICAgICAgICAgaWYgKF9zdWJBY2NvdW50cy5Db250YWluc0tleShzdWJLZXkpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFJlY3Vyc2l2ZWx5QWRkU3ViYWNjb3VudHMoc3ViLl9zdWJBY2NvdW50cy5WYWx1ZXMpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIF9zdWJBY2NvdW50cy5BZGQoc3ViS2V5LCBzdWIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhLlN1YkFjY291bnRzLkMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBSZWN1cnNpdmVseUFkZFN1YmFjY291bnRzKERpY3Rpb25hcnk8QWNjb3VudEtleSwgTXV0YWJsZUFjY291bnQ+IG1haW4sIElFbnVtZXJhYmxlPE11dGFibGVBY2NvdW50PiBzdWJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgc3ViIGluIHN1YnMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHN1YktleSA9IHN1Yi5LZXk7CiAgICAgICAgICAgICAgICAgICAgaWYgKG1haW4uQ29udGFpbnNLZXkoc3ViS2V5KSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFJlY3Vyc2l2ZWx5QWRkU3ViYWNjb3VudHMobWFpbltzdWJLZXldLl9zdWJBY2NvdW50cywgc3ViLl9zdWJBY2NvdW50cy5WYWx1ZXMpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBtYWluLkFkZChzdWJLZXksIHN1Yik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBSZWN1cnNpdmVseUFkZFN1YmFjY291bnRzKG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeSwgbWFwcGVkU3ViQWNjb3VudHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnQgPSBuZXcgTXV0YWJsZUFjY291bnQobWFwcGVkS2V5LCBtYXBwZWREZXRhaWxzLCBfZW50cmllcy5WYWx1ZXMuVG9MaXN0KCksIG1hcHBlZFN1YkFjY291bnRzRGljdGlvbmFyeSk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1448,31 +1442,33 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGVkU3ViQWNjb3VudHNEaWN0aW9uYXJ5LkFkZChtYXBwZWRBY2NvdW50LktleSwgbWFwcGVkQWNjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRTdWJBY2NvdW50KCk7ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVyblN0YW5kYXIgPSB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpc2NyaW1pbmF0b3IgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24oJCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIik7CiAgICAgICAgICAgIH0K</text>
+      <register name="9" type="8">
+        <text>main
+main
+main</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>standardf</last-search>
+      <last-search>addsub</last-search>
       <last-offset />
-      <last-pattern>standardf</last-pattern>
+      <last-pattern>addsub</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1480,9 +1476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
-        <entry>senior</entry>
-        <entry>skat.facade</entry>
         <entry>_5</entry>
         <entry>_6</entry>
         <entry>time</entry>
@@ -1500,6 +1493,9 @@
         <entry>ratepens</entry>
         <entry>return</entry>
         <entry>standardf</entry>
+        <entry>true</entry>
+        <entry>main</entry>
+        <entry>addsub</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
