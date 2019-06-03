@@ -57,9 +57,6 @@
         <mark key="." line="72" column="30" />
         <mark key="^" line="72" column="30" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" timestamp="1559137729365">
-        <mark key="'" line="209" column="38" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Company/CompanyPickerRuleTest.cs" timestamp="1558008238571">
         <mark key="[" line="116" column="105" />
         <mark key="]" line="116" column="105" />
@@ -214,9 +211,6 @@
         <mark key="]" line="502" column="18" />
         <mark key="." line="502" column="18" />
         <mark key="^" line="502" column="18" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1559130045506">
-        <mark key="'" line="171" column="99" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/SetAgesRequestExample.cs" timestamp="1558504709836">
         <mark key="[" line="8" column="33" />
@@ -625,7 +619,7 @@
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="22" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1557999780785">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559541248563">
         <mark key="[" line="664" column="130" />
         <mark key="]" line="664" column="130" />
         <mark key="." line="664" column="130" />
@@ -811,9 +805,6 @@
         <mark key="." line="269" column="159" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1559134786683" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1558699189247">
-        <mark key="'" line="12" column="8" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" timestamp="1559284934908">
         <mark key="'" line="183" column="20" />
         <mark key="[" line="257" column="16" />
@@ -1049,10 +1040,10 @@
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="30" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" timestamp="1558008325778">
-        <mark key="[" line="370" column="165" />
-        <mark key="]" line="370" column="165" />
-        <mark key="." line="370" column="165" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" timestamp="1559541069537">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKTopskat/DKTopskatInputSourceOutputSink.cs" timestamp="1558005594078">
         <mark key="[" line="30" column="69" />
@@ -1119,9 +1110,6 @@
         <mark key="[" line="52" column="137" />
         <mark key="]" line="52" column="137" />
         <mark key="." line="52" column="137" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/SamfundsForudsaetninger.cs" timestamp="1558686684338">
-        <mark key="'" line="16" column="17" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPersonligIndkomst/DKPersonligIndkomstInputSourceOutputSink.cs" timestamp="1558005498510">
         <mark key="[" line="38" column="79" />
@@ -1298,9 +1286,6 @@
         <mark key="[" line="184" column="101" />
         <mark key="]" line="184" column="101" />
         <mark key="." line="184" column="101" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PI/PIEnums.cs" timestamp="1559137782135">
-        <mark key="'" line="33" column="8" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/Adapter/StatementRestoreAdapter.cs" timestamp="1558005791515">
         <mark key="[" line="113" column="57" />
@@ -1503,7 +1488,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>GetRelevantPerson(person, calculationContext)</text>
@@ -1511,17 +1496,17 @@
       <register name="/" type="4">
         <text>result</text>
       </register>
-      <register name="0" type="4">
-        <text>GetRelevantPerson(person, calculationContext).Benefits</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UK</text>
@@ -1537,22 +1522,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5TdGFuZGFyZEZvcm1hdCA9IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5TdGFuZGFyZEZvcm1hdCA9IGZhbHNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
