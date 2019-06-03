@@ -408,10 +408,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1559542048234">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1559566095007">
+        <mark key="[" line="202" column="38" />
+        <mark key="]" line="202" column="42" />
+        <mark key="." line="202" column="42" />
+        <mark key="^" line="202" column="42" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/DKFinancialStatementInitializeTests.cs" timestamp="1558008032570">
         <mark key="[" line="303" column="167" />
@@ -602,6 +603,12 @@
         <mark key="]" line="23" column="117" />
         <mark key="." line="23" column="117" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559566411514">
+        <mark key="[" line="504" column="124" />
+        <mark key="]" line="504" column="124" />
+        <mark key="^" line="504" column="155" />
+        <mark key="." line="504" column="124" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKFinalTaxDeath.cs" timestamp="1558005892198">
         <mark key="[" line="72" column="88" />
         <mark key="]" line="72" column="88" />
@@ -646,7 +653,7 @@
         <mark key="." line="13" column="110" />
         <mark key="^" line="13" column="111" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1558964777645">
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1559565805478">
         <mark key="'" line="4" column="24" />
         <mark key="[" line="83" column="78" />
         <mark key="]" line="83" column="90" />
@@ -1249,17 +1256,16 @@
         <mark key="]" line="195" column="153" />
         <mark key="." line="195" column="153" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/CalculationContext.cs" timestamp="1559537898660">
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="42" column="19" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Calculation/CalculationContext.cs" timestamp="1559565956249">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="40" />
         <mark key="^" line="35" column="7" />
         <mark key="." line="42" column="19" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/Examples/CalculationInputContractTaxCode7Case.cs" timestamp="1559545253413">
-        <mark key="[" line="250" column="41" />
-        <mark key="]" line="250" column="41" />
-        <mark key="." line="250" column="41" />
-        <mark key="^" line="250" column="41" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/Examples/CalculationInputContractTaxCode7Case.cs" timestamp="1559566028155">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/IValidationMessageProvider.cs" timestamp="1558685346408">
         <mark key="'" line="122" column="8" />
@@ -1286,11 +1292,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1559541970223">
-        <mark key="[" line="538" column="49" />
-        <mark key="]" line="539" column="43" />
-        <mark key="^" line="539" column="43" />
-        <mark key="." line="539" column="43" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1559566246564">
+        <mark key="'" line="539" column="22" />
+        <mark key="[" line="481" column="38" />
+        <mark key="]" line="481" column="38" />
+        <mark key="^" line="481" column="38" />
+        <mark key="." line="481" column="38" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1559025666690">
         <mark key="[" line="139" column="0" />
@@ -1304,10 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="613" column="80" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="888" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="889" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="890" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1148" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="16" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Satser/Categories/AutogeneratedSatsDataRepositoryTests.cs" />
       <jump line="23" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Satser/Categories/AutogeneratedSatsDataRepositoryTests.cs" />
@@ -1404,31 +1407,35 @@
       <jump line="116" column="91" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
       <jump line="141" column="74" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
       <jump line="147" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
+      <jump line="616" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="474" column="83" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="481" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="539" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://obex.keylaneapi.dk/v10/calc/</text>
+        <text encoding="base64">LlRvRGljdGlvbmFyeShuID0+IG4uS2V5LCBuID0+IG4p</text>
       </register>
       <register name="-" type="4">
-        <text>https://obex.keylaneapi.dk/v10/calc/</text>
+        <text encoding="base64">LlRvRGljdGlvbmFyeShuID0+IG4uS2V5LCBuID0+IG4p</text>
       </register>
       <register name="/" type="4">
-        <text>ratepens</text>
+        <text>standardf</text>
       </register>
       <register name="0" type="4">
-        <text>http://localhost:53303/</text>
+        <text>ReturnStandardFormat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpc2NyaW1pbmF0b3IgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24oJCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENyZWF0ZXMgYSByZWFsIGVzdGF0ZSBEVE8KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHByaXZhdGUgc3RhdGljIEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxFc3RhdGUgQ3JlYXRlUmVhbEVzdGF0ZShpbnQgaWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGlzY3JpbWluYXRvciA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxCYXNlLkRpc2NyaW1pbmF0b3JFbnVtLkFwaUR0b0lucHV0UHJvZHVjdHNBc3NldEFzc2V0UmVhbEVzdGF0ZSwKICAgICAgICAgICAgICAgIFNlbGxpbmdZZWFyID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBUaW1lVHlwZSA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkF0TGFzdERlYXRoCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWNxdWlyaW5nWWVhciA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVGltZVR5cGUgPSBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lLlRpbWVUeXBlRW51bS5DYWxjdWxhdGlvbgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFN0YXR1cyA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxCYXNlLlN0YXR1c0VudW0uRVhJU1RJTkcsCiAgICAgICAgICAgICAgICBWYWx1ZSA9IDIwMDAwMDAsCiAgICAgICAgICAgICAgICBHcm93dGggPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50YWdlU2VyaWVzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VyaWVzID0gbmV3IExpc3Q8QWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZVZhbHVlQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWVWYWx1ZUFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dEJ1aWxkaW5nQmxvY2tzUGVyY2VudAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVHlwZSA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkNhbGN1bGF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXNQZXJjZW50ID0gNQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIElkID0gaWQsCiAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICJIdXMiLAogICAgICAgICAgICAgICAgT3duZXJzaGlwID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dE93bmVyc2hpcCgwLjUsIDAuNSksCiAgICAgICAgICAgICAgICBUeXBlID0gQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZHVjdHNBc3NldEFzc2V0UmVhbEVzdGF0ZS5UeXBlRW51bS5FamVyYm9saWcKICAgICAgICAgICAgfTsKICAgICAgICB9CiAgICB9Cn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVyblN0YW5kYXIgPSB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5TdGFuZGFyZEZvcm1hdCA9IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpc2NyaW1pbmF0b3IgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24oJCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIik7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8uVG9EaWN0aW9uYXJ5KG4gPT4gbi5LZXksIG4gPT4gbik7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENyZWF0ZXMgYSByZWFsIGVzdGF0ZSBEVE8KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHByaXZhdGUgc3RhdGljIEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxFc3RhdGUgQ3JlYXRlUmVhbEVzdGF0ZShpbnQgaWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGlzY3JpbWluYXRvciA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxCYXNlLkRpc2NyaW1pbmF0b3JFbnVtLkFwaUR0b0lucHV0UHJvZHVjdHNBc3NldEFzc2V0UmVhbEVzdGF0ZSwKICAgICAgICAgICAgICAgIFNlbGxpbmdZZWFyID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBUaW1lVHlwZSA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkF0TGFzdERlYXRoCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWNxdWlyaW5nWWVhciA9IG5ldyBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVGltZVR5cGUgPSBBZHZpY2VFY29ub21pY1N1aXRlQXBpRHRvSW5wdXRUaW1lLlRpbWVUeXBlRW51bS5DYWxjdWxhdGlvbgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFN0YXR1cyA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFByb2R1Y3RzQXNzZXRBc3NldFJlYWxCYXNlLlN0YXR1c0VudW0uRVhJU1RJTkcsCiAgICAgICAgICAgICAgICBWYWx1ZSA9IDIwMDAwMDAsCiAgICAgICAgICAgICAgICBHcm93dGggPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50YWdlU2VyaWVzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VyaWVzID0gbmV3IExpc3Q8QWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0VGltZVZhbHVlQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWVWYWx1ZUFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dEJ1aWxkaW5nQmxvY2tzUGVyY2VudAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVHlwZSA9IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dFRpbWUuVGltZVR5cGVFbnVtLkNhbGN1bGF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBuZXcgQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0QnVpbGRpbmdCbG9ja3NQZXJjZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXNQZXJjZW50ID0gNQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIElkID0gaWQsCiAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICJIdXMiLAogICAgICAgICAgICAgICAgT3duZXJzaGlwID0gbmV3IEFkdmljZUVjb25vbWljU3VpdGVBcGlEdG9JbnB1dE93bmVyc2hpcCgwLjUsIDAuNSksCiAgICAgICAgICAgICAgICBUeXBlID0gQWR2aWNlRWNvbm9taWNTdWl0ZUFwaUR0b0lucHV0UHJvZHVjdHNBc3NldEFzc2V0UmVhbEVzdGF0ZS5UeXBlRW51bS5FamVyYm9saWcKICAgICAgICAgICAgfTsKICAgICAgICB9CiAgICB9Cn0=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1441,10 +1448,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXR1cm5TdGFuZGFyZEZvcm1hdCA9IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UoIkFrdGllaW5ka29tc3RJa2tlSW5kZWhvbGR0VWRieXR0ZXNrYXQsQmluZGtvbXN0VWRlbkFNQiIpXQogICAgICAgIFtUZXN0Q2FzZSgiSW5ka29tc3RBbmRlbiIpXQogICAgICAgIFtUZXN0Q2FzZSgiUGFzc2l2ZXJBZmRyYWciKV0KICAgICAgICBwdWJsaWMgdm9pZCBBY2NvdW50RmlsdGVyX1JldHVyblN0YW5kYXJkRm9ybWF0VHJ1ZV9WYWxpZChzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZmlsdGVyID0gc3RyaW5nVG9MaXN0KGlucHV0KTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoX3ZhbGlkYXRvci5WYWxpZGF0ZShuZXcgQ2FsY3VsYXRpb25DYXNlU2V0dGluZyB7IFJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lcyA9IGZpbHRlci5Ub0xpc3QoKX0pLklzVmFsaWQgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8uVG9EaWN0aW9uYXJ5KG4gPT4gbi5LZXksIG4gPT4gbik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1453,7 +1460,7 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UoIkJvbGlnTGFhbiIpXQogICAgICAgIFtUZXN0Q2FzZSgiVWRnaWZ0ZXJVZGVuQU1CU3VtIildCiAgICAgICAgcHVibGljIHZvaWQgQWNjb3VudEZpbHRlcl9SZXR1cm5TdGFuZGFyZEZvcm1hdFRydWVfSW52YWxpZChzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZmlsdGVyID0gc3RyaW5nVG9MaXN0KGlucHV0KTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoX3ZhbGlkYXRvci5WYWxpZGF0ZShuZXcgQ2FsY3VsYXRpb25DYXNlU2V0dGluZyB7IFJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lcyA9IGZpbHRlciB9KS5Jc1ZhbGlkLCBJcy5GYWxzZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UoIkFrdGllaW5ka29tc3RJa2tlSW5kZWhvbGR0VWRieXR0ZXNrYXQsQmluZGtvbXN0VWRlbkFNQiIpXQogICAgICAgIFtUZXN0Q2FzZSgiSW5ka29tc3RBbmRlbiIpXQogICAgICAgIFtUZXN0Q2FzZSgiUGFzc2l2ZXJBZmRyYWciKV0KICAgICAgICBwdWJsaWMgdm9pZCBBY2NvdW50RmlsdGVyX1JldHVyblN0YW5kYXJkRm9ybWF0VHJ1ZV9WYWxpZChzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZmlsdGVyID0gc3RyaW5nVG9MaXN0KGlucHV0KTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoX3ZhbGlkYXRvci5WYWxpZGF0ZShuZXcgQ2FsY3VsYXRpb25DYXNlU2V0dGluZyB7IFJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lcyA9IGZpbHRlci5Ub0xpc3QoKX0pLklzVmFsaWQgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1463,9 +1470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ratepens</last-search>
+      <last-search>standardf</last-search>
       <last-offset />
-      <last-pattern>ratepens</last-pattern>
+      <last-pattern>standardf</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1473,8 +1480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beregnskat</entry>
-        <entry>aktieindkomst</entry>
         <entry>5</entry>
         <entry>senior</entry>
         <entry>skat.facade</entry>
@@ -1493,6 +1498,8 @@
         <entry>dis</entry>
         <entry>keylan</entry>
         <entry>ratepens</entry>
+        <entry>return</entry>
+        <entry>standardf</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
