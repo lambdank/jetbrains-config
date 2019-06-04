@@ -607,12 +607,12 @@
         <mark key="]" line="23" column="117" />
         <mark key="." line="23" column="117" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559630539511">
-        <mark key="'" line="695" column="0" />
-        <mark key="[" line="175" column="63" />
-        <mark key="]" line="175" column="63" />
-        <mark key="." line="175" column="63" />
-        <mark key="^" line="175" column="61" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1559647554743">
+        <mark key="'" line="696" column="0" />
+        <mark key="[" line="181" column="32" />
+        <mark key="]" line="181" column="38" />
+        <mark key="." line="181" column="38" />
+        <mark key="^" line="181" column="38" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKFinalTaxDeath.cs" timestamp="1558005892198">
         <mark key="[" line="72" column="88" />
@@ -1420,28 +1420,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>details</text>
+        <text>Key</text>
       </register>
       <register name="-" type="4">
-        <text>details</text>
+        <text>Key</text>
       </register>
       <register name="/" type="4">
         <text>detai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBZGRTdWJBY2NvdW50KEFjY291bnRLZXlbXSBwYXRoLCBBY2NvdW50RGV0YWlsc1tdIGRldGFpbHMsIEFjY291bnQgYWNjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdXJyZW50TGV2ZWxLZXkgPSBwYXRoV2l0aERldGFpbHNbMF0uSXRlbTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJBY2NvdW50cyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAvL3B1YmxpYyB2b2lkIEFkZFN1YkFjY291bnQoQWNjb3VudEtleVtdIHBhdGgsIEFjY291bnREZXRhaWxzW10gZGV0YWlscywgQWNjb3VudCBhY2NvdW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJBY2NvdW50cyA9IHN1YlBhdGguU2VsZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJBY2NvdW50cyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJBY2NvdW50cyA9IHN1YlBhdGguU2VsZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEluc2VydCBhdCBsb3dlciBsZXZlbCByZWN1cnNpdmVseQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1454,22 +1454,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEluc2VydCBhdCBsb3dlciBsZXZlbCByZWN1cnNpdmVseQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLkZvckVhY2godGltZSA9PiBfZW50cmllc1t0aW1lXS5FdmFsdWF0ZUZyb21TdWJBY2NvdW50cyA9IHRydWUpOwogICAgICAgICAgICBuZXdFbnRyeVRpbWVzLkZvckVhY2goKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
