@@ -496,6 +496,12 @@
         <mark key="]" line="55" column="63" />
         <mark key="." line="55" column="41" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559813871001">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="16" />
+        <mark key="^" line="301" column="15" />
+        <mark key="." line="322" column="16" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/MutableEntry.cs" timestamp="1559653678909">
         <mark key="'" line="57" column="20" />
         <mark key="[" line="45" column="157" />
@@ -624,12 +630,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559811251229">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559813765945">
         <mark key="'" line="198" column="41" />
-        <mark key="[" line="203" column="80" />
-        <mark key="]" line="203" column="85" />
-        <mark key="." line="203" column="85" />
-        <mark key="^" line="203" column="85" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativSkattepligtigIndkomstOverfoersel/DKNegativSkattepligtigIndkomstOverfoerselInputSourceOutputSink.cs" timestamp="1558005624922">
         <mark key="[" line="69" column="165" />
@@ -912,6 +917,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/ControllingReports/v1/ControllingReportsV1Controller.cs" timestamp="1559813717623" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativKapitalindkomstNedslag/DKNegativKapitalindkomstNedslagInputSourceOutputSink.cs" timestamp="1558005329311">
         <mark key="[" line="31" column="151" />
         <mark key="]" line="31" column="151" />
@@ -1422,7 +1428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGN1cnJlbnRDYWxjcy5YID0gY3VycmVudENhbGNzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>DisposableIncomeAmount</text>
@@ -1431,19 +1437,19 @@
         <text>dispo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IERpc3Bvc2FibGVJbmNvbWVBbW91bnQgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0Z1dHVyZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwYXJ0LlRhYmxlUm93cy5BZGRSYW5nZShuZXdbXQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFRhYmxlUm93CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEtleSA9ICQie2tleX18Y3JlZGl0RGlzcEluY29tZURlbHRhWSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9IFRyYW5zbGF0ZUNyKCJSZWd1bGVyZXRfcuVkaWdoZWRzYmVs+GJfZGlmZiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgT3duZXJUZXh0ID0gIsVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlID0gY2FsYy5SZWd1bGF0ZWREaXNwb3NhYmxlSW5jb21lRGVsdGEuR2V0VmFsdWVPckRlZmF1bHQoKS5Ub1ZpZXdTdHJpbmcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFsdFZhbHVlID0gY2FsYy5SZWd1bGF0ZWREaXNwb3NhYmxlSW5jb21lQWx0RGVsdGEuR2V0VmFsdWVPckRlZmF1bHQoKS5Ub1ZpZXdTdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgVGFibGVSb3cKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgS2V5ID0gJCJ7a2V5fXxjcmVkaXREaXNwSW5jb21lRGVsdGFNIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uID0gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBPd25lclRleHQgPSAiTWQuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlID0gR2V0TW9udGhseVZhbHVlT3JOdWxsKGNhbGMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFtb3VudCwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudENhbGN1bGF0aW9ucy5SZWd1bGF0ZWREaXNwb3NhYmxlSW5jb21lQW1vdW50KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFsdFZhbHVlID0gR2V0TW9udGhseVZhbHVlT3JOdWxsKGNhbGMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFsdEFtb3VudC5HZXRWYWx1ZU9yRGVmYXVsdCgpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50Q2FsY3VsYXRpb25zLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbW91bnQpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGN1cnJlbnRDYWxjcy5YID0gY3VycmVudENhbGNzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0Z1dHVyZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudENhbGNzLlggPSByZXBvcnQuQ3VycmVudFNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHguVmFsdWUpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1456,22 +1462,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGhXaXRoRGV0YWlscyI+UGF0aCBvZiBhY2NvdW50IGtleXMgc3BlY2lmeWluZyBwYXJlbnQgYWNjb3VudCB1bmRlciB3aGljaCB0byBpbnNlcnQgYWNjb3VudC4KICAgICAgICAvLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWYgYW4gYWNjb3VudCBpbiB0aGUgcGF0aCBkb2VzIG5vdCBleGlzdCwgaXQgaXMgY3JlYXRlZCB3aXRoIHRoZSBwcm92aWRlZCBkZXRhaWxzPC9wYXJhbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGN1cnJlbnRDYWxjcy5YID0gY3VycmVudENhbGNzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGgiPlBhdGggb2YgYWNjb3VudCBrZXlzIHNwZWNpZnlpbmcgcGFyZW50IGFjY291bnQgdW5kZXIgd2hpY2ggdG8gaW5zZXJ0IGFjY291bnQuIEFuIGVtcHR5IHBhdGggaW5kaWNhdGVzIHJvb3QgbGV2ZWw8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iZGV0YWlscyI+U3ViIGFjY291bnQgZGV0YWlscyB0byB1c2UgaWYgY3JlYXRpbmcgbmV3PC9wYXJhbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zdWJBY2NvdW50c1tjdXJyZW50TGV2ZWxLZXldLkFkZFN1YkFjY291bnRXaXRoUGF0aChwYXRoV2l0aERldGFpbHMuU2tpcCgxKS5Ub0FycmF5KCksIGFjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGhXaXRoRGV0YWlscyI+UGF0aCBvZiBhY2NvdW50IGtleXMgc3BlY2lmeWluZyBwYXJlbnQgYWNjb3VudCB1bmRlciB3aGljaCB0byBpbnNlcnQgYWNjb3VudC4KICAgICAgICAvLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWYgYW4gYWNjb3VudCBpbiB0aGUgcGF0aCBkb2VzIG5vdCBleGlzdCwgaXQgaXMgY3JlYXRlZCB3aXRoIHRoZSBwcm92aWRlZCBkZXRhaWxzPC9wYXJhbT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
