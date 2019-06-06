@@ -496,11 +496,12 @@
         <mark key="]" line="55" column="63" />
         <mark key="." line="55" column="41" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559816577171">
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="^" line="309" column="79" />
-        <mark key="." line="309" column="0" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559817525465">
+        <mark key="'" line="272" column="54" />
+        <mark key="[" line="309" column="55" />
+        <mark key="]" line="309" column="23" />
+        <mark key="^" line="309" column="23" />
+        <mark key="." line="309" column="23" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/MutableEntry.cs" timestamp="1559653678909">
         <mark key="'" line="57" column="20" />
@@ -630,11 +631,12 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559813765945">
-        <mark key="'" line="198" column="41" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559817486745">
+        <mark key="'" line="214" column="29" />
+        <mark key="[" line="289" column="30" />
+        <mark key="]" line="289" column="30" />
+        <mark key="." line="289" column="30" />
+        <mark key="^" line="290" column="23" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKNegativSkattepligtigIndkomstOverfoersel/DKNegativSkattepligtigIndkomstOverfoerselInputSourceOutputSink.cs" timestamp="1558005624922">
         <mark key="[" line="69" column="165" />
@@ -746,6 +748,9 @@
         <mark key="[" line="302" column="12" />
         <mark key="]" line="302" column="13" />
         <mark key="." line="302" column="13" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" timestamp="1559817264691">
+        <mark key="'" line="216" column="94" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Model/Engagements/Validation/IncomeValidatorTests.cs" timestamp="1558526286276">
         <mark key="[" line="19" column="3" />
@@ -1325,16 +1330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="90" column="48" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="92" column="27" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="93" column="46" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="100" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="107" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="113" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="115" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="120" column="63" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="121" column="63" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
       <jump line="123" column="63" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
       <jump line="124" column="63" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
       <jump line="139" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
@@ -1425,31 +1420,41 @@
       <jump line="0" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="151" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="198" column="41" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
+      <jump line="232" column="76" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="313" column="29" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="333" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="334" column="28" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="56" column="130" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="68" column="130" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="206" column="94" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="216" column="94" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Constants.cs" />
+      <jump line="214" column="29" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
+      <jump line="272" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9WYWx1ZSA9IHNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHkuVmFsdWUgKyB4KS5Ub1N0cmluZygpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>String()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dispo</text>
+        <text>xd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBzY2VuYXJpby5JbmNvbWUuQWdncmVnYXRlKCh4LCB5KSA9PiB5LlZhbHVlICsgeCkuVG9TdHJpbmcoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBzY2VuYXJpby5JbmNvbWUuU3VtKHggPT4geC5Pd25lciA9PSBPd25pbmdQZXJzb24uUGVyc29uMSA/IHguVmFsdWUgOiAwKS5Ub1ZpZXdTdHJpbmcoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9WYWx1ZSA9IHNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHkuVmFsdWUgKyB4KS5Ub1N0cmluZygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBzY2VuYXJpby5JbmNvbWUuU3VtKHggPT4geC5Pd25lciA9PSBPd25pbmdQZXJzb24uUGVyc29uMSA/IHguVmFsdWUgOiAwKS5Ub1ZpZXdTdHJpbmcoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgVGFibGVSb3cKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEtleSA9ICQie2tleX18Y3JlZGl0RGlzcEluY29tZURlbHRhTSIsCiAgICAgICAgICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uID0gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgIE93bmVyVGV4dCA9ICJNZC4iLAogICAgICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IEdldE1vbnRobHlWYWx1ZU9yTnVsbChjYWxjLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbW91bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50Q2FsY3VsYXRpb25zLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbW91bnQpLAogICAgICAgICAgICAgICAgICAgICAgICBBbHRWYWx1ZSA9IEdldE1vbnRobHlWYWx1ZU9yTnVsbChjYWxjLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbHRBbW91bnQuR2V0VmFsdWVPckRlZmF1bHQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRDYWxjdWxhdGlvbnMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFtb3VudCkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9WYWx1ZSA9IHNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHkuVmFsdWUgKyB4KS5Ub1N0cmluZygpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgVGFibGVSb3cKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEtleSA9ICQie2tleX18Y3JlZGl0RGlzcEluY29tZURlbHRhTSIsCiAgICAgICAgICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uID0gIiIsCiAgICAgICAgICAgICAgICAgICAgICAgIE93bmVyVGV4dCA9ICJNZC4iLAogICAgICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IEdldE1vbnRobHlWYWx1ZU9yTnVsbChjYWxjLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbW91bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50Q2FsY3VsYXRpb25zLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbW91bnQpLAogICAgICAgICAgICAgICAgICAgICAgICBBbHRWYWx1ZSA9IEdldE1vbnRobHlWYWx1ZU9yTnVsbChjYWxjLlJlZ3VsYXRlZERpc3Bvc2FibGVJbmNvbWVBbHRBbW91bnQuR2V0VmFsdWVPckRlZmF1bHQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRDYWxjdWxhdGlvbnMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFtb3VudCkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1462,19 +1467,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0Z1dHVyZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudENhbGNzLlggPSByZXBvcnQuQ3VycmVudFNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHguVmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0Z1dHVyZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGN1cnJlbnRDYWxjcy5YID0gY3VycmVudENhbGNzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudENhbGNzLlggPSByZXBvcnQuQ3VycmVudFNjZW5hcmlvLkluY29tZS5BZ2dyZWdhdGUoKHgsIHkpID0+IHguVmFsdWUpCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGN1cnJlbnRDYWxjcy5YID0gY3VycmVudENhbGNzLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -1484,9 +1489,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dispo</last-search>
+      <last-search>xd</last-search>
       <last-offset />
-      <last-pattern>dispo</last-pattern>
+      <last-pattern>xd</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1494,9 +1499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ratepens</entry>
-        <entry>return</entry>
-        <entry>standardf</entry>
         <entry>true</entry>
         <entry>main</entry>
         <entry>detai</entry>
@@ -1514,6 +1516,9 @@
         <entry>closehouseinfo</entry>
         <entry>createaction</entry>
         <entry>dispo</entry>
+        <entry>skat</entry>
+        <entry>X</entry>
+        <entry>xd</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
