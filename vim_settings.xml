@@ -580,6 +580,12 @@
         <mark key="^" line="90" column="65" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" timestamp="1559827282828">
+        <mark key="[" line="130" column="24" />
+        <mark key="]" line="130" column="57" />
+        <mark key="." line="130" column="57" />
+        <mark key="^" line="130" column="57" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/Helpers/EntitySynchronizationHelperTests.cs" timestamp="1558431477763">
         <mark key="[" line="101" column="180" />
         <mark key="]" line="101" column="184" />
@@ -820,16 +826,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>OutstandingTotal</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>OutstandingTotal</text>
       </register>
       <register name="/" type="4">
         <text>after</text>
       </register>
-      <register name="0" type="4">
-        <text>ShowIncomeAfterTaxControllingReport</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG93T3V0c3RhbmRpbmdUb3RhbCA9IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
