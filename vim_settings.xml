@@ -372,6 +372,9 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1559801068242">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/LiquidityAccount/LiquidityAccount.cs" timestamp="1558431723255">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="7" column="7" />
@@ -971,6 +974,7 @@
         <mark key="]" line="38" column="129" />
         <mark key="." line="38" column="129" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/Bankdata/BP/config/bankdataDependencyInjection.js" timestamp="1559800511843" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" timestamp="1559541069537">
         <mark key="[" line="387" column="0" />
         <mark key="]" line="387" column="0" />
@@ -1250,6 +1254,9 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="35" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" timestamp="1559800764771">
+        <mark key="'" line="118" column="43" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKAktieskat/DKAktieskatCalculate.cs" timestamp="1558005066436">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1274,6 +1281,9 @@
         <mark key="^" line="539" column="43" />
         <mark key="." line="539" column="43" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1559801029212">
+        <mark key="'" line="103" column="37" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1559025666690">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="141" column="72" />
@@ -1286,22 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="79" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" />
-      <jump line="90" column="79" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" />
-      <jump line="109" column="80" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" />
-      <jump line="101" column="78" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" />
-      <jump line="211" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="212" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="213" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="214" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="215" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="209" column="38" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" />
-      <jump line="22" column="19" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PI/PIEnums.cs" />
-      <jump line="33" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PI/PIEnums.cs" />
-      <jump line="33" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathLiabilityTest.cs" />
-      <jump line="23" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="68" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
-      <jump line="38" column="92" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" />
       <jump line="39" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
       <jump line="81" column="101" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
       <jump line="87" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxReservesikringDkTests.cs" />
@@ -1386,6 +1380,22 @@
       <jump line="680" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="523" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="720" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
+      <jump line="204" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="212" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="75" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="76" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="115" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="119" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="214" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="217" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="109" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="116" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="117" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="118" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="147" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="106" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="103" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="0" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1395,7 +1405,7 @@
         <text encoding="base64">b2Yg</text>
       </register>
       <register name="/" type="4">
-        <text>addsub</text>
+        <text>createaction</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEFkZHMgYSBzdWIgYWNjb3VudCBhdCBhIGdpdmVuIHBhdGguIElmIHRoZSBwYXRoIGRvZXMgbm90IGV4aXN0LCB0aGUgbWlzc2luZyBhY2NvdW50cyBhcmUgY3JlYXRlZC4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0icGF0aFdpdGhEZXRhaWxzIj5QYXRoIG9mIGFjY291bnQga2V5cyBzcGVjaWZ5aW5nIHBhcmVudCBhY2NvdW50IHVuZGVyIHdoaWNoIHRvIGluc2VydCBhY2NvdW50LgogICAgICAgIC8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZiBhbiBhY2NvdW50IGluIHRoZSBwYXRoIGRvZXMgbm90IGV4aXN0LCBpdCBpcyBjcmVhdGVkIHdpdGggdGhlIHByb3ZpZGVkIGRldGFpbHM8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYWNjb3VudCI+VGhlIHN1YiBhY2NvdW50IHRvIGluc2VydDwvcGFyYW0+Cg==</text>
@@ -1441,13 +1451,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>addsub</last-search>
+      <last-search>createaction</last-search>
       <last-offset />
-      <last-pattern>addsub</last-pattern>
+      <last-pattern>createaction</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1455,10 +1465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pension</entry>
-        <entry>invalid</entry>
-        <entry>result</entry>
-        <entry>dis</entry>
         <entry>keylan</entry>
         <entry>ratepens</entry>
         <entry>return</entry>
@@ -1475,6 +1481,10 @@
         <entry>reevalu</entry>
         <entry>reeva</entry>
         <entry>addsub</entry>
+        <entry>onclose</entry>
+        <entry>allowclose</entry>
+        <entry>closehouseinfo</entry>
+        <entry>createaction</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -1495,8 +1505,8 @@
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>set ic</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
