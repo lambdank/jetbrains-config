@@ -916,6 +916,12 @@
         <mark key="^" line="56" column="91" />
         <mark key="." line="56" column="91" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" timestamp="1559808459533">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="41" />
+        <mark key="." line="86" column="42" />
+        <mark key="^" line="86" column="42" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Mapping/ScenarioRequestsMapperTests.cs" timestamp="1558521197635">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -1403,16 +1409,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>RequireHouseMunipality</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">QWxsb3dDbG9zZUJCUkRpYWxvZyA=</text>
       </register>
       <register name="/" type="4">
         <text>createaction</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEFkZHMgYSBzdWIgYWNjb3VudCBhdCBhIGdpdmVuIHBhdGguIElmIHRoZSBwYXRoIGRvZXMgbm90IGV4aXN0LCB0aGUgbWlzc2luZyBhY2NvdW50cyBhcmUgY3JlYXRlZC4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0icGF0aFdpdGhEZXRhaWxzIj5QYXRoIG9mIGFjY291bnQga2V5cyBzcGVjaWZ5aW5nIHBhcmVudCBhY2NvdW50IHVuZGVyIHdoaWNoIHRvIGluc2VydCBhY2NvdW50LgogICAgICAgIC8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZiBhbiBhY2NvdW50IGluIHRoZSBwYXRoIGRvZXMgbm90IGV4aXN0LCBpdCBpcyBjcmVhdGVkIHdpdGggdGhlIHByb3ZpZGVkIGRldGFpbHM8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYWNjb3VudCI+VGhlIHN1YiBhY2NvdW50IHRvIGluc2VydDwvcGFyYW0+Cg==</text>
+      <register name="0" type="4">
+        <text>RequireHouseMunipality</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGhXaXRoRGV0YWlscyI+UGF0aCBvZiBhY2NvdW50IGtleXMgc3BlY2lmeWluZyBwYXJlbnQgYWNjb3VudCB1bmRlciB3aGljaCB0byBpbnNlcnQgYWNjb3VudC4KICAgICAgICAvLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWYgYW4gYWNjb3VudCBpbiB0aGUgcGF0aCBkb2VzIG5vdCBleGlzdCwgaXQgaXMgY3JlYXRlZCB3aXRoIHRoZSBwcm92aWRlZCBkZXRhaWxzPC9wYXJhbT4K</text>
