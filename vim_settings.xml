@@ -1281,8 +1281,12 @@
         <mark key="^" line="539" column="43" />
         <mark key="." line="539" column="43" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1559801029212">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1559806146350">
         <mark key="'" line="103" column="37" />
+        <mark key="[" line="147" column="93" />
+        <mark key="]" line="147" column="96" />
+        <mark key="^" line="147" column="96" />
+        <mark key="." line="147" column="96" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Scripts/FormuePlanUpdateStepProvider.cs" timestamp="1559025666690">
         <mark key="[" line="139" column="0" />
@@ -1398,11 +1402,11 @@
       <jump line="0" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGhXaXRoRGV0YWlscyI+UGF0aCBvZiBhY2NvdW50IGtleXMgc3BlY2lmeWluZyBwYXJlbnQgYWNjb3VudCB1bmRlciB3aGljaCB0byBpbnNlcnQgYWNjb3VudC4KICAgICAgICAvLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWYgYW4gYWNjb3VudCBpbiB0aGUgcGF0aCBkb2VzIG5vdCBleGlzdCwgaXQgaXMgY3JlYXRlZCB3aXRoIHRoZSBwcm92aWRlZCBkZXRhaWxzPC9wYXJhbT4K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2Yg</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>createaction</text>
@@ -1451,7 +1455,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1505,8 +1509,8 @@
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
