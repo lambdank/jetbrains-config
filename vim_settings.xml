@@ -126,6 +126,12 @@
         <mark key="." line="69" column="107" />
         <mark key="^" line="69" column="107" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="47" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/TestDomain/TestModel/TestScenario.cs" timestamp="1558431454298">
         <mark key="[" line="28" column="124" />
         <mark key="]" line="28" column="140" />
@@ -279,6 +285,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="92" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientSectionConfiguration.cs" timestamp="1559826368105">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/ProfilData.cs" timestamp="1558592730303">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="18" />
@@ -380,6 +392,12 @@
         <mark key="]" line="93" column="19" />
         <mark key="^" line="93" column="19" />
         <mark key="." line="93" column="54" />
+      </file>
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan/Factories/BankdataBudgetPlanClientConfigurationFactory.cs" timestamp="1559826149103">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="52" />
+        <mark key="^" line="55" column="51" />
+        <mark key="." line="55" column="51" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Mapping/ScenarioMapper.cs" timestamp="1558522359021">
         <mark key="[" line="12" column="0" />
@@ -537,11 +555,12 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559824089159">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
         <mark key="'" line="87" column="35" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+        <mark key="[" line="644" column="109" />
+        <mark key="]" line="644" column="109" />
+        <mark key="." line="644" column="109" />
+        <mark key="^" line="645" column="15" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Entry/MutableEntry.cs" timestamp="1559653678909">
         <mark key="'" line="57" column="20" />
@@ -644,8 +663,8 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559824741161">
-        <mark key="'" line="373" column="29" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559825739971">
+        <mark key="'" line="33" column="8" />
         <mark key="[" line="306" column="126" />
         <mark key="]" line="306" column="131" />
         <mark key="." line="306" column="126" />
@@ -698,7 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="204" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="212" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="75" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -798,31 +816,32 @@
       <jump line="314" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="309" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="373" column="29" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
+      <jump line="33" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(int)</text>
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
-        <text>getowner</text>
+        <text>after</text>
       </register>
       <register name="0" type="4">
-        <text>(int)</text>
+        <text>ShowIncomeAfterTaxControllingReport</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwYXJ0LlRhYmxlUm93cy5BZGRSYW5nZShuZXdbXQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ldyBUYWJsZVJvdwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgS2V5ID0gJCJ7a2V5fXxhc2RmIiwKICAgICAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSAiWEQiLAogICAgICAgICAgICAgICAgICAgICAgICBPd25lclRleHQgPSAixXIiLAogICAgICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IHNjZW5hcmlvLkNhbGN1bGF0aW9ucy5YLlRvVmlld1N0cmluZygpLAogICAgICAgICAgICAgICAgICAgICAgICBBbHRWYWx1ZSA9IGNhbGMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFsdERlbHRhLkdldFZhbHVlT3JEZWZhdWx0KCkuVG9WaWV3U3RyaW5nKCkKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRkU3VtbWFyeVJvdyhzdW1tYXJ5Um93cywgJCJ7a2V5UHJlZml4fXxJbmNvbWVBZnRlclRheFAxIiwgIkRpc3BvbmliZWwgaW5ka29tc3QgKFBlcnNvbiBQMSkiLCBzYy5DYWxjdWxhdGlvbnMuSW5jb21lQWZ0ZXJUYXhQMSk7CiAgICAgICAgICAgIGlmIChzYy5QZXJzb24yICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEFkZFN1bW1hcnlSb3coc3VtbWFyeVJvd3MsICQie2tleVByZWZpeH18SW5jb21lQWZ0ZXJUYXhQMiIsICJEaXNwb25pYmVsIGluZGtvbXN0IChQZXJzb24gUDIpIiwgc2MuQ2FsY3VsYXRpb25zLkluY29tZUFmdGVyVGF4UDIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -835,31 +854,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ2FsY3VsYXRlSW5jb21lQWZ0ZXJUYXgoQ2FsY3VsYXRpb25zIGRhdGEsIExpc3Q8ZHluYW1pYz4gZmllbGRzKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGZpbHRlcmVkRmllbGRzID0gRmlsdGVyQW5kT3JkZXJGaWVsZHMoZmllbGRzLCBDb25zdGFudHMuSW5jb21lQ2F0ZWdvcmllcyk7CgogICAgICAgICAgICB2YXIgaW5jb21lU3VtUDEgPSBmaWx0ZXJlZEZpZWxkcy5XaGVyZShmaWVsZCA9PiBfZ2V0T3duZXJGdW5jKGZpZWxkLlBlcnNvbklkKSA9PSBPd25pbmdQZXJzb24uUGVyc29uMSkuU3VtKGZpZWxkID0+IGZpZWxkLlZhbHVlKTsKICAgICAgICAgICAgdmFyIGluY29tZVN1bVAyID0gZmlsdGVyZWRGaWVsZHMuV2hlcmUoZmllbGQgPT4gX2dldE93bmVyRnVuYyhmaWVsZC5QZXJzb25JZCkgPT0gT3duaW5nUGVyc29uLlBlcnNvbjIpLlN1bShmaWVsZCA9PiBmaWVsZC5WYWx1ZSk7CgogICAgICAgICAgICBkYXRhLkluY29tZUFmdGVyVGF4UDEgPSBpbmNvbWVTdW1QMSAtIGRhdGEuVGF4UDE7CiAgICAgICAgICAgIGRhdGEuSW5jb21lQWZ0ZXJUYXhQMiA9IGluY29tZVN1bVAyIC0gZGF0YS5UYXhQMjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRkU3VtbWFyeVJvdyhzdW1tYXJ5Um93cywgJCJ7a2V5UHJlZml4fXxJbmNvbWVBZnRlclRheFAxIiwgIkRpc3BvbmliZWwgaW5ka29tc3QgKFBlcnNvbiBQMSkiLCBzYy5DYWxjdWxhdGlvbnMuSW5jb21lQWZ0ZXJUYXhQMSk7CiAgICAgICAgICAgIGlmIChzYy5QZXJzb24yICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEFkZFN1bW1hcnlSb3coc3VtbWFyeVJvd3MsICQie2tleVByZWZpeH18SW5jb21lQWZ0ZXJUYXhQMiIsICJEaXNwb25pYmVsIGluZGtvbXN0IChQZXJzb24gUDIpIiwgc2MuQ2FsY3VsYXRpb25zLkluY29tZUFmdGVyVGF4UDIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgT3duaW5nUGVyc29uIEludFRvT3duaW5nUGVyc29uKGludCBwZXJzb24pCiAgICAgICAgewogICAgICAgICAgICBzd2l0Y2ggKHBlcnNvbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgICAgICAgICByZXR1cm4gT3duaW5nUGVyc29uLlBlcnNvbjE7CiAgICAgICAgICAgICAgIGNhc2UgMToKICAgICAgICAgICAgICAgICAgIHJldHVybiBPd25pbmdQZXJzb24uUGVyc29uMjsKICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgIHJldHVybiBPd25pbmdQZXJzb24uQm90aDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRkU3VtbWFyeVJvdyhzdW1tYXJ5Um93cywgJCJ7a2V5UHJlZml4fXxJbmNvbWVBZnRlclRheFAyIiwgIkRpc3BvbmliZWwgaW5ka29tc3QgKFBlcnNvbiBQMikiLCBzYy5DYWxjdWxhdGlvbnMuSW5jb21lQWZ0ZXJUYXhQMik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwYXJ0LlRhYmxlUm93cy5BZGRSYW5nZShuZXdbXQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ldyBUYWJsZVJvdwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgS2V5ID0gJCJ7a2V5fXxhc2RmIiwKICAgICAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSAiWEQiLAogICAgICAgICAgICAgICAgICAgICAgICBPd25lclRleHQgPSAixXIiLAogICAgICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IHNjZW5hcmlvLkNhbGN1bGF0aW9ucy5YLlRvVmlld1N0cmluZygpLAogICAgICAgICAgICAgICAgICAgICAgICBBbHRWYWx1ZSA9IGNhbGMuUmVndWxhdGVkRGlzcG9zYWJsZUluY29tZUFsdERlbHRhLkdldFZhbHVlT3JEZWZhdWx0KCkuVG9WaWV3U3RyaW5nKCkKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getowner</last-search>
+      <last-search>after</last-search>
       <last-offset />
-      <last-pattern>getowner</last-pattern>
+      <last-pattern>after</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -867,12 +886,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispo</entry>
-        <entry>xd</entry>
-        <entry>X</entry>
-        <entry>ind</entry>
-        <entry>incom</entry>
-        <entry>build</entry>
         <entry>skat</entry>
         <entry>2012</entry>
         <entry>sumind</entry>
@@ -887,6 +900,12 @@
         <entry>getowning</entry>
         <entry>_get</entry>
         <entry>getowner</entry>
+        <entry>antal</entry>
+        <entry>add</entry>
+        <entry>samlet</entry>
+        <entry>XD</entry>
+        <entry>5years</entry>
+        <entry>after</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
