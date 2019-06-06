@@ -340,7 +340,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" timestamp="1559820012681">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" timestamp="1559820673957">
+        <mark key="'" line="633" column="47" />
         <mark key="[" line="632" column="92" />
         <mark key="]" line="632" column="93" />
         <mark key="." line="632" column="93" />
@@ -511,6 +512,9 @@
         <mark key="]" line="10" column="42" />
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" timestamp="1559820892315">
+        <mark key="'" line="261" column="119" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model/Domain/BaseTypes/SynchronizationStatus.cs" timestamp="1558444459815">
         <mark key="[" line="2" column="26" />
@@ -693,16 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
-      <jump line="637" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="711" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="7" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" />
-      <jump line="18" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" />
-      <jump line="21" column="46" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" />
-      <jump line="517" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="519" column="28" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="578" column="27" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="153" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="21" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="514" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="703" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -793,6 +787,16 @@
       <jump line="63" column="42" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" />
       <jump line="87" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" />
       <jump line="2031" column="7" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
+      <jump line="560" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" />
+      <jump line="631" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" />
+      <jump line="632" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" />
+      <jump line="633" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" />
+      <jump line="237" column="81" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
+      <jump line="239" column="81" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
+      <jump line="247" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
+      <jump line="249" column="72" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
+      <jump line="259" column="46" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
+      <jump line="261" column="119" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -802,7 +806,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>skat</text>
+        <text>income</text>
       </register>
       <register name="0" type="4">
         <text>_getOwnerFunc</text>
@@ -858,9 +862,9 @@
       </register>
     </registers>
     <search>
-      <last-search>skat</last-search>
+      <last-search>income</last-search>
       <last-offset />
-      <last-pattern>skat</last-pattern>
+      <last-pattern>income</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -868,9 +872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>hasentries</entry>
-        <entry>evao7uate</entry>
         <entry>evaluate</entry>
         <entry>getimmu</entry>
         <entry>Reeva</entry>
@@ -888,6 +889,9 @@
         <entry>incom</entry>
         <entry>build</entry>
         <entry>skat</entry>
+        <entry>2012</entry>
+        <entry>1202</entry>
+        <entry>income</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
