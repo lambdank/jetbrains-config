@@ -439,12 +439,6 @@
         <mark key="." line="126" column="0" />
         <mark key="^" line="126" column="127" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Model/ControllingReports/ControllingReportModel.cs" timestamp="1559823765874">
-        <mark key="[" line="62" column="19" />
-        <mark key="]" line="62" column="19" />
-        <mark key="^" line="62" column="19" />
-        <mark key="." line="62" column="19" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/SamfundsForudsaetninger.cs" timestamp="1558686684338">
         <mark key="'" line="16" column="17" />
       </file>
@@ -527,10 +521,6 @@
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
         <mark key="'" line="87" column="35" />
-        <mark key="[" line="644" column="109" />
-        <mark key="]" line="644" column="109" />
-        <mark key="." line="644" column="109" />
-        <mark key="^" line="645" column="15" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Shared/Model.Tests/Domain/Case/Extensions/ScenarioExtensionTests.cs" timestamp="1558431532571">
         <mark key="[" line="127" column="178" />
@@ -641,11 +631,7 @@
         <mark key="^" line="19" column="45" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559896509214">
-        <mark key="'" line="356" column="40" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="0" />
-        <mark key="." line="312" column="0" />
-        <mark key="^" line="310" column="99" />
+        <mark key="'" line="333" column="40" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CommandData/SetLiquidityAccountCommandData.cs" timestamp="1558501852223">
         <mark key="[" line="2" column="0" />
@@ -653,12 +639,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" timestamp="1559823147939">
-        <mark key="'" line="634" column="47" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Data/ArchiveBudget.cs" timestamp="1559907696405">
+        <mark key="'" line="632" column="47" />
         <mark key="[" line="620" column="47" />
         <mark key="]" line="620" column="50" />
-        <mark key="." line="634" column="93" />
-        <mark key="^" line="634" column="74" />
+        <mark key="." line="632" column="93" />
+        <mark key="^" line="632" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Application.DB.Scripts/UpdateScripts/20190521.Advice.Common.Seniorgodtgoerelse.sql" timestamp="1558525305087">
         <mark key="[" line="13" column="109" />
