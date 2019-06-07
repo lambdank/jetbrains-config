@@ -15,9 +15,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Enum.cs" timestamp="1559823163013">
-        <mark key="[" line="458" column="29" />
-        <mark key="]" line="458" column="29" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Enum.cs" timestamp="1559896240793">
+        <mark key="[" line="310" column="10" />
+        <mark key="]" line="310" column="23" />
         <mark key="." line="458" column="29" />
         <mark key="^" line="458" column="21" />
       </file>
@@ -320,6 +320,10 @@
         <mark key="]" line="30" column="51" />
         <mark key="^" line="30" column="51" />
         <mark key="." line="30" column="51" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/budgetplan_app.js" timestamp="1559896170754">
+        <mark key="[" line="76407" column="8" />
+        <mark key="]" line="76407" column="24" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1559889494108">
         <mark key="[" line="3" column="21" />
@@ -636,12 +640,12 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559883674091">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="296" column="63" />
-        <mark key="]" line="296" column="63" />
-        <mark key="." line="296" column="63" />
-        <mark key="^" line="296" column="63" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559896509214">
+        <mark key="'" line="356" column="40" />
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="310" column="99" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CommandData/SetLiquidityAccountCommandData.cs" timestamp="1558501852223">
         <mark key="[" line="2" column="0" />
@@ -676,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="198" column="52" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="200" column="82" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="309" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" />
@@ -776,31 +779,32 @@
       <jump line="7" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
       <jump line="6" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
       <jump line="5" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
+      <jump line="352" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAyID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IF9nZXRPd25lckZ1bmMoZmllbGQuUGVyc29uSWQpID09IE93bmluZ1BlcnNvbi5QZXJzb24yKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>tax</text>
       </register>
-      <register name="0" type="4">
-        <text>true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAxID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IGluY29tZUZpbHRlcihmaWVsZCwgT3duaW5nUGVyc29uLlBlcnNvbjEpKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAyID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IF9nZXRPd25lckZ1bmMoZmllbGQuUGVyc29uSWQpID09IE93bmluZ1BlcnNvbi5QZXJzb24yKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGUuZmlsdGVyKGhvdXNlID0+IGhvdXNlLnVpZCAhPT0gYWN0aW9uLnVpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4Y2x1ZGVkSW5jb21lcyA9IG5ld1tdIHsoaW50KSBFQnVkZ2V0Q2F0ZWdvcnkuVmFlcmRpQWZGcmlCaWwsIChpbnQpIEVCdWRnZXRDYXRlZ29yeS5CZWZvcmRyaW5nc2ZyYWRyYWd9Owo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -813,10 +817,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkVNT1ZFX0hPVVNFCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -825,19 +829,19 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdXNlQkJSRGlhbG9nKHR5cGVJZCkgewogICAgcmV0dXJuIGNvbmZpZ3VyYXRpb24uZ2V0U2V0dGluZygnb3duZWRIb3VzaW5nVHlwZXMnKS5pbmNsdWRlcyh0eXBlSWQpICYmIHR5cGVJZCAhPT0gSE9VU0lORy5DT09QRVJBVElWRQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGUuZmlsdGVyKGhvdXNlID0+IGhvdXNlLnVpZCAhPT0gYWN0aW9uLnVpZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">UkVNT1ZFX0hPVVNFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>tax</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>tax</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +849,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LoadFi</entry>
         <entry>getOwnerFunc</entry>
         <entry>incomesum</entry>
         <entry>getowning</entry>
@@ -865,6 +868,7 @@
         <entry>house</entry>
         <entry>removehouse</entry>
         <entry>remove</entry>
+        <entry>tax</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
