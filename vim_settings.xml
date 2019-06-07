@@ -595,6 +595,12 @@
         <mark key="^" line="1005" column="43" />
         <mark key="." line="1005" column="43" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" timestamp="1559885809532">
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="44" />
+        <mark key="^" line="91" column="44" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Validation/SetLiquidityAccountRequestValidatorTests.cs" timestamp="1558523188335">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -603,6 +609,9 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PI/PIEnums.cs" timestamp="1559137782135">
         <mark key="'" line="33" column="8" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" timestamp="1559885850912">
+        <mark key="'" line="107" column="32" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" timestamp="1559565219216">
         <mark key="'" line="147" column="77" />
@@ -702,13 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="76" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="115" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="119" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="214" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="217" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="109" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="116" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="117" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="118" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -802,19 +804,26 @@
       <jump line="33" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
       <jump line="22" column="42" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" />
       <jump line="219" column="55" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" />
+      <jump line="8" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="45" column="10" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="72" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="74" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="75" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="76" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="107" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(int)</text>
+        <text>RequireHouseMunicipality</text>
       </register>
       <register name="-" type="4">
-        <text>(int)</text>
+        <text encoding="base64">RGlzYWJsZUNwclNlYXJjaCA=</text>
       </register>
       <register name="/" type="4">
-        <text>efter</text>
+        <text>close</text>
       </register>
       <register name="0" type="4">
-        <text>Rounding.Round(</text>
+        <text>RequireHouseMunicipality</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -861,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search>efter</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern>efter</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -871,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2012</entry>
         <entry>sumind</entry>
         <entry>sumin</entry>
         <entry>1202</entry>
@@ -891,6 +899,7 @@
         <entry>after</entry>
         <entry>indkomst</entry>
         <entry>efter</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
