@@ -669,12 +669,12 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559825739971">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="306" column="126" />
-        <mark key="]" line="306" column="131" />
-        <mark key="." line="306" column="126" />
-        <mark key="^" line="305" column="130" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559883674091">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="296" column="63" />
+        <mark key="]" line="296" column="63" />
+        <mark key="." line="296" column="63" />
+        <mark key="^" line="296" column="63" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CommandData/SetLiquidityAccountCommandData.cs" timestamp="1558501852223">
         <mark key="[" line="2" column="0" />
@@ -826,16 +826,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OutstandingTotal</text>
+        <text>(int)</text>
       </register>
       <register name="-" type="4">
-        <text>OutstandingTotal</text>
+        <text>(int)</text>
       </register>
       <register name="/" type="4">
         <text>after</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG93T3V0c3RhbmRpbmdUb3RhbCA9IHRydWUsCg==</text>
+      <register name="0" type="4">
+        <text>Rounding.Round(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
