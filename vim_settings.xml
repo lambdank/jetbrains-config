@@ -255,6 +255,10 @@
         <mark key="^" line="77" column="136" />
         <mark key="." line="77" column="136" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1559907870856">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="56" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559886433238">
         <mark key="'" line="516" column="29" />
       </file>
@@ -558,6 +562,12 @@
         <mark key="." line="272" column="18" />
         <mark key="^" line="272" column="18" />
       </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1559907897689">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1559650975818">
         <mark key="[" line="56" column="81" />
         <mark key="]" line="56" column="98" />
@@ -768,29 +778,29 @@
       <jump line="352" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoUkVNT1ZFX0hPVVNFX0lGX01VTklDSVBBTElUWV9OT1RfU0VULCBob3VzZS51aWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>REMOVE_HOUSE</text>
       </register>
       <register name="/" type="4">
         <text>tax</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAxID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IGluY29tZUZpbHRlcihmaWVsZCwgT3duaW5nUGVyc29uLlBlcnNvbjEpKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>REMOVE_HOUSE_IF_MUNICIPALITY_NOT_SET</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAyID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IF9nZXRPd25lckZ1bmMoZmllbGQuUGVyc29uSWQpID09IE93bmluZ1BlcnNvbi5QZXJzb24yKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoUkVNT1ZFX0hPVVNFX0lGX01VTklDSVBBTElUWV9OT1RfU0VULCBob3VzZS51aWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVN1bVAyID0gaW5jb21lRmllbGRzLldoZXJlKGZpZWxkID0+IF9nZXRPd25lckZ1bmMoZmllbGQuUGVyc29uSWQpID09IE93bmluZ1BlcnNvbi5QZXJzb24yKS5TdW0oZmllbGQgPT4gKGludClmaWVsZC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4Y2x1ZGVkSW5jb21lcyA9IG5ld1tdIHsoaW50KSBFQnVkZ2V0Q2F0ZWdvcnkuVmFlcmRpQWZGcmlCaWwsIChpbnQpIEVCdWRnZXRDYXRlZ29yeS5CZWZvcmRyaW5nc2ZyYWRyYWd9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -803,22 +813,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4Y2x1ZGVkSW5jb21lcyA9IG5ld1tdIHsoaW50KSBFQnVkZ2V0Q2F0ZWdvcnkuVmFlcmRpQWZGcmlCaWwsIChpbnQpIEVCdWRnZXRDYXRlZ29yeS5CZWZvcmRyaW5nc2ZyYWRyYWd9Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5TZWN0aW9ucy5TaG93SW5jb21lQWZ0ZXJUYXhDb250cm9sbGluZ1JlcG9ydCA9IHRydWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGUuZmlsdGVyKGhvdXNlID0+IGhvdXNlLnVpZCAhPT0gYWN0aW9uLnVpZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVNT1ZFX0hPVVNFCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGUuZmlsdGVyKGhvdXNlID0+IGhvdXNlLnVpZCAhPT0gYWN0aW9uLnVpZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
