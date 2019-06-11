@@ -74,11 +74,12 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1559913188900">
-        <mark key="[" line="23" column="55" />
-        <mark key="]" line="23" column="55" />
-        <mark key="." line="23" column="55" />
-        <mark key="^" line="23" column="55" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560232471623">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559886433238">
         <mark key="'" line="516" column="29" />
@@ -148,7 +149,7 @@
         <mark key="." line="130" column="57" />
         <mark key="^" line="130" column="57" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1559917449932">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1560230807399">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="20" />
@@ -202,18 +203,14 @@
         <mark key="." line="632" column="93" />
         <mark key="^" line="632" column="74" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" timestamp="1559917386321">
-        <mark key="'" line="38" column="54" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" timestamp="1560232651675">
+        <mark key="'" line="39" column="4" />
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="12" />
+        <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-        <mark key="^" line="56" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="71" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
-      <jump line="164" column="178" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
-      <jump line="170" column="79" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
       <jump line="173" column="82" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
       <jump line="176" column="83" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
       <jump line="177" column="75" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetArchiveFactory.cs" />
@@ -311,31 +308,34 @@
       <jump line="6" column="9" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
       <jump line="19" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
       <jump line="38" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
+      <jump line="18" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
+      <jump line="56" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
+      <jump line="39" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.type === &quot;BBR_DIALOG_ACCEPTED&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.type === &quot;BBR_DIALOG_ACCEPTED&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGhvdXNlID0gZmluZE9iamVjdEJ5VWlkKGJ1ZGdldCwgYWN0aW9uLnVpZCkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGxldA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -348,31 +348,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdXNlKSB7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcHV0KHJlcGxhY2VIb3VzZShob3VzZS51aWQsIGRhdGEsIG1vZHVsZU5hbWUpKQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgY29uc3QgYnVkZ2V0ID0geWllbGQgc2VsZWN0KChzdG9yZSkgPT4gc3RvcmUuYnVkZ2V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG91c2UgPSBmaW5kT2JqZWN0QnlVaWQoYnVkZ2V0LCBhY3Rpb24udWlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>samlet</entry>
         <entry>XD</entry>
         <entry>5years</entry>
         <entry>after</entry>
@@ -400,6 +399,7 @@
         <entry>update_house</entry>
         <entry>showdialog</entry>
         <entry>show</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
