@@ -175,11 +175,12 @@
         <mark key="]" line="45" column="157" />
         <mark key="." line="45" column="157" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" timestamp="1559827282828">
-        <mark key="[" line="130" column="24" />
-        <mark key="]" line="130" column="57" />
-        <mark key="." line="130" column="57" />
-        <mark key="^" line="130" column="57" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" timestamp="1560257546729">
+        <mark key="'" line="18" column="48" />
+        <mark key="[" line="156" column="43" />
+        <mark key="]" line="156" column="47" />
+        <mark key="." line="156" column="47" />
+        <mark key="^" line="156" column="47" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1560253766640">
         <mark key="'" line="13" column="6" />
@@ -264,11 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="49" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="109" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="1" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="327" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="66" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientConfiguration.cs" />
       <jump line="72" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientConfiguration.cs" />
       <jump line="74" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientConfiguration.cs" />
       <jump line="10" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
@@ -364,23 +360,24 @@
       <jump line="6" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="24" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
       <jump line="23" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
+      <jump line="155" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
+      <jump line="14" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
+      <jump line="15" column="83" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
+      <jump line="16" column="107" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
+      <jump line="18" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>house</text>
+        <text>require</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG91c2UpIHsKICAgICAgICAgICAgaWYoaG91c2UubXVuaWNpcGFsaXR5Q29kZSA9PT0gbnVsbCB8fCBob3VzZS5tdW5pY2lwYWxpdHlDb2RlID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgIHlpZWxkIHB1dChyZW1vdmUoUkVNT1ZFX0hPVVNFLCBob3VzZS51aWQsIG1vZHVsZU5hbWUpKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsbG93Q2xvc2VIb3VzZUluZm9EaWFsb2cgPSB0cnVlLAo=</text>
       </register>
       <register name="1" type="8">
         <text>//
@@ -431,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>house</last-search>
+      <last-search>require</last-search>
       <last-offset />
-      <last-pattern>house</last-pattern>
+      <last-pattern>require</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -458,9 +455,9 @@
         <entry>close</entry>
         <entry>onclose</entry>
         <entry>data</entry>
-        <entry>require</entry>
         <entry>uid</entry>
         <entry>house</entry>
+        <entry>require</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
