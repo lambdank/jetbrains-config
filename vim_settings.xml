@@ -87,11 +87,11 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560240151484">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="21" column="19" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560250458875">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559886433238">
         <mark key="'" line="516" column="29" />
@@ -109,7 +109,8 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="43" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" timestamp="1559909664530">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" timestamp="1560249455793">
+        <mark key="'" line="86" column="20" />
         <mark key="[" line="91" column="20" />
         <mark key="]" line="91" column="43" />
         <mark key="." line="90" column="24" />
@@ -224,11 +225,12 @@
         <mark key="." line="549" column="60" />
         <mark key="^" line="549" column="60" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" timestamp="1560244510512">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="76" column="86" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" timestamp="1560250920265">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" timestamp="1559896509214">
         <mark key="'" line="333" column="40" />
@@ -240,12 +242,12 @@
         <mark key="." line="632" column="93" />
         <mark key="^" line="632" column="74" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560244725345">
-        <mark key="'" line="139" column="49" />
-        <mark key="[" line="107" column="60" />
-        <mark key="]" line="107" column="81" />
-        <mark key="^" line="107" column="39" />
-        <mark key="." line="107" column="60" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560250728807">
+        <mark key="'" line="99" column="10" />
+        <mark key="[" line="147" column="92" />
+        <mark key="]" line="147" column="101" />
+        <mark key="^" line="147" column="39" />
+        <mark key="." line="147" column="92" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseholdInfo/HouseholdInfo.jsx" timestamp="1560233681885" />
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/reducers/budget/housing.js" timestamp="1560233376113">
@@ -261,83 +263,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" />
-      <jump line="49" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" />
-      <jump line="63" column="83" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" />
-      <jump line="481" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="69" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="59" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="560" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="556" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="516" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="208" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="21" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="22" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="11" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="14" column="53" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="31" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="46" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="47" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="4" column="30" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="7" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="6" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="5" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" />
-      <jump line="352" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/ControllingReports/DapperControllingReportRepository.cs" />
-      <jump line="49" column="130" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" />
-      <jump line="14" column="6" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" />
-      <jump line="640" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="96" column="82" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="122" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="130" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="198" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="526" column="26" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="528" column="30" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="554" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1114" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1115" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1120" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1301" column="28" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1322" column="26" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1323" column="26" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="82" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="87" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="102" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="199" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="200" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="424" column="26" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="1177" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="90" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="294" column="15" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="596" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="556" column="182" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="5" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/index.js" />
-      <jump line="18" column="57" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/index.js" />
-      <jump line="20" column="46" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/index.js" />
-      <jump line="22" column="53" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/index.js" />
-      <jump line="70" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="6" column="9" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="19" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="38" column="54" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="18" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
-      <jump line="56" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="39" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/Bankdata/bankdataHandleUpdateHouse.js" />
-      <jump line="10" column="38" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="9" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="14" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="57" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="15" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="110" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="18" column="22" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="19" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="22" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="23" column="44" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="27" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="107" column="49" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="109" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
-      <jump line="77" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="148" column="34" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="103" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="1" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="327" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="66" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientConfiguration.cs" />
@@ -346,46 +275,119 @@
       <jump line="10" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="154" column="22" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="134" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="136" column="22" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="137" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="138" column="26" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="155" column="7" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="0" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="34" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="70" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="109" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="541" column="7" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="559" column="165" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="101" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="15" column="1" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="106" column="29" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="107" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="139" column="49" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="148" column="115" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="106" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="109" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="115" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="116" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="117" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="119" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="212" column="6" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="214" column="9" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="218" column="9" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="45" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="72" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="74" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="107" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="8" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="12" column="51" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="17" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="19" column="74" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="20" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="21" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="22" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="23" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="24" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="31" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="33" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="79" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="118" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="215" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="75" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="86" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" />
+      <jump line="143" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="122" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="30" column="28" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="63" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="64" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="65" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="67" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="76" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="200" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="86" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="147" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="160" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="44" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="100" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="101" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="102" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="103" column="42" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="104" column="44" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="105" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="106" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="127" column="52" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="136" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="146" column="63" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="147" column="141" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="4" column="36" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="7" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="99" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
+      <jump line="124" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="211" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="77" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="84" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="110" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="121" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="129" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="131" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="139" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="150" column="52" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="165" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="172" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="174" column="84" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="177" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="188" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="208" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="209" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="210" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="216" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
+      <jump line="6" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allowCloseHouseInfoDialog</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>allowCloseHouseInfoDialog</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>house</text>
       </register>
       <register name="0" type="4">
-        <text>requireMunicipalityId</text>
+        <text>house_uid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRhdGE6IHsgIH0K</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVNdW5pY2lwYWxpdHlJZDogUmVhY3QuUHJvcFR5cGVzLmJvb2wK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSB7IAogICAgICAgICAgICAgICAgUmVxdWlyZU11bmljaXBhbGl0eUlkOiB0aGlzLnByb3BzLnJlcXVpcmVNdW5pY2lwYWxpdHlJZCAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWxsb3dDbG9zZSA9ICgpID0+IHRoaXMucHJvcHMuYWxsb3dDbG9zZSh0aGlzLnByb3BzLmhvdXNlLnVpZCkK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVNdW5pY2lwYWxpdHlJZDogZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhbGxvd0Nsb3NlID0gKCkgPT4gdGhpcy5wcm9wcy5hbGxvd0Nsb3NlKHRoaXMucHJvcHMuaG91c2UudWlkKQo=</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVNdW5pY2lwYWxpdHlJZDogUmVhY3QuUHJvcFR5cGVzLmJvb2wK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -398,31 +400,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVNdW5pY2lwYWxpdHlJZDogUmVhY3QuUHJvcFR5cGVzLmJvb2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJ1ZGdldCA9IHlpZWxkIHNlbGVjdCgoc3RhdGUpID0+IHN0YXRlLmJ1ZGdldCkKICAgIGNvbnN0IGhvdXNlID0gZmluZE9iamVjdEJ5VWlkKGJ1ZGdldCwgYWN0aW9uLnVpZCkKICAgIGlmIChob3VzZSAmJiBob3VzZS5tdW5pY2lwYWxpdHlDb2RlID09PSBudWxsIHx8IGhvdXNlLm11bmljaXBhbGl0eUNvZGUgPT09IHVuZGVmaW5lZCkgewogICAgICAgIHlpZWxkIHB1dChyZW1vdmUoUkVNT1ZFX0hPVVNFLCBob3VzZS51aWQsIG1vZHVsZU5hbWUpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSB7CiAgICAgICAgICAgICAgICBSZXF1aXJlTXVuaWNpcGFsaXR5SWQ6IHRoaXMucHJvcHMucmVxdWlyZU11bmljaXBhbGl0eUlkCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">YXNkZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBkaXNwbGF5TmFtZSA9ICdCdWRnZXREaWFsb2cnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>house</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>house</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -430,26 +432,26 @@
     </search>
     <history>
       <history-search>
-        <entry>module</entry>
-        <entry>showclose</entry>
-        <entry>bbr</entry>
-        <entry>handleRem</entry>
         <entry>update_house</entry>
         <entry>showdialog</entry>
         <entry>show</entry>
         <entry>debugger</entry>
         <entry>remove</entry>
-        <entry>house</entry>
-        <entry>onclose</entry>
         <entry>closeHouse</entry>
         <entry>allowclose</entry>
-        <entry>close</entry>
         <entry>muni</entry>
         <entry>state</entry>
         <entry>allow</entry>
         <entry>budgetdia</entry>
         <entry>houseinfo</entry>
         <entry>client</entry>
+        <entry>ui:</entry>
+        <entry>close</entry>
+        <entry>onclose</entry>
+        <entry>data</entry>
+        <entry>require</entry>
+        <entry>uid</entry>
+        <entry>house</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
