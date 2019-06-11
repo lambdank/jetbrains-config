@@ -74,12 +74,11 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560235229187">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="22" column="74" />
-        <mark key="]" line="22" column="82" />
-        <mark key="^" line="22" column="82" />
-        <mark key="." line="22" column="82" />
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560236710117">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559886433238">
         <mark key="'" line="516" column="29" />
@@ -187,12 +186,12 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" timestamp="1559565219216">
         <mark key="'" line="147" column="77" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559911730584">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1560236389813">
         <mark key="'" line="559" column="182" />
-        <mark key="[" line="559" column="99" />
-        <mark key="]" line="559" column="152" />
-        <mark key="." line="559" column="152" />
-        <mark key="^" line="559" column="152" />
+        <mark key="[" line="549" column="31" />
+        <mark key="]" line="549" column="51" />
+        <mark key="." line="549" column="58" />
+        <mark key="^" line="549" column="58" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" timestamp="1559800764771">
         <mark key="'" line="118" column="43" />
@@ -324,9 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>house.municipalityCode === ) {
-            debugger
-            yield put(remove(REMOVE_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -335,21 +332,19 @@
         <text>house</text>
       </register>
       <register name="0" type="4">
-        <text>house.municipalityCode === ) {
-            debugger
-            yield put(remove(REMOVE_</text>
+        <text>if (action.data.RequireMunicipalityId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy95aWVsZCBwdXQoY3JlYXRlQWN0aW9uKFJFTU9WRV9IT1VTRSwgaG91c2UudWlkLCBtb2R1bGVOYW1lKSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJ1ZGdldCA9IHlpZWxkIHNlbGVjdCgoc3RhdGUpID0+IHN0YXRlLmJ1ZGdldCkKICAgIGNvbnN0IGhvdXNlID0gZmluZE9iamVjdEJ5VWlkKGJ1ZGdldCwgYWN0aW9uLnVpZCkKICAgIGlmIChob3VzZSAmJiBob3VzZS5tdW5pY2lwYWxpdHlDb2RlID09PSBudWxsIHx8IGhvdXNlLm11bmljaXBhbGl0eUNvZGUgPT09IHVuZGVmaW5lZCkgewogICAgICAgIHlpZWxkIHB1dChyZW1vdmUoUkVNT1ZFX0hPVVNFLCBob3VzZS51aWQsIG1vZHVsZU5hbWUpKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -362,22 +357,23 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="6" type="4">
+        <text>debugger
+        if (</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy95aWVsZCBwdXQoY3JlYXRlQWN0aW9uKFJFTU9WRV9IT1VTRSwgaG91c2UudWlkLCBtb2R1bGVOYW1lKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
