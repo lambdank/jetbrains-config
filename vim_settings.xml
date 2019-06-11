@@ -186,10 +186,10 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" timestamp="1559565219216">
         <mark key="'" line="147" column="77" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1560236389813">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1560237500699">
         <mark key="'" line="559" column="182" />
-        <mark key="[" line="549" column="31" />
-        <mark key="]" line="549" column="51" />
+        <mark key="[" line="552" column="31" />
+        <mark key="]" line="552" column="51" />
         <mark key="." line="549" column="58" />
         <mark key="^" line="549" column="58" />
       </file>
@@ -323,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>OPEN_HOUSEINFO_DIALOG</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -332,7 +332,7 @@
         <text>house</text>
       </register>
       <register name="0" type="4">
-        <text>if (action.data.RequireMunicipalityId</text>
+        <text>OPEN_HOUSEINFO_DIALOG</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
