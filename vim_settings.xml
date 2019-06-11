@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/actionTypes.js" timestamp="1560258858663" />
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Financys/Enum.cs" timestamp="1559896240793">
         <mark key="[" line="310" column="10" />
         <mark key="]" line="310" column="23" />
@@ -54,8 +55,8 @@
         <mark key="." line="5" column="9" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" timestamp="1559914066341">
-        <mark key="[" line="81" column="13" />
-        <mark key="]" line="81" column="29" />
+        <mark key="[" line="79" column="13" />
+        <mark key="]" line="79" column="29" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" timestamp="1559886376898">
         <mark key="'" line="63" column="83" />
