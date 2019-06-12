@@ -168,8 +168,12 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1559886433238">
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1560336570565">
         <mark key="'" line="516" column="29" />
+        <mark key="[" line="559" column="113" />
+        <mark key="]" line="559" column="114" />
+        <mark key="^" line="559" column="114" />
+        <mark key="." line="559" column="114" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" timestamp="1560316480239">
         <mark key="'" line="530" column="20" />
@@ -329,11 +333,11 @@
       <jump line="530" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
