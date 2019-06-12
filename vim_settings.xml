@@ -47,6 +47,12 @@
         <mark key="]" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/RegressionTest.cs" timestamp="1560327831515">
+        <mark key="[" line="400" column="8" />
+        <mark key="]" line="400" column="8" />
+        <mark key="^" line="400" column="9" />
+        <mark key="." line="400" column="8" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" timestamp="1559137729365">
         <mark key="'" line="209" column="38" />
       </file>
@@ -350,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2FzaEZsb3cuVWRiZXRhbGluZyA9PSAxICYmIA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
