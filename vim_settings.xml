@@ -136,6 +136,7 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1559130045506">
         <mark key="'" line="171" column="99" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/DKInternalFinancialStatementRestore.cs" timestamp="1560411234963" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1559887229470">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="14" column="16" />
@@ -349,7 +350,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>netto</text>
+        <text>alder2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
@@ -403,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>netto</last-search>
+      <last-search>alder2</last-search>
       <last-offset />
-      <last-pattern>netto</last-pattern>
+      <last-pattern>alder2</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>allowclose</entry>
         <entry>muni</entry>
         <entry>state</entry>
         <entry>allow</entry>
@@ -433,6 +433,7 @@
         <entry>udbetal</entry>
         <entry>issumfor</entry>
         <entry>netto</entry>
+        <entry>alder2</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
