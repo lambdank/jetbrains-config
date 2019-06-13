@@ -110,11 +110,8 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" timestamp="1559886376898">
         <mark key="'" line="63" column="83" />
       </file>
-      <file name="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" timestamp="1560416128847">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="156" column="48" />
-        <mark key="]" line="156" column="48" />
-        <mark key="." line="156" column="48" />
+      <file name="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" timestamp="1560418058727">
+        <mark key="'" line="21" column="73" />
         <mark key="^" line="21" column="49" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
@@ -248,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="51" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="17" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="19" column="74" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="20" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="21" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="22" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -348,6 +342,9 @@
       <jump line="230" column="18" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="20" column="10" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="21" column="50" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="98" column="62" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="184" column="72" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="238" column="73" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,7 +354,7 @@
         <text>http://localhost:54342/</text>
       </register>
       <register name="/" type="4">
-        <text>associa</text>
+        <text>fssbec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
@@ -413,9 +410,9 @@ using Advice.Ke</text>
       </register>
     </registers>
     <search>
-      <last-search>associa</last-search>
+      <last-search>fssbec</last-search>
       <last-offset />
-      <last-pattern>associa</last-pattern>
+      <last-pattern>fssbec</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -423,8 +420,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>houseinfo</entry>
-        <entry>client</entry>
         <entry>ui:</entry>
         <entry>close</entry>
         <entry>onclose</entry>
@@ -443,6 +438,8 @@ using Advice.Ke</text>
         <entry>basepath</entry>
         <entry>assiociatedPlan</entry>
         <entry>associa</entry>
+        <entry>fss</entry>
+        <entry>fssbec</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
