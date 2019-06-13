@@ -84,6 +84,9 @@
         <mark key="." line="73" column="4" />
         <mark key="^" line="73" column="5" />
       </file>
+      <file name="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" timestamp="1560405004509">
+        <mark key="'" line="28" column="17" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" timestamp="1560339106906">
         <mark key="'" line="316" column="75" />
         <mark key="[" line="387" column="0" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="43" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="119" column="50" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="212" column="6" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="214" column="9" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -337,6 +339,7 @@
       <jump line="23" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
       <jump line="38" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
       <jump line="39" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
+      <jump line="28" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -346,7 +349,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>issumfor</text>
+        <text>netto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
@@ -400,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>issumfor</last-search>
+      <last-search>netto</last-search>
       <last-offset />
-      <last-pattern>issumfor</last-pattern>
+      <last-pattern>netto</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>closeHouse</entry>
         <entry>allowclose</entry>
         <entry>muni</entry>
         <entry>state</entry>
@@ -430,6 +432,7 @@
         <entry>sum</entry>
         <entry>udbetal</entry>
         <entry>issumfor</entry>
+        <entry>netto</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
