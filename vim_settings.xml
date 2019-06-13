@@ -226,11 +226,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1559889494108">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="21" column="53" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560410184099">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="25" column="64" />
+        <mark key="^" line="25" column="64" />
       </file>
       <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger/Model/AdviceEconomicSuiteApiDtoInputProductsAssetAssetRealEstate.cs" timestamp="1559547144422">
         <mark key="'" line="7" column="62" />
@@ -342,8 +342,8 @@
       <jump line="28" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
