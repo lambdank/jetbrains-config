@@ -44,11 +44,9 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" timestamp="1559137729365">
         <mark key="'" line="209" column="38" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1560318469946" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1558699189247">
         <mark key="'" line="12" column="8" />
       </file>
-      <file name="/UdbetalingAldersopsparingPensionPickerRuleTest.cs" timestamp="1560338890478" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/SamfundsForudsaetninger.cs" timestamp="1558686684338">
         <mark key="'" line="16" column="17" />
       </file>
@@ -112,6 +110,13 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" timestamp="1559886376898">
         <mark key="'" line="63" column="83" />
       </file>
+      <file name="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" timestamp="1560416128847">
+        <mark key="'" line="21" column="50" />
+        <mark key="[" line="156" column="48" />
+        <mark key="]" line="156" column="48" />
+        <mark key="." line="156" column="48" />
+        <mark key="^" line="21" column="49" />
+      </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
         <mark key="'" line="87" column="35" />
       </file>
@@ -139,7 +144,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1559130045506">
         <mark key="'" line="171" column="99" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Statement/Internal/Restore/DKInternalFinancialStatementRestore.cs" timestamp="1560411234963" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1559887229470">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="14" column="16" />
@@ -244,10 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="74" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="107" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="8" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="12" column="51" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="17" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="19" column="74" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -344,18 +344,20 @@
       <jump line="34" column="24" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
       <jump line="58" column="23" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
       <jump line="60" column="25" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
+      <jump line="27" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="230" column="18" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="20" column="10" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="21" column="50" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>using Advice.Kernel.Pension;
-using Advice.Kernel.PP.Enums;
-using Advice.Ke</text>
+        <text>http://localhost:54342/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://localhost:54342/</text>
       </register>
       <register name="/" type="4">
-        <text>disposable</text>
+        <text>associa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
@@ -411,9 +413,9 @@ using Advice.Ke</text>
       </register>
     </registers>
     <search>
-      <last-search>disposable</last-search>
+      <last-search>associa</last-search>
       <last-offset />
-      <last-pattern>disposable</last-pattern>
+      <last-pattern>associa</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -421,9 +423,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
-        <entry>allow</entry>
-        <entry>budgetdia</entry>
         <entry>houseinfo</entry>
         <entry>client</entry>
         <entry>ui:</entry>
@@ -441,6 +440,9 @@ using Advice.Ke</text>
         <entry>netto</entry>
         <entry>alder2</entry>
         <entry>disposable</entry>
+        <entry>basepath</entry>
+        <entry>assiociatedPlan</entry>
+        <entry>associa</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
