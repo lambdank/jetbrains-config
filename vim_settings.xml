@@ -110,9 +110,12 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" timestamp="1559886376898">
         <mark key="'" line="63" column="83" />
       </file>
-      <file name="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" timestamp="1560418058727">
-        <mark key="'" line="21" column="73" />
+      <file name="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" timestamp="1560421640670">
+        <mark key="'" line="156" column="14" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="50" />
         <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
         <mark key="'" line="87" column="35" />
@@ -245,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="21" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="22" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="23" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="24" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -345,16 +346,18 @@
       <jump line="98" column="62" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="184" column="72" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="238" column="73" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="237" column="20" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="156" column="14" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://localhost:54342/</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:54342/</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>fssbec</text>
+        <text>localhost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVkYmV0YWxpbmcgPSAxLAo=</text>
@@ -410,9 +413,9 @@ using Advice.Ke</text>
       </register>
     </registers>
     <search>
-      <last-search>fssbec</last-search>
+      <last-search>localhost</last-search>
       <last-offset />
-      <last-pattern>fssbec</last-pattern>
+      <last-pattern>localhost</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -420,7 +423,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>ui:</entry>
         <entry>close</entry>
         <entry>onclose</entry>
         <entry>uid</entry>
@@ -437,9 +439,10 @@ using Advice.Ke</text>
         <entry>disposable</entry>
         <entry>basepath</entry>
         <entry>assiociatedPlan</entry>
-        <entry>associa</entry>
         <entry>fss</entry>
         <entry>fssbec</entry>
+        <entry>associa</entry>
+        <entry>localhost</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
