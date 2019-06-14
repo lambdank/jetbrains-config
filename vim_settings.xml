@@ -124,6 +124,7 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="50" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Products/Asset/AssetRealBase.cs" timestamp="1560517770080" />
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/ControllingReportViewModelFactory.cs" timestamp="1559826621583">
         <mark key="'" line="87" column="35" />
       </file>
@@ -372,7 +373,7 @@
         <text encoding="base64">VWRza3VkdFNrYXQg</text>
       </register>
       <register name="/" type="4">
-        <text>passiver</text>
+        <text>assetrealbase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRza3VkdFNrYXQgfSwK</text>
@@ -424,9 +425,9 @@ using Advice.Ke</text>
       </register>
     </registers>
     <search>
-      <last-search>passiver</last-search>
+      <last-search>assetrealbase</last-search>
       <last-offset />
-      <last-pattern>passiver</last-pattern>
+      <last-pattern>assetrealbase</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -434,8 +435,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>house_uid</entry>
-        <entry>require</entry>
         <entry>isSum</entry>
         <entry>sum</entry>
         <entry>udbetal</entry>
@@ -454,6 +453,8 @@ using Advice.Ke</text>
         <entry>ældre</entry>
         <entry>folke</entry>
         <entry>passiver</entry>
+        <entry>pensionbase</entry>
+        <entry>assetrealbase</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
