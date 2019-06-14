@@ -84,6 +84,12 @@
         <mark key="." line="73" column="4" />
         <mark key="^" line="73" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/PassiverSamlet.cs" timestamp="1560514507336">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="56" />
+        <mark key="." line="45" column="56" />
+        <mark key="^" line="45" column="56" />
+      </file>
       <file name="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" timestamp="1560414345718">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="1" />
@@ -143,8 +149,8 @@
         <mark key="." line="53" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1560500704585" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1559130045506">
-        <mark key="'" line="171" column="99" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1560514474372">
+        <mark key="'" line="407" column="77" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1559887229470">
         <mark key="'" line="22" column="16" />
@@ -251,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="18" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="23" column="37" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="24" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="31" column="14" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="33" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="79" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="118" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -351,33 +353,35 @@
       <jump line="238" column="73" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="237" column="20" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="156" column="14" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
+      <jump line="9" column="4" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="408" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="409" column="88" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="407" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>municipalityCode</text>
+        <text encoding="base64">VWRza3VkdFNrYXQg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">VWRza3VkdFNrYXQg</text>
       </register>
       <register name="/" type="4">
-        <text>folke</text>
+        <text>passiver</text>
       </register>
-      <register name="0" type="4">
-        <text>municipalityCode</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld1tdIHsgREtBY2NvdW50VHlwZS5VZHNrdWR0U2thdCB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5ob3VzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlOiAtMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5ob3VzZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>using Advice.Kernel.Pension;
-using Advice.Kernel.PP.Enums;
-using Advice.Ke</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlOiAtMSwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -389,8 +393,10 @@ using Advice.Ke</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
+      <register name="5" type="4">
+        <text>using Advice.Kernel.Pension;
+using Advice.Kernel.PP.Enums;
+using Advice.Ke</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
@@ -402,19 +408,19 @@ using Advice.Ke</text>
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>folke</last-search>
+      <last-search>passiver</last-search>
       <last-offset />
-      <last-pattern>folke</last-pattern>
+      <last-pattern>passiver</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +428,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>house_uid</entry>
         <entry>require</entry>
         <entry>isSum</entry>
@@ -442,6 +447,7 @@ using Advice.Ke</text>
         <entry>aeldre</entry>
         <entry>ældre</entry>
         <entry>folke</entry>
+        <entry>passiver</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
@@ -462,8 +468,8 @@ using Advice.Ke</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w!</entry>
-        <entry>w</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
