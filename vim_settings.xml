@@ -59,12 +59,12 @@
         <mark key="]" line="28" column="44" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1560253766640">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/dialogs/openBBRDialog.js" timestamp="1560499475014">
         <mark key="'" line="13" column="6" />
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="20" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="20" />
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="7" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1560490371776">
         <mark key="'" line="109" column="50" />
@@ -352,16 +352,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, REMOVE_HOUSE</text>
+        <text>municipalityCode</text>
       </register>
       <register name="-" type="4">
-        <text>, REMOVE_HOUSE</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="4">
-        <text>newHouse</text>
+        <text>municipalityCode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
