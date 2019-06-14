@@ -15,6 +15,12 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1560519731986">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="50" column="45" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560326189365">
         <mark key="[" line="147" column="103" />
         <mark key="]" line="147" column="104" />
@@ -64,6 +70,12 @@
         <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="37" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1560520674859">
+        <mark key="'" line="26" column="147" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" timestamp="1559629956472">
         <mark key="'" line="21" column="46" />
@@ -268,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="79" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="118" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="215" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="75" column="23" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="86" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientConfiguration.cs" />
       <jump line="143" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
@@ -368,31 +376,35 @@
       <jump line="408" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="409" column="88" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="407" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="8" column="10" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
+      <jump line="13" column="18" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
+      <jump line="25" column="46" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
+      <jump line="26" column="147" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ProfileValidationError</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkZXBsb3ltZW50IHJldGFpbD0idHJ1ZSIgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VWRza3VkdFNrYXQg</text>
+        <text>Off</text>
       </register>
       <register name="/" type="4">
-        <text>assetrealbase</text>
+        <text>system.web</text>
       </register>
       <register name="0" type="4">
-        <text>ProfileValidationError</text>
+        <text>ValidationException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBsb3ltZW50IHJldGFpbD0idHJ1ZSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5ob3VzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlOiAtMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5ob3VzZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -404,13 +416,13 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlOiAtMSwK</text>
+      </register>
+      <register name="6" type="4">
         <text>using Advice.Kernel.Pension;
 using Advice.Kernel.PP.Enums;
 using Advice.Ke</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
@@ -422,16 +434,16 @@ using Advice.Ke</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlbWVudE1hbmFnZXJFeHBlY3RlZFRpbWVzUGVuc2lvblVkYmV0YWxpbmdTdW0gPSAxLAogICAgICAgICAgICAgICAgU3RhdGVtZW50TWFuYWdlckV4cGVjdGVkVmFsdWVQZW5zaW9uVWRiZXRhbGluZ1N1bSA9IC0xMDAwbSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assetrealbase</last-search>
+      <last-search>system.web</last-search>
       <last-offset />
-      <last-pattern>assetrealbase</last-pattern>
+      <last-pattern>system.web</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -439,9 +451,6 @@ using Advice.Ke</text>
     </search>
     <history>
       <history-search>
-        <entry>isSum</entry>
-        <entry>sum</entry>
-        <entry>udbetal</entry>
         <entry>issumfor</entry>
         <entry>netto</entry>
         <entry>alder2</entry>
@@ -459,6 +468,9 @@ using Advice.Ke</text>
         <entry>passiver</entry>
         <entry>pensionbase</entry>
         <entry>assetrealbase</entry>
+        <entry>custom</entry>
+        <entry>system</entry>
+        <entry>system.web</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
