@@ -48,22 +48,11 @@
         <mark key="[" line="18" column="55" />
         <mark key="]" line="18" column="66" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/StandardValidationMessageProvider.cs" timestamp="1560518398616">
-        <mark key="[" line="122" column="17" />
-        <mark key="]" line="122" column="38" />
-      </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="37" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1560838337191">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/PassiverSamlet.cs" timestamp="1560516403004">
         <mark key="[" line="45" column="0" />
@@ -71,9 +60,9 @@
         <mark key="." line="45" column="56" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/Engagements/Mapping/DeductionMapper.cs" timestamp="1560842106751">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="17" />
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Model/Engagements/Mapping/DeductionMapper.cs" timestamp="1560842745890">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="22" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1560317997763">
         <mark key="[" line="26" column="16" />
@@ -98,11 +87,11 @@
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="28" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/EntryMapper.cs" timestamp="1560842643160">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="65" />
-        <mark key="." line="10" column="56" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/EntryMapper.cs" timestamp="1560842795519">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="68" />
+        <mark key="^" line="15" column="65" />
+        <mark key="." line="11" column="57" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountDetails.cs" timestamp="1560839880176">
         <mark key="[" line="46" column="0" />
@@ -258,29 +247,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.Equals()</text>
+        <text>DeductionMapper</text>
       </register>
       <register name="-" type="4">
-        <text>.Equals()</text>
+        <text>DeductionMapper</text>
       </register>
       <register name="/" type="4">
         <text>system.web</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBBdXRvTWFwcGVyOwo=</text>
+      <register name="0" type="4">
+        <text>EntryMapper</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBNYXBwZXIgZm9yIERlZHVjdGlvbiBvYmplY3RzCiAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
-      <register name="2" type="8">
-        <text>this.
-this.</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRJZCAK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -292,23 +280,24 @@ this.</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>this.
+this.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudFN0YXRlbWVudENhdGVnb3J5IFN0YXRlbWVudENhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRJZCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEVudHJ5IGFtb3VudAogICAgICAgIC8vLyA8L3N1bW1hcnk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFRpbWUgb2YgZW50cnkKICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudFN0YXRlbWVudENhdGVnb3J5IFN0YXRlbWVudENhdGVnb3J5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
