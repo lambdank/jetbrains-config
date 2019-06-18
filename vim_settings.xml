@@ -21,11 +21,6 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1560838486120">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="26" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560844419254">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="63" />
@@ -71,9 +66,9 @@
         <mark key="^" line="14" column="65" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Mapping/DKFinancialStatementMapper.cs" timestamp="1560859862808">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="40" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Mapping/DKFinancialStatementMapper.cs" timestamp="1560861606066">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="42" />
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
@@ -93,6 +88,9 @@
         <mark key="." line="23" column="37" />
         <mark key="^" line="23" column="37" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
+        <mark key="'" line="2" column="6" />
+      </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="47" />
@@ -105,6 +103,16 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Repositories/BudgetRepository.cs" timestamp="1560860866327">
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="383" column="64" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccount.cs" timestamp="1560861997751">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="29" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Request/Model/DKAccountKey.cs" timestamp="1560839109646">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -116,11 +124,6 @@
         <mark key="]" line="45" column="59" />
         <mark key="." line="45" column="56" />
         <mark key="^" line="45" column="56" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Entry.cs" timestamp="1560840011622">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560316295672">
         <mark key="[" line="18" column="91" />
@@ -138,12 +141,15 @@
         <mark key="." line="84" column="112" />
         <mark key="^" line="84" column="112" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1560860125516">
-        <mark key="'" line="106" column="101" />
-        <mark key="[" line="106" column="12" />
-        <mark key="]" line="106" column="15" />
-        <mark key="." line="106" column="15" />
-        <mark key="^" line="106" column="15" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1560861809569">
+        <mark key="'" line="121" column="101" />
+        <mark key="[" line="117" column="31" />
+        <mark key="]" line="117" column="48" />
+        <mark key="." line="117" column="48" />
+        <mark key="^" line="117" column="48" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
+        <mark key="'" line="46" column="34" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560410184099">
         <mark key="[" line="25" column="64" />
@@ -175,16 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="28" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="63" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="64" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="65" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="67" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="76" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="200" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="86" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="147" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="160" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="44" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="100" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="101" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
@@ -275,31 +271,41 @@
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
       <jump line="31" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
       <jump line="104" column="101" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
+      <jump line="25" column="17" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
+      <jump line="61" column="23" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
+      <jump line="2" column="6" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
+      <jump line="11" column="10" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="49" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="56" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="67" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="33" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="35" column="58" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
+      <jump line="46" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>output</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>system.web</text>
+        <text>map</text>
       </register>
-      <register name="0" type="4">
-        <text>(FinancialStatement) result.CalculationResult</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgREtBY2NvdW50KERLQWNjb3VudEtleSBrZXksIEFjY291bnREZXRhaWxzIGFjY291bnREZXRhaWxzLCBMaXN0PEVudHJ5PiBlbnRyaWVzLCBMaXN0PERLQWNjb3VudD4gc3ViQWNjb3VudHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hcHBlciA9IG5ldyBES0ZpbmFuY2lhbFN0YXRlbWVudE1hcHBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNmZy5BZGRQcm9maWxlPEVudHJ5TWFwcGVyPigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtlZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hcHBlciA9IG5ldyBES0ZpbmFuY2lhbFN0YXRlbWVudE1hcHBlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWFwPEZpbmFuY2lhbFN0YXRlbWVudC5BY2NvdW50RGV0YWlscywgQWNjb3VudERldGFpbHM+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVyCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -312,31 +318,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDo1MzMwMwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWFwPEZpbmFuY2lhbFN0YXRlbWVudC5BY2NvdW50RGV0YWlscywgQWNjb3VudERldGFpbHM+KCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDo1MzMwMwo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlTWFwPFQsIFQxPigpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>system.web</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>system.web</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -344,9 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issumfor</entry>
-        <entry>netto</entry>
-        <entry>alder2</entry>
         <entry>disposable</entry>
         <entry>basepath</entry>
         <entry>assiociatedPlan</entry>
@@ -364,6 +367,9 @@
         <entry>custom</entry>
         <entry>system</entry>
         <entry>system.web</entry>
+        <entry>automaper</entry>
+        <entry>auto</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
@@ -383,8 +389,8 @@
         <entry>ws</entry>
         <entry>W</entry>
         <entry>w!</entry>
-        <entry>set ic</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>set ic</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
