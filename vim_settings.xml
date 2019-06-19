@@ -4,9 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/AccountDetails.cs" timestamp="1560862818815">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1560838486120">
         <mark key="[" line="8" column="26" />
@@ -25,10 +25,10 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccountKey.cs" timestamp="1560945128268">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccountKey.cs" timestamp="1560946290800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="15" column="27" />
+        <mark key="^" line="16" column="27" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountKeyMapper.cs" timestamp="1560926155737">
@@ -73,10 +73,10 @@
         <mark key="." line="16" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1560924530311">
-        <mark key="[" line="113" column="31" />
-        <mark key="]" line="113" column="31" />
-        <mark key="^" line="113" column="31" />
-        <mark key="." line="113" column="31" />
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="31" />
+        <mark key="^" line="130" column="31" />
+        <mark key="." line="130" column="31" />
       </file>
     </filemarks>
     <jumps>
