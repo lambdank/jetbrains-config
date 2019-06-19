@@ -19,6 +19,7 @@
         <mark key="." line="10" column="57" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountInputKey.cs" timestamp="1560922314442" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/Models/CalculationOutputContract.cs" timestamp="1560923774051">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -43,6 +44,9 @@
         <mark key="^" line="14" column="129" />
         <mark key="." line="5" column="37" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatement.cs" timestamp="1560922705461" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/Account.cs" timestamp="1560864196577" />
+      <file name="C:/repo/advice_productcustomer/build.proj" timestamp="1560949609673" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1560856850712">
         <mark key="[" line="84" column="94" />
         <mark key="]" line="84" column="112" />
@@ -87,9 +91,11 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="130" column="31" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Contract/Validators/ValidatorBase.cs" timestamp="1560928128526" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
         <mark key="'" line="78" column="17" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/AccountKey.cs" timestamp="1560921697298" />
     </filemarks>
     <jumps>
       <jump line="101" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
