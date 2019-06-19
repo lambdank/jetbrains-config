@@ -49,6 +49,12 @@
         <mark key="." line="84" column="112" />
         <mark key="^" line="84" column="112" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
+        <mark key="'" line="46" column="34" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/AccountDetailsMapper.cs" timestamp="1560926136968">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -66,6 +72,9 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
+        <mark key="'" line="2" column="6" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccount.cs" timestamp="1560864350360">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="12" />
@@ -78,9 +87,11 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="130" column="31" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
+        <mark key="'" line="78" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="31" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="101" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="102" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="103" column="42" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
@@ -180,6 +191,7 @@
       <jump line="35" column="58" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="46" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="78" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" />
+      <jump line="33" column="0" filename="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -189,7 +201,7 @@
         <text>Mapper</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>AllUpdateStepsShouldFormDirectedAsyclicGraph</text>
       </register>
       <register name="0" type="4">
         <text>FinancialStatementMapper</text>
@@ -239,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>AllUpdateStepsShouldFormDirectedAsyclicGraph</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>AllUpdateStepsShouldFormDirectedAsyclicGraph</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -249,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disposable</entry>
         <entry>basepath</entry>
         <entry>assiociatedPlan</entry>
         <entry>fss</entry>
@@ -269,6 +280,7 @@
         <entry>automaper</entry>
         <entry>auto</entry>
         <entry>map</entry>
+        <entry>AllUpdateStepsShouldFormDirectedAsyclicGraph</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
