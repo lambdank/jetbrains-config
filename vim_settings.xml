@@ -128,6 +128,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
+        <mark key="'" line="46" column="34" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.EconomicSuite.Applications.Mapping.Tests/SkatInputData/Products/TimeMapperTest.cs" timestamp="1561009382453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -163,6 +166,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/TimeJsonConverterTest.cs" timestamp="1561008996370">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -192,6 +198,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
+        <mark key="'" line="2" column="6" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/Examples/CalculationInputContractDeathCase.cs" timestamp="1561009191099">
         <mark key="[" line="0" column="0" />
@@ -467,6 +476,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
+        <mark key="'" line="78" column="17" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Optimization.Api.Tests/Mappers/Products/Pension/ActivePensionTest.cs" timestamp="1561009334497">
         <mark key="[" line="0" column="0" />
@@ -798,6 +810,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/Advice.sln" timestamp="1561029452084">
+        <mark key="'" line="257" column="16" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Optimization.Api.Tests/CalculationResult/GAMSTestBase.cs" timestamp="1561009288631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -995,30 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="102" column="40" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="103" column="42" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="104" column="44" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="105" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="106" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="127" column="52" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="136" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="146" column="63" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="147" column="141" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="4" column="36" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="7" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="99" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
-      <jump line="124" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="211" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="77" column="8" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="84" column="24" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="110" column="27" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="121" column="33" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="129" column="45" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="131" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="139" column="35" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="150" column="52" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="165" column="39" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="172" column="59" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="174" column="84" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="177" column="47" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
@@ -1095,6 +1086,30 @@
       <jump line="46" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="78" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" />
       <jump line="33" column="0" filename="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="195" column="24" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="196" column="20" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="197" column="20" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="198" column="20" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="199" column="32" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="200" column="28" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="201" column="28" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="202" column="28" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="207" column="43" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="208" column="39" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="209" column="39" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="210" column="39" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="219" column="38" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="220" column="34" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="221" column="34" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="222" column="34" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="243" column="46" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="244" column="42" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="245" column="42" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="246" column="42" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="255" column="40" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="256" column="36" filename="C:/repo/advice_productcustomer/Advice.sln" />
+      <jump line="257" column="16" filename="C:/repo/advice_productcustomer/Advice.sln" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1104,7 +1119,7 @@
         <text>Mapper</text>
       </register>
       <register name="/" type="4">
-        <text>AllUpdateStepsShouldFormDirectedAsyclicGraph</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
         <text>FinancialStatementMapper</text>
@@ -1154,9 +1169,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AllUpdateStepsShouldFormDirectedAsyclicGraph</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>AllUpdateStepsShouldFormDirectedAsyclicGraph</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -1164,7 +1179,6 @@
     </search>
     <history>
       <history-search>
-        <entry>basepath</entry>
         <entry>assiociatedPlan</entry>
         <entry>fss</entry>
         <entry>fssbec</entry>
@@ -1184,6 +1198,7 @@
         <entry>auto</entry>
         <entry>map</entry>
         <entry>AllUpdateStepsShouldFormDirectedAsyclicGraph</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
