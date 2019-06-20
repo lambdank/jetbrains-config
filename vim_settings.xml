@@ -253,6 +253,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Responses/CalculationOutputContract.cs" timestamp="1561020107042">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/Validators/Input/BuildingBlocks/BuildingBlockTests.cs" timestamp="1561009000901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1093,7 +1098,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dDsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLkFkdmljZS5BcGkudjAuQ29yZQo=</text>
       </register>
       <register name="-" type="4">
         <text>Mapper</text>
@@ -1105,7 +1110,7 @@
         <text>FinancialStatementMapper</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dDsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLkFkdmljZS5BcGkudjAuQ29yZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5JbnB1dDsK</text>
