@@ -199,14 +199,23 @@
       <file name="C:/repo/advice_productcustomer/Advice.sln" timestamp="1561029452084">
         <mark key="'" line="257" column="16" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Util.cs" timestamp="1561114021983">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="1136" column="16" />
+        <mark key="]" line="1136" column="35" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/AccountDetailsMapper.cs" timestamp="1560926136968">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="10" column="57" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561104169312">
-        <mark key="'" line="189" column="12" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561114090754">
+        <mark key="'" line="133" column="21" />
+        <mark key="[" line="166" column="23" />
+        <mark key="]" line="166" column="27" />
+        <mark key="^" line="166" column="27" />
+        <mark key="." line="166" column="27" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560316295672">
         <mark key="[" line="18" column="91" />
@@ -216,10 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="210" column="4" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="216" column="0" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
-      <jump line="6" column="10" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/HouseInfoDialog/HouseInfoDialog.jsx" />
       <jump line="24" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
       <jump line="23" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
       <jump line="155" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
@@ -316,28 +321,32 @@
       <jump line="11" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx.cs" />
       <jump line="34" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx.cs" />
       <jump line="189" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
+      <jump line="176" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
+      <jump line="38" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Util.cs" />
+      <jump line="276" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
+      <jump line="133" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DKAccountKey</text>
+        <text>cprService.AgeAt(budget.cpr2, timeService.Now)</text>
       </register>
       <register name="-" type="4">
-        <text>DKAccountKey</text>
+        <text>cprService.AgeAt(budget.cpr2, timeService.Now)</text>
       </register>
       <register name="/" type="4">
-        <text>loadpersons</text>
+        <text>loadper</text>
       </register>
-      <register name="0" type="4">
-        <text>DK.FinancialStatement.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIEFnZVAxID0gU3RyaW5nLklzTnVsbE9yRW1wdHkoYnVkZ2V0LmNwcjEpID8gMCA6IGNwclNlcnZpY2UuQWdlQXQoYnVkZ2V0LmNwcjEsIHRpbWVTZXJ2aWNlLk5vdyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgREtBY2NvdW50S2V5ID0gQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TaGFyZWQuUmVzcG9uc2VzLkRLQWNjb3VudEtleTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">dXNpbmcgREtBY2NvdW50S2V5ID0gQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TaGFyZWQuUmVzcG9uc2VzLkRLQWNjb3VudEtleTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
@@ -353,31 +362,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJvZmlsSWQgPSBQcm9maWxlQ29udGV4dC5HZXRJZCgpOwogICAgICAgIHZhciBwcm9maWwgPSBQcm9maWxlLkxvYWRQcm9maWxlKHByb2ZpbElkKTsKICAgICAgICBSYXBwb3J0R2VuLkdlbmVyYXRlSHRtbFJhcDEocHJvZmlsLCBodG1sLCBDYWxjdWxhdGlvbk91dHB1dEZvcm1hdFJlcG9zaXRvcnkuR2V0Q2FsY3VsYXRpb25PdXRwdXRGb3JtYXQocHJvZmlsSWQpKTsKCiAgICAgICAgc2thdCA9IG5ldyBTa2F0KFV0aWwueWVhcik7CiAgICAgICAgc2thdC5Mb2FkRGF0YShwcm9maWwucHJvZmlsSWQsIHByb2ZpbCwgb3V0cHV0Rm9ybWF0OiBDYWxjdWxhdGlvbk91dHB1dEZvcm1hdFJlcG9zaXRvcnkuR2V0Q2FsY3VsYXRpb25PdXRwdXRGb3JtYXQocHJvZmlsSWQpKTsK</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaW50IHN0YXJ0ID0gVXRpbC55ZWFyOwogICAgICAgIGludCBzdG9wID0gc2thdC5mb3J2ZW50ZXRE+GRz5XJbMl07CiAgICAgICAgaW50IHNpemUgPSBzdG9wIC0gc3RhcnQgKyAxOwo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHJvZmlsSWQgPSBQcm9maWxlQ29udGV4dC5HZXRJZCgpOwogICAgICAgIHZhciBwcm9maWwgPSBQcm9maWxlLkxvYWRQcm9maWxlKHByb2ZpbElkKTsKICAgICAgICBSYXBwb3J0R2VuLkdlbmVyYXRlSHRtbFJhcDEocHJvZmlsLCBodG1sLCBDYWxjdWxhdGlvbk91dHB1dEZvcm1hdFJlcG9zaXRvcnkuR2V0Q2FsY3VsYXRpb25PdXRwdXRGb3JtYXQocHJvZmlsSWQpKTsKCiAgICAgICAgc2thdCA9IG5ldyBTa2F0KFV0aWwueWVhcik7CiAgICAgICAgc2thdC5Mb2FkRGF0YShwcm9maWwucHJvZmlsSWQsIHByb2ZpbCwgb3V0cHV0Rm9ybWF0OiBDYWxjdWxhdGlvbk91dHB1dEZvcm1hdFJlcG9zaXRvcnkuR2V0Q2FsY3VsYXRpb25PdXRwdXRGb3JtYXQocHJvZmlsSWQpKTsK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnQgPSBVdGlsLnllYXI7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaW50IHN0YXJ0ID0gVXRpbC55ZWFyOwogICAgICAgIGludCBzdG9wID0gc2thdC5mb3J2ZW50ZXRE+GRz5XJbMl07CiAgICAgICAgaW50IHNpemUgPSBzdG9wIC0gc3RhcnQgKyAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RvcCA9IHNrYXQuZm9ydmVudGV0RPhkc+VyWzJdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loadpersons</last-search>
+      <last-search>loadper</last-search>
       <last-offset />
-      <last-pattern>loadpersons</last-pattern>
+      <last-pattern>loadper</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -385,9 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ældre</entry>
-        <entry>folke</entry>
-        <entry>passiver</entry>
         <entry>pensionbase</entry>
         <entry>assetrealbase</entry>
         <entry>custom</entry>
@@ -405,6 +411,9 @@
         <entry>liquid</entry>
         <entry>lik</entry>
         <entry>loadpersons</entry>
+        <entry>util</entry>
+        <entry>getage</entry>
+        <entry>loadper</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
