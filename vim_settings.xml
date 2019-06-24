@@ -43,6 +43,7 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561381055702" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/RegressionTest.cs" timestamp="1560327831515">
         <mark key="[" line="400" column="8" />
         <mark key="]" line="400" column="8" />
@@ -79,6 +80,10 @@
         <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="37" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" timestamp="1561380409978">
+        <mark key="[" line="37" column="39" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1561030785155">
         <mark key="[" line="31" column="4" />
@@ -173,7 +178,7 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
         <mark key="'" line="119" column="95" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561378427544">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561380772107">
         <mark key="[" line="1820" column="0" />
         <mark key="]" line="1820" column="145" />
       </file>
@@ -372,7 +377,7 @@
         <text>. . .CalculationYear</text>
       </register>
       <register name="/" type="4">
-        <text>lik</text>
+        <text>defla</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcnRlciA9IG5ldyBEZWZsYXRpb25PdXRwdXRDb252ZXJ0ZXIodGhpcy5DYWxjdWxhdGlvblllYXIsIFNhbWZ1bmRzZm9ydWRzYWV0bmluZ2VyLkdldFByZXNlbnRGdXR1cmVGYWN0b3JzKENhbGN1bGF0aW9uWWVhcikpOwo=</text>
@@ -425,9 +430,9 @@ accountMergers</text>
       </register>
     </registers>
     <search>
-      <last-search>lik</last-search>
+      <last-search>defla</last-search>
       <last-offset />
-      <last-pattern>lik</last-pattern>
+      <last-pattern>defla</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -435,8 +440,6 @@ accountMergers</text>
     </search>
     <history>
       <history-search>
-        <entry>system</entry>
-        <entry>system.web</entry>
         <entry>automaper</entry>
         <entry>auto</entry>
         <entry>map</entry>
@@ -455,6 +458,8 @@ accountMergers</text>
         <entry>dif</entry>
         <entry>samfu</entry>
         <entry>lik</entry>
+        <entry>deflate</entry>
+        <entry>defla</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
