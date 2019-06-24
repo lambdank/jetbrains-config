@@ -186,10 +186,10 @@
         <mark key="]" line="1136" column="35" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Metrics/AccountTreeMetrics/AktiverSamletTests.cs" timestamp="1561372534530">
-        <mark key="[" line="44" column="139" />
-        <mark key="]" line="44" column="144" />
-        <mark key="." line="44" column="144" />
-        <mark key="^" line="44" column="144" />
+        <mark key="[" line="25" column="139" />
+        <mark key="]" line="25" column="144" />
+        <mark key="." line="25" column="144" />
+        <mark key="^" line="25" column="144" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Entry.cs" timestamp="1560923801108">
         <mark key="[" line="19" column="8" />
@@ -202,6 +202,9 @@
         <mark key="]" line="18" column="99" />
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="91" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" timestamp="1561374785509">
+        <mark key="'" line="66" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1561008993986">
         <mark key="[" line="4" column="0" />
@@ -247,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="363" column="52" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="313" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="361" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
@@ -347,6 +349,7 @@
       <jump line="97" column="100" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="117" column="96" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="119" column="95" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="66" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -356,7 +359,7 @@
         <text>Add</text>
       </register>
       <register name="/" type="4">
-        <text>likvi</text>
+        <text>lik</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVBY2NvdW50TWVyZ2Vycy5Gb3JFYWNoKG4gPT4gVmVyaWZ5QWNjb3VudE1lcmdlcldpdGhPcFJlbGF0aXZlKERLQWNjb3VudFRyZWVPcGVyYXRpb24uU3VidHJhY3QsIFBlcnNvbi5QMywgbikpOwo=</text>
@@ -405,13 +408,13 @@ accountMergers</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZ2VQMiA9IFN0cmluZy5Jc051bGxPckVtcHR5KGJ1ZGdldC5jcHIyKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIyLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>likvi</last-search>
+      <last-search>lik</last-search>
       <last-offset />
-      <last-pattern>likvi</last-pattern>
+      <last-pattern>lik</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -433,12 +436,12 @@ accountMergers</text>
         <entry>liq</entry>
         <entry>liqu</entry>
         <entry>liquid</entry>
-        <entry>lik</entry>
         <entry>loadpersons</entry>
         <entry>util</entry>
         <entry>getage</entry>
         <entry>loadper</entry>
         <entry>likvi</entry>
+        <entry>lik</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
@@ -459,8 +462,8 @@ accountMergers</text>
         <entry>W</entry>
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>set ic</entry>
         <entry>w</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
