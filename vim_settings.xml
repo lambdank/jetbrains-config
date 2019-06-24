@@ -20,7 +20,11 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Likviditet/LikviditetUltimoStatementRule.cs" timestamp="1561376955827" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Likviditet/LikviditetUltimoStatementRule.cs" timestamp="1561379092705">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560926116696">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -88,12 +92,6 @@
         <mark key="." line="45" column="56" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx.cs" timestamp="1561099412346">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/DKMetricCollectionGenerator.cs" timestamp="1561355740886">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -156,7 +154,11 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561031439725">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Liquidity/LiquidityManager.cs" timestamp="1561377797587" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" timestamp="1561378591760">
+        <mark key="'" line="33" column="77" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561378255521">
         <mark key="[" line="161" column="52" />
         <mark key="]" line="161" column="119" />
         <mark key="^" line="161" column="51" />
@@ -171,9 +173,15 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
         <mark key="'" line="119" column="95" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561376148393" />
-      <file name="/Dummy.txt" timestamp="1561106284592">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561378427544">
+        <mark key="[" line="1820" column="0" />
+        <mark key="]" line="1820" column="145" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1561378208590">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561114090754">
         <mark key="'" line="133" column="21" />
@@ -207,6 +215,7 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="101" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantBuilder.cs" timestamp="1561378805737" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/FinancialStatement.cs" timestamp="1560840476979">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="16" />
@@ -254,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="52" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="313" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="361" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="365" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="218" column="14" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="219" column="121" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="224" column="28" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
@@ -354,34 +359,35 @@
       <jump line="117" column="96" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="119" column="95" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
       <jump line="66" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" />
+      <jump line="56" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
+      <jump line="21" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" />
+      <jump line="22" column="215" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" />
+      <jump line="33" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVBY2NvdW50TWVyZ2Vycy5Gb3JFYWNoKG4gPT4gVmVyaWZ5QWNjb3VudE1lcmdlcldpdGhPcFJlbGF0aXZlKERLQWNjb3VudFRyZWVPcGVyYXRpb24uU3VidHJhY3QsIFBlcnNvbi5QMywgbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdmFyIGNvbnZlcnRlciA9IG5ldyBEZWZsYXRpb25PdXRwdXRDb252ZXJ0ZXIoY29udGV4dC5QYXJhbWV0ZXJzLiwgU2FtZnVuZHNmb3J1ZHNhZXRuaW5nZXIuR2V0UHJlc2VudEZ1dHVyZUZhY3RvcnMoQ2FsY3VsYXRpb25ZZWFyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text>. . .CalculationYear</text>
       </register>
       <register name="/" type="4">
         <text>lik</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVBY2NvdW50TWVyZ2Vycy5Gb3JFYWNoKG4gPT4gVmVyaWZ5QWNjb3VudE1lcmdlcldpdGhPcFJlbGF0aXZlKERLQWNjb3VudFRyZWVPcGVyYXRpb24uU3VidHJhY3QsIFBlcnNvbi5QMywgbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcnRlciA9IG5ldyBEZWZsYXRpb25PdXRwdXRDb252ZXJ0ZXIodGhpcy5DYWxjdWxhdGlvblllYXIsIFNhbWZ1bmRzZm9ydWRzYWV0bmluZ2VyLkdldFByZXNlbnRGdXR1cmVGYWN0b3JzKENhbGN1bGF0aW9uWWVhcikpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdmFyIGNvbnZlcnRlciA9IG5ldyBEZWZsYXRpb25PdXRwdXRDb252ZXJ0ZXIoY29udGV4dC5QYXJhbWV0ZXJzLiwgU2FtZnVuZHNmb3J1ZHNhZXRuaW5nZXIuR2V0UHJlc2VudEZ1dHVyZUZhY3RvcnMoQ2FsY3VsYXRpb25ZZWFyKSk7Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4T2ZMYXN0WWVhcisrOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="8">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="8">
-        <text>accountMergers
-accountMergers
-accountMergers
-accountMergers</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -393,26 +399,29 @@ accountMergers</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+      <register name="6" type="8">
+        <text>accountMergers
+accountMergers
+accountMergers
+accountMergers</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZ2VQMiA9IFN0cmluZy5Jc051bGxPckVtcHR5KGJ1ZGdldC5jcHIyKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIyLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -426,8 +435,6 @@ accountMergers</text>
     </search>
     <history>
       <history-search>
-        <entry>assetrealbase</entry>
-        <entry>custom</entry>
         <entry>system</entry>
         <entry>system.web</entry>
         <entry>automaper</entry>
@@ -445,6 +452,8 @@ accountMergers</text>
         <entry>getage</entry>
         <entry>loadper</entry>
         <entry>likvi</entry>
+        <entry>dif</entry>
+        <entry>samfu</entry>
         <entry>lik</entry>
       </history-search>
       <history-cmd>
@@ -466,8 +475,8 @@ accountMergers</text>
         <entry>W</entry>
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
