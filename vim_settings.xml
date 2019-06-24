@@ -20,7 +20,6 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx" timestamp="1561361085999" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560926116696">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -130,11 +129,9 @@
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561355075951">
-        <mark key="[" line="40" column="175" />
-        <mark key="]" line="40" column="182" />
-        <mark key="." line="40" column="182" />
-        <mark key="^" line="40" column="182" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="101" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
         <mark key="[" line="49" column="13" />
@@ -187,6 +184,12 @@
         <mark key="'" line="38" column="24" />
         <mark key="[" line="1136" column="16" />
         <mark key="]" line="1136" column="35" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Metrics/AccountTreeMetrics/AktiverSamletTests.cs" timestamp="1561372534530">
+        <mark key="[" line="44" column="139" />
+        <mark key="]" line="44" column="144" />
+        <mark key="." line="44" column="144" />
+        <mark key="^" line="44" column="144" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Entry.cs" timestamp="1560923801108">
         <mark key="[" line="19" column="8" />
@@ -347,7 +350,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVBY2NvdW50TWVyZ2Vycy5Gb3JFYWNoKG4gPT4gVmVyaWZ5QWNjb3VudE1lcmdlcldpdGhPcFJlbGF0aXZlKERLQWNjb3VudFRyZWVPcGVyYXRpb24uU3VidHJhY3QsIFBlcnNvbi5QMywgbikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Add</text>
@@ -355,20 +358,23 @@
       <register name="/" type="4">
         <text>likvi</text>
       </register>
-      <register name="0" type="4">
-        <text>CreateAccountMergerWithAdd</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVBY2NvdW50TWVyZ2Vycy5Gb3JFYWNoKG4gPT4gVmVyaWZ5QWNjb3VudE1lcmdlcldpdGhPcFJlbGF0aXZlKERLQWNjb3VudFRyZWVPcGVyYXRpb24uU3VidHJhY3QsIFBlcnNvbi5QMywgbikpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZ2VQMiA9IFN0cmluZy5Jc051bGxPckVtcHR5KGJ1ZGdldC5jcHIyKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIyLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsK</text>
+      <register name="4" type="8">
+        <text>accountMergers
+accountMergers
+accountMergers
+accountMergers</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -381,22 +387,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIEFnZVAxID0gU3RyaW5nLklzTnVsbE9yRW1wdHkoYnVkZ2V0LmNwcjEpID8gMCA6IGNwclNlcnZpY2UuQWdlQXQoYnVkZ2V0LmNwcjEudHJpbSgpLCB0aW1lU2VydmljZS5Ob3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IEdldEFnZShjcHIpID0gU3RyaW5nLklzTnVsbE9yRW1wdHkoYnVkZ2V0LmNwcjEuVHJpbSgpKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIxLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsKICAgICAgICAgICAgdmFyIEFnZVAxID0gU3RyaW5nLklzTnVsbE9yRW1wdHkoYnVkZ2V0LmNwcjEpID8gMCA6IGNwclNlcnZpY2UuQWdlQXQoYnVkZ2V0LmNwcjEudHJpbSgpLCB0aW1lU2VydmljZS5Ob3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5Ba3RpdmVyU2FtbGV0LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgREtBY2NvdW50S2V5ID0gQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TaGFyZWQuUmVzcG9uc2VzLkRLQWNjb3VudEtleTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZ2VQMiA9IFN0cmluZy5Jc051bGxPckVtcHR5KGJ1ZGdldC5jcHIyKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIyLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
