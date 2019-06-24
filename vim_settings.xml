@@ -20,6 +20,7 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Likviditet/LikviditetUltimoStatementRule.cs" timestamp="1561376955827" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560926116696">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -31,21 +32,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1561030735273">
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Responses/Mapping/DKAccountKeyMapper.cs" timestamp="1561107174648">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="51" />
-        <mark key="." line="1" column="51" />
-        <mark key="^" line="1" column="5" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccountKey.cs" timestamp="1560946290800">
         <mark key="[" line="0" column="0" />
@@ -59,20 +45,8 @@
         <mark key="^" line="400" column="9" />
         <mark key="." line="400" column="8" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561031439725">
-        <mark key="[" line="161" column="52" />
-        <mark key="]" line="161" column="119" />
-        <mark key="^" line="161" column="51" />
-        <mark key="." line="161" column="52" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/UI/NavigationViewModel.cs" timestamp="1561094617459">
         <mark key="'" line="59" column="23" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/AccountDetailsMapper.cs" timestamp="1560926136968">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="10" column="57" />
-        <mark key="^" line="5" column="33" />
       </file>
       <file name="C:/repo/bec/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561119199039">
         <mark key="[" line="148" column="103" />
@@ -80,9 +54,7 @@
         <mark key="." line="148" column="103" />
         <mark key="^" line="148" column="103" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
-        <mark key="'" line="119" column="95" />
-      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantOutput.cs" timestamp="1561376514495" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountKeyMapper.cs" timestamp="1560926155737">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="18" />
@@ -92,46 +64,11 @@
       <file name="C:/repo/advice_productcustomer/Advice.sln" timestamp="1561029452084">
         <mark key="'" line="257" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561106284592">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561114090754">
-        <mark key="'" line="133" column="21" />
-        <mark key="[" line="148" column="23" />
-        <mark key="]" line="148" column="27" />
-        <mark key="^" line="148" column="27" />
-        <mark key="." line="148" column="27" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/EntryMapper.cs" timestamp="1560926102300">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Mapping/DKFinancialStatementMapper.cs" timestamp="1560926168645">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="37" />
         <mark key="^" line="14" column="129" />
         <mark key="." line="5" column="37" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Metrics/AccountTreeMetrics/PassiverSamletTests.cs" timestamp="1560516408262">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="51" />
-        <mark key="^" line="28" column="51" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientSectionConfiguration.cs" timestamp="1559826368105">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
-        <mark key="'" line="2" column="6" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="101" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
         <mark key="[" line="49" column="13" />
@@ -139,29 +76,11 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="37" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/FinancialStatement.cs" timestamp="1560840476979">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" timestamp="1561030785155">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="29" />
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccount.cs" timestamp="1560864350360">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="16" column="12" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Request/Model/DKAccountKey.cs" timestamp="1560839109646">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/PassiverSamlet.cs" timestamp="1560516403004">
         <mark key="[" line="45" column="0" />
@@ -191,21 +110,10 @@
         <mark key="." line="25" column="144" />
         <mark key="^" line="25" column="144" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Entry.cs" timestamp="1560923801108">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560316295672">
-        <mark key="[" line="18" column="91" />
-        <mark key="]" line="18" column="99" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="91" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" timestamp="1561374785509">
         <mark key="'" line="66" column="19" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/PresentFuture/Converter/DeflationOutputConverter.cs" timestamp="1561377003175" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1561008993986">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -214,21 +122,6 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
         <mark key="'" line="46" column="34" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1560924530311">
-        <mark key="[" line="121" column="31" />
-        <mark key="]" line="121" column="31" />
-        <mark key="^" line="121" column="31" />
-        <mark key="." line="121" column="31" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
-        <mark key="'" line="78" column="17" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560410184099">
-        <mark key="[" line="25" column="64" />
-        <mark key="]" line="25" column="64" />
-        <mark key="." line="25" column="64" />
-        <mark key="^" line="25" column="64" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Account.cs" timestamp="1560840164940">
         <mark key="[" line="1" column="0" />
@@ -247,6 +140,117 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1561030735273">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Responses/Mapping/DKAccountKeyMapper.cs" timestamp="1561107174648">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561031439725">
+        <mark key="[" line="161" column="52" />
+        <mark key="]" line="161" column="119" />
+        <mark key="^" line="161" column="51" />
+        <mark key="." line="161" column="52" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/AccountDetailsMapper.cs" timestamp="1560926136968">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="5" column="33" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
+        <mark key="'" line="119" column="95" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561376148393" />
+      <file name="/Dummy.txt" timestamp="1561106284592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561114090754">
+        <mark key="'" line="133" column="21" />
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="148" column="27" />
+        <mark key="^" line="148" column="27" />
+        <mark key="." line="148" column="27" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/EntryMapper.cs" timestamp="1560926102300">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Metrics/AccountTreeMetrics/PassiverSamletTests.cs" timestamp="1560516408262">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="51" />
+        <mark key="." line="28" column="51" />
+        <mark key="^" line="28" column="51" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/BudgetPlanClientSectionConfiguration.cs" timestamp="1559826368105">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
+        <mark key="'" line="2" column="6" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="101" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/FinancialStatement.cs" timestamp="1560840476979">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/DKAccount.cs" timestamp="1560864350360">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="16" column="12" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Request/Model/DKAccountKey.cs" timestamp="1560839109646">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Entry.cs" timestamp="1560923801108">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" timestamp="1560316295672">
+        <mark key="[" line="18" column="91" />
+        <mark key="]" line="18" column="99" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="91" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1560924530311">
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="31" />
+        <mark key="^" line="121" column="31" />
+        <mark key="." line="121" column="31" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
+        <mark key="'" line="78" column="17" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" timestamp="1560410184099">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="25" column="64" />
+        <mark key="^" line="25" column="64" />
       </file>
     </filemarks>
     <jumps>
