@@ -20,6 +20,7 @@
         <mark key="." line="62" column="48" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx" timestamp="1561361085999" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560926116696">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -79,6 +80,9 @@
         <mark key="]" line="148" column="103" />
         <mark key="." line="148" column="103" />
         <mark key="^" line="148" column="103" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
+        <mark key="'" line="119" column="95" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountKeyMapper.cs" timestamp="1560926155737">
         <mark key="[" line="6" column="0" />
@@ -240,15 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
-      <jump line="23" column="12" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleRemoveHouseIfMunicipalityNotSet.js" />
-      <jump line="155" column="16" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
-      <jump line="14" column="25" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
-      <jump line="15" column="83" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
-      <jump line="16" column="107" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
-      <jump line="18" column="48" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetPlanClientConfigurationFactory.cs" />
-      <jump line="15" column="32" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleSalary.js" />
-      <jump line="129" column="13" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetDialog/BudgetDialog.jsx" />
       <jump line="530" column="20" filename="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
       <jump line="363" column="52" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
       <jump line="313" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
@@ -340,6 +335,15 @@
       <jump line="38" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Util.cs" />
       <jump line="276" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
       <jump line="133" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
+      <jump line="83" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="122" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="123" column="97" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="391" column="100" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="405" column="96" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="91" column="81" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="97" column="100" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="117" column="96" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
+      <jump line="119" column="95" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -349,7 +353,7 @@
         <text>Add</text>
       </register>
       <register name="/" type="4">
-        <text>loadper</text>
+        <text>likvi</text>
       </register>
       <register name="0" type="4">
         <text>CreateAccountMergerWithAdd</text>
@@ -399,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loadper</last-search>
+      <last-search>likvi</last-search>
       <last-offset />
-      <last-pattern>loadper</last-pattern>
+      <last-pattern>likvi</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pensionbase</entry>
         <entry>assetrealbase</entry>
         <entry>custom</entry>
         <entry>system</entry>
@@ -429,6 +432,7 @@
         <entry>util</entry>
         <entry>getage</entry>
         <entry>loadper</entry>
+        <entry>likvi</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
