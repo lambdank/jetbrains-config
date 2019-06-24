@@ -94,12 +94,11 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1561114090754">
         <mark key="'" line="133" column="21" />
-        <mark key="[" line="166" column="23" />
-        <mark key="]" line="166" column="27" />
-        <mark key="^" line="166" column="27" />
-        <mark key="." line="166" column="27" />
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="148" column="27" />
+        <mark key="^" line="148" column="27" />
+        <mark key="." line="148" column="27" />
       </file>
-      <file name="C:/repo/bec/product/Standard/Advice.Kernel/Profile/Cpr/AbstractCprService.cs" timestamp="1561118349169" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/EntryMapper.cs" timestamp="1560926102300">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="22" />
@@ -126,6 +125,12 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
         <mark key="'" line="2" column="6" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561355075951">
+        <mark key="[" line="40" column="175" />
+        <mark key="]" line="40" column="182" />
+        <mark key="." line="40" column="182" />
+        <mark key="^" line="40" column="182" />
       </file>
       <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/Configuration/IBudgetPlanClientSectionConfiguration.cs" timestamp="1559826522833">
         <mark key="[" line="49" column="13" />
@@ -333,16 +338,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Add</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Add</text>
       </register>
       <register name="/" type="4">
         <text>loadper</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIEFnZVAxID0gR2V0QWdlKGJ1ZGdldC5jcHIxKTsK</text>
+      <register name="0" type="4">
+        <text>CreateAccountMergerWithAdd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZ2VQMiA9IFN0cmluZy5Jc051bGxPckVtcHR5KGJ1ZGdldC5jcHIyKSA/IDAgOiBjcHJTZXJ2aWNlLkFnZUF0KGJ1ZGdldC5jcHIyLnRyaW0oKSwgdGltZVNlcnZpY2UuTm93KTsK</text>
