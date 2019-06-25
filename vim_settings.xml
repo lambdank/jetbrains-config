@@ -21,9 +21,9 @@
         <mark key="^" line="62" column="48" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Likviditet/LikviditetUltimoStatementRule.cs" timestamp="1561382726182">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Response/Model/Mapping/DKAccountMapper.cs" timestamp="1560926116696">
         <mark key="[" line="9" column="0" />
@@ -43,7 +43,7 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561381055702" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561445010377" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.RegressionTests/RegressionTest.cs" timestamp="1560327831515">
         <mark key="[" line="400" column="8" />
         <mark key="]" line="400" column="8" />
@@ -180,7 +180,8 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
         <mark key="'" line="119" column="95" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561380772107">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561444884153">
+        <mark key="'" line="1529" column="15" />
         <mark key="[" line="1820" column="0" />
         <mark key="]" line="1820" column="145" />
       </file>
@@ -269,19 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="121" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="224" column="28" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="271" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="275" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="309" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRuleTest.cs" />
-      <jump line="5" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="44" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="42" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="43" column="38" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="13" column="32" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="23" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="38" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
-      <jump line="39" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Pension/PensionTestParams.cs" />
       <jump line="28" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
       <jump line="7" column="0" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
       <jump line="33" column="24" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
@@ -369,6 +357,19 @@
       <jump line="22" column="215" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" />
       <jump line="33" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" />
       <jump line="3716" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/FinancialStatementManagerTest.cs" />
+      <jump line="1780" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1797" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1798" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1799" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="30" column="42" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="553" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="591" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1109" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1110" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1113" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1116" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1517" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1529" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +379,7 @@
         <text>4.4.1.0</text>
       </register>
       <register name="/" type="4">
-        <text>defla</text>
+        <text>beregnskatalle</text>
       </register>
       <register name="0" type="4">
         <text>4.6.2.0</text>
@@ -428,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>defla</last-search>
+      <last-search>beregnskatalle</last-search>
       <last-offset />
-      <last-pattern>defla</last-pattern>
+      <last-pattern>beregnskatalle</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -438,8 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>automaper</entry>
-        <entry>auto</entry>
         <entry>map</entry>
         <entry>AllUpdateStepsShouldFormDirectedAsyclicGraph</entry>
         <entry>debug</entry>
@@ -458,6 +457,8 @@
         <entry>lik</entry>
         <entry>deflate</entry>
         <entry>defla</entry>
+        <entry>beregnskat</entry>
+        <entry>beregnskatalle</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
