@@ -40,12 +40,12 @@
         <mark key="[" line="163" column="0" />
         <mark key="]" line="173" column="101" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/FinancialStatementManagerTest.cs" timestamp="1561549353843">
-        <mark key="'" line="3730" column="40" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="43" column="90" />
-        <mark key="." line="49" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/FinancialStatementManagerTest.cs" timestamp="1561550217957">
+        <mark key="'" line="3727" column="40" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="40" column="90" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1561528033485">
         <mark key="[" line="1016" column="25" />
@@ -131,6 +131,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1561106284592">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionMappingTests/PensionMappingTests.cs" timestamp="1561550353602">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="12" />
+        <mark key="^" line="18" column="83" />
+        <mark key="." line="79" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
         <mark key="'" line="2" column="6" />
@@ -276,11 +282,11 @@
       <jump line="105" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>firstAccountLevel0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>addsubaccount</text>
@@ -289,21 +295,16 @@
         <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyYSA9IHJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleTMsIGtleSB9LCB0aW1lLCB0aW1lLCAxMDAwbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0QWNjb3VudExldmVsMSA9IHRoaXJkQWNjb3VudExldmVsMC5TdWJBY2NvdW50cy5FbGVtZW50QXQoMCk7CiAgICAgICAgICAgIHZhciBzZWNvbmRBY2NvdW50TGV2ZWwxID0gdGhpcmRBY2NvdW50TGV2ZWwwLlN1YkFjY291bnRzLkVsZW1lbnRBdCgxKTsKICAgICAgICAgICAgLy92YXIgc2Vjb25kQWNjb3VudExldmVsMSA9IE1uZ3IuR2V0U3RhdGVtZW50KCkuQWNjb3VudHMuRWxlbWVudEF0KDQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdCgoKSA9PiBNbmdyLkFkZEFjY291bnQobmV3IEFjY291bnRLZXlbXSB7IH0sIGZpcnN0QWNjb3VudExldmVsMSksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkzIH0sIHRoaXJkQWNjb3VudExldmVsMCksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleTMsIGtleSB9LCB0aW1lLCB0aW1lLCAxMDAwbSk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -315,26 +316,31 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdCgoKSA9PiBNbmdyLkFkZEFjY291bnQobmV3IEFjY291bnRLZXlbXSB7IH0sIGZpcnN0QWNjb3VudExldmVsMSksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkzIH0sIHRoaXJkQWNjb3VudExldmVsMCksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="7" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleTMgfSwgdGltZSwgdGltZSwgMTAwMG0pOwo=</text>
-      </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyB9LCBmaXJzdEFjY291bnRMZXZlbDApLCBUaHJvd3MuQXJndW1lbnRFeGNlcHRpb24pOwo=</text>
+      <register name="8" type="8">
+        <text>//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleTMgfSwgdGltZSwgdGltZSwgMTAwMG0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
