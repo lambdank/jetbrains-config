@@ -19,15 +19,14 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561445010377" />
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/UI/NavigationViewModel.cs" timestamp="1561094617459">
-        <mark key="'" line="59" column="23" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" timestamp="1561527065574">
+        <mark key="'" line="85" column="17" />
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="28" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561445010377" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantOutput.cs" timestamp="1561376514495" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AMBGrundlag/AMBGrundlag.cs" timestamp="1561447478454" />
-      <file name="C:/repo/advice_productcustomer/Advice.sln" timestamp="1561029452084">
-        <mark key="'" line="257" column="16" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/ArithmeticAccount.cs" timestamp="1561447409574">
         <mark key="[" line="79" column="41" />
         <mark key="]" line="79" column="44" />
@@ -45,13 +44,7 @@
         <mark key="^" line="3716" column="54" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" timestamp="1561374785509">
-        <mark key="'" line="66" column="19" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/PresentFuture/Converter/DeflationOutputConverter.cs" timestamp="1561377003175" />
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
-        <mark key="'" line="46" column="34" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="55" column="5" />
@@ -66,9 +59,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="40" column="5" />
       </file>
-      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
-        <mark key="'" line="33" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/YearlyDiffNode.cs" timestamp="1561447318752">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -76,9 +66,6 @@
         <mark key="." line="73" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Liquidity/LiquidityManager.cs" timestamp="1561377797587" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" timestamp="1561378591760">
-        <mark key="'" line="33" column="77" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561378255521">
         <mark key="[" line="161" column="52" />
         <mark key="]" line="161" column="119" />
@@ -91,16 +78,10 @@
         <mark key="." line="32" column="80" />
         <mark key="^" line="32" column="80" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
-        <mark key="'" line="119" column="95" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1561444884153">
         <mark key="'" line="1529" column="15" />
         <mark key="[" line="1820" column="0" />
         <mark key="]" line="1820" column="145" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
-        <mark key="'" line="2" column="6" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantBuilder.cs" timestamp="1561378805737" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/app.config" timestamp="1561443515090">
@@ -109,18 +90,12 @@
         <mark key="^" line="9" column="100" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
-        <mark key="'" line="78" column="17" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" timestamp="1561526865377">
+        <mark key="[" line="80" column="79" />
+        <mark key="]" line="80" column="99" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="7" column="0" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="33" column="24" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="34" column="24" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="58" column="23" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="60" column="25" filename="C:/repo/advice_delivery/Applications/Advice.Web.Platform.Pensionsplan/Financys/PP/PenResultBuilders/PenResultBuilder.cs" />
-      <jump line="27" column="17" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="230" column="18" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="20" column="10" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
       <jump line="21" column="50" filename="C:/repo/advice_delivery/Applications/Advice.Web.PensionsPlan/Web.config" />
@@ -214,19 +189,26 @@
       <jump line="1116" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1517" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1529" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="117" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="1" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="126" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="121" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="116" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="111" column="18" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
+      <jump line="85" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LikviditetskontoOpsparing</text>
+        <text>IndividuelBoernerente</text>
       </register>
       <register name="-" type="4">
         <text>LikviditetskontoOpsparing</text>
       </register>
       <register name="/" type="4">
-        <text>beregnskatalle</text>
+        <text>boerne</text>
       </register>
       <register name="0" type="4">
-        <text>LikviditetskontoOpsparing</text>
+        <text>IndividuelBoernerente</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtJbmRrb21zdFVkZW5BTUIuSW5wdXQuRm9yc2lrcmluZ3N1ZGJldGFsaW5nZXJdID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLkxpdnN2YXJpZ2Vmb3JzaWtyaW5nZXIgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLlJhdGVmb3JzaWtyaW5nZXIgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLlJlc2VydmVzaWtyaW5nc1NrYXR0ZWtvZGUzIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5QZW5zaW9uc3VkYmV0YWxpbmdlcl0gPSBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5SYXRlcGVuc2lvbiB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5MaXZyZW50ZSB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5BdHAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmcsIERLQWNjb3VudFR5cGUuVGplbmVzdGVtYW5kc3BlbnNpb24gfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmcsIERLQWNjb3VudFR5cGUuQW5kcmVQZW5zaW9uSW5ka29tc3RlciB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5BZWd0ZWZhZWxsZVBlbnNpb24gfSksCiAgICAgICAgICAgICAgICBbSW5ka29tc3RVZGVuQU1CLklucHV0LkZvbGtlcGVuc2lvbl0gPSBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5Gb2xrZXBlbnNpb25HcnVuZGJlbG9lYiB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9sa2VwZW5zaW9uUGVuc2lvbnN0aWxsYWVnIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5Gb2xrZXBlbnNpb25PcHNhdFN1bXVkYmV0YWxpbmcgfSksCiAgICAgICAgICAgICAgICBbSW5ka29tc3RVZGVuQU1CLklucHV0LkFlbGRyZWNoZWNrXSA9IEdldEFjY291bnQobmV3W10geyBES0FjY291bnRUeXBlLkFlbGRyZWNoZWNrIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5FZnRlcmxvZW5dID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRWZ0ZXJsb2VuIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5Gb2VydGlkc3BlbnNpb25dID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVyc29ubGlnSW5ka29tc3QsIERLQWNjb3VudFR5cGUuRm9lcnRpZHNwZW5zaW9uIH0pLAoKICAgICAgICAgICAgICAgIC8vIFRoaXMgaXMgYSBkZWR1Y3Rpb24uIEFtb3VudHMgd2l0aGluIHRoaXMgYWNjb3VudCBpcyBhbHdheXMgbmVnYXRpdmUKICAgICAgICAgICAgICAgIFtJbmRrb21zdFVkZW5BTUIuSW5wdXQuRnJhZHJhZ0ZvclVuZHNrdWRWaXJrc29taGVkXSA9IEdldEFjY291bnQobmV3W10geyBES0FjY291bnRUeXBlLlZpcmtzb21oZWRVbmRlcnNrdWQgfSkK</text>
@@ -273,9 +255,9 @@
       </register>
     </registers>
     <search>
-      <last-search>beregnskatalle</last-search>
+      <last-search>boerne</last-search>
       <last-offset />
-      <last-pattern>beregnskatalle</last-pattern>
+      <last-pattern>boerne</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +265,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>AllUpdateStepsShouldFormDirectedAsyclicGraph</entry>
         <entry>debug</entry>
         <entry>include</entry>
@@ -303,6 +284,7 @@
         <entry>defla</entry>
         <entry>beregnskat</entry>
         <entry>beregnskatalle</entry>
+        <entry>boerne</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
