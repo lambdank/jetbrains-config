@@ -3,21 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/ActivePension.cs" timestamp="1561546974750">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="60" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/LikviditetskontoStigning/LikviditetskontoOpsparing.cs" timestamp="1561447808261">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="39" />
         <mark key="." line="33" column="16" />
         <mark key="^" line="15" column="91" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IndkomstUdenAMB/IndkomstUdenAMBReader.cs" timestamp="1561447702944">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="63" column="5" />
-        <mark key="." line="11" column="80" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/Likviditet/LikviditetUltimoStatementRule.cs" timestamp="1561382726182">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" timestamp="1561528091412">
         <mark key="'" line="85" column="17" />
@@ -58,6 +52,7 @@
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="97" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/InstallmentBasedPension.cs" timestamp="1561546505440" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1561531998896">
         <mark key="'" line="36" column="114" />
       </file>
@@ -130,6 +125,10 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
         <mark key="'" line="2" column="6" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="101" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantBuilder.cs" timestamp="1561378805737" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/app.config" timestamp="1561443515090">
@@ -268,8 +267,8 @@
       <jump line="82" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>first</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZGVjaW1hbD8gRGVwb3RBdEVhcmx5UmV0aXJlbWVudCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>first</text>
@@ -278,7 +277,7 @@
         <text>calculationyear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyB9LCBmaXJzdEFjY291bnRMZXZlbDEpLCBUaHJvd3MuQXJndW1lbnRFeGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZGVjaW1hbD8gRGVwb3RBdEVhcmx5UmV0aXJlbWVudCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyB9LCBmaXJzdEFjY291bnRMZXZlbDApLCBUaHJvd3MuQXJndW1lbnRFeGNlcHRpb24pOwo=</text>
