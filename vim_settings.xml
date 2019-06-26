@@ -19,10 +19,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" timestamp="1561527065574">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" timestamp="1561528091412">
         <mark key="'" line="85" column="17" />
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="28" />
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="34" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1561445010377" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Output/AktiverKontant/AktiverKontantOutput.cs" timestamp="1561376514495" />
@@ -33,22 +33,16 @@
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/KernelCalculationHandlerDk.cs" timestamp="1561380409978">
-        <mark key="[" line="37" column="39" />
-        <mark key="." line="37" column="40" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/FinancialStatementManagerTest.cs" timestamp="1561442757982">
-        <mark key="'" line="3716" column="40" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3716" column="54" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1561528033485">
+        <mark key="[" line="1016" column="25" />
+        <mark key="]" line="1016" column="52" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/PresentFuture/Converter/DeflationOutputConverter.cs" timestamp="1561377003175" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="55" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Insurance/Udbetaling/UdbetalingLivrenteInsurancePickerRuleTest.cs" timestamp="1561528377820" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/LikviditetskontoStigning/LikviditetskontoOpsparingReader.cs" timestamp="1561447814328">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="41" />
@@ -59,6 +53,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="40" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Udbetaling/UdbetalingInsurancePickerRule.cs" timestamp="1561528637560" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/YearlyDiffNode.cs" timestamp="1561447318752">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -93,6 +88,12 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" timestamp="1561526865377">
         <mark key="[" line="80" column="79" />
         <mark key="]" line="80" column="99" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1561528949294">
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="31" />
+        <mark key="^" line="121" column="31" />
+        <mark key="." line="121" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -199,7 +200,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IndividuelBoernerente</text>
+        <text>GruppeLivBoernerenteVedDoed</text>
       </register>
       <register name="-" type="4">
         <text>LikviditetskontoOpsparing</text>
@@ -208,7 +209,7 @@
         <text>boerne</text>
       </register>
       <register name="0" type="4">
-        <text>IndividuelBoernerente</text>
+        <text>GruppeLivBoernerenteVedDoed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtJbmRrb21zdFVkZW5BTUIuSW5wdXQuRm9yc2lrcmluZ3N1ZGJldGFsaW5nZXJdID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLkxpdnN2YXJpZ2Vmb3JzaWtyaW5nZXIgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLlJhdGVmb3JzaWtyaW5nZXIgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9yc2lrcmluZ3NVZGJldGFsaW5nLCBES0FjY291bnRUeXBlLlJlc2VydmVzaWtyaW5nc1NrYXR0ZWtvZGUzIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5QZW5zaW9uc3VkYmV0YWxpbmdlcl0gPSBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5SYXRlcGVuc2lvbiB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5MaXZyZW50ZSB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5BdHAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmcsIERLQWNjb3VudFR5cGUuVGplbmVzdGVtYW5kc3BlbnNpb24gfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmcsIERLQWNjb3VudFR5cGUuQW5kcmVQZW5zaW9uSW5ka29tc3RlciB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5QZW5zaW9uVWRiZXRhbGluZywgREtBY2NvdW50VHlwZS5BZWd0ZWZhZWxsZVBlbnNpb24gfSksCiAgICAgICAgICAgICAgICBbSW5ka29tc3RVZGVuQU1CLklucHV0LkZvbGtlcGVuc2lvbl0gPSBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5Gb2xrZXBlbnNpb25HcnVuZGJlbG9lYiB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRm9sa2VwZW5zaW9uUGVuc2lvbnN0aWxsYWVnIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBHZXRBY2NvdW50KG5ld1tdIHsgREtBY2NvdW50VHlwZS5Gb2xrZXBlbnNpb25PcHNhdFN1bXVkYmV0YWxpbmcgfSksCiAgICAgICAgICAgICAgICBbSW5ka29tc3RVZGVuQU1CLklucHV0LkFlbGRyZWNoZWNrXSA9IEdldEFjY291bnQobmV3W10geyBES0FjY291bnRUeXBlLkFlbGRyZWNoZWNrIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5FZnRlcmxvZW5dID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuRWZ0ZXJsb2VuIH0pLAogICAgICAgICAgICAgICAgW0luZGtvbXN0VWRlbkFNQi5JbnB1dC5Gb2VydGlkc3BlbnNpb25dID0gR2V0QWNjb3VudChuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVyc29ubGlnSW5ka29tc3QsIERLQWNjb3VudFR5cGUuRm9lcnRpZHNwZW5zaW9uIH0pLAoKICAgICAgICAgICAgICAgIC8vIFRoaXMgaXMgYSBkZWR1Y3Rpb24uIEFtb3VudHMgd2l0aGluIHRoaXMgYWNjb3VudCBpcyBhbHdheXMgbmVnYXRpdmUKICAgICAgICAgICAgICAgIFtJbmRrb21zdFVkZW5BTUIuSW5wdXQuRnJhZHJhZ0ZvclVuZHNrdWRWaXJrc29taGVkXSA9IEdldEFjY291bnQobmV3W10geyBES0FjY291bnRUeXBlLlZpcmtzb21oZWRVbmRlcnNrdWQgfSkK</text>
