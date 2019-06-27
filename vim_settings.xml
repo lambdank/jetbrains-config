@@ -3,119 +3,71 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/PensionsbeholdningMetricCollection.cs" timestamp="1561617244271">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="47" column="18" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/ActivePension.cs" timestamp="1561546974750">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="60" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1561532585642">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="65" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx" timestamp="1561618758786">
+        <mark key="[" line="97" column="55" />
+        <mark key="]" line="97" column="104" />
+        <mark key="." line="97" column="55" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/LikviditetskontoStigning/LikviditetskontoOpsparingReader.cs" timestamp="1561447814328">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="54" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Calculation/Controllers/CalculationController.cs" timestamp="1561618731527">
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="41" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="50" column="41" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/LikviditetskontoStigning/LikviditetskontoOpsparing.cs" timestamp="1561447808261">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="15" column="91" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Factories/FormuePlanMetricFactory.cs" timestamp="1561618901249">
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="107" />
+        <mark key="." line="46" column="107" />
+        <mark key="^" line="46" column="107" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IndkomstUdenAMB/IndkomstUdenAMB.cs" timestamp="1561447575861">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="40" column="5" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/AccountTreeMetrics/Pensionsbeholdning.cs" timestamp="1561616400911" />
-      <file name="C:/repo/advice_productcustomer/Customers/Schantz/Advice.Customers.Schantz.FormuePlan.Tests/SchantzFormuePlanUpdateStepProviderTests.cs" timestamp="1560948833366">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/YearlyDiffNode.cs" timestamp="1561447318752">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="66" column="12" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Factories/FormuePlanMetricFactory.cs" timestamp="1561616304460" />
       <file name="/Dummy.cs" timestamp="1561613077653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/Products/Company/CompanyCalculatorMapperTest.cs" timestamp="1561532215448">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="9" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollectionGenerator.cs" timestamp="1561617362763">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1561548816169">
-        <mark key="'" line="104" column="59" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingReader.cs" timestamp="1561618456232">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="98" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="75" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/StatementRules/StatementRuleCollectionPostTaxBenefits.cs" timestamp="1561378591760">
-        <mark key="'" line="33" column="77" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/FormuePlanStandardMetricBuilder.cs" timestamp="1561618637177">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="47" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1561378255521">
-        <mark key="[" line="161" column="52" />
-        <mark key="]" line="161" column="119" />
-        <mark key="^" line="161" column="51" />
-        <mark key="." line="161" column="52" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollection.cs" timestamp="1561617322425">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="44" column="18" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/UI/NavigationViewModel.cs" timestamp="1561094617459">
-        <mark key="'" line="59" column="23" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/LikviditetskontoStigning/LikviditetskontoStigning.cs" timestamp="1561447642633">
-        <mark key="[" line="32" column="56" />
-        <mark key="]" line="32" column="80" />
-        <mark key="." line="32" column="80" />
-        <mark key="^" line="32" column="80" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561360487347">
-        <mark key="'" line="119" column="95" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnDeathUtils.cs" timestamp="1561531982486">
-        <mark key="'" line="20" column="31" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/Advice.sln" timestamp="1561029452084">
-        <mark key="'" line="257" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561106284592">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/ArithmeticAccount.cs" timestamp="1561447409574">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/ArithmeticAccount.cs" timestamp="1561616484248">
         <mark key="[" line="79" column="41" />
         <mark key="]" line="79" column="44" />
         <mark key="^" line="79" column="44" />
         <mark key="." line="79" column="44" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionMappingTests/PensionMappingTests.cs" timestamp="1561550353602">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="18" column="83" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" timestamp="1560860678132">
-        <mark key="'" line="2" column="6" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="101" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/app.config" timestamp="1561443515090">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="9" column="100" />
-        <mark key="." line="10" column="45" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IAccountFetcher.cs" timestamp="1561616878915">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1561532424775">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="173" column="101" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/FinancialStatementManagerTest.cs" timestamp="1561550217957">
-        <mark key="'" line="3716" column="40" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionTests.cs" timestamp="1561532636391">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="79" column="24" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1561528033485">
         <mark key="[" line="1016" column="25" />
@@ -125,52 +77,98 @@
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="97" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/DKMetricCollectionGenerator.cs" timestamp="1561613443771">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="55" column="5" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1561532585642">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="65" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IndkomstUdenAMB/IndkomstUdenAMB.cs" timestamp="1561447575861">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="40" column="5" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AMBGrundlag/AMBGrundlagCalculator.cs" timestamp="1561617070553">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="175" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegningReader.cs" timestamp="1561618552956">
+        <mark key="'" line="4" column="34" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AccountFetcher.cs" timestamp="1561616818315">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="14" />
+        <mark key="." line="53" column="14" />
+        <mark key="^" line="53" column="14" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/YearlyDiffNode.cs" timestamp="1561619550990">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="54" column="11" />
+        <mark key="." line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/Products/Company/CompanyCalculatorMapperTest.cs" timestamp="1561532215448">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1561618601631">
+        <mark key="'" line="119" column="95" />
+        <mark key="[" line="415" column="39" />
+        <mark key="]" line="415" column="40" />
+        <mark key="." line="415" column="40" />
+        <mark key="^" line="416" column="127" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/FormuePlanMetricType.cs" timestamp="1561617352782">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561618854850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="101" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparing.cs" timestamp="1561618421133">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="16" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Calculation/Services/CalculationService.cs" timestamp="1561618846173">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegningCalculator.cs" timestamp="1561620676645">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" timestamp="1561526865377">
         <mark key="[" line="80" column="79" />
         <mark key="]" line="80" column="99" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1561531998896">
-        <mark key="'" line="36" column="114" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingCalculator.cs" timestamp="1561618434866">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="8" column="114" />
+        <mark key="." line="8" column="114" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/client/src/redux/mapper/dataMapper.js" timestamp="1561374785509">
-        <mark key="'" line="66" column="19" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Metrics/DKMetricCollectionGeneratorTests.cs" timestamp="1561613529592">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" timestamp="1560861231464">
-        <mark key="'" line="46" column="34" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1561528949294">
-        <mark key="[" line="121" column="31" />
-        <mark key="]" line="121" column="31" />
-        <mark key="^" line="121" column="31" />
-        <mark key="." line="121" column="31" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1560927363503">
-        <mark key="'" line="78" column="17" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="55" column="5" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegning.cs" timestamp="1561618751266">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="24" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
-      <jump line="31" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Web.config" />
-      <jump line="104" column="101" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
-      <jump line="25" column="17" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
-      <jump line="61" column="23" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
-      <jump line="2" column="6" filename="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Api/CaseService/Startup.cs" />
-      <jump line="11" column="10" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="49" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="56" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
       <jump line="67" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Api/Budgets/v1/BudgetsV1Controller.cs" />
@@ -263,31 +261,39 @@
       <jump line="365" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
       <jump line="56" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
       <jump line="105" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
+      <jump line="28" column="15" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparing.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparing.cs" />
+      <jump line="5" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingCalculator.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingCalculator.cs" />
+      <jump line="26" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingReader.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoOpsparing/LikviditetskontoOpsparingReader.cs" />
+      <jump line="4" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegningReader.cs" />
+      <jump line="7" column="13" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegning.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5VZHNrdWR0U2thdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LikviditetskontoOpsparing</text>
       </register>
       <register name="/" type="4">
-        <text>addsubaccount</text>
+        <text>buildmetrics</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
+      <register name="0" type="4">
+        <text>LikviditetskontoInflationskorrigeretVaerdioegning</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5VZHNrdWR0U2thdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERLTWV0cmljVHlwZS5VZHNrdWR0U2thdCwK</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLldlYi5Gb3JtdWVQbGFuLkFwaS5NZXRyaWNzLlNpbmdsZUFjY291bnRNZXRyaWNzLkxpa3ZpZGl0ZXRza29udG9PcHNwYXJpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyYSA9IHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm11ZVBsYW5TdGFuZGFyZE1ldHJpY0J1aWxkZXIuQnVpbGRNZXRyaWNzKHJlc3VsdCwgbmV3IEZvcm11ZVBsYW5NZXRyaWNDb2xsZWN0aW9uKCksIHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0QWNjb3VudExldmVsMSA9IHRoaXJkQWNjb3VudExldmVsMC5TdWJBY2NvdW50cy5FbGVtZW50QXQoMCk7CiAgICAgICAgICAgIHZhciBzZWNvbmRBY2NvdW50TGV2ZWwxID0gdGhpcmRBY2NvdW50TGV2ZWwwLlN1YkFjY291bnRzLkVsZW1lbnRBdCgxKTsKICAgICAgICAgICAgLy92YXIgc2Vjb25kQWNjb3VudExldmVsMSA9IE1uZ3IuR2V0U3RhdGVtZW50KCkuQWNjb3VudHMuRWxlbWVudEF0KDQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1aWxkTWV0cmljcwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -300,47 +306,38 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkyIH0sIHNlY29uZEFjY291bnRMZXZlbDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlrdmlkaXRldHNrb250b0luZmxhdGlvbnNrb3JyaWdlcmV0VmFlcmRpb2VnbmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW5nci5BZGRBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleTMsIGtleSB9LCB0aW1lLCB0aW1lLCAxMDAwbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlrdmlkaXRldHNrb250b0luZmxhdGlvbnNrb3JyaWNlcmV0VmFlcmRpb2VnbmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdCgoKSA9PiBNbmdyLkFkZEFjY291bnQobmV3IEFjY291bnRLZXlbXSB7IH0sIGZpcnN0QWNjb3VudExldmVsMSksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoKCkgPT4gTW5nci5BZGRBY2NvdW50KG5ldyBBY2NvdW50S2V5W10geyBrZXkzIH0sIHRoaXJkQWNjb3VudExldmVsMCksIFRocm93cy5Bcmd1bWVudEV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addsubaccount</last-search>
+      <last-search>buildmetrics</last-search>
       <last-offset />
-      <last-pattern>addsubaccount</last-pattern>
-      <last-replace>bil</last-replace>
-      <last-substitute>bankdata</last-substitute>
+      <last-pattern>buildmetrics</last-pattern>
+      <last-replace>LikviditetskontoInflationskorrigeretVaerdioegning</last-replace>
+      <last-substitute>LikviditetskontoOpsparing</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>liq</entry>
-        <entry>liqu</entry>
         <entry>liquid</entry>
         <entry>loadpersons</entry>
         <entry>util</entry>
@@ -359,10 +356,10 @@
         <entry>calculationyear</entry>
         <entry>addsub</entry>
         <entry>addsubaccount</entry>
+        <entry>LikviditetskontoOpsparing</entry>
+        <entry>buildmetrics</entry>
       </history-search>
       <history-cmd>
-        <entry>setic</entry>
-        <entry>%s/expense/deduction</entry>
         <entry>%s/Expense/Deduction</entry>
         <entry>%s/Expense/Deduction/g</entry>
         <entry>%s/expense/deduction/g</entry>
@@ -380,6 +377,8 @@
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set ic</entry>
+        <entry>%s/LikviditetskontoOpsparing/LikviditetskontoInflationskorrigeretVaerdioegning</entry>
+        <entry>%s/LikviditetskontoOpsparing/LikviditetskontoInflationskorrigeretVaerdioegning/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
