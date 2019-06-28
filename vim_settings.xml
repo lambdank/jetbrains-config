@@ -10,6 +10,10 @@
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="72" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/PensionsbeholdningMetricCollection.cs" timestamp="1561617244271">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="47" column="18" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/ActivePension.cs" timestamp="1561546974750">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="60" />
@@ -99,6 +103,10 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="40" column="5" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AMBGrundlag/AMBGrundlagCalculator.cs" timestamp="1561617070553">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="175" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegningReader.cs" timestamp="1561624687723">
         <mark key="'" line="4" column="34" />
         <mark key="[" line="9" column="76" />
@@ -147,7 +155,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561372393607">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/AccountTreeMetrics/AktiverSamlet.cs" timestamp="1561698613189">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="101" />
       </file>
