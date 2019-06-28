@@ -96,6 +96,13 @@
         <mark key="]" line="33" column="97" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Shared/Case/Mapping.Tests/BaseTypes/Dates/Mapping/RelativeDateMapperTests.cs" timestamp="1561703538614" />
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" timestamp="1561705872817">
+        <mark key="'" line="305" column="30" />
+        <mark key="[" line="314" column="146" />
+        <mark key="]" line="314" column="173" />
+        <mark key="^" line="314" column="173" />
+        <mark key="." line="314" column="173" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyUpdatedEventApplier.cs" timestamp="1561704599410">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -245,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx" />
-      <jump line="11" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx.cs" />
-      <jump line="34" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx.cs" />
-      <jump line="189" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
       <jump line="176" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
       <jump line="38" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Util.cs" />
       <jump line="276" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" />
@@ -345,19 +348,23 @@
       <jump line="17" column="95" filename="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/DeductionRemovedEventApplier.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" />
       <jump line="22" column="12" filename="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" />
+      <jump line="289" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" />
+      <jump line="157" column="17" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" />
+      <jump line="199" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" />
+      <jump line="305" column="30" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EntityId</text>
+        <text>Deduction</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGFueUlkIA==</text>
+        <text>Deduction</text>
       </register>
       <register name="/" type="4">
-        <text>deduction</text>
+        <text>removede</text>
       </register>
-      <register name="0" type="4">
-        <text>EntityId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJlbW92ZXMgYSBkZWR1Y3Rpb24gZnJvbSB0aGUgc2NlbmFyaW8uCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgW1JvdXRlKCJSZW1vdmVEZWR1Y3Rpb24iKV0KICAgICAgICBbU3dhZ2dlclJlc3BvbnNlKChpbnQpSHR0cFN0YXR1c0NvZGUuT0ssICJTdWNjZXNzIildCiAgICAgICAgcHVibGljIElBY3Rpb25SZXN1bHQgUmVtb3ZlRGVkdWN0aW9uKFJlbW92ZURlZHVjdGlvblJlcXVlc3QgcmVtb3ZlRGVkdWN0aW9uUmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciByZW1vdmVEZWR1Y3Rpb25Db21tYW5kRGF0YSA9IF9tYXBwZXIuTWFwPFJlbW92ZURlZHVjdGlvbkNvbW1hbmREYXRhPihyZW1vdmVEZWR1Y3Rpb25SZXF1ZXN0KTsKCiAgICAgICAgICAgIF9jb21tYW5kQnVzLlB1Ymxpc2gobmV3IFJlbW92ZURlZHVjdGlvbkNvbW1hbmQoR2V0QWdncmVnYXRlSWQocmVtb3ZlRGVkdWN0aW9uQ29tbWFuZERhdGEuU2NlbmFyaW9JZCksIEdldFVzZXJJbmZvcm1hdGlvbihyZW1vdmVEZWR1Y3Rpb25SZXF1ZXN0LlVzZXJuYW1lKSwgcmVtb3ZlRGVkdWN0aW9uQ29tbWFuZERhdGEpKTsKCiAgICAgICAgICAgIHJldHVybiBPaygpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgRGsuT2JleC5QbGF0Zm9ybS5DYXNlLk1vZGVsLkRvbWFpbi5CYXNlVHlwZXMuRW5nYWdlbWVudHM7Cg==</text>
@@ -404,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deduction</last-search>
+      <last-search>removede</last-search>
       <last-offset />
-      <last-pattern>deduction</last-pattern>
+      <last-pattern>removede</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>deduction</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beregnskatalle</entry>
         <entry>boerne</entry>
         <entry>calculation</entry>
         <entry>calculationyear</entry>
@@ -434,6 +440,7 @@
         <entry>Companys</entry>
         <entry>Deduction</entry>
         <entry>deduction</entry>
+        <entry>removede</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bankdata/bil/g</entry>
