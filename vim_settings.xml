@@ -33,10 +33,6 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="75" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/FormuePlanStandardMetricBuilder.cs" timestamp="1561618637177">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="47" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollection.cs" timestamp="1561617322425">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="44" column="18" />
@@ -59,10 +55,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="1" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Shared/Api/Api.Model/BaseTypes/Dates/NamedDates.cs" timestamp="1561703603631">
+      <file name="C:/repo/advice_product/Obex.Platform/Shared/Api/Api.Model/BaseTypes/Dates/NamedDates.cs" timestamp="1561726574857">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="1" column="0" />
+        <mark key="[" line="52" column="1" />
         <mark key="]" line="52" column="1" />
+        <mark key="." line="52" column="1" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Engagements/CompanyRemovedEvent.cs" timestamp="1561705087607">
         <mark key="'" line="0" column="0" />
@@ -70,14 +67,6 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1561528033485">
-        <mark key="[" line="1016" column="25" />
-        <mark key="]" line="1016" column="52" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TestBase.cs" timestamp="1561532019538">
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="97" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveCompanyRequest.cs" timestamp="1561723537962">
         <mark key="'" line="7" column="23" />
@@ -109,20 +98,12 @@
         <mark key="." line="54" column="11" />
         <mark key="^" line="54" column="11" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/Products/Company/CompanyCalculatorMapperTest.cs" timestamp="1561532215448">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="9" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/AccountTreeMetrics/FormueUltimo.cs" timestamp="1561700972866">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="27" column="86" />
         <mark key="]" line="27" column="91" />
         <mark key="^" line="27" column="91" />
         <mark key="." line="27" column="91" />
-      </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Engagements/DeductionRemovedEvent.cs" timestamp="1561705054743">
-        <mark key="[" line="13" column="80" />
-        <mark key="]" line="13" column="87" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/DeductionRemovedEventApplierTests.cs" timestamp="1561704822884">
         <mark key="'" line="0" column="0" />
@@ -145,10 +126,6 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" timestamp="1561526865377">
-        <mark key="[" line="80" column="79" />
-        <mark key="]" line="80" column="99" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" timestamp="1561705140722">
         <mark key="'" line="22" column="12" />
@@ -176,10 +153,6 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
         <mark key="^" line="240" column="70" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/ActivePension.cs" timestamp="1561546974750">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="60" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Calculation/Controllers/CalculationController.cs" timestamp="1561618731527">
         <mark key="[" line="49" column="41" />
@@ -212,10 +185,6 @@
         <mark key="^" line="310" column="135" />
         <mark key="." line="310" column="135" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1561532424775">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="173" column="101" />
-      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" timestamp="1561705872817">
         <mark key="'" line="305" column="30" />
         <mark key="[" line="314" column="146" />
@@ -247,20 +216,12 @@
         <mark key="." line="241" column="0" />
         <mark key="^" line="239" column="103" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="55" column="5" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerditab/LikviditetskontoInflationskorrigeretVaerditabCalculator.cs" timestamp="1561621972200">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="9" column="108" />
         <mark key="]" line="9" column="112" />
         <mark key="^" line="9" column="112" />
         <mark key="." line="9" column="112" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1561532585642">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="65" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1561704755988">
         <mark key="'" line="141" column="34" />
@@ -273,10 +234,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="1" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IndkomstUdenAMB/IndkomstUdenAMB.cs" timestamp="1561447575861">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="40" column="5" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Engagements/RemoveCompanyCommand.cs" timestamp="1561704317760">
         <mark key="'" line="16" column="12" />
@@ -457,7 +414,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Deduction</text>
@@ -469,16 +426,16 @@
         <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmU7CnVzaW5nIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQ7CnVzaW5nIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQuVmFsaWRhdGlvbjsKdXNpbmcgRGsuT2JleC5QbGF0Zm9ybS5DYXNlU2VydmljZS5EdG8uUmVxdWVzdHMuVmFsaWRhdGlvbjsKdXNpbmcgRmx1ZW50VmFsaWRhdGlvbi5UZXN0SGVscGVyOwp1c2luZyBOVW5pdC5GcmFtZXdvcms7CnVzaW5nIE9iZXguUGxhdGZvcm0uQXBpLlRlc3RIZWxwZXJzOwp1c2luZyBPYmV4LlBsYXRmb3JtLlRlc3RIZWxwZXJzLlZhbGlkYXRpb247CgpuYW1lc3BhY2UgRGsuT2JleC5QbGF0Zm9ybS5DYXNlU2VydmljZS5UZXN0cy5SZXF1ZXN0cy5FbmdhZ2VtZW50LlZhbGlkYXRpb24KewogICAgW1Rlc3RGaXh0dXJlXQogICAgcHVibGljIGNsYXNzIFJlbW92ZURlZHVjdGlvblJlcXVlc3RWYWxpZGF0b3JUZXN0cwogICAgewogICAgICAgIHByaXZhdGUgUmVtb3ZlRGVkdWN0aW9uUmVxdWVzdFZhbGlkYXRvciBfdmFsaWRhdG9yOwogICAgICAgIHByaXZhdGUgSUZpeHR1cmUgX2ZpeHR1cmU7CgogICAgICAgIFtTZXRVcF0KICAgICAgICBwdWJsaWMgdm9pZCBTZXR1cCgpCiAgICAgICAgewogICAgICAgICAgICBfdmFsaWRhdG9yID0gbmV3IFJlbW92ZURlZHVjdGlvblJlcXVlc3RWYWxpZGF0b3IoKTsKICAgICAgICAgICAgX2ZpeHR1cmUgPSBEdG9GaXh0dXJlSGVscGVyLkdldEZpeHR1cmUoKTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIEluY2x1ZGVzX0Nhc2VSZXF1ZXN0QmFzZVZhbGlkYXRvcigpCiAgICAgICAgewogICAgICAgICAgICBfdmFsaWRhdG9yLlNob3VsZEhhdmVJbmNsdWRlZFZhbGlkYXRvcih0eXBlb2YoQ2FzZVJlcXVlc3RCYXNlVmFsaWRhdG9yKSk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBFbXB0eVNjZW5hcmlvSWRfUmV0dXJuc1ZhbGlkYXRpb25FcnJvcigpCiAgICAgICAgewogICAgICAgICAgICBfdmFsaWRhdG9yLlNob3VsZEhhdmVWYWxpZGF0aW9uRXJyb3JGb3IoeCA9PiB4LlNjZW5hcmlvSWQsIG5ldyBSZW1vdmVEZWR1Y3Rpb25SZXF1ZXN0KCkpOwogICAgICAgIH0KCiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgRW1wdHlEZWR1Y3Rpb25JZF9SZXR1cm5zVmFsaWRhdGlvbkVycm9yKCkKICAgICAgICB7CiAgICAgICAgICAgIF92YWxpZGF0b3IuU2hvdWxkSGF2ZVZhbGlkYXRpb25FcnJvckZvcih4ID0+IHguRGVkdWN0aW9uSWQsIG5ldyBSZW1vdmVEZWR1Y3Rpb25SZXF1ZXN0KCkpOwogICAgICAgIH0KCiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgVmFsaWRSZW1vdmVEZWR1Y3Rpb25SZXF1ZXN0X1JldHVybnNJc1ZhbGlkKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gX2ZpeHR1cmUuQ3JlYXRlPFJlbW92ZURlZHVjdGlvblJlcXVlc3Q+KCk7CiAgICAgICAgICAgIHZhciB2YWxpZGF0aW9uUmVzdWx0ID0gX3ZhbGlkYXRvci5WYWxpZGF0ZShyZXF1ZXN0KTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQodmFsaWRhdGlvblJlc3VsdC5Jc1ZhbGlkLCBJcy5UcnVlKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZEluY29tZVJlc3BvbnNlID0gYXdhaXQgQWRkSW5jb21lKHN0YXJ0Q2FzZVJlc3BvbnNlKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuQ29udHJvbGxlcnMuRXhhbXBsZXMuUmVxdWVzdHMuRW5nYWdlbWVudAp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RFeGFtcGxlCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZEluY29tZVJlc3BvbnNlID0gYXdhaXQgQWRkSW5jb21lKHN0YXJ0Q2FzZVJlc3BvbnNlKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,22 +448,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQuVmFsaWRhdGlvbgp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RWYWxpZGF0b3IKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuQ29udHJvbGxlcnMuRXhhbXBsZXMuUmVxdWVzdHMuRW5nYWdlbWVudAp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RFeGFtcGxlCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5Nb2RlbC5FbmdhZ2VtZW50czsKCm5hbWVzcGFjZSBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5FbmdhZ2VtZW50CnsKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBSZXF1ZXN0IGZvciBhZGRpbmcgQ29tcGFueSB0byBhIFNjZW5hcmlvCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIGNsYXNzIEFkZENvbXBhbnlSZXF1ZXN0IDogQ2FzZVJlcXVlc3RCYXNlCiAgICB7CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgaWQgb2YgdGhlIHNjZW5hcmlvCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgR3VpZCBTY2VuYXJpb0lkIHsgZ2V0OyBzZXQ7IH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgdGhlIGNvbXBhbnkuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgQ29tcGFueUlkIENvbXBhbnkgeyBnZXQ7IHNldDsgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQuVmFsaWRhdGlvbgp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RWYWxpZGF0b3IKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQKewogICAgcHVibGljIGNsYXNzIFJlbW92ZUNvbXBhbnlSZXF1ZXN0CiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5Nb2RlbC5FbmdhZ2VtZW50czsKCm5hbWVzcGFjZSBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5FbmdhZ2VtZW50CnsKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBSZXF1ZXN0IGZvciBhZGRpbmcgQ29tcGFueSB0byBhIFNjZW5hcmlvCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIGNsYXNzIEFkZENvbXBhbnlSZXF1ZXN0IDogQ2FzZVJlcXVlc3RCYXNlCiAgICB7CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgaWQgb2YgdGhlIHNjZW5hcmlvCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgR3VpZCBTY2VuYXJpb0lkIHsgZ2V0OyBzZXQ7IH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgdGhlIGNvbXBhbnkuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgQ29tcGFueUlkIENvbXBhbnkgeyBnZXQ7IHNldDsgfQogICAgfQp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgRGsuT2JleC5QbGF0Zm9ybS5DYXNlLk1vZGVsLkRvbWFpbi5CYXNlVHlwZXMuRW5nYWdlbWVudHM7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQKewogICAgcHVibGljIGNsYXNzIFJlbW92ZUNvbXBhbnlSZXF1ZXN0CiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBEay5PYmV4LlBsYXRmb3JtLkNhc2UuRXZlbnRTb3VyY2luZy5DYXNlTW9kZWwuRXZlbnRzLkVuZ2FnZW1lbnRzOwp1c2luZyBEay5PYmV4LlBsYXRmb3JtLkNhc2UuTW9kZWwuRG9tYWluLkNhc2U7CnVzaW5nIE9iZXguUGxhdGZvcm0uQ2FzZS5Nb2RlbC5Eb21haW4uQmFzZVR5cGVzLkVuZ2FnZW1lbnRzLkNvbXBhbmllczsKdXNpbmcgT2JleC5QbGF0Zm9ybS5Mb2NhbGl6YXRpb247CgpuYW1lc3BhY2UgRGsuT2JleC5QbGF0Zm9ybS5DYXNlLkV2ZW50U291cmNpbmcuQ2FzZU1vZGVsLkV2ZW50cy5BcHBsaWVycy5FbmdhZ2VtZW50QXBwbGllcnMKewogICAgcHVibGljIGNsYXNzIENvbXBhbnlSZW1vdmVkRXZlbnRBcHBsaWVyIDogQ2FzZUV2ZW50QXBwbGllckJhc2UsIElDYXNlRXZlbnRBcHBsaWVyPENvbXBhbnlSZW1vdmVkRXZlbnQ+CiAgICB7CiAgICAgICAgcHVibGljIENvbXBhbnlSZW1vdmVkRXZlbnRBcHBsaWVyKElDYXRhbG9nUHJvdmlkZXIgY2F0YWxvZ1Byb3ZpZGVyKQogICAgICAgICAgICA6IGJhc2UoY2F0YWxvZ1Byb3ZpZGVyKQogICAgICAgIHsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIEFwcGx5KENvbXBhbnlSZW1vdmVkRXZlbnQgQGV2ZW50LCBEa0Nhc2UgbW9kZWwpCiAgICAgICAgewogICAgICAgICAgICBBcHBseVRvU2NlbmFyaW9BbmREZXNjZW5kYW50RW50aXRpZXMobW9kZWwsIEBldmVudC5TY2VuYXJpb0lkLCBAZXZlbnQuQ29tcGFueUlkLCBSZXBsYWNlQ29tcGFueShAZXZlbnQuQ29tcGFueSksIFNlbGVjdG9yRnVuY3Rpb25zLkNvbXBhbnlTZWxlY3RvcigpKTsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIEFjdGlvbjxEa1NjZW5hcmlvLCBDb21wYW55PiBSZXBsYWNlQ29tcGFueShDb21wYW55IG5ld0NvbXBhbnkpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gKHNjZW5hcmlvLCBvbGRDb21wYW55KSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzY2VuYXJpby5FbmdhZ2VtZW50cy5Db21wYW5pZXMuUmVtb3ZlKG9sZENvbXBhbnkpOwogICAgICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuQ29tcGFuaWVzLkFkZChuZXdDb21wYW55KTsKICAgICAgICAgICAgfTsKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">dXNpbmcgRGsuT2JleC5QbGF0Zm9ybS5DYXNlLk1vZGVsLkRvbWFpbi5CYXNlVHlwZXMuRW5nYWdlbWVudHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
