@@ -55,11 +55,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="1" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Shared/Api/Api.Model/BaseTypes/Dates/NamedDates.cs" timestamp="1561726574857">
+      <file name="C:/repo/advice_product/Obex.Platform/Shared/Api/Api.Model/BaseTypes/Dates/NamedDates.cs" timestamp="1561959789324">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="52" column="1" />
         <mark key="]" line="52" column="1" />
         <mark key="." line="52" column="1" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Engagements/CompanyRemovedEvent.cs" timestamp="1561705087607">
         <mark key="'" line="0" column="0" />
@@ -68,11 +69,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveCompanyRequest.cs" timestamp="1561723537962">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveCompanyRequest.cs" timestamp="1561959890325">
         <mark key="'" line="7" column="23" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Engagements/CompanyUpdatedEvent.cs" timestamp="1561704570879">
         <mark key="'" line="21" column="0" />
@@ -127,11 +128,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" timestamp="1561705140722">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" timestamp="1561959856281">
         <mark key="'" line="22" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
         <mark key="^" line="22" column="70" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Engagement/Validation/RemoveCompanyRequestValidatorTests.cs" timestamp="1561723976266">
@@ -235,11 +236,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="1" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Engagements/RemoveCompanyCommand.cs" timestamp="1561704317760">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Engagements/RemoveCompanyCommand.cs" timestamp="1561959838574">
         <mark key="'" line="16" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/Mapping/EngagementsRequestsMapper.cs" timestamp="1561723569409">
         <mark key="[" line="61" column="43" />
@@ -429,13 +430,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZEluY29tZVJlc3BvbnNlID0gYXdhaXQgQWRkSW5jb21lKHN0YXJ0Q2FzZVJlc3BvbnNlKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -448,22 +449,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuQ29udHJvbGxlcnMuRXhhbXBsZXMuUmVxdWVzdHMuRW5nYWdlbWVudAp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RFeGFtcGxlCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQuVmFsaWRhdGlvbgp7CiAgICBwdWJsaWMgY2xhc3MgUmVtb3ZlQ29tcGFueVJlcXVlc3RWYWxpZGF0b3IKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5Nb2RlbC5FbmdhZ2VtZW50czsKCm5hbWVzcGFjZSBEay5PYmV4LlBsYXRmb3JtLkNhc2VTZXJ2aWNlLkR0by5SZXF1ZXN0cy5FbmdhZ2VtZW50CnsKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBSZXF1ZXN0IGZvciBhZGRpbmcgQ29tcGFueSB0byBhIFNjZW5hcmlvCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgcHVibGljIGNsYXNzIEFkZENvbXBhbnlSZXF1ZXN0IDogQ2FzZVJlcXVlc3RCYXNlCiAgICB7CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgaWQgb2YgdGhlIHNjZW5hcmlvCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgR3VpZCBTY2VuYXJpb0lkIHsgZ2V0OyBzZXQ7IH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBHZXRzIG9yIHNldHMgdGhlIGNvbXBhbnkuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgQ29tcGFueUlkIENvbXBhbnkgeyBnZXQ7IHNldDsgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuRHRvLlJlcXVlc3RzLkVuZ2FnZW1lbnQKewogICAgcHVibGljIGNsYXNzIFJlbW92ZUNvbXBhbnlSZXF1ZXN0CiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRGsuT2JleC5QbGF0Zm9ybS5DYXNlLk1vZGVsLkRvbWFpbi5CYXNlVHlwZXMuRW5nYWdlbWVudHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
