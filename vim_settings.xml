@@ -12,12 +12,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="1" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Formueudvikling.aspx" timestamp="1561625427747">
-        <mark key="[" line="35" column="150" />
-        <mark key="]" line="35" column="151" />
-        <mark key="." line="35" column="151" />
-        <mark key="^" line="96" column="99" />
-      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Subscribers/EngagementEventSubscriber.cs" timestamp="1561704699153">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="138" column="0" />
@@ -37,17 +31,9 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="75" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollection.cs" timestamp="1561617322425">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="44" column="18" />
-        <mark key="^" line="7" column="64" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/ArithmeticAccount.cs" timestamp="1561616484248">
-        <mark key="[" line="79" column="41" />
-        <mark key="]" line="79" column="44" />
-        <mark key="^" line="79" column="44" />
-        <mark key="." line="79" column="44" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/FormuePlanStandardMetricBuilder.cs" timestamp="1561618637177">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="47" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Engagements/UpdateCompanyCommand.cs" timestamp="1561704302264">
         <mark key="'" line="0" column="0" />
@@ -73,11 +59,20 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveCompanyRequest.cs" timestamp="1561959890325">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1561528033485">
+        <mark key="[" line="1016" column="25" />
+        <mark key="]" line="1016" column="52" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TestBase.cs" timestamp="1561532019538">
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="97" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveCompanyRequest.cs" timestamp="1561962985377">
         <mark key="'" line="7" column="23" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/SharedSteps.cs" timestamp="1561960826662">
         <mark key="[" line="40" column="0" />
@@ -99,23 +94,17 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="69" column="1" />
       </file>
-      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561961094031">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561962623577">
+        <mark key="'" line="58" column="16" />
+        <mark key="[" line="37" column="67" />
+        <mark key="]" line="37" column="73" />
+        <mark key="n" line="54" column="104" />
+        <mark key="." line="37" column="73" />
+        <mark key="^" line="37" column="73" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AccountFetcher.cs" timestamp="1561616818315">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="14" />
-        <mark key="." line="53" column="14" />
-        <mark key="^" line="53" column="14" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/YearlyDiffNode.cs" timestamp="1561619550990">
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-        <mark key="^" line="54" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/Products/Company/CompanyCalculatorMapperTest.cs" timestamp="1561532215448">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="9" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/AccountTreeMetrics/FormueUltimo.cs" timestamp="1561700972866">
         <mark key="'" line="0" column="17" />
@@ -124,27 +113,38 @@
         <mark key="^" line="27" column="91" />
         <mark key="." line="27" column="91" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/DeductionRemovedEventApplierTests.cs" timestamp="1561704822884">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="61" column="1" />
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Engagements/DeductionRemovedEvent.cs" timestamp="1561705054743">
+        <mark key="[" line="13" column="80" />
+        <mark key="]" line="13" column="87" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplierTests.cs" timestamp="1561705155400">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/DeductionRemovedEventApplierTests.cs" timestamp="1561963060906">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="63" />
-        <mark key="]" line="52" column="63" />
-        <mark key="." line="52" column="63" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing.Tests/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplierTests.cs" timestamp="1561963028526">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/AddDeductionRequest.cs" timestamp="1561723451705">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="1" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerdioegning/LikviditetskontoInflationskorrigeretVaerdioegningCalculator.cs" timestamp="1561620676645">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithCarsSteps.cs" timestamp="1561961993978">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="94" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Insurance/InsuranceCashflowInputItem.cs" timestamp="1561526865377">
+        <mark key="[" line="80" column="79" />
+        <mark key="]" line="80" column="99" />
+      </file>
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan/Application/BP/Model/DTO/BudgetDTO.cs" timestamp="1561962190995">
+        <mark key="[" line="177" column="20" />
+        <mark key="]" line="177" column="33" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/CompanyRemovedEventApplier.cs" timestamp="1561959856281">
         <mark key="'" line="22" column="12" />
@@ -173,11 +173,9 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="240" column="70" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Calculation/Controllers/CalculationController.cs" timestamp="1561618731527">
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="41" />
-        <mark key="^" line="45" column="34" />
-        <mark key="." line="49" column="41" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Pension/ActivePension.cs" timestamp="1561546974750">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="60" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/Examples/Requests/Engagement/RemoveCompanyRequestExample.cs" timestamp="1561723757539">
         <mark key="'" line="0" column="0" />
@@ -185,22 +183,10 @@
         <mark key="]" line="20" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Factories/FormuePlanMetricFactory.cs" timestamp="1561700867703">
-        <mark key="[" line="48" column="89" />
-        <mark key="]" line="48" column="89" />
-        <mark key="." line="48" column="89" />
-        <mark key="^" line="48" column="89" />
-      </file>
-      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" timestamp="1561961163041">
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" timestamp="1561962468325">
         <mark key="'" line="54" column="24" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="59" column="84" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IAccountFetcher.cs" timestamp="1561616878915">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="132" column="9" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseAggregate.cs" timestamp="1561705168943">
         <mark key="'" line="26" column="0" />
@@ -208,6 +194,10 @@
         <mark key="]" line="310" column="135" />
         <mark key="^" line="310" column="135" />
         <mark key="." line="310" column="135" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1561532424775">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="173" column="101" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Controllers/EngagementController.cs" timestamp="1561705872817">
         <mark key="'" line="305" column="30" />
@@ -228,10 +218,11 @@
         <mark key="^" line="121" column="30" />
         <mark key="." line="121" column="30" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveDeductionRequest.cs" timestamp="1561723486977">
+      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/RemoveDeductionRequest.cs" timestamp="1561963089390">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="1" />
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Engagement/Mapping/EngagementsRequestsMapperTests.cs" timestamp="1561723932263">
         <mark key="'" line="164" column="0" />
@@ -240,12 +231,20 @@
         <mark key="." line="241" column="0" />
         <mark key="^" line="239" column="103" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/ArithmeticAccount/Nodes/OperationNodes/Operations/FilterNode.cs" timestamp="1561446333991">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="55" column="5" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerditab/LikviditetskontoInflationskorrigeretVaerditabCalculator.cs" timestamp="1561621972200">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="9" column="108" />
         <mark key="]" line="9" column="112" />
         <mark key="^" line="9" column="112" />
         <mark key="." line="9" column="112" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxInvolvingDeath/TaxBasedOnNaturalDeath.cs" timestamp="1561532585642">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="65" />
       </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CaseState.cs" timestamp="1561704755988">
         <mark key="'" line="141" column="34" />
@@ -259,6 +258,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="1" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IndkomstUdenAMB/IndkomstUdenAMB.cs" timestamp="1561447575861">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="40" column="5" />
+      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Commands/Engagements/RemoveCompanyCommand.cs" timestamp="1561959838574">
         <mark key="'" line="16" column="12" />
         <mark key="[" line="29" column="0" />
@@ -269,28 +272,10 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="175" />
       </file>
-      <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/Mapping/EngagementsRequestsMapper.cs" timestamp="1561723569409">
-        <mark key="[" line="61" column="43" />
-        <mark key="]" line="61" column="56" />
-        <mark key="^" line="61" column="56" />
-        <mark key="." line="61" column="56" />
-      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService/Dto/Requests/Engagement/Validation/RemoveDeductionRequestValidator.cs" timestamp="1561723576725">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="1" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/FormuePlanMetricType.cs" timestamp="1561700780014">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/SingleAccountMetrics/LikviditetskontoInflationskorrigeretVaerditab/LikviditetskontoInflationskorrigeretVaerditab.cs" timestamp="1561625968612">
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="30" column="100" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="10" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1561625977218">
         <mark key="'" line="0" column="0" />
@@ -321,12 +306,6 @@
         <mark key="]" line="21" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Calculation/Services/CalculationService.cs" timestamp="1561618846173">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-      </file>
       <file name="C:/repo/advice_product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/CommandData/UpdateCompanyCommandData.cs" timestamp="1561704347403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="1" />
@@ -351,8 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1517" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1529" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="117" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
       <jump line="1" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
       <jump line="126" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
@@ -451,31 +428,33 @@
       <jump line="202" column="16" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
       <jump line="275" column="46" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
       <jump line="54" column="24" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
+      <jump line="25" column="67" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" />
+      <jump line="41" column="16" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>suspended</text>
+        <text encoding="base64">R2V0cyBvciBzZXRzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text encoding="base64">R2V0cyBvciBzZXRzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>carresponse</text>
+        <text>Car</text>
       </register>
       <register name="0" type="4">
-        <text>suspended</text>
+        <text>GivenAnIncomeWithExternalReference</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuRGVkdWN0aW9ucy5BZGQoX2ZpeHR1cmUuQ3JlYXRlPERrRGVkdWN0aW9uPigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnQuVHJ5R2V0VmFsdWUoIkJCUlJFQ09SRFMiLCBvdXQgYmJyUmVjb3Jkcyk7CgogICAgICAgICAgICBpZiAoYmJyUmVjb3JkcyA9PSBudWxsKSBBc3NlcnQuRmFpbCgiTWlzc2luZyBCQlIgcmVjb3JkcyBpbiBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIHZhciBra3RSZXNwb25zZSA9IFNoYXJlZFN0ZXBzLkdldEtrdFJlc3BvbnNlRnJvbUNvbnRleHQoKTsKCiAgICAgICAgICAgIHZhciBiYnJSZWNvcmQgPSBiYnJSZWNvcmRzLkZpcnN0T3JEZWZhdWx0KGl0ZW0gPT4gaXRlbS5CYnJOckVqZW5kb20gPT0gYmJyKTsKICAgICAgICAgICAgaWYgKGJiclJlY29yZCA9PSBudWxsKSBBc3NlcnQuRmFpbCgkIkNvdWxkIG5vdCBmaW5kIEJCUiBudW1iZXIge2Jicn0gaW4gQkJSIHJlY29yZHMgZnJvbSBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIGtrdFJlc3BvbnNlLlJlYWxFc3RhdGVSZXNwb25zZS5SZWFsRXN0YXRlcy5BZGQobmV3IFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBleHRlcm5hbFJlZmVyZW5jZSwKICAgICAgICAgICAgICAgIEJick51bWJlciA9IG5ldyBCYnJOdW1iZXIKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlDb2RlID0gYmJyUmVjb3JkLktvbW11bmVOciwKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eU51bWJlciA9IChpbnQpYmJyCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWRkcmVzcyA9IG5ldyBBZGRyZXNzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU3RyZWV0TmFtZSA9IGJiclJlY29yZC5WZWpuYXZuLAogICAgICAgICAgICAgICAgICAgIEJ1aWxkaW5nSWRlbnRpZmllciA9IGJiclJlY29yZC5IdXNuciwKICAgICAgICAgICAgICAgICAgICBGbG9vcklkZW50aWZpZXIgPSBiYnJSZWNvcmQuRXRhZ2UsCiAgICAgICAgICAgICAgICAgICAgU3VpdGVJZGVudGlmaWVyID0gYmJyUmVjb3JkLlNpZGVEb2VyTnIsCiAgICAgICAgICAgICAgICAgICAgUG9zdGFsQ29kZSA9IGJiclJlY29yZC5Qb3N0bnIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBTY2VuYXJpb0NvbnRleHQuQ3VycmVudFtTaGFyZWRTdGVwcy5La3RSZXNwb25zQ29udGV4dEtleV0gPSBra3RSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuQ29tcGFuaWVzLkFkZChfZml4dHVyZS5DcmVhdGU8Q29tcGFueT4oKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIEFkZEluY29tZShzdHJpbmcgZXh0ZXJuYWxSZWZlcmVuY2UsIHN0cmluZyBjYXRlZ29yeSwgZGVjaW1hbCB2YWx1ZSkKICAgICAgICB7CiAgICAgICAgICAgIFNjZW5hcmlvQ29udGV4dC5DdXJyZW50LlRyeUdldFZhbHVlKCJCQlJSRUNPUkRTIiwgb3V0IGJiclJlY29yZHMpOwoKICAgICAgICAgICAgaWYgKGJiclJlY29yZHMgPT0gbnVsbCkgQXNzZXJ0LkZhaWwoIk1pc3NpbmcgQkJSIHJlY29yZHMgaW4gY3VycmVudCBzY2VuYXJpbyBjb250ZXh0Iik7CgogICAgICAgICAgICB2YXIga2t0UmVzcG9uc2UgPSBTaGFyZWRTdGVwcy5HZXRLa3RSZXNwb25zZUZyb21Db250ZXh0KCk7CgogICAgICAgICAgICB2YXIgYmJyUmVjb3JkID0gYmJyUmVjb3Jkcy5GaXJzdE9yRGVmYXVsdChpdGVtID0+IGl0ZW0uQmJyTnJFamVuZG9tID09IGJicik7CiAgICAgICAgICAgIGlmIChiYnJSZWNvcmQgPT0gbnVsbCkgQXNzZXJ0LkZhaWwoJCJDb3VsZCBub3QgZmluZCBCQlIgbnVtYmVyIHtiYnJ9IGluIEJCUiByZWNvcmRzIGZyb20gY3VycmVudCBzY2VuYXJpbyBjb250ZXh0Iik7CgogICAgICAgICAgICBra3RSZXNwb25zZS5SZWFsRXN0YXRlUmVzcG9uc2UuUmVhbEVzdGF0ZXMuQWRkKG5ldyBSZWFsRXN0YXRlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UsCiAgICAgICAgICAgICAgICBCYnJOdW1iZXIgPSBuZXcgQmJyTnVtYmVyCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTXVuaWNpcGFsaXR5Q29kZSA9IGJiclJlY29yZC5Lb21tdW5lTnIsCiAgICAgICAgICAgICAgICAgICAgUHJvcGVydHlOdW1iZXIgPSAoaW50KWJicgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIEFkZHJlc3MgPSBuZXcgQWRkcmVzcwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFN0cmVldE5hbWUgPSBiYnJSZWNvcmQuVmVqbmF2biwKICAgICAgICAgICAgICAgICAgICBCdWlsZGluZ0lkZW50aWZpZXIgPSBiYnJSZWNvcmQuSHVzbnIsCiAgICAgICAgICAgICAgICAgICAgRmxvb3JJZGVudGlmaWVyID0gYmJyUmVjb3JkLkV0YWdlLAogICAgICAgICAgICAgICAgICAgIFN1aXRlSWRlbnRpZmllciA9IGJiclJlY29yZC5TaWRlRG9lck5yLAogICAgICAgICAgICAgICAgICAgIFBvc3RhbENvZGUgPSBiYnJSZWNvcmQuUG9zdG5yCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnRbU2hhcmVkU3RlcHMuS2t0UmVzcG9uc0NvbnRleHRLZXldID0ga2t0UmVzcG9uc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxCYnJEYXRhPiBiYnJSZWNvcmRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,36 +470,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5UaGF0KGJ1ZGdldEluY29tZS4sIElzLkVxdWFsVG8oYnVkZ2V0RmllbGQuQ2F0ZWdvcnlJZCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgYy5WYWx1ZSA9PSBidWRnZXRGaWVsZC5WYWx1ZQo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnQuVHJ5R2V0VmFsdWUoIkJCUlJFQ09SRFMiLCBvdXQgYmJyUmVjb3Jkcyk7CgogICAgICAgICAgICBpZiAoYmJyUmVjb3JkcyA9PSBudWxsKSBBc3NlcnQuRmFpbCgiTWlzc2luZyBCQlIgcmVjb3JkcyBpbiBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIHZhciBra3RSZXNwb25zZSA9IFNoYXJlZFN0ZXBzLkdldEtrdFJlc3BvbnNlRnJvbUNvbnRleHQoKTsKCiAgICAgICAgICAgIHZhciBiYnJSZWNvcmQgPSBiYnJSZWNvcmRzLkZpcnN0T3JEZWZhdWx0KGl0ZW0gPT4gaXRlbS5CYnJOckVqZW5kb20gPT0gYmJyKTsKICAgICAgICAgICAgaWYgKGJiclJlY29yZCA9PSBudWxsKSBBc3NlcnQuRmFpbCgkIkNvdWxkIG5vdCBmaW5kIEJCUiBudW1iZXIge2Jicn0gaW4gQkJSIHJlY29yZHMgZnJvbSBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIGtrdFJlc3BvbnNlLlJlYWxFc3RhdGVSZXNwb25zZS5SZWFsRXN0YXRlcy5BZGQobmV3IFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBleHRlcm5hbFJlZmVyZW5jZSwKICAgICAgICAgICAgICAgIEJick51bWJlciA9IG5ldyBCYnJOdW1iZXIKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlDb2RlID0gYmJyUmVjb3JkLktvbW11bmVOciwKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eU51bWJlciA9IChpbnQpYmJyCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWRkcmVzcyA9IG5ldyBBZGRyZXNzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU3RyZWV0TmFtZSA9IGJiclJlY29yZC5WZWpuYXZuLAogICAgICAgICAgICAgICAgICAgIEJ1aWxkaW5nSWRlbnRpZmllciA9IGJiclJlY29yZC5IdXNuciwKICAgICAgICAgICAgICAgICAgICBGbG9vcklkZW50aWZpZXIgPSBiYnJSZWNvcmQuRXRhZ2UsCiAgICAgICAgICAgICAgICAgICAgU3VpdGVJZGVudGlmaWVyID0gYmJyUmVjb3JkLlNpZGVEb2VyTnIsCiAgICAgICAgICAgICAgICAgICAgUG9zdGFsQ29kZSA9IGJiclJlY29yZC5Qb3N0bnIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBTY2VuYXJpb0NvbnRleHQuQ3VycmVudFtTaGFyZWRTdGVwcy5La3RSZXNwb25zQ29udGV4dEtleV0gPSBra3RSZXNwb25zZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>carresponse</last-search>
+      <last-search>Car</last-search>
       <last-offset />
-      <last-pattern>carresponse</last-pattern>
-      <last-replace>company</last-replace>
-      <last-substitute>deduction</last-substitute>
+      <last-pattern>Car</last-pattern>
+      <last-replace>Income</last-replace>
+      <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LikviditetskontoOpsparing</entry>
         <entry>buildmetrics</entry>
         <entry>å</entry>
         <entry>oegni</entry>
@@ -538,12 +516,11 @@
         <entry>comp</entry>
         <entry>Deduction</entry>
         <entry>deduction</entry>
-        <entry>car</entry>
         <entry>carresponse</entry>
+        <entry>car</entry>
+        <entry>Car</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bankdata/bil/g</entry>
-        <entry>set iv</entry>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>ws</entry>
@@ -561,6 +538,8 @@
         <entry>%s/Companys/Companies/g</entry>
         <entry>%s/Deduction/Company/g</entry>
         <entry>%s/deduction/company/g</entry>
+        <entry>%s/car/income/g</entry>
+        <entry>%s/Car/Income/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
