@@ -99,11 +99,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="69" column="1" />
       </file>
-      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561960857868">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561961094031">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AccountFetcher.cs" timestamp="1561616818315">
         <mark key="[" line="53" column="8" />
@@ -191,9 +191,10 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="48" column="89" />
       </file>
-      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" timestamp="1561960836526">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="48" column="9" />
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" timestamp="1561961163041">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="59" column="84" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/IAccountFetcher.cs" timestamp="1561616878915">
         <mark key="[" line="9" column="4" />
@@ -350,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1110" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1113" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1116" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1517" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1529" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="117" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Input/Enums/DKInsuranceType.cs" />
@@ -450,31 +448,34 @@
       <jump line="0" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Engagement/Validation/RemoveDeductionRequestValidatorTests.cs" />
       <jump line="1" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Engagement/Validation/RemoveCompanyRequestValidatorTests.cs" />
       <jump line="50" column="0" filename="C:/repo/advice_product/Obex.Platform/Dk/Api/CaseService.Tests/Requests/Engagement/Validation/RemoveCompanyRequestValidatorTests.cs" />
+      <jump line="202" column="16" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
+      <jump line="275" column="46" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
+      <jump line="54" column="24" filename="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithLoansSteps.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RealEstate</text>
+        <text>suspended</text>
       </register>
       <register name="-" type="4">
-        <text>RealEstate</text>
+        <text>category</text>
       </register>
       <register name="/" type="4">
-        <text>deduction</text>
+        <text>carresponse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIEFkZFJlYWxFc3RhdGUoc3RyaW5nIGV4dGVybmFsUmVmZXJlbmNlLCBsb25nIGJicikKICAgICAgICB7CiAgICAgICAgICAgIExpc3Q8QmJyRGF0YT4gYmJyUmVjb3JkczsKICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnQuVHJ5R2V0VmFsdWUoIkJCUlJFQ09SRFMiLCBvdXQgYmJyUmVjb3Jkcyk7CgogICAgICAgICAgICBpZiAoYmJyUmVjb3JkcyA9PSBudWxsKSBBc3NlcnQuRmFpbCgiTWlzc2luZyBCQlIgcmVjb3JkcyBpbiBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIHZhciBra3RSZXNwb25zZSA9IFNoYXJlZFN0ZXBzLkdldEtrdFJlc3BvbnNlRnJvbUNvbnRleHQoKTsKCiAgICAgICAgICAgIHZhciBiYnJSZWNvcmQgPSBiYnJSZWNvcmRzLkZpcnN0T3JEZWZhdWx0KGl0ZW0gPT4gaXRlbS5CYnJOckVqZW5kb20gPT0gYmJyKTsKICAgICAgICAgICAgaWYgKGJiclJlY29yZCA9PSBudWxsKSBBc3NlcnQuRmFpbCgkIkNvdWxkIG5vdCBmaW5kIEJCUiBudW1iZXIge2Jicn0gaW4gQkJSIHJlY29yZHMgZnJvbSBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIGtrdFJlc3BvbnNlLlJlYWxFc3RhdGVSZXNwb25zZS5SZWFsRXN0YXRlcy5BZGQobmV3IFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBleHRlcm5hbFJlZmVyZW5jZSwKICAgICAgICAgICAgICAgIEJick51bWJlciA9IG5ldyBCYnJOdW1iZXIKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlDb2RlID0gYmJyUmVjb3JkLktvbW11bmVOciwKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eU51bWJlciA9IChpbnQpYmJyCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWRkcmVzcyA9IG5ldyBBZGRyZXNzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU3RyZWV0TmFtZSA9IGJiclJlY29yZC5WZWpuYXZuLAogICAgICAgICAgICAgICAgICAgIEJ1aWxkaW5nSWRlbnRpZmllciA9IGJiclJlY29yZC5IdXNuciwKICAgICAgICAgICAgICAgICAgICBGbG9vcklkZW50aWZpZXIgPSBiYnJSZWNvcmQuRXRhZ2UsCiAgICAgICAgICAgICAgICAgICAgU3VpdGVJZGVudGlmaWVyID0gYmJyUmVjb3JkLlNpZGVEb2VyTnIsCiAgICAgICAgICAgICAgICAgICAgUG9zdGFsQ29kZSA9IGJiclJlY29yZC5Qb3N0bnIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBTY2VuYXJpb0NvbnRleHQuQ3VycmVudFtTaGFyZWRTdGVwcy5La3RSZXNwb25zQ29udGV4dEtleV0gPSBra3RSZXNwb25zZTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>suspended</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnQuVHJ5R2V0VmFsdWUoIkJCUlJFQ09SRFMiLCBvdXQgYmJyUmVjb3Jkcyk7CgogICAgICAgICAgICBpZiAoYmJyUmVjb3JkcyA9PSBudWxsKSBBc3NlcnQuRmFpbCgiTWlzc2luZyBCQlIgcmVjb3JkcyBpbiBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIHZhciBra3RSZXNwb25zZSA9IFNoYXJlZFN0ZXBzLkdldEtrdFJlc3BvbnNlRnJvbUNvbnRleHQoKTsKCiAgICAgICAgICAgIHZhciBiYnJSZWNvcmQgPSBiYnJSZWNvcmRzLkZpcnN0T3JEZWZhdWx0KGl0ZW0gPT4gaXRlbS5CYnJOckVqZW5kb20gPT0gYmJyKTsKICAgICAgICAgICAgaWYgKGJiclJlY29yZCA9PSBudWxsKSBBc3NlcnQuRmFpbCgkIkNvdWxkIG5vdCBmaW5kIEJCUiBudW1iZXIge2Jicn0gaW4gQkJSIHJlY29yZHMgZnJvbSBjdXJyZW50IHNjZW5hcmlvIGNvbnRleHQiKTsKCiAgICAgICAgICAgIGtrdFJlc3BvbnNlLlJlYWxFc3RhdGVSZXNwb25zZS5SZWFsRXN0YXRlcy5BZGQobmV3IFJlYWxFc3RhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSWQgPSBleHRlcm5hbFJlZmVyZW5jZSwKICAgICAgICAgICAgICAgIEJick51bWJlciA9IG5ldyBCYnJOdW1iZXIKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBNdW5pY2lwYWxpdHlDb2RlID0gYmJyUmVjb3JkLktvbW11bmVOciwKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eU51bWJlciA9IChpbnQpYmJyCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQWRkcmVzcyA9IG5ldyBBZGRyZXNzCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU3RyZWV0TmFtZSA9IGJiclJlY29yZC5WZWpuYXZuLAogICAgICAgICAgICAgICAgICAgIEJ1aWxkaW5nSWRlbnRpZmllciA9IGJiclJlY29yZC5IdXNuciwKICAgICAgICAgICAgICAgICAgICBGbG9vcklkZW50aWZpZXIgPSBiYnJSZWNvcmQuRXRhZ2UsCiAgICAgICAgICAgICAgICAgICAgU3VpdGVJZGVudGlmaWVyID0gYmJyUmVjb3JkLlNpZGVEb2VyTnIsCiAgICAgICAgICAgICAgICAgICAgUG9zdGFsQ29kZSA9IGJiclJlY29yZC5Qb3N0bnIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBTY2VuYXJpb0NvbnRleHQuQ3VycmVudFtTaGFyZWRTdGVwcy5La3RSZXNwb25zQ29udGV4dEtleV0gPSBra3RSZXNwb25zZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIEFkZEluY29tZShzdHJpbmcgZXh0ZXJuYWxSZWZlcmVuY2UsIHN0cmluZyBjYXRlZ29yeSwgZGVjaW1hbCB2YWx1ZSkKICAgICAgICB7CiAgICAgICAgICAgIFNjZW5hcmlvQ29udGV4dC5DdXJyZW50LlRyeUdldFZhbHVlKCJCQlJSRUNPUkRTIiwgb3V0IGJiclJlY29yZHMpOwoKICAgICAgICAgICAgaWYgKGJiclJlY29yZHMgPT0gbnVsbCkgQXNzZXJ0LkZhaWwoIk1pc3NpbmcgQkJSIHJlY29yZHMgaW4gY3VycmVudCBzY2VuYXJpbyBjb250ZXh0Iik7CgogICAgICAgICAgICB2YXIga2t0UmVzcG9uc2UgPSBTaGFyZWRTdGVwcy5HZXRLa3RSZXNwb25zZUZyb21Db250ZXh0KCk7CgogICAgICAgICAgICB2YXIgYmJyUmVjb3JkID0gYmJyUmVjb3Jkcy5GaXJzdE9yRGVmYXVsdChpdGVtID0+IGl0ZW0uQmJyTnJFamVuZG9tID09IGJicik7CiAgICAgICAgICAgIGlmIChiYnJSZWNvcmQgPT0gbnVsbCkgQXNzZXJ0LkZhaWwoJCJDb3VsZCBub3QgZmluZCBCQlIgbnVtYmVyIHtiYnJ9IGluIEJCUiByZWNvcmRzIGZyb20gY3VycmVudCBzY2VuYXJpbyBjb250ZXh0Iik7CgogICAgICAgICAgICBra3RSZXNwb25zZS5SZWFsRXN0YXRlUmVzcG9uc2UuUmVhbEVzdGF0ZXMuQWRkKG5ldyBSZWFsRXN0YXRlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UsCiAgICAgICAgICAgICAgICBCYnJOdW1iZXIgPSBuZXcgQmJyTnVtYmVyCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTXVuaWNpcGFsaXR5Q29kZSA9IGJiclJlY29yZC5Lb21tdW5lTnIsCiAgICAgICAgICAgICAgICAgICAgUHJvcGVydHlOdW1iZXIgPSAoaW50KWJicgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIEFkZHJlc3MgPSBuZXcgQWRkcmVzcwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFN0cmVldE5hbWUgPSBiYnJSZWNvcmQuVmVqbmF2biwKICAgICAgICAgICAgICAgICAgICBCdWlsZGluZ0lkZW50aWZpZXIgPSBiYnJSZWNvcmQuSHVzbnIsCiAgICAgICAgICAgICAgICAgICAgRmxvb3JJZGVudGlmaWVyID0gYmJyUmVjb3JkLkV0YWdlLAogICAgICAgICAgICAgICAgICAgIFN1aXRlSWRlbnRpZmllciA9IGJiclJlY29yZC5TaWRlRG9lck5yLAogICAgICAgICAgICAgICAgICAgIFBvc3RhbENvZGUgPSBiYnJSZWNvcmQuUG9zdG5yCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgU2NlbmFyaW9Db250ZXh0LkN1cnJlbnRbU2hhcmVkU3RlcHMuS2t0UmVzcG9uc0NvbnRleHRLZXldID0ga2t0UmVzcG9uc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxCYnJEYXRhPiBiYnJSZWNvcmRzOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -499,7 +500,7 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLk9iZXguUGxhdGZvcm0uQ2FzZVNlcnZpY2UuVGVzdHMuUmVxdWVzdHMuRW5nYWdlbWVudC5WYWxpZGF0aW9uCnsKICAgIHB1YmxpYyBjbGFzcyBSZW1vdmVDb21wYW55UmVxdWVzdFZhbGlkYXRvclRlc3RzCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -509,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deduction</last-search>
+      <last-search>carresponse</last-search>
       <last-offset />
-      <last-pattern>deduction</last-pattern>
+      <last-pattern>carresponse</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>deduction</last-substitute>
       <last-dir>1</last-dir>
@@ -519,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addsub</entry>
-        <entry>addsubaccount</entry>
         <entry>LikviditetskontoOpsparing</entry>
         <entry>buildmetrics</entry>
         <entry>å</entry>
@@ -539,6 +538,8 @@
         <entry>comp</entry>
         <entry>Deduction</entry>
         <entry>deduction</entry>
+        <entry>car</entry>
+        <entry>carresponse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bankdata/bil/g</entry>
