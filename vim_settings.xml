@@ -115,13 +115,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="69" column="1" />
       </file>
-      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561963742968">
-        <mark key="'" line="84" column="16" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="31" />
-        <mark key="n" line="80" column="104" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="43" column="31" />
+      <file name="C:/repo/bankdata/Advice.Customers.Bankdata.BudgetPlan.Tests/Specs/StepDefinitions/InitialBudgetWithIncomeSteps.cs" timestamp="1561985797351">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="41" column="56" />
+        <mark key="n" line="70" column="104" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="56" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Metrics/SingleAccountMetrics/AccountFetcher.cs" timestamp="1561616818315">
         <mark key="[" line="53" column="8" />
@@ -523,28 +523,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>car</text>
+        <text>Car</text>
       </register>
       <register name="-" type="4">
-        <text>car</text>
+        <text>Car</text>
       </register>
       <register name="/" type="4">
         <text>Car</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbR2l2ZW4oQCJ0aGUgS0tUIGFkYXB0ZXIgc2VydmljZSBjYXIgcmVzcG9uc2UgY29udGFpbnMgdGhlIGZvbGxvd2luZyBjYXJzIildCiAgICAgICAgcHVibGljIHZvaWQgR2l2ZW5UaGVDdXN0b21lckhhc1RoZUZvbGxvd2luZ0NhcnMoVGFibGUgY2FyVGFibGUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY2FycyA9IGNhclRhYmxlLlJvd3MuU2VsZWN0KHJvdyA9PiBuZXcgQ2FyCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIElkID0gcm93WyJpZCJdLAogICAgICAgICAgICAgICAgTGljZW5zZVBsYXRlTnVtYmVyID0gcm93WyJsaWNlbnNlUGxhdGVOdW1iZXIiXSwKICAgICAgICAgICAgICAgIE1ha2UgPSByb3dbIm1ha2UiXSwKICAgICAgICAgICAgICAgIFllYXIgPSBpbnQuUGFyc2Uocm93WyJ5ZWFyIl0pLAogICAgICAgICAgICAgICAgU2l6ZSA9IHJvd1sic2l6ZSJdLAogICAgICAgICAgICAgICAgU3VzcGVuZGVkID0gYm9vbC5QYXJzZShyb3dbInN1c3BlbmRlZCJdKSwKICAgICAgICAgICAgICAgIFZhbHVhdGlvbiA9IG5ldyBWYWx1YXRpb24KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IG5ldyBBbW91bnQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlID0gbG9uZy5QYXJzZShyb3dbInZhbHVlIl0pLAogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW5jeSA9IHJvd1siY3VycmVuY3kiXQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkuVG9MaXN0KCk7CgogICAgICAgICAgICB2YXIga2t0UmVzcG9uc2UgPSBTaGFyZWRTdGVwcy5HZXRLa3RSZXNwb25zZUZyb21Db250ZXh0KCk7CiAgICAgICAgICAgIGtrdFJlc3BvbnNlLkNhclJlc3BvbnNlLkNhcnMgPSBjYXJzOwogICAgICAgICAgICBTY2VuYXJpb0NvbnRleHQuQ3VycmVudFtTaGFyZWRTdGVwcy5La3RSZXNwb25zQ29udGV4dEtleV0gPSBra3RSZXNwb25zZTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>CivilRegistrationId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmVuY3kgPSByb3dbImN1cnJlbmN5Il0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuRGVkdWN0aW9ucy5BZGQoX2ZpeHR1cmUuQ3JlYXRlPERrRGVkdWN0aW9uPigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9IG5ldyBBbW91bnQKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuQ29tcGFuaWVzLkFkZChfZml4dHVyZS5DcmVhdGU8Q29tcGFueT4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZhbHVhdGlvbiA9IG5ldyBWYWx1YXRpb24KICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -557,22 +557,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1ha2UgPSByb3dbIm1ha2UiXSwKICAgICAgICAgICAgICAgIFllYXIgPSBpbnQuUGFyc2Uocm93WyJ5ZWFyIl0pLAogICAgICAgICAgICAgICAgU2l6ZSA9IHJvd1sic2l6ZSJdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5UaGF0KGJ1ZGdldEluY29tZS4sIElzLkVxdWFsVG8oYnVkZ2V0RmllbGQuQ2F0ZWdvcnlJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuRGVkdWN0aW9ucy5BZGQoX2ZpeHR1cmUuQ3JlYXRlPERrRGVkdWN0aW9uPigpKTsK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgYy5WYWx1ZSA9PSBidWRnZXRGaWVsZC5WYWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NlbmFyaW8uRW5nYWdlbWVudHMuQ29tcGFuaWVzLkFkZChfZml4dHVyZS5DcmVhdGU8Q29tcGFueT4oKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gZXh0ZXJuYWxSZWZlcmVuY2UgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
