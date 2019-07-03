@@ -46,6 +46,7 @@
         <mark key="." line="49" column="103" />
         <mark key="^" line="49" column="103" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1562144160696" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollectionGenerator.cs" timestamp="1562052091319">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="81" />
@@ -58,7 +59,7 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApiFlow/Calculators/Calculation/ApiMainHandler.cs" timestamp="1562141508923" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApiFlow/Calculators/Calculation/ApiMainHandler.cs" timestamp="1562143571203" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/Interfaces/IApiCalcultor.cs" timestamp="1562136541244">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="19" />
@@ -112,17 +113,21 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="85" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/ApiFlow.cs" timestamp="1562138936668">
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/ApiFlow.cs" timestamp="1562142982990">
+        <mark key="[" line="2" column="102" />
+        <mark key="]" line="2" column="102" />
+        <mark key="^" line="2" column="102" />
+        <mark key="." line="2" column="102" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/ApiMain/ApiMainHandler.cs" timestamp="1562137347654">
         <mark key="[" line="19" column="162" />
         <mark key="]" line="19" column="159" />
         <mark key="." line="19" column="159" />
         <mark key="^" line="19" column="159" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApiFlow/CalculationApiFlow.cs" timestamp="1562143046555">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="44" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/ApiDTOWrapper.cs" timestamp="1562138382176">
         <mark key="'" line="27" column="54" />
@@ -184,6 +189,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="78" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IApiFlow.cs" timestamp="1562142974527">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/CompanyHandlerInputMapper.cs" timestamp="1562133547411">
         <mark key="[" line="19" column="0" />
@@ -305,29 +316,29 @@
       <jump line="27" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/ApiDTOWrapper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEFwaURUT1dyYXBwZXIgX2FwaURUT1dyYXBwZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CalculationInputMapper</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text encoding="base64">IFRJbnRlcm5hbElucHV0LCBUSW50ZXJuYWxPdXRwdXQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>sats</text>
       </register>
       <register name="0" type="4">
-        <text>CreateCalculator</text>
+        <text>CalculationInputMapper</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEFwaURUT1dyYXBwZXIgX2FwaURUT1dyYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPT4gSW50ZXJuYWxPdXRwdXRUb0R0b091dHB1dE1hcHBlci5NYXAoQ2FsY3VsYXRvci5DYWxjdWxhdGUoRHRvSW5wdXRUb0ludGVybmFsSW5wdXRNYXBwZXIuTWFwKGlucHV0KSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuQ2FzaEZsb3dzLkl0ZW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICBJQXBpTWFwcGVyPFREdG9JbnB1dCwgVEludGVybmFsSW5wdXQ+IER0b0lucHV0VG9JbnRlcm5hbElucHV0TWFwcGVyOwogICAgICAgIElBcGlDYWxjdWxhdG9yPFRJbnRlcm5hbElucHV0LCBUSW50ZXJuYWxPdXRwdXQ+IENhbGN1bGF0b3I7CiAgICAgICAgSUFwaU1hcHBlcjxUSW50ZXJuYWxPdXRwdXQsIFREdG9PdXRwdXQ+IEludGVybmFsT3V0cHV0VG9EdG9PdXRwdXRNYXBwZXI7CgogICAgICAgIC8vLyA8aW5oZXJpdGRvYyAvPgogICAgICAgIHByb3RlY3RlZCBBcGlGbG93KAogICAgICAgICAgICBJQXBpTWFwcGVyPFREdG9JbnB1dCwgVEludGVybmFsSW5wdXQ+IGR0b0lucHV0VG9JbnRlcm5hbElucHV0TWFwcGVyLAogICAgICAgICAgICBJQXBpQ2FsY3VsYXRvcjxUSW50ZXJuYWxJbnB1dCwgVEludGVybmFsT3V0cHV0PiBjYWxjdWxhdG9yLAogICAgICAgICAgICBJQXBpTWFwcGVyPFRJbnRlcm5hbE91dHB1dCwgVER0b091dHB1dD4gaW50ZXJuYWxPdXRwdXRUb0R0b091dHB1dE1hcHBlcikKICAgICAgICB7CiAgICAgICAgICAgIER0b0lucHV0VG9JbnRlcm5hbElucHV0TWFwcGVyID0gZHRvSW5wdXRUb0ludGVybmFsSW5wdXRNYXBwZXI7CiAgICAgICAgICAgIENhbGN1bGF0b3IgPSBjYWxjdWxhdG9yOwogICAgICAgICAgICBJbnRlcm5hbE91dHB1dFRvRHRvT3V0cHV0TWFwcGVyID0gaW50ZXJuYWxPdXRwdXRUb0R0b091dHB1dE1hcHBlcjsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5BcGlGbG93CnsKICAgIHB1YmxpYyBpbnRlcmZhY2UgSUFwaUZsb3cKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -340,22 +351,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEFwaURUT1dyYXBwZXIgX2FwaURUT1dyYXBwZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuQ2FzaEZsb3dzLkl0ZW1zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUaW1lU2VydmljZSBfdGltZVNlcnZpY2U7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJQ2FsY3VsYXRpb25Db250ZXh0TWFwcGVyIF9jYWxjdWxhdGlvbkNvbnRleHRNYXBwZXI7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJQ2FzaGZsb3dzTWFwcGVyIF9jYXNoZmxvd3NNYXBwZXI7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJQ29tcGFueUNhbGN1bGF0b3JNYXBwZXIgX2NvbXBhbnlDYWxjdWxhdG9yTWFwcGVyOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSURrQ2FsY3VsYXRvcldyYXBwZXIgX2NhbGN1bGF0b3JXcmFwcGVyOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSVRpbWVMaW5lTWFwcGVyIF90aW1lTGluZU1hcHBlcjsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElWYWxpZGF0b3I8SUNhc2hGbG93SW5wdXRJdGVtQ29sbGVjdGlvbj4gX2Nhc2hmbG93VmFsaWRhdG9yOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUNhbGN1bGF0aW9uRGF0YU1hcHBlclJlcG9zaXRvcnkgX2NhbGN1bGF0aW9uRGF0YU1hcHBlclJlcG9zaXRvcnk7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJT3duZXJzaGlwTWFwcGVyIF9vd25lcnNoaXBNYXBwZXI7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJVGltZU1hcHBlciBfdGltZU1hcHBlcjsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElDYXNoRmxvd0lucHV0SXRlbUZhY3RvcnkgX2Nhc2hGbG93SW5wdXRJdGVtRmFjdG9yeTsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElTYXRzUHJvdmlkZXIgX3NhdHNQcm92aWRlcjsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElLb21tdW5lRGF0YU1hbmFnZXIgX2tvbW11bmVEYXRhTWFuYWdlcjsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElTYW1mdW5kc0ZvcnVkc2FldG5pbmdlciBfc2FtZnVuZHNGb3J1ZHNhZXRuaW5nZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVTZXJ2aWNlID0gdGltZVNlcnZpY2U7CiAgICAgICAgICAgIF9jYWxjdWxhdGlvbkNvbnRleHRNYXBwZXIgPSBjYWxjdWxhdGlvbkNvbnRleHRNYXBwZXI7CiAgICAgICAgICAgIF9jYXNoZmxvd3NNYXBwZXIgPSBjYXNoZmxvd3NNYXBwZXI7CiAgICAgICAgICAgIF9jb21wYW55Q2FsY3VsYXRvck1hcHBlciA9IGNvbXBhbnlDYWxjdWxhdG9yTWFwcGVyOwogICAgICAgICAgICBfY2FsY3VsYXRvcldyYXBwZXIgPSBjYWxjdWxhdG9yV3JhcHBlcjsKICAgICAgICAgICAgX3RpbWVMaW5lTWFwcGVyID0gdGltZUxpbmVNYXBwZXI7CiAgICAgICAgICAgIF9jYXNoZmxvd1ZhbGlkYXRvciA9IGNhc2hmbG93VmFsaWRhdG9yOwogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhTWFwcGVyUmVwb3NpdG9yeSA9IGNhbGN1bGF0aW9uRGF0YU1hcHBlclJlcG9zaXRvcnk7CiAgICAgICAgICAgIF9vd25lcnNoaXBNYXBwZXIgPSBvd25lcnNoaXBNYXBwZXI7CiAgICAgICAgICAgIF90aW1lTWFwcGVyID0gdGltZU1hcHBlcjsKICAgICAgICAgICAgX2Nhc2hGbG93SW5wdXRJdGVtRmFjdG9yeSA9IGNhc2hGbG93SW5wdXRJdGVtRmFjdG9yeTsKICAgICAgICAgICAgX3NhdHNQcm92aWRlciA9IHNhdHNQcm92aWRlcjsKICAgICAgICAgICAgX2tvbW11bmVEYXRhTWFuYWdlciA9IGtvbW11bmVEYXRhTWFuYWdlcjsKICAgICAgICAgICAgX3NhbWZ1bmRzRm9ydWRzYWV0bmluZ2VyID0gc2FtZnVuZHNGb3J1ZHNhZXRuaW5nZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
