@@ -93,10 +93,6 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" timestamp="1562219045879">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="57" column="58" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core.Optimization.PerformanceTests/Models/PerformanceRunner.cs" timestamp="1562222915508">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -175,10 +171,6 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Test.Utils.BudgetPlan/TestCompositionRootInitializer.cs" timestamp="1562231093965">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="120" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Validators/CalculationContextValidator.cs" timestamp="1562152357567">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="43" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/ApiDTOWrapper.cs" timestamp="1562138382176">
         <mark key="'" line="27" column="54" />
