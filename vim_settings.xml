@@ -20,6 +20,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/updateStandardValues.js" timestamp="1562220443950">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" timestamp="1562217789172">
         <mark key="'" line="597" column="38" />
         <mark key="[" line="835" column="24" />
@@ -408,8 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="36" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="118" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="146" column="63" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="31" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
@@ -508,19 +513,21 @@
       <jump line="70" column="86" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
       <jump line="72" column="69" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
       <jump line="100" column="42" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="8" column="40" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/updateStandardValues.js" />
+      <jump line="17" column="18" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/updateStandardValues.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'UPDATE_STANDARD_VALUE'</text>
+        <text>updateStandardValues</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>REMOVE</text>
+        <text>updatestandard</text>
       </register>
       <register name="0" type="4">
-        <text>'UPDATE_STANDARD_VALUE'</text>
+        <text>updateStandardValues</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIGtvbW11bmVJZFRpbEtvbW11bmVuYXZuWzEwMV0gPSBL+GJlbmhhdm4KICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
@@ -567,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>REMOVE</last-search>
+      <last-search>updatestandard</last-search>
       <last-offset />
-      <last-pattern>REMOVE</last-pattern>
+      <last-pattern>updatestandard</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -595,8 +602,8 @@
         <entry>getkommune</entry>
         <entry>mock</entry>
         <entry>kommune</entry>
-        <entry>updatestandard</entry>
         <entry>REMOVE</entry>
+        <entry>updatestandard</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
