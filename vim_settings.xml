@@ -28,10 +28,10 @@
         <mark key="^" line="835" column="45" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Municipalities/Manager/KommuneDataManager.cs" timestamp="1562161907896">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="23" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Factories/FormuePlanMetricFactory.cs" timestamp="1562052122975">
         <mark key="[" line="49" column="101" />
@@ -39,6 +39,7 @@
         <mark key="." line="49" column="103" />
         <mark key="^" line="49" column="103" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1562150042295" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Api/Metrics/Collections/FormuePlanMetricCollectionGenerator.cs" timestamp="1562052091319">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="81" />
@@ -80,6 +81,7 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApiFlow/ApiDTOWrapper.cs" timestamp="1562142608887" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan.Tests/TestUtils/MitbudgetTestUtil.cs" timestamp="1562162136853">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -171,6 +173,10 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actionTypes.js" timestamp="1562219045879">
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="57" column="58" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/ApiFlowWithInternalModel.cs" timestamp="1562151984783">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -200,6 +206,7 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
+      <file name="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/components/BudgetOtherExpenses/BudgetOtherExpenses.jsx" timestamp="1562218682084" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/Company/CompanyHandler.cs" timestamp="1562133774155">
         <mark key="'" line="51" column="105" />
         <mark key="[" line="19" column="0" />
@@ -275,6 +282,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="53" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1562218765009">
+        <mark key="'" line="18" column="20" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/Municipalities/Manager/IKommuneDataManager.cs" timestamp="1562161912842">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -286,6 +296,10 @@
         <mark key="]" line="171" column="246" />
         <mark key="." line="171" column="246" />
         <mark key="^" line="171" column="244" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Validators/CalculationContextValidator.cs" timestamp="1562152357567">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="43" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Handlers/ApiMain/ApiMainHandler.cs" timestamp="1562137347654">
         <mark key="[" line="19" column="162" />
@@ -344,6 +358,13 @@
         <mark key="." line="6" column="81" />
         <mark key="^" line="6" column="81" />
       </file>
+      <file name="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" timestamp="1562219076646">
+        <mark key="'" line="100" column="42" />
+        <mark key="[" line="102" column="107" />
+        <mark key="]" line="102" column="130" />
+        <mark key="." line="102" column="107" />
+        <mark key="^" line="102" column="106" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562152332115">
         <mark key="'" line="75" column="72" />
         <mark key="[" line="86" column="50" />
@@ -387,16 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="102" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="127" column="82" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="128" column="80" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="144" column="44" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="153" column="69" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="154" column="38" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="164" column="69" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="165" column="71" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
-      <jump line="23" column="50" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="25" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="36" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
       <jump line="118" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" />
@@ -487,19 +498,29 @@
       <jump line="565" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
       <jump line="581" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
       <jump line="597" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
+      <jump line="18" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
+      <jump line="102" column="69" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="11" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="14" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="22" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="23" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="24" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="70" column="86" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="72" column="69" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
+      <jump line="100" column="42" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>'UPDATE_STANDARD_VALUE'</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>kommune</text>
+        <text>REMOVE</text>
       </register>
       <register name="0" type="4">
-        <text>_kommuneDataManager</text>
+        <text>'UPDATE_STANDARD_VALUE'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIGtvbW11bmVJZFRpbEtvbW11bmVuYXZuWzEwMV0gPSBL+GJlbmhhdm4KICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
@@ -546,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kommune</last-search>
+      <last-search>REMOVE</last-search>
       <last-offset />
-      <last-pattern>kommune</last-pattern>
+      <last-pattern>REMOVE</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -556,8 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indkomstskat</entry>
-        <entry>boerne</entry>
         <entry>personal</entry>
         <entry>per</entry>
         <entry>pers</entry>
@@ -576,6 +595,8 @@
         <entry>getkommune</entry>
         <entry>mock</entry>
         <entry>kommune</entry>
+        <entry>updatestandard</entry>
+        <entry>REMOVE</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
