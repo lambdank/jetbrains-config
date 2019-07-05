@@ -48,6 +48,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl w" />
   </action>
+  <action id="RiderUnitTestCoverSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl k" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl a" />
   </action>
