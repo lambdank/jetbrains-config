@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'Advice.EconomicSuite.Api'" />
+    <option name="defaultScopeName" value="Project 'Advice.EconomicSuite.Api'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'Advice.EconomicSuite.Api'" />
   </component>
 </application>
