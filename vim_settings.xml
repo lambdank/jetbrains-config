@@ -7,6 +7,12 @@
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="52" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" timestamp="1562315811228">
+        <mark key="[" line="1018" column="123" />
+        <mark key="]" line="1018" column="179" />
+        <mark key="^" line="1018" column="122" />
+        <mark key="." line="1018" column="123" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Municipalities/Manager/KommuneDataManager.cs" timestamp="1562161907896">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -22,6 +28,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="7" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" timestamp="1562315740178">
+        <mark key="[" line="602" column="99" />
+        <mark key="]" line="602" column="155" />
+        <mark key="^" line="602" column="98" />
+        <mark key="." line="602" column="99" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/FinancialStatementAutoMapper.cs" timestamp="1562304003252">
         <mark key="[" line="7" column="24" />
@@ -42,6 +54,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="20" column="11" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" timestamp="1562316190399">
+        <mark key="'" line="86" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiFlowRegistrations.cs" timestamp="1562309060814">
         <mark key="[" line="15" column="93" />
@@ -69,6 +84,9 @@
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="39" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" timestamp="1562223109389">
+        <mark key="'" line="2" column="86" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApiFlow/InputMappers/CalculationInputMapper.cs" timestamp="1562150687662">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="65" />
@@ -88,12 +106,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiProfileAndProductsMappers.cs" timestamp="1562311332941">
-        <mark key="'" line="73" column="11" />
-        <mark key="[" line="75" column="105" />
-        <mark key="]" line="75" column="105" />
-        <mark key="." line="75" column="105" />
-        <mark key="^" line="75" column="105" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" timestamp="1562315611121">
+        <mark key="'" line="134" column="50" />
+        <mark key="[" line="54" column="142" />
+        <mark key="]" line="54" column="160" />
+        <mark key="." line="54" column="142" />
+        <mark key="^" line="54" column="141" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/DebtListing.ashx.cs" timestamp="1562230146776">
         <mark key="[" line="189" column="95" />
@@ -107,11 +125,12 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" timestamp="1562229733228">
-        <mark key="[" line="1630" column="0" />
-        <mark key="]" line="1630" column="132" />
-        <mark key="^" line="1630" column="40" />
-        <mark key="." line="1630" column="40" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" timestamp="1562316624796">
+        <mark key="'" line="1130" column="51" />
+        <mark key="[" line="309" column="45" />
+        <mark key="]" line="309" column="63" />
+        <mark key="^" line="1246" column="55" />
+        <mark key="." line="1246" column="55" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Picker/Company/SumCalculatorRules/CompanyPickerMockHelpers.cs" timestamp="1562217284698">
         <mark key="[" line="22" column="0" />
@@ -134,6 +153,9 @@
         <mark key="]" line="6" column="39" />
         <mark key="." line="13" column="66" />
         <mark key="^" line="14" column="15" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" timestamp="1562218765009">
+        <mark key="'" line="18" column="20" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1562230248487">
         <mark key="[" line="174" column="67" />
@@ -211,37 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="111" column="57" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="113" column="63" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="114" column="57" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="136" column="89" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="241" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="20" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="74" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="181" column="62" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="388" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="389" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="391" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="392" column="82" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="394" column="87" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="401" column="68" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="895" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="792" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="398" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="34" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan.Tests/Application/Profiles/Mappers/ProfileMapperTests.cs" />
-      <jump line="346" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="900" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="339" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="350" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="470" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="525" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="542" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="543" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="565" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="581" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="597" column="38" filename="C:/repo/advice_productcustomer/product/Applications/Advice.FormuePlan.DB.Tests/Application/Profiles/Repositories/ProfileRepositoryTests.cs" />
-      <jump line="18" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/actions/actions.js" />
       <jump line="102" column="69" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
       <jump line="11" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
       <jump line="14" column="4" filename="C:/repo/advice_product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/storeBudgetChanges.js" />
@@ -311,31 +302,62 @@
       <jump line="71" column="78" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
       <jump line="73" column="60" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
       <jump line="89" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
+      <jump line="16" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" />
+      <jump line="132" column="59" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" />
+      <jump line="24" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" />
+      <jump line="133" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" />
+      <jump line="847" column="24" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" />
+      <jump line="85" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" />
+      <jump line="162" column="22" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" />
+      <jump line="160" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" />
+      <jump line="86" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Data/Profile/Profile.cs" />
+      <jump line="774" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1079" column="71" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1208" column="52" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1242" column="86" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="6" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="27" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="52" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="136" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="444" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1246" column="55" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="72" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="74" column="22" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="309" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="327" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="328" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="386" column="61" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="793" column="69" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="826" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="935" column="72" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1008" column="87" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
+      <jump line="1130" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_kommuneDataManager</text>
       </register>
       <register name="-" type="4">
-        <text>accountFilterNames</text>
+        <text>_kommuneDataManager</text>
       </register>
       <register name="/" type="4">
-        <text>cross</text>
+        <text>kommune</text>
       </register>
       <register name="0" type="4">
-        <text>caseSetting.ReturnOnlyAccountsWithNames</text>
+        <text>_kommuneDataManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAga29tbXVuZURhdGFNYW5hZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lczsKCiAgICAgICAgICAgIGlmIChhY2NvdW50RmlsdGVyTmFtZXMgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHJldHVybiAoRmluYW5jaWFsU3RhdGVtZW50LkZpbmFuY2lhbFN0YXRlbWVudClmaW5hbmNpYWxTdGF0ZW1lbnQ7Cgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lczsKCiAgICAgICAgICAgIGlmIChhY2NvdW50RmlsdGVyTmFtZXMgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHJldHVybiAoRmluYW5jaWFsU3RhdGVtZW50LkZpbmFuY2lhbFN0YXRlbWVudClmaW5hbmNpYWxTdGF0ZW1lbnQ7Cgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY291bnRzV2l0aE5hbWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -348,31 +370,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnRGaWx0ZXJOYW1lcyA9PSBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuIChGaW5hbmNpYWxTdGF0ZW1lbnQuRmluYW5jaWFsU3RhdGVtZW50KWZpbmFuY2lhbFN0YXRlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY291bnRzV2l0aE5hbWVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnRGaWx0ZXJOYW1lcyA9PSBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuIChGaW5hbmNpYWxTdGF0ZW1lbnQuRmluYW5jaWFsU3RhdGVtZW50KWZpbmFuY2lhbFN0YXRlbWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGR0b0NvbnRleHQuQ29tcGFuaWVzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgZHRvQ29udGV4dC5Db21wYW5pZXMgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55SGFuZGxlcklucHV0IE1hcChJRHRvQ2FsY3VsYXRpb25Db250ZXh0IGR0b0NvbnRleHQsIElDYWxjdWxhdGlvbkNvbnRleHQgY2FsY3VsYXRpb25Db250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGR0b0NvbnRleHQuQ29tcGFuaWVzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgZHRvQ29udGV4dC5Db21wYW5pZXMgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cross</last-search>
+      <last-search>kommune</last-search>
       <last-offset />
-      <last-pattern>cross</last-pattern>
+      <last-pattern>kommune</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -380,16 +402,7 @@
     </search>
     <history>
       <history-search>
-        <entry>global</entry>
-        <entry>getkommune</entry>
-        <entry>mock</entry>
-        <entry>REMOVE</entry>
-        <entry>updatestandard</entry>
-        <entry>sdk</entry>
-        <entry>net</entry>
-        <entry>generate</entry>
         <entry>assem</entry>
-        <entry>kommune</entry>
         <entry>singleton</entry>
         <entry>modelstate</entry>
         <entry>Model</entry>
@@ -400,9 +413,17 @@
         <entry>company</entry>
         <entry>Companies</entry>
         <entry>cross</entry>
+        <entry>getKomm</entry>
+        <entry>Ikommune</entry>
+        <entry>kommnue</entry>
+        <entry>getmuni</entry>
+        <entry>get</entry>
+        <entry>getm</entry>
+        <entry>profil</entry>
+        <entry>ikommune</entry>
+        <entry>kommune</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>ws</entry>
         <entry>W</entry>
         <entry>w!</entry>
@@ -420,6 +441,7 @@
         <entry>%s/car/income/g</entry>
         <entry>%s/Car/Income/g</entry>
         <entry>q</entry>
+        <entry>setic</entry>
         <entry>set ic</entry>
         <entry>w</entry>
       </history-cmd>
