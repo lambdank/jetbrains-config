@@ -7,11 +7,6 @@
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="52" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/ICalculationContext.cs" timestamp="1562306581321">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/Municipalities/Manager/KommuneDataManager.cs" timestamp="1562161907896">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -122,7 +117,7 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="95" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Calculation/CalculationApiHandler.cs" timestamp="1562156906355">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Calculation/CalculationApiHandler.cs" timestamp="1562314271588">
         <mark key="[" line="54" column="103" />
         <mark key="]" line="54" column="128" />
         <mark key="^" line="54" column="128" />
@@ -183,11 +178,6 @@
         <mark key="]" line="6" column="81" />
         <mark key="." line="6" column="81" />
         <mark key="^" line="6" column="81" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562305400558">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IApiFlow.cs" timestamp="1562142974527">
         <mark key="[" line="2" column="40" />
