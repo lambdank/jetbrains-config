@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Validators/CashFlowInputItemCollectionValidator.cs" timestamp="1562311109796">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="52" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/ICalculationContext.cs" timestamp="1562306581321">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -38,11 +42,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="147" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/AccountFilter.cs" timestamp="1562157164230">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="43" column="58" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/AccountFilter.cs" timestamp="1562311773658">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiFlowRegistrations.cs" timestamp="1562309060814">
         <mark key="[" line="15" column="93" />
@@ -89,12 +93,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiProfileAndProductsMappers.cs" timestamp="1562307103199">
-        <mark key="'" line="72" column="11" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiProfileAndProductsMappers.cs" timestamp="1562311332941">
+        <mark key="'" line="73" column="11" />
+        <mark key="[" line="75" column="105" />
+        <mark key="]" line="75" column="105" />
+        <mark key="." line="75" column="105" />
+        <mark key="^" line="75" column="105" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/DebtListing.ashx.cs" timestamp="1562230146776">
         <mark key="[" line="189" column="95" />
@@ -195,13 +199,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" timestamp="1562309882948">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" timestamp="1562311473693">
         <mark key="'" line="89" column="59" />
-        <mark key="[" line="49" column="34" />
+        <mark key="[" line="43" column="79" />
         <mark key="l" line="60" column="15" />
-        <mark key="]" line="49" column="42" />
-        <mark key="^" line="49" column="42" />
-        <mark key="." line="49" column="42" />
+        <mark key="]" line="43" column="79" />
+        <mark key="^" line="43" column="59" />
+        <mark key="." line="43" column="79" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/TimeLineMapper.cs" timestamp="1562306814611">
         <mark key="[" line="20" column="69" />
@@ -319,29 +323,29 @@
       <jump line="89" column="59" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dtoContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dtoContext</text>
+        <text>accountFilterNames</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
       <register name="0" type="4">
-        <text>companies</text>
+        <text>caseSetting.ReturnOnlyAccountsWithNames</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGR0b0NvbnRleHQuQ29tcGFuaWVzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgZHRvQ29udGV4dC5Db21wYW5pZXMgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55SGFuZGxlcklucHV0IE1hcChJRHRvQ2FsY3VsYXRpb25Db250ZXh0IGR0b0NvbnRleHQsIElDYWxjdWxhdGlvbkNvbnRleHQgY2FsY3VsYXRpb25Db250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY2NvdW50c1dpdGhOYW1lczsKCiAgICAgICAgICAgIGlmIChhY2NvdW50RmlsdGVyTmFtZXMgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHJldHVybiAoRmluYW5jaWFsU3RhdGVtZW50LkZpbmFuY2lhbFN0YXRlbWVudClmaW5hbmNpYWxTdGF0ZW1lbnQ7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQ29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQ29udGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRGaWx0ZXJOYW1lcyA9IGNhc2VTZXR0aW5nLlJldHVybk9ubHlBY291bnRzV2l0aE5hbWVzOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -354,22 +358,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpLkNhbGN1bGF0b3JzLkNvbXBhbnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnRGaWx0ZXJOYW1lcyA9PSBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuIChGaW5hbmNpYWxTdGF0ZW1lbnQuRmluYW5jaWFsU3RhdGVtZW50KWZpbmFuY2lhbFN0YXRlbWVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpLkNhbGN1bGF0b3JzLkNhbGN1bGF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpLkNhbGN1bGF0b3JzLkNhbGN1bGF0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxjdWxhdGlvbkFwaUlucHV0IE1hcChBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuRHRvLlNoYXJlZC5SZXF1ZXN0cy5JQ2FsY3VsYXRpb25Db250ZXh0IGR0b0NvbnRleHQsIElDYWxjdWxhdGlvbkNvbnRleHQgY2FsY3VsYXRpb25Db250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGR0b0NvbnRleHQuQ29tcGFuaWVzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgZHRvQ29udGV4dC5Db21wYW5pZXMgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkFwaUZsb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55SGFuZGxlcklucHV0IE1hcChJRHRvQ2FsY3VsYXRpb25Db250ZXh0IGR0b0NvbnRleHQsIElDYWxjdWxhdGlvbkNvbnRleHQgY2FsY3VsYXRpb25Db250ZXh0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
