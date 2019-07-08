@@ -9,11 +9,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/TaxCode7/TaxCalculatorDkTaxCode7InsuranceTests.cs" timestamp="1562574356190">
-        <mark key="[" line="183" column="110" />
-        <mark key="]" line="183" column="141" />
-        <mark key="." line="183" column="110" />
-        <mark key="^" line="159" column="140" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/TaxCode7/TaxCalculatorDkTaxCode7InsuranceTests.cs" timestamp="1562574890955">
+        <mark key="[" line="202" column="136" />
+        <mark key="]" line="202" column="146" />
+        <mark key="." line="202" column="136" />
+        <mark key="^" line="226" column="145" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1562566965366">
         <mark key="[" line="108" column="0" />
@@ -200,18 +200,18 @@
         <mark key="^" line="102" column="99" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" timestamp="1562568367593">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="189" />
-        <mark key="^" line="91" column="137" />
-        <mark key="." line="91" column="137" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" timestamp="1562574938811">
+        <mark key="[" line="140" column="58" />
+        <mark key="]" line="140" column="62" />
+        <mark key="^" line="140" column="62" />
+        <mark key="." line="140" column="62" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Disability/TaxCalculatorDkDisabilityInsuranceTest.cs" timestamp="1562569423259">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Disability/TaxCalculatorDkDisabilityInsuranceTest.cs" timestamp="1562575109759">
         <mark key="'" line="159" column="14" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="194" />
-        <mark key="^" line="220" column="13" />
-        <mark key="." line="220" column="13" />
+        <mark key="[" line="50" column="145" />
+        <mark key="]" line="50" column="145" />
+        <mark key="^" line="50" column="145" />
+        <mark key="." line="50" column="145" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/L16/TaxCalculatorL16PensionPayOutTypeTest.cs" timestamp="1562567311213">
         <mark key="'" line="58" column="25" />
@@ -386,16 +386,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, scenarioEvent: PenEvent.Death</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>profil</text>
       </register>
       <register name="0" type="4">
-        <text>, scenarioEvent: PenEvent.Death</text>
+        <text>Disability</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gcmV0dXJuU3RhbmRhcmRGb3JtYXQsCg==</text>
