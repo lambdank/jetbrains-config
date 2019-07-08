@@ -40,11 +40,6 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="48" column="108" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/ICalculationContext.cs" timestamp="1562306581321">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Application/Profiles/Mappers/ProfileMapper.cs" timestamp="1562315611121">
         <mark key="'" line="134" column="50" />
         <mark key="[" line="54" column="142" />
@@ -52,6 +47,12 @@
         <mark key="." line="54" column="142" />
         <mark key="^" line="54" column="141" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Company/CompanyHandler.cs" timestamp="1562587120459">
+        <mark key="[" line="34" column="177" />
+        <mark key="]" line="34" column="178" />
+        <mark key="." line="34" column="178" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ProductMappers/Company/CompanyCalculatorMapper.cs" timestamp="1562585996705" />
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Data/Profile.cs" timestamp="1562316624796">
         <mark key="'" line="1130" column="51" />
         <mark key="[" line="309" column="45" />
@@ -65,11 +66,11 @@
         <mark key="^" line="194" column="13" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Calculation/CalculationApiHandler.cs" timestamp="1562314271588">
-        <mark key="[" line="54" column="103" />
-        <mark key="]" line="54" column="128" />
-        <mark key="^" line="54" column="128" />
-        <mark key="." line="54" column="128" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Calculation/CalculationApiHandler.cs" timestamp="1562587100473">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="38" column="100" />
+        <mark key="^" line="38" column="100" />
+        <mark key="." line="38" column="100" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/L16/TaxCalculatorL16PensionPayoutAgeTests.cs" timestamp="1562567117241">
         <mark key="[" line="368" column="0" />
@@ -121,16 +122,12 @@
         <mark key="^" line="186" column="124" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/PublicBenefits/TaxCalculatorDkBroekPensionTests.cs" timestamp="1562566579622">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="81" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionMappingTests/PensionMappingTests.cs" timestamp="1562567469260">
-        <mark key="[" line="75" column="75" />
-        <mark key="]" line="75" column="93" />
-        <mark key="." line="75" column="75" />
-        <mark key="^" line="75" column="72" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionMappingTests/PensionMappingTests.cs" timestamp="1562584306086">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="75" column="80" />
+        <mark key="]" line="75" column="107" />
+        <mark key="." line="75" column="107" />
+        <mark key="^" line="75" column="107" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiFlowRegistrations.cs" timestamp="1562309060814">
         <mark key="[" line="15" column="93" />
@@ -149,6 +146,12 @@
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Company/CompanyHandlerInput.cs" timestamp="1562587052412">
+        <mark key="[" line="18" column="164" />
+        <mark key="]" line="18" column="164" />
+        <mark key="." line="18" column="164" />
+        <mark key="^" line="14" column="82" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/PublicBenefits/TaxCalculatorDkIncomeBasedEfterloen2017Tests.cs" timestamp="1562566632473">
         <mark key="[" line="8" column="0" />
@@ -175,10 +178,12 @@
         <mark key="^" line="22" column="182" />
         <mark key="." line="22" column="182" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core.Tests/Api/v0/CalculationControllerTest.cs" timestamp="1562564299072">
-        <mark key="[" line="46" column="55" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="55" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1562585684852">
+        <mark key="'" line="155" column="11" />
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="50" column="44" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/TaxCode7/TaxCalculatorDkTaxCode7PensionTests.cs" timestamp="1562567492273">
         <mark key="[" line="424" column="0" />
@@ -186,12 +191,12 @@
         <mark key="." line="423" column="11" />
         <mark key="^" line="423" column="11" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1562574040619">
-        <mark key="'" line="486" column="114" />
-        <mark key="[" line="381" column="59" />
-        <mark key="]" line="382" column="11" />
-        <mark key="^" line="382" column="11" />
-        <mark key="." line="382" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" timestamp="1562585187311">
+        <mark key="'" line="81" column="26" />
+        <mark key="[" line="499" column="0" />
+        <mark key="]" line="504" column="54" />
+        <mark key="^" line="374" column="11" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" timestamp="1562574229177">
         <mark key="'" line="73" column="12" />
@@ -200,11 +205,12 @@
         <mark key="^" line="102" column="99" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" timestamp="1562574938811">
-        <mark key="[" line="140" column="58" />
-        <mark key="]" line="140" column="62" />
-        <mark key="^" line="140" column="62" />
-        <mark key="." line="140" column="62" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" timestamp="1562584357327">
+        <mark key="'" line="29" column="20" />
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="53" column="65" />
+        <mark key="^" line="53" column="65" />
+        <mark key="." line="53" column="65" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Disability/TaxCalculatorDkDisabilityInsuranceTest.cs" timestamp="1562575109759">
         <mark key="'" line="159" column="14" />
@@ -226,15 +232,14 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" timestamp="1562587068308">
+        <mark key="[" line="38" column="112" />
+        <mark key="]" line="38" column="112" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="38" column="112" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="91" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="128" column="69" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="139" column="76" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="142" column="76" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="145" column="76" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="148" column="79" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
-      <jump line="158" column="62" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
       <jump line="54" column="61" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
       <jump line="51" column="71" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
       <jump line="48" column="64" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" />
@@ -306,7 +311,6 @@
       <jump line="336" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" />
       <jump line="173" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" />
       <jump line="987" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
       <jump line="5" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDKTestBase.cs" />
@@ -328,6 +332,14 @@
       <jump line="494" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
       <jump line="600" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
       <jump line="484" column="114" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="381" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
+      <jump line="15" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionMappingTests/PensionMappingTests.cs" />
+      <jump line="113" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" />
+      <jump line="129" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" />
+      <jump line="29" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" />
+      <jump line="153" column="11" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" />
+      <jump line="81" column="26" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkNewDeductionTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,28 +398,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Company</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Company</text>
       </register>
       <register name="/" type="4">
-        <text>profil</text>
+        <text>test_sum</text>
       </register>
       <register name="0" type="4">
-        <text>Disability</text>
+        <text>calculationApiInput.CompanyHandlerInput</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gcmV0dXJuU3RhbmRhcmRGb3JtYXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2hGbG93SW5wdXRJdGVtQ29sbGVjdGlvbiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJldHVyblN0YW5kYXJkRm9ybWF0ID0gcmV0dXJuU3RhbmRhcmRGb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FzaEZsb3dJbnB1dEl0ZW1Db2xsZWN0aW9uID0gY2FzaEZsb3dJbnB1dEl0ZW1Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFwaUlucHV0ID0gT2JqZWN0RmFjdG9yeS5HZXRJbnN0YW5jZTxJQ2FsY3VsYXRpb25JbnB1dE1hcHBlcj4oKS5NYXAoaW5wdXRDb250cmFjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FzaEZsb3dJbnB1dEl0ZW1Db2xsZWN0aW9uID0gY2FzaEZsb3dJbnB1dEl0ZW1Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRDb250cmFjdHNbXQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -419,32 +431,32 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdFdpdGhUd29QZXJzb25zID0gRXhlY3V0ZUNhbGN1bGF0aW9uKHByb2ZpbGVXaXRoVHdvUGVyc29ucywgcHJvZHVjdHNXaXRoVHdvUGVyc29ucywgZmFsc2UpOwo=</text>
+      <register name="5" type="4">
+        <text>2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdFdpdGhUd29QZXJzb25zID0gRXhlY3V0ZUNhbGN1bGF0aW9uKHByb2ZpbGVXaXRoVHdvUGVyc29ucywgcHJvZHVjdHNXaXRoVHdvUGVyc29ucywgZmFsc2UpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjcmVnaW9uIFByaXZhdGUgSGVscGVycwoKICAgICAgICAjZW5kcmVnaW9uCg==</text>
+      </register>
       <register name="w" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciByZXN1bHQgPSBHZXRDYWxjdWxhdGlvblJlc3VsdChwcm9maWxlLAogICAgICAgICAgICAgICAgaW5jb21lczogaW5jb21lcywKICAgICAgICAgICAgICAgIGxpYWJpbGl0eUluc3RhbGxtZW50czogbGlhYmlsaXR5SW5zdGFsbG1lbnRzLAogICAgICAgICAgICAgICAgYXNzZXRMaXF1aWRzOiBhc3NldExpcXVpZHMsCiAgICAgICAgICAgICAgICBhc3NldFJlYWxFc3RhdGVzOiBhc3NldFJlYWxFc3RhdGVzLAogICAgICAgICAgICAgICAgcmV0dXJuU3RhbmRhcmRGb3JtYXQ6IHRydWUsCiAgICAgICAgICAgICAgICB1c2VMaXF1aWRpdHlBY2NvdW50OiB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElGaW5hbmNpYWxTdGF0ZW1lbnQgRXhlY3V0ZUNhbGN1bGF0aW9uKFByb2ZpbGUgcHJvZmlsZSwgSVByb2R1Y3RbXSBwcm9kdWN0cywgYm9vbCBsaXF1aWRpdHlBY2NvdW50ID0gdHJ1ZSkKICAgICAgICAgICAgPT4gR2V0Q2FsY3VsYXRpb25SZXN1bHQocHJvZHVjdHMsIHByb2ZpbGUsIHJldHVyblN0YW5kYXJkRm9ybWF0OiB0cnVlLCB1c2VMaXF1aWRpdHlBY2NvdW50OiBsaXF1aWRpdHlBY2NvdW50KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbXBhbnlSZXN1bHQgPSByZXN1bHQuQ29tcGFueUNhbGN1bGF0b3JPdXRwdXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profil</last-search>
+      <last-search>test_sum</last-search>
       <last-offset />
-      <last-pattern>profil</last-pattern>
+      <last-pattern>test_sum</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>absta</entry>
         <entry>abstra</entry>
         <entry>company</entry>
         <entry>Companies</entry>
@@ -472,6 +483,7 @@
         <entry>time</entry>
         <entry>execute</entry>
         <entry>profil</entry>
+        <entry>test_sum</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -491,8 +503,8 @@
         <entry>%s/Car/Income/g</entry>
         <entry>q</entry>
         <entry>setic</entry>
-        <entry>set ic</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>set ic</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
