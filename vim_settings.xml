@@ -10,10 +10,11 @@
         <mark key="^" line="452" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1562655734452">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1562660376409">
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="46" />
+        <mark key="." line="55" column="46" />
+        <mark key="^" line="55" column="45" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/ICalculationContext.cs" timestamp="1562306581321">
         <mark key="[" line="21" column="0" />
@@ -42,10 +43,19 @@
         <mark key="]" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
+      <file name="/Dummy.cs" timestamp="1562660527199">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/AccountFilter.cs" timestamp="1562594199875">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/StandardValidationMessageProvider.cs" timestamp="1562659815776">
+        <mark key="'" line="72" column="16" />
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="17" />
+        <mark key="." line="72" column="17" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/TimeMapperTest.cs" timestamp="1562651145170">
         <mark key="[" line="9" column="0" />
@@ -235,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CalculationInputMapper.cs" />
       <jump line="44" column="88" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
       <jump line="55" column="67" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
       <jump line="60" column="76" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/CompanyHandlerInputMapper.cs" />
@@ -335,6 +344,7 @@
       <jump line="8" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
       <jump line="60" column="9" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
       <jump line="88" column="9" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" />
+      <jump line="72" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.InputValidation.Api/MessageProviders/StandardValidationMessageProvider.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -393,28 +403,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>modelstate</text>
+        <text>custom</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYi5IdHRwOwo=</text>
+      <register name="0" type="4">
+        <text>$&quot;Discriminator not supplied. Cannot determine type to instantiate. Valid values are [{subTypes.Keys.Join(&quot;, &quot;)}].&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGVsU3RhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsYS5NZXNzYWdlID0gJCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRmx1ZW50VmFsaWRhdGlvbi5XZWJBcGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsYS5NZXNzYWdlID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TaGFyZWQuUmVxdWVzdHM7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU2hhcmVkLlJlc3BvbnNlczsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLlZhbGlkYXRvcnM7CnVzaW5nIEF1dG9NYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBWYWxpZGF0aW9uRXhjZXB0aW9uKCQiRGlzY3JpbWluYXRvciBub3Qgc3VwcGxpZWQuIENhbm5vdCBkZXRlcm1pbmUgdHlwZSB0byBpbnN0YW50aWF0ZS4gVmFsaWQgdmFsdWVzIGFyZSBbe3N1YlR5cGVzLktleXMuSm9pbigiLCAiKX1dLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5DYWxjdWxhdGlvbi5SZXF1ZXN0cy5NYXBwaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsYS5FcnJvcnMuRWxlbWVudEF0KDApLkVycm9yTWVzc2FnZSA9JCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIjsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -427,31 +437,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYi5Nb2RlbEJpbmRpbmc7CnVzaW5nIEFkdmljZS5CYXNpY1R5cGVzLlRpbWUuU2VydmljZTsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuQ2FsY3VsYXRvckRrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpc2NyaW1pbmF0b3IgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oJCJEaXNjcmltaW5hdG9yIG5vdCBzdXBwbGllZC4gQ2Fubm90IGRldGVybWluZSB0eXBlIHRvIGluc3RhbnRpYXRlLiBWYWxpZCB2YWx1ZXMgYXJlIFt7c3ViVHlwZXMuS2V5cy5Kb2luKCIsICIpfV0uIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGVsU3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGVsU3RhdGUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">dXNpbmcgRmx1ZW50VmFsaWRhdGlvbi5XZWJBcGk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpbWVTZXJ2aWNlTW9jayA9IG5ldyBNb2NrPElUaW1lU2VydmljZT4oKTsK</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TaGFyZWQuUmVxdWVzdHM7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU2hhcmVkLlJlc3BvbnNlczsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLlZhbGlkYXRvcnM7CnVzaW5nIEF1dG9NYXBwZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZVNlcnZpY2VNb2NrLlNldHVwKHggPT4geC5DYWxjdWxhdGlvblllYXIpLlJldHVybnMoMjAxNik7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5DYWxjdWxhdGlvbi5SZXF1ZXN0cy5NYXBwaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modelstate</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>modelstate</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -459,8 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kommnue</entry>
-        <entry>getmuni</entry>
         <entry>get</entry>
         <entry>getm</entry>
         <entry>ikommune</entry>
@@ -479,6 +487,8 @@
         <entry>#1</entry>
         <entry>json</entry>
         <entry>modelstate</entry>
+        <entry>requires a connect</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
