@@ -66,8 +66,8 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" timestamp="1562745822597">
         <mark key="'" line="8" column="51" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" timestamp="1562738125658">
-        <mark key="'" line="95" column="40" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" timestamp="1562756313675">
+        <mark key="'" line="95" column="82" />
         <mark key="[" line="95" column="40" />
         <mark key="]" line="95" column="65" />
         <mark key="^" line="195" column="67" />
@@ -176,7 +176,6 @@
       <jump line="229" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
       <jump line="233" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
       <jump line="234" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
-      <jump line="95" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
       <jump line="6" column="0" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/AddDescriptionForPropertiesSchemaFilter.cs" />
       <jump line="49" column="1" filename="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/AddDescriptionForPropertiesSchemaFilter.cs" />
       <jump line="18" column="4" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
@@ -189,6 +188,7 @@
       <jump line="64" column="81" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
       <jump line="8" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
       <jump line="12" column="26" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Contract/BaseInputContract.cs" />
+      <jump line="95" column="82" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -253,7 +253,7 @@
         <text>Calculation</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>fradragfaglig</text>
       </register>
       <register name="0" type="4">
         <text>StandardValuesInputContract</text>
@@ -303,9 +303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>fradragfaglig</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>fradragfaglig</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>execute</entry>
         <entry>profil</entry>
         <entry>test_sum</entry>
         <entry>result</entry>
@@ -333,6 +332,7 @@
         <entry>fradrag</entry>
         <entry>fradragfaglige</entry>
         <entry>profile</entry>
+        <entry>fradragfaglig</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
