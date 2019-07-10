@@ -9,6 +9,10 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562747023761">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="107" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1562738061078">
         <mark key="'" line="265" column="0" />
         <mark key="[" line="193" column="0" />
@@ -18,12 +22,18 @@
         <mark key="[" line="29" column="76" />
         <mark key="]" line="29" column="92" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/BenefitRules/DKBoernetilskudDoed.cs" timestamp="1562677411243">
-        <mark key="'" line="66" column="23" />
-        <mark key="m" line="38" column="8" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Contract/BaseInputContract.cs" timestamp="1562745826022">
         <mark key="'" line="12" column="26" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/CalculationApiFlow.cs" timestamp="1562747078442">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="1" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/IStandardValuesApiFlow.cs" timestamp="1562747126201">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="81" />
+        <mark key="^" line="6" column="81" />
+        <mark key="." line="6" column="81" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/StandardValues/Responses/ExpenseGroup/ExpenseGroup.cs" timestamp="1562746811550" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutors/Company/InternalCompanyExecutor.cs" timestamp="1562670423520">
@@ -64,6 +74,12 @@
         <mark key="." line="195" column="84" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKDeductionMapperTests.cs" timestamp="1562740603599" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562747147874">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="3" column="127" />
+        <mark key="^" line="3" column="127" />
+        <mark key="." line="3" column="127" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1562742769222">
         <mark key="[" line="61" column="22" />
         <mark key="]" line="61" column="61" />
@@ -230,29 +246,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLkRvY3VtZW50RmlsdGVyKCgpID0+IG5ldyBCYXNlUGF0aERvY3VtZW50RmlsdGVyKGFwcFNldHRpbmdzLkFwaVZlcnNpb24pKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>Calculation</text>
       </register>
       <register name="-" type="4">
-        <text>FradragIndbetalingPrivatRateOgLiv</text>
+        <text>Calculation</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBES0FjY291bnRzTWFwcGVyRmFjdG9yeS5NYXBwZXJJbnB1dChQZXJzb24uUDIsIERLSW50ZXJuYWxBY2NvdW50VHlwZS5GcmFkcmFnSW5kYmV0YWxpbmdQcml2YXRSYXRlT2dMaXYpLAo=</text>
+      <register name="0" type="4">
+        <text>StandardValuesInputContract</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLkRvY3VtZW50RmlsdGVyKCgpID0+IG5ldyBCYXNlUGF0aERvY3VtZW50RmlsdGVyKGFwcFNldHRpbmdzLkFwaVZlcnNpb24pKTsKCg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkFwaUZsb3c7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5DYWxjdWxhdGlvbkFwaS5JbnB1dE1hcHBlcnM7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5DYWxjdWxhdGlvbkFwaS5JbnRlcm5hbEV4ZWN1dG9yczsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpLkludGVybmFsRXhlY3V0b3JzLkNhbGN1bGF0aW9uOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuQ2FsY3VsYXRpb25BcGkuT3V0cHV0TWFwcGVyczsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5DYWxjdWxhdGlvbi5SZXF1ZXN0czsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5DYWxjdWxhdGlvbi5SZXNwb25zZXM7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5EdG8uU2hhcmVkLlJlcXVlc3RzLkNvbnRyYWN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFkdmljZS5FY29ub21pY1N1aXRlLkFwaS5TdGFuZGFyZFZhbHVlc0FwaQp7CiAgICBwdWJsaWMgaW50ZXJmYWNlIElTdGFuZGFyZFZhbHVlc0FwaUZsb3cKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLkRvY3VtZW50RmlsdGVyKCgpID0+IG5ldyBCYXNlUGF0aERvY3VtZW50RmlsdGVyKGFwcFNldHRpbmdzLkFwaVZlcnNpb24pKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBcHBseShTY2hlbWEgc2NoZW1hLCAgU2NoZW1hUmVnaXN0cnkgc2NoZW1hUmVnaXN0cnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -265,22 +281,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NoZW1hLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBcHBseShTY2hlbWEgc2NoZW1hLCAgU2NoZW1hUmVnaXN0cnkgc2NoZW1hUmVnaXN0cnkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c2VlYWxzbyBjcmVmPSJTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW4uSVNjaGVtYUZpbHRlciIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NoZW1hLgo=</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5Td2FnZ2VyOwp1c2luZyBTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW47Cg==</text>
+        <text encoding="base64">ICAgIC8vLyA8c2VlYWxzbyBjcmVmPSJTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW4uSVNjaGVtYUZpbHRlciIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
