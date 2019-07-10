@@ -66,6 +66,12 @@
         <mark key="^" line="195" column="67" />
         <mark key="." line="195" column="84" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKDeductionMapperTests.cs" timestamp="1562740603599">
+        <mark key="[" line="38" column="89" />
+        <mark key="]" line="38" column="114" />
+        <mark key="." line="38" column="114" />
+        <mark key="^" line="38" column="114" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1562740181139">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -231,17 +237,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FradragIndbetalingPrivatRateOgLiv</text>
       </register>
       <register name="-" type="4">
-        <text>PolymorphismSchemaFilter</text>
+        <text>FradragIndbetalingPrivatRateOgLiv</text>
       </register>
       <register name="/" type="4">
         <text>fradragfaglige</text>
       </register>
-      <register name="0" type="4">
-        <text>AddDescriptionForPropertiesSchemaFilter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBES0FjY291bnRzTWFwcGVyRmFjdG9yeS5NYXBwZXJJbnB1dChQZXJzb24uUDIsIERLSW50ZXJuYWxBY2NvdW50VHlwZS5GcmFkcmFnSW5kYmV0YWxpbmdQcml2YXRSYXRlT2dMaXYpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
