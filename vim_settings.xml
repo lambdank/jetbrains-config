@@ -42,15 +42,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="38" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/FindNoDescriptionSchemas.cs" timestamp="1562738771763">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="70" />
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/FindNoDescriptionSchemas.cs" timestamp="1562740127717">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="82" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/AddDescriptionForPropertiesSchemaFilter.cs" timestamp="1562738779961">
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/AddDescriptionForPropertiesSchemaFilter.cs" timestamp="1562740136526">
         <mark key="'" line="52" column="1" />
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="21" column="71" />
-        <mark key="." line="21" column="71" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1562738103810">
         <mark key="'" line="72" column="94" />
@@ -64,6 +65,11 @@
         <mark key="]" line="95" column="65" />
         <mark key="^" line="195" column="67" />
         <mark key="." line="195" column="84" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1562740181139">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKGroenCheck.cs" timestamp="1562674283678" />
     </filemarks>
@@ -225,29 +231,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>PolymorphismSchemaFilter</text>
       </register>
       <register name="/" type="4">
         <text>fradragfaglige</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IFNjaGVtYVJlZ2lzdHJ5IHNjaGVtYVJlZ2lzdHJ5LA==</text>
+        <text>AddDescriptionForPropertiesSchemaFilter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c2VlYWxzbyBjcmVmPSJTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW4uSVNjaGVtYUZpbHRlciIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBcHBseShTY2hlbWEgc2NoZW1hLCAgU2NoZW1hUmVnaXN0cnkgc2NoZW1hUmVnaXN0cnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5Td2FnZ2VyOwp1c2luZyBTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NoZW1hLgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -260,22 +266,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIERrLkFkdmljZS5BcGkuQ29yZS5DdXN0b21GaWx0ZXJzCnsKICAgIHB1YmxpYyBjbGFzcyBBZGREZXNjcmlwdGlvbkZvclByb3BlcnRpZXNTY2hlbWFGaWx0ZXIKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RnJhZHJhZ0ZhZ2xpZ2VLb250aW5nZW50ZXIK</text>
+        <text encoding="base64">ICAgIC8vLyA8c2VlYWxzbyBjcmVmPSJTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW4uSVNjaGVtYUZpbHRlciIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbQWNjb3VudERldGFpbHMoQWNjb3VudENhdGVnb3J5LkRlZHVjdGlvbiwgIkZyYWRyYWdGYWdsaWdlS29udGluZ2VudGVyIiwgIkZyYWRyYWcgZm9yIGZhZ2xpZ2Uga29udGluZ2VudGVyIildCiAgICAgICAgRnJhZHJhZ0ZhZ2xpZ2VLb250aW5nZW50ZXIsCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5Td2FnZ2VyOwp1c2luZyBTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXJHZW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIERrLkFkdmljZS5BcGkuQ29yZS5DdXN0b21GaWx0ZXJzCnsKICAgIHB1YmxpYyBjbGFzcyBBZGREZXNjcmlwdGlvbkZvclByb3BlcnRpZXNTY2hlbWFGaWx0ZXIKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
