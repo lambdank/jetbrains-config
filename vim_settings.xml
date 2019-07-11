@@ -9,10 +9,30 @@
         <mark key="^" line="90" column="151" />
         <mark key="." line="90" column="151" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IInternalApiExecutor.cs" timestamp="1562825115039">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="32" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutors/Company/InternalCompanyExecutor.cs" timestamp="1562670423520">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="52" column="78" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1562834612213">
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="52" />
         <mark key="." line="59" column="26" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/ActionFilters/ModelStateValidationActionFilterAttribute.cs" timestamp="1562835325612">
+        <mark key="[" line="85" column="91" />
+        <mark key="]" line="85" column="91" />
+        <mark key="." line="85" column="91" />
+        <mark key="^" line="83" column="117" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/FindNoDescriptionSchemas.cs" timestamp="1562763519799">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="82" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiOutput.cs" timestamp="1562824614962">
         <mark key="[" line="9" column="0" />
@@ -20,15 +40,32 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/StandardValuesInputContractMapper.cs" timestamp="1562824033115">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="87" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="53" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IApiCalcultor.cs" timestamp="1562669954766">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="22" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1562835873556">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/ICalculationInputMapper.cs" timestamp="1562823984042">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="107" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/OutputMappers/IStandardValuesOutputContractMapper.cs" timestamp="1562824488089">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="100" />
+        <mark key="^" line="5" column="133" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValues/Mappers/StandardValuesOutputContractMapper.cs" timestamp="1562823245646">
         <mark key="[" line="23" column="83" />
@@ -79,9 +116,20 @@
         <mark key="^" line="6" column="127" />
         <mark key="." line="6" column="127" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562825270625">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/CalculationApiFlow.cs" timestamp="1562823120134">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="18" column="1" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
         <mark key="'" line="80" column="34" />
@@ -89,49 +137,6 @@
         <mark key="]" line="82" column="119" />
         <mark key="." line="82" column="119" />
         <mark key="^" line="82" column="119" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IInternalApiExecutor.cs" timestamp="1562825115039">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="32" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/components/BBRDialog/BBRDialog.js" timestamp="1562836482968" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutors/Company/InternalCompanyExecutor.cs" timestamp="1562670423520">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="24" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="52" column="78" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/ActionFilters/ModelStateValidationActionFilterAttribute.cs" timestamp="1562835325612">
-        <mark key="[" line="85" column="91" />
-        <mark key="]" line="85" column="91" />
-        <mark key="." line="85" column="91" />
-        <mark key="^" line="83" column="117" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/FindNoDescriptionSchemas.cs" timestamp="1562763519799">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="82" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/StandardValuesInputContractMapper.cs" timestamp="1562824033115">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="87" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="53" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1562835873556">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/OutputMappers/IStandardValuesOutputContractMapper.cs" timestamp="1562824488089">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="100" />
-        <mark key="^" line="5" column="133" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562825270625">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562834820116">
         <mark key="'" line="95" column="9" />
@@ -300,10 +305,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>JsonSerializationException</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="-" type="4">
-        <text>ValidationException</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text>vali</text>
