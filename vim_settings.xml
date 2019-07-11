@@ -9,7 +9,6 @@
         <mark key="^" line="90" column="151" />
         <mark key="." line="90" column="151" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Enums/DKExpenseType.cs" timestamp="1562757760338" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorDkBudgetPlanTests.cs" timestamp="1562593837781">
         <mark key="'" line="333" column="8" />
         <mark key="[" line="1" column="0" />
@@ -43,13 +42,12 @@
         <mark key="]" line="71" column="23" />
         <mark key="." line="71" column="23" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/PP/PPEnums.cs" timestamp="1562768919666" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1562766145360">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562747023761">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562822725467">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="107" />
       </file>
@@ -101,7 +99,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Products/Asset/AssetLiquid.cs" timestamp="1562769045704" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/Scenarios/Death/TaxCalculatorDkDeathInsuranceTest.cs" timestamp="1562584357327">
         <mark key="'" line="29" column="20" />
         <mark key="[" line="53" column="65" />
@@ -118,13 +115,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/IStandardValuesApiFlow.cs" timestamp="1562747126201">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="81" />
-        <mark key="^" line="6" column="81" />
-        <mark key="." line="6" column="81" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/IStandardValuesApiFlow.cs" timestamp="1562822773583">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="81" />
+        <mark key="^" line="7" column="81" />
+        <mark key="." line="7" column="81" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/StandardValues/Responses/ExpenseGroup/ExpenseGroup.cs" timestamp="1562746811550" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ICalculationContextMapper.cs" timestamp="1562651196022">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -146,7 +142,6 @@
         <mark key="]" line="129" column="65" />
         <mark key="." line="129" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/CalculationCaseSetting.cs" timestamp="1562768301182" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutor/Calculation/InternalCalculationApiExecutor.cs" timestamp="1562649498426">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -199,7 +194,6 @@
         <mark key="^" line="195" column="67" />
         <mark key="." line="195" column="84" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKDeductionMapperTests.cs" timestamp="1562740603599" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Advice.EconomicSuite.DK.csproj" timestamp="1562765515209">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -211,10 +205,10 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562747147874">
-        <mark key="[" line="3" column="72" />
-        <mark key="]" line="3" column="127" />
-        <mark key="^" line="3" column="127" />
-        <mark key="." line="3" column="127" />
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="127" />
+        <mark key="^" line="6" column="127" />
+        <mark key="." line="6" column="127" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/PercentSeriesMapperTest.cs" timestamp="1562651128773">
         <mark key="[" line="10" column="0" />
@@ -240,7 +234,6 @@
         <mark key="^" line="50" column="145" />
         <mark key="." line="50" column="145" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Registrations/SwaggerConfigBase.cs" timestamp="1562762221301" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562655728031">
         <mark key="'" line="88" column="9" />
         <mark key="[" line="2" column="0" />
@@ -248,7 +241,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="70" column="44" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/BaseTypes/Time.cs" timestamp="1562768421577" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Advice.EconomicSuite.Api.Dto.csproj" timestamp="1562764919618">
         <mark key="'" line="36" column="61" />
         <mark key="[" line="22" column="0" />
@@ -259,8 +251,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKGroenCheck.cs" timestamp="1562674283678" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKFagligeKontingenterFradrag/DKFagligeKontingenterFradragInputSourceOutputSink.cs" timestamp="1562756679648" />
     </filemarks>
     <jumps>
       <jump line="433" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/L16/TaxCalculatorL16PensionPayOutTypeTest.cs" />
@@ -420,17 +410,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBUeXBlIG9mIGxpcXVpZCBhc3NldHMKICAgIC8vLyA8L3N1bW1hcnk+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CalculationInputContract</text>
       </register>
       <register name="-" type="4">
-        <text>summaryFiledHelp[0] + &quot;:&quot;</text>
+        <text>CalculationInputContract</text>
       </register>
       <register name="/" type="4">
         <text>documentation</text>
       </register>
       <register name="0" type="4">
-        <text>schemaProperty.description</text>
+        <text encoding="base64">OiBJQXBpRmxvdzxDYWxjdWxhdGlvbklucHV0Q29udHJhY3QsIENhbGN1bGF0aW9uT3V0cHV0Q29udHJhY3Q+IHsgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBUeXBlIG9mIGxpcXVpZCBhc3NldHMKICAgIC8vLyA8L3N1bW1hcnk+Cg==</text>
