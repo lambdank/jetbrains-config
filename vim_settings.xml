@@ -26,6 +26,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiOutput.cs" timestamp="1562823899788">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="6" column="90" />
+        <mark key="^" line="6" column="87" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IApiCalcultor.cs" timestamp="1562669954766">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="22" />
@@ -37,33 +43,40 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InputMappers/ICalculationInputMapper.cs" timestamp="1562823984042">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="107" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/DanishCalculationKernelContextMapper.cs" timestamp="1562651181272">
         <mark key="[" line="71" column="23" />
         <mark key="]" line="71" column="23" />
         <mark key="." line="71" column="23" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValues/Mappers/StandardValuesOutputContractMapper.cs" timestamp="1562823245646">
+        <mark key="[" line="23" column="83" />
+        <mark key="]" line="23" column="136" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Configuration/SwaggerConfig.cs" timestamp="1562766145360">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562822725467">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="107" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1562738061078">
-        <mark key="'" line="265" column="0" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="194" column="35" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562823052089">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/AccountFilter.cs" timestamp="1562594199875">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/BenefitRules/DKBoernetilskudDoed/DKBoernetilskudDoedInputSourceOutputSink.cs" timestamp="1562677387295">
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="29" column="92" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiExecutor.cs" timestamp="1562823923442">
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="46" column="45" />
+        <mark key="." line="46" column="15" />
+        <mark key="^" line="69" column="22" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/TimeMapperTest.cs" timestamp="1562651145170">
         <mark key="[" line="9" column="0" />
@@ -87,6 +100,12 @@
         <mark key="^" line="179" column="25" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/IStandardValuesInputContractMapper.cs" timestamp="1562824098751">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="132" />
+        <mark key="^" line="5" column="127" />
+        <mark key="." line="5" column="127" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkCompanyTests.cs" timestamp="1562593595415">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="166" column="0" />
@@ -106,8 +125,8 @@
         <mark key="^" line="53" column="65" />
         <mark key="." line="53" column="65" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/CalculationApiFlow.cs" timestamp="1562747078442">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/CalculationApiFlow.cs" timestamp="1562823120134">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="18" column="1" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/TimeLineMapperTest.cs" timestamp="1562651135668">
@@ -115,11 +134,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/IStandardValuesApiFlow.cs" timestamp="1562822773583">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="81" />
-        <mark key="^" line="7" column="81" />
-        <mark key="." line="7" column="81" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/IStandardValuesApiFlow.cs" timestamp="1562823108607">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="100" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ICalculationContextMapper.cs" timestamp="1562651196022">
         <mark key="[" line="2" column="0" />
@@ -147,9 +166,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/FindNoDescriptionSchemas.cs" timestamp="1562763519799">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="82" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/StandardValuesInputContractMapper.cs" timestamp="1562824033115">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="87" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="53" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/Calculators/Company/CompanyHandler.cs" timestamp="1562587120459">
         <mark key="[" line="34" column="177" />
@@ -162,6 +183,12 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
         <mark key="^" line="35" column="15" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/OutputMappers/IStandardValuesOutputContractMapper.cs" timestamp="1562824115145">
+        <mark key="[" line="2" column="95" />
+        <mark key="]" line="2" column="102" />
+        <mark key="^" line="2" column="102" />
+        <mark key="." line="2" column="102" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/ICalculationKernelContextMapper.cs" timestamp="1562651112378">
         <mark key="[" line="3" column="0" />
@@ -204,11 +231,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562747147874">
-        <mark key="[" line="6" column="72" />
-        <mark key="]" line="6" column="127" />
-        <mark key="^" line="6" column="127" />
-        <mark key="." line="6" column="127" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562823951451">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/Mappers/PercentSeriesMapperTest.cs" timestamp="1562651128773">
         <mark key="[" line="10" column="0" />
@@ -240,11 +267,6 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="70" column="44" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Advice.EconomicSuite.Api.Dto.csproj" timestamp="1562764919618">
-        <mark key="'" line="36" column="61" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="79" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Mappers/Implementations/TimeLineMapper.cs" timestamp="1562651189442">
         <mark key="[" line="5" column="0" />
@@ -411,28 +433,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CalculationInputContract</text>
+        <text>Input</text>
       </register>
       <register name="-" type="4">
-        <text>CalculationInputContract</text>
+        <text>Input</text>
       </register>
       <register name="/" type="4">
         <text>documentation</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">OiBJQXBpRmxvdzxDYWxjdWxhdGlvbklucHV0Q29udHJhY3QsIENhbGN1bGF0aW9uT3V0cHV0Q29udHJhY3Q+IHsgfQ==</text>
+        <text encoding="base64">OiBJQXBpTWFwcGVyPFN0YW5kYXJkVmFsdWVzSW5wdXRDb250cmFjdCwgSW50ZXJuYWxTdGFuZGFyZFZhbHVlc0FwaUlucHV0PiB7IH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBUeXBlIG9mIGxpcXVpZCBhc3NldHMKICAgIC8vLyA8L3N1bW1hcnk+Cg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkNhbGN1bGF0aW9uQXBpLkludGVybmFsRXhlY3V0b3JzLkNhbGN1bGF0aW9uOwp1c2luZyBBZHZpY2UuRWNvbm9taWNTdWl0ZS5BcGkuRHRvLkNhbGN1bGF0aW9uLlJlcXVlc3RzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRAIntiYXNlUGF0aH1cYmluXEFkdmljZS5LZXJuZWwuWE1MIiwKICAgICAgICAgICAgICAgICRAIntiYXNlUGF0aH1cYmluXEFkdmljZS5FY29ub21pY1N1aXRlLkRLLlhNTCIsCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhbmRhcmRWYWx1ZXNPdXRwdXRDb250cmFjdCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5U2NoZW1hLkByZWYgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -445,22 +467,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEludGVybmFsU3RhbmRhcmRWYWx1ZXNBcGlJbnB1dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5U2NoZW1hLmRlc2NyaXB0aW9uID0gJEAie05hbWVkTGlua1RvVHlwZShHZXRNb2RlbE5hbWUocHJvcGVydHlTY2hlbWEpKX17RW52aXJvbm1lbnQuTmV3TGluZX17cHJvcGVydHlTY2hlbWEuZGVzY3JpcHRpb259IjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnR5U2NoZW1hLmFsbE9mLkFkZChuZXcgU2NoZW1hIHsgQHJlZiA9IHByb3BlcnR5U2NoZW1hLkByZWYgfSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TdGFuZGFyZFZhbHVlcy5SZXF1ZXN0czsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuQXBpLkR0by5TdGFuZGFyZFZhbHVlcy5SZXNwb25zZXM7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcm9wZXJ0eVNjaGVtYS5hbGxPZiA9PSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHByb3BlcnR5U2NoZW1hLmFsbE9mID0gbmV3IExpc3Q8U2NoZW1hPigpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
