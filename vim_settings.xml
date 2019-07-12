@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Extensions/ListExtension.cs" timestamp="1562765252119">
-        <mark key="[" line="90" column="151" />
-        <mark key="]" line="90" column="151" />
-        <mark key="^" line="90" column="151" />
-        <mark key="." line="90" column="151" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManagerExtensions.cs" timestamp="1562928443452">
         <mark key="'" line="148" column="41" />
         <mark key="[" line="148" column="122" />
@@ -23,12 +17,6 @@
         <mark key="." line="290" column="15" />
         <mark key="^" line="289" column="66" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutors/Company/InternalCompanyExecutor.cs" timestamp="1562670423520">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="24" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="52" column="78" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/JsonConverters/SubClassedJsonConverter.cs" timestamp="1562834612213">
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="52" />
@@ -40,12 +28,6 @@
         <mark key="]" line="243" column="43" />
         <mark key="." line="243" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/ActionFilters/ModelStateValidationActionFilterAttribute.cs" timestamp="1562835325612">
-        <mark key="[" line="85" column="91" />
-        <mark key="]" line="85" column="91" />
-        <mark key="." line="85" column="91" />
-        <mark key="^" line="83" column="117" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
         <mark key="'" line="206" column="30" />
         <mark key="[" line="212" column="48" />
@@ -53,47 +35,27 @@
         <mark key="^" line="212" column="75" />
         <mark key="." line="212" column="75" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiOutput.cs" timestamp="1562824614962">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/StandardValuesInputContractMapper.cs" timestamp="1562824033115">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="87" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="53" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/ApiFlow/IApiCalcultor.cs" timestamp="1562669954766">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" timestamp="1562931202603">
+        <mark key="'" line="89" column="49" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1562835873556">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562928402436">
-        <mark key="'" line="176" column="101" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562931256740">
+        <mark key="'" line="177" column="60" />
         <mark key="[" line="534" column="130" />
         <mark key="]" line="534" column="130" />
         <mark key="." line="534" column="130" />
         <mark key="^" line="534" column="130" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/OutputMappers/IStandardValuesOutputContractMapper.cs" timestamp="1562824488089">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="100" />
-        <mark key="^" line="5" column="133" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" timestamp="1562929546539">
-        <mark key="[" line="662" column="48" />
-        <mark key="]" line="662" column="48" />
-        <mark key="^" line="662" column="19" />
-        <mark key="." line="662" column="48" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" timestamp="1562931164650">
+        <mark key="'" line="654" column="33" />
+        <mark key="[" line="665" column="20" />
+        <mark key="]" line="665" column="20" />
+        <mark key="^" line="665" column="20" />
+        <mark key="." line="665" column="20" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1562848254480">
         <mark key="'" line="36" column="21" />
@@ -107,31 +69,13 @@
         <mark key="^" line="25" column="87" />
         <mark key="." line="25" column="88" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/ICalculationApiFlow.cs" timestamp="1562823052089">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="51" />
-        <mark key="." line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Admin/Advice.Admin.csproj" timestamp="1562851623257">
         <mark key="'" line="94" column="31" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="43" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiExecutor.cs" timestamp="1562825404758">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="12" column="136" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
         <mark key="'" line="144" column="49" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/OutputMappers/StandardValuesOutputContractMapper.cs" timestamp="1562829394096">
-        <mark key="[" line="26" column="83" />
-        <mark key="]" line="26" column="90" />
-        <mark key="^" line="26" column="90" />
-        <mark key="." line="26" column="90" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" timestamp="1562851600867">
         <mark key="'" line="107" column="84" />
@@ -142,28 +86,10 @@
       <file name="/C# Console" timestamp="1562914068001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiFlowRegistrations.cs" timestamp="1562825476723">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="86" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/IInternalStandardValuesApiExecutor.cs" timestamp="1562825398754">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="145" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/StandardValues/Mappers/StandardValuesOutputContractMapperTests.cs" timestamp="1562829339489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InputMappers/IStandardValuesInputContractMapper.cs" timestamp="1562824098751">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="132" />
-        <mark key="^" line="6" column="127" />
-        <mark key="." line="6" column="127" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/StandardValuesApiFlow.cs" timestamp="1562825270625">
         <mark key="[" line="7" column="17" />
@@ -200,23 +126,6 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1562847310338" />
     </filemarks>
     <jumps>
-      <jump line="40" column="80" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
-      <jump line="34" column="70" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
-      <jump line="28" column="75" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
-      <jump line="64" column="81" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
-      <jump line="8" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Calculation/Requests/CalculationInputContract.cs" />
-      <jump line="12" column="26" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Shared/Requests/Contract/BaseInputContract.cs" />
-      <jump line="95" column="82" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Mappers/DKInternalToStandardAccountKeyMapper.cs" />
-      <jump line="7" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Advice.EconomicSuite.Api.Dto.csproj" />
-      <jump line="22" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Advice.EconomicSuite.Api.Dto.csproj" />
-      <jump line="36" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Advice.EconomicSuite.Api.Dto.csproj" />
-      <jump line="27" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" />
-      <jump line="82" column="148" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" />
-      <jump line="80" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" />
-      <jump line="39" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" />
-      <jump line="41" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" />
-      <jump line="7" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" />
-      <jump line="36" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" />
       <jump line="130" column="78" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
       <jump line="29" column="22" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
       <jump line="44" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
@@ -300,6 +209,23 @@
       <jump line="724" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="78" column="58" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" />
       <jump line="76" column="70" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" />
+      <jump line="78" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="15" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="406" column="18" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
+      <jump line="659" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
+      <jump line="652" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
+      <jump line="654" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
+      <jump line="75" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="82" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="83" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="84" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="85" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="86" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="87" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="88" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="89" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" />
+      <jump line="44" column="48" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
+      <jump line="177" column="60" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -335,28 +261,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>[]</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNdXRhYmxlQWNjb3VudC5BY2NvdW50S2V5V2l0aERldGFpbHMoa2V5SW5SYXRlLCBkZXRhaWxzKSwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNdXRhYmxlQWNjb3VudC5BY2NvdW50S2V5V2l0aERldGFpbHMoCiAgICAgICAgICAgICAgICAgICAgREtJbnRlcm5hbEFjY291bnRLZXlDcmVhdG9yLkNyZWF0ZUtleShkZXN0U3ViVHlwZSwgc291cmNlLCBwcm9kdWN0SWQsIGlucHV0SWQsIHZlcnNpb25Qb3N0LCBwZXJzb24pLAogICAgICAgICAgICAgICAgICAgIEl0LklzQW55PEFjY291bnREZXRhaWxzPigpKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUluUmF0ZSwga2V5SW5SYXRlMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNdXRhYmxlQWNjb3VudC5BY2NvdW50S2V5V2l0aERldGFpbHMoCiAgICAgICAgICAgICAgICAgICAgREtJbnRlcm5hbEFjY291bnRLZXlDcmVhdG9yLkNyZWF0ZUtleShkZXN0U3ViVHlwZSwgc291cmNlLCBwcm9kdWN0SWQsIGlucHV0SWQsIHZlcnNpb25Qb3N0LCBwZXJzb24pLAogICAgICAgICAgICAgICAgICAgIEl0LklzQW55PEFjY291bnREZXRhaWxzPigpKSksCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUluUmF0ZSwga2V5SW5SYXRlMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSRSwga2V5SW5QSVJFMSB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgMTAwMG0pOwogICAgICAgICAgICBhY2NvdW50LkFkZE9yVXBkYXRlQWNjb3VudEVudHJ5KG5ldyBBY2NvdW50S2V5W10geyBrZXlJblBJUiwga2V5SW5QSVJFLCBrZXlJblBJUkUyIH0sIG5ld1tdIHsgZGV0YWlscywgZGV0YWlscywgZGV0YWlscyB9LCB5ZWFyLCB5ZWFyLCAyMDAwbSk7CiAgICAgICAgICAgIGFjY291bnQuQWRkT3JVcGRhdGVBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleUluUElSLCBrZXlJblBJUkEsIGtleUluUElSQTEgfSwgbmV3W10geyBkZXRhaWxzLCBkZXRhaWxzLCBkZXRhaWxzIH0sIHllYXIsIHllYXIsIDMwMDBtKTsKICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSQSwga2V5SW5QSVJBMiB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNDAwMG0pOwogICAgICAgICAgICBhY2NvdW50LkFkZE9yVXBkYXRlQWNjb3VudEVudHJ5KG5ldyBBY2NvdW50S2V5W10geyBrZXlJblBJUiwga2V5SW5QSVJQLCBrZXlJblBJUlAxIH0sIG5ld1tdIHsgZGV0YWlscywgZGV0YWlscywgZGV0YWlscyB9LCB5ZWFyLCB5ZWFyLCA1MDAwbSk7CiAgICAgICAgICAgIGFjY291bnQuQWRkT3JVcGRhdGVBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleUluUElSLCBrZXlJblBJUlAsIGtleUluUElSUDIgfSwgbmV3W10geyBkZXRhaWxzLCBkZXRhaWxzLCBkZXRhaWxzIH0sIHllYXIsIHllYXIsIDYwMDBtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUluUmF0ZSwga2V5SW5SYXRlMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSRSwga2V5SW5QSVJFMSB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgMTAwMG0pOwogICAgICAgICAgICBhY2NvdW50LkFkZE9yVXBkYXRlQWNjb3VudEVudHJ5KG5ldyBBY2NvdW50S2V5W10geyBrZXlJblBJUiwga2V5SW5QSVJFLCBrZXlJblBJUkUyIH0sIG5ld1tdIHsgZGV0YWlscywgZGV0YWlscywgZGV0YWlscyB9LCB5ZWFyLCB5ZWFyLCAyMDAwbSk7CiAgICAgICAgICAgIGFjY291bnQuQWRkT3JVcGRhdGVBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleUluUElSLCBrZXlJblBJUkEsIGtleUluUElSQTEgfSwgbmV3W10geyBkZXRhaWxzLCBkZXRhaWxzLCBkZXRhaWxzIH0sIHllYXIsIHllYXIsIDMwMDBtKTsKICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSQSwga2V5SW5QSVJBMiB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNDAwMG0pOwogICAgICAgICAgICBhY2NvdW50LkFkZE9yVXBkYXRlQWNjb3VudEVudHJ5KG5ldyBBY2NvdW50S2V5W10geyBrZXlJblBJUiwga2V5SW5QSVJQLCBrZXlJblBJUlAxIH0sIG5ld1tdIHsgZGV0YWlscywgZGV0YWlscywgZGV0YWlscyB9LCB5ZWFyLCB5ZWFyLCA1MDAwbSk7CiAgICAgICAgICAgIGFjY291bnQuQWRkT3JVcGRhdGVBY2NvdW50RW50cnkobmV3IEFjY291bnRLZXlbXSB7IGtleUluUElSLCBrZXlJblBJUlAsIGtleUluUElSUDIgfSwgbmV3W10geyBkZXRhaWxzLCBkZXRhaWxzLCBkZXRhaWxzIH0sIHllYXIsIHllYXIsIDYwMDBtKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -369,19 +295,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSUCwga2V5SW5QSVJQMiB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNjAwMG0pOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSUCwga2V5SW5QSVJQMiB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNjAwMG0pOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSUCwga2V5SW5QSVJQMSB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNTAwMG0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC5BZGRPclVwZGF0ZUFjY291bnRFbnRyeShuZXcgQWNjb3VudEtleVtdIHsga2V5SW5QSVIsIGtleUluUElSUCwga2V5SW5QSVJQMSB9LCBuZXdbXSB7IGRldGFpbHMsIGRldGFpbHMsIGRldGFpbHMgfSwgeWVhciwgeWVhciwgNTAwMG0pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -391,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>[]</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>[]</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -401,10 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fradragfaglige</entry>
-        <entry>profile</entry>
-        <entry>fradragfaglig</entry>
-        <entry>documentation</entry>
         <entry>fluent</entry>
         <entry>vali</entry>
         <entry>startyear</entry>
@@ -417,10 +339,14 @@
         <entry>accountdetails</entry>
         <entry>mutable</entry>
         <entry>accountkey</entry>
-        <entry>updateaccountkey</entry>
         <entry>accountkeywith</entry>
         <entry>accountkeywithde</entry>
         <entry>[]</entry>
+        <entry>indkomststatementruletest</entry>
+        <entry>updateaccountkey</entry>
+        <entry>setup</entry>
+        <entry>setupup</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -441,8 +367,8 @@
         <entry>setic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set ic</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
