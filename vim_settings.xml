@@ -40,7 +40,7 @@
         <mark key="[" line="201" column="262" />
         <mark key="]" line="201" column="262" />
         <mark key="." line="201" column="262" />
-        <mark key="^" line="202" column="261" />
+        <mark key="^" line="201" column="261" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Startup.cs" timestamp="1562835873556">
         <mark key="[" line="43" column="0" />
@@ -100,12 +100,8 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1562928836189">
-        <mark key="'" line="724" column="36" />
-        <mark key="[" line="190" column="151" />
-        <mark key="]" line="190" column="151" />
-        <mark key="." line="190" column="151" />
-        <mark key="^" line="190" column="151" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1562937762060">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
         <mark key="[" line="23" column="20" />
@@ -130,7 +126,6 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1562847310338" />
     </filemarks>
     <jumps>
-      <jump line="129" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
       <jump line="140" column="16" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
       <jump line="144" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" />
       <jump line="248" column="4" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Advice.EconomicSuite.csproj" />
@@ -156,7 +151,6 @@
       <jump line="128" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="141" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="231" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="188" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="419" column="45" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="447" column="50" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="470" column="52" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -230,6 +224,8 @@
       <jump line="654" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
       <jump line="659" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
       <jump line="459" column="32" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
+      <jump line="188" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
+      <jump line="9" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -265,28 +261,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlc3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTnlhbgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(null)</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>addsub</text>
       </register>
       <register name="0" type="4">
         <text>, new AccountDetails(AccountCategory.Asset</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlc3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTnlhbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNdXRhYmxlQWNjb3VudC5BY2NvdW50S2V5V2l0aERldGFpbHMoCiAgICAgICAgICAgICAgICAgICAgREtJbnRlcm5hbEFjY291bnRLZXlDcmVhdG9yLkNyZWF0ZUtleShkZXN0U3ViVHlwZSwgc291cmNlLCBwcm9kdWN0SWQsIGlucHV0SWQsIHZlcnNpb25Qb3N0LCBwZXJzb24pLAogICAgICAgICAgICAgICAgICAgIGRldGFpbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uLlNob3VsZCgpLkJlKE9wdGlvbi5Ob25lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0RLSW50ZXJuYWxBY2NvdW50S2V5Q3JlYXRvci5DcmVhdGVLZXkoSXQuSXNBbnk8REtJbnRlcm5hbEFjY291bnRUeXBlPigpLCBzb3VyY2UsIHByb2R1Y3RJZCwgaW5wdXRJZCwgdmVyc2lvblBvc3QsIHBlcnNvbiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50PyB2YWx1ZSA9IG51bGw7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -299,31 +295,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJdC5Jc0FueTxES0ludGVybmFsQWNjb3VudEtleT4oKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9wdGlvbiA9IE9wdGlvbjxpbnQ+LkFwcGx5KHZhbHVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJdC5Jc0FueTxES0FjY291bnRLZXk+KCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLlNob3VsZCgpLkJlKE9wdGlvbi5Gcm9tKCJXaW50ZXJmZWxsIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmluYW5jaWFsU3RhdGVtZW50TWFuYWdlck1vY2tIZWxwZXJzLlZlcmlmeVVwZGF0ZUFjY291bnRLZXkoZnNtTW9jaywgSXQuSXNBbnk8PigpLCBES0ludGVybmFsQWNjb3VudFR5cGUuQWt0aXZlciwgREtJbnRlcm5hbEFjY291bnRUeXBlLkFrdGl2ZXIsIFBlcnNvbi5QMSwgU291cmNlLk5vdFNwZWNpZmllZCwgMSwgMSwgMSwgMiwgMSk7Cg==</text>
+        <text encoding="base64">dmFyIHJlcyA9IGZyb20gcCBpbiBPcHRpb24uRnJvbShwZXJzb24pCiAgICAgICAgICAgICAgICAgICAgICBmcm9tIGUgaW4gcC5BZGRyZXNzLlRvT3B0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCBlLkNpdHk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uLlNob3VsZCgpLkJlKE9wdGlvbi5Ob25lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlc3QgPSBuZXcgTXV0YWJsZUFjY291bnQuQWNjb3VudEtleVdpdGhEZXRhaWxzKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnVuLlVuaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>addsub</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>addsub</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +335,6 @@
         <entry>startyearoffset</entry>
         <entry>indexoffirst</entry>
         <entry>valuetuple</entry>
-        <entry>addsub</entry>
         <entry>accountdetails</entry>
         <entry>mutable</entry>
         <entry>accountkey</entry>
@@ -351,6 +346,7 @@
         <entry>setup</entry>
         <entry>setupup</entry>
         <entry>update</entry>
+        <entry>addsub</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
