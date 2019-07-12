@@ -99,6 +99,9 @@
         <mark key="]" line="106" column="34" />
         <mark key="." line="106" column="33" />
       </file>
+      <file name="/C# Console" timestamp="1562914068001">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/Application/CompositionRootInitalizers/ApiFlowRegistrations.cs" timestamp="1562825476723">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -127,7 +130,8 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1562851292970">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1562914380721">
+        <mark key="'" line="537" column="24" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,8 +160,6 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1562847310338" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
-      <jump line="174" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
       <jump line="287" column="42" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
       <jump line="1028" column="27" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/TaxCalculatorIntegrationTests/TaxCalculatorDkGeneralIntegrationTests.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/RegressionTests.cs" />
@@ -256,6 +258,8 @@
       <jump line="101" column="28" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" />
       <jump line="106" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" />
       <jump line="107" column="84" filename="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" />
+      <jump line="254" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
+      <jump line="537" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -320,7 +324,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>valuetuple</text>
+        <text>addsub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU3lzdGVtLlZhbHVlVHVwbGUiPgo=</text>
@@ -370,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valuetuple</last-search>
+      <last-search>addsub</last-search>
       <last-offset />
-      <last-pattern>valuetuple</last-pattern>
+      <last-pattern>addsub</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>custom</entry>
         <entry>action</entry>
         <entry>common</entry>
         <entry>boerne</entry>
@@ -400,6 +403,7 @@
         <entry>startyearoffset</entry>
         <entry>indexoffirst</entry>
         <entry>valuetuple</entry>
+        <entry>addsub</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
