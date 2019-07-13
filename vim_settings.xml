@@ -16,10 +16,16 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/Command.py" timestamp="1563034286505">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="/fragment.js" timestamp="1555391482274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1557686444797">
+      <file name="/a.dummy" timestamp="1563034311297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/jiraConnectionHandler.py" timestamp="1555578861416">
@@ -27,6 +33,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="77" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_input.py" timestamp="1563034382446">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="6" column="65" />
+        <mark key="^" line="6" column="65" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/sprint.py" timestamp="1556455391293">
         <mark key="[" line="5" column="31" />
@@ -64,6 +76,18 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/request_controller.py" timestamp="1563035019785">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="24" column="66" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/IssueStatusRequest.py" timestamp="1563033619857">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="82" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="7" column="65" />
+      </file>
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/FSUtils.cs" timestamp="1556189562524">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -79,23 +103,36 @@
         <mark key="." line="68" column="74" />
         <mark key="^" line="68" column="92" />
       </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/shared_request_checks.py" timestamp="1563035010208">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+      </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/board.py" timestamp="1556455140764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/main.py" timestamp="1557687369183">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/main.py" timestamp="1563034697825">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/parameter_parser.py" timestamp="1555685216080">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="34" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_argument_mapper.py" timestamp="1563033481112">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
         <mark key="[" line="8" column="33" />
@@ -115,10 +152,11 @@
         <mark key="^" line="197" column="29" />
         <mark key="." line="177" column="68" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" timestamp="1557687284187">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" timestamp="1563031971761">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="/" timestamp="1557686732299">
         <mark key="[" line="0" column="0" />
@@ -183,13 +221,16 @@
         <mark key="." line="105" column="114" />
         <mark key="^" line="105" column="114" />
       </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/Status.py" timestamp="1563034900104">
+        <mark key="^" line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/Request/IssueRequests/IssueRequest.py" timestamp="1557685869783">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1556445770468">
+      <file name="/Python Console" timestamp="1563034885358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1556440664269">
@@ -209,6 +250,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/Mappers/command_line_argument_mapper.py" timestamp="1563034845147">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/containers.py" timestamp="1563036540074">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/Program.cs" timestamp="1556189527307">
         <mark key="[" line="65" column="73" />
@@ -240,9 +293,11 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_utilities.py" timestamp="1557686640552">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="19" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_utilities.py" timestamp="1563027947604">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="C:/repo/ap/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Company/DKCompanyAccountDetailsProvider.cs" timestamp="1556001758150">
         <mark key="[" line="27" column="13" />
@@ -280,6 +335,9 @@
         <mark key="]" line="98" column="36" />
         <mark key="^" line="98" column="36" />
         <mark key="." line="98" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563028966720">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1555008579752">
         <mark key="[" line="0" column="0" />
@@ -364,11 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2086" column="51" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="2090" column="48" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="2095" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="2098" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="2101" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="2104" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="385" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
       <jump line="206" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Application/BP/Factories/BudgetConverterFactory.cs" />
@@ -464,31 +517,36 @@
       <jump line="57" column="23" filename="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" />
       <jump line="25" column="14" filename="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/issue.py" />
       <jump line="23" column="111" filename="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/issue.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
+      <jump line="29" column="50" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_argument_mapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlbWFpbF9jbGllbnQgaW1wb3J0IEVtYWlsQ2xpZW50CmZyb20gZW1haWxfcmVhZGVyIGltcG9ydCBFbWFpbFJlYWRlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>and has_status_flag(args)</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGpjbTogSmlyYUNvbW1hbmRNYW5hZ2VyLCBhcmdzKSAtPiBzdHI6CiAgICAgICAgaXNzdWUgPSBqY20uZ2V0X2lzc3VlKGFyZ3MuaWQpCiAgICAgICAgamNtLmdldF90cmFuc2l0aW9ucyhpc3N1ZSkKICAgICAgICByZXR1cm4gc3RyKGpjbS5nZXRfdHJhbnNpdGlvbnMpCgogICAgZGVmIGhhc19yZXF1aXJlZF9wYXJhbWV0ZXJzKHNlbGYsIGFyZ3MpOgogICAgICAgIHJldHVybiBpc19pc3N1ZShhcmdzKSBhbmQgaGFzX3N0YXR1c19mbGFnKGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICIiIkNoZWNrcyB3aGV0aGVyIHRoZSBjb21tYW5kIGxpbmUgaW5wdXQgaXMgYSBzdGF0dXMgY29tbWFuZCIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlbWFpbF9jbGllbnQgaW1wb3J0IEVtYWlsQ2xpZW50CmZyb20gZW1haWxfcmVhZGVyIGltcG9ydCBFbWFpbFJlYWRlcgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZXF1ZXN0X3R5cGVzLmFwcGVuZChJc3N1ZVN0YXR1c1JlcXVlc3QoKSkK</text>
+        <text encoding="base64">ZnJvbSBwaXBlIGltcG9ydCBQaXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBDb21tYW5kcy5JQ29tbWFuZCBpbXBvcnQgSUNvbW1hbmQK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -501,10 +559,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBDb21tYW5kTGluZS5jb21tYW5kX2xpbmVfdXRpbGl0aWVzIGltcG9ydCB3cml0ZV90b19jb25zb2xlCg==</text>
+        <text encoding="base64">ZnJvbSBDb21tYW5kcyBpbXBvcnQgU3RhdHVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqY20uZ2V0X3RyYW5zaXRpb25zKGlzc3VlKQo=</text>
+        <text encoding="base64">ICAgIEBQaXBlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -513,10 +571,10 @@
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2JvYXJkID0gamNtLmdldF9ib2FyZCgpCiNhY3RpdmVfc3ByaW50ID0gamNtLmdldF9hY3RpdmVfc3ByaW50KGJvYXJkKQojcHJpbnQoamNtLmVzdGltYXRlZF93b3JrX2xlZnRfaW5fc3ByaW50KGFjdGl2ZV9zcHJpbnQpKQo=</text>
+        <text encoding="base64">QFBpcGUKZGVmIF9maWx0ZXJfYXR0cmlidXRlcyhhdHRyaWJ1dGVzOiBkaWN0KSAtPiBkaWN0OgogICAgIiIiRmlsdGVyIHRoZSBhdHRyaWJ1dGVzIG9mIHRoZSBOYW1lc3BhY2Ugb2JqZWN0IHN1Y2ggdGhhdCBvbmx5IGNvbW1hbmRzIHJlbWFpbiIiIgogICAgcmV0dXJuIGxpc3QoZmlsdGVyKF9maWx0ZXJfcHJlZGljYXRlLCBhdHRyaWJ1dGVzKSkKCgpkZWYgX2ZpbHRlcl9wcmVkaWNhdGUoYXR0cmlidXRlOiBzdHJpbmcpIC0+IGJvb2w6CiAgICAiIiJSZW1vdmVzIHN0YW5kYXJkIGF0dHJpYnV0ZXMgdG9nZXRoZXIgd2l0aCBpZCBhbmQgdHlwZSIiIgogICAgcmV0dXJuIGF0dHJpYnV0ZVswOjFdICE9ICJfIiBhbmQgYXR0cmlidXRlWzE6Ml0gIT0gIl8iIGFuZCBhdHRyaWJ1dGUgIT0gImlkIiBhbmQgYXR0cmlidXRlICE9ICd0eXBlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y21kX2N0cmwuaGFuZGxlX2FyZ3VtZW50cygpCg==</text>
+        <text encoding="base64">ICAgIGJsYSA9IGFyZ3MuX19kaWN0X18K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
