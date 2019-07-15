@@ -13,7 +13,7 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563180496269">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563190004677">
         <mark key="'" line="100" column="16" />
         <mark key="[" line="119" column="23" />
         <mark key="]" line="119" column="23" />
@@ -32,6 +32,10 @@
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="66" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/ValueProvider.cs" timestamp="1563192941488">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="40" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsudbetalingsBeskatning/DKPensionsudbetalingsBeskatningCalculate.cs" timestamp="1563188000675" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Udbetaling/UdbetalingInsurancePickerRule.cs" timestamp="1563188236277" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563174868306">
@@ -48,6 +52,9 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563188297177">
         <mark key="[" line="26" column="96" />
         <mark key="]" line="26" column="124" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
+        <mark key="'" line="144" column="49" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/AlivePensionPickerRule.cs" timestamp="1563175203214">
         <mark key="[" line="18" column="37" />
@@ -82,8 +89,15 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563193287165">
+        <mark key="[" line="27" column="50" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/CalculationOutput/Pension/IPensionCalculationOutput.cs" timestamp="1563180790689" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsudbetalingsBeskatning/DKPensionsudbetalingsBeskatningInputSourceOutputSink.cs" timestamp="1563188058081" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/CommonRules/DKFinalTaxDeath.cs" timestamp="1563189244701" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563175073858">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="65" />
@@ -100,10 +114,12 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1563188807475" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" timestamp="1563192592482">
+        <mark key="'" line="39" column="56" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="42" column="42" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="72" column="76" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="73" column="46" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="83" column="22" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -202,6 +218,8 @@
       <jump line="31" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="102" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="100" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="16" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
+      <jump line="39" column="56" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -236,26 +254,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcGx5UGF5b3V0KHllYXIsIGNvbnRleHQsIGNhc2hGbG93LCB1ZGJldGFsdFlkZWxzZSwgREtJbnRlcm5hbEFjY291bnRUeXBlLlBlbnNpb25VZGJldGFsaW5nS2FwaXRhbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LifeAndDeathHandler</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>tax</text>
+        <text>primo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcGx5UGF5b3V0KHllYXIsIGNvbnRleHQsIGNhc2hGbG93LCB1ZGJldGFsdFlkZWxzZSwgREtJbnRlcm5hbEFjY291bnRUeXBlLlBlbnNpb25VZGJldGFsaW5nS2FwaXRhbCk7Cg==</text>
+      <register name="0" type="4">
+        <text>LifeAndDeathHandler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFBlcnNvbi5QMzoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -271,31 +289,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgUmVzb2x2ZUNhc2hmbG93c0Jhc2VkT25EZWF0aChpbnQgeWVhciwgSUNhbGN1bGF0aW9uQ29udGV4dCBjb250ZXh0LCBJQmFzZVBlbnNpb25DYXNoRmxvd0lucHV0SXRlbSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBwZXJzb25Jc0RlYWQgPSBSdWxlVXRpbC5HZXRJc0RlYWQoeWVhciwgY29udGV4dCwgY2FzaEZsb3cuQ2FsY3VsYXRpb25EYXRhLkFwcGxpY2FibGVQZXJzb24pOwogICAgICAgICAgICAgICAgKCFjYXNoRmxvdy5SZXNlcnZlU2lrcmluZ0thblVkYmV0YWxlcyB8fCAhY2FzaEZsb3cuR2FyYW50aUthblVkYmV0YWxlcykKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBfY2FsY3VsYXRpb25ZZWFyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBfY2FsY3VsYXRpb25ZZWFyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25hdHVyYWxEZWF0aFllYXJQMSA9IG5hdHVyYWxEZWF0aFllYXJQMTsKICAgICAgICAgICAgX25hdHVyYWxEZWF0aFllYXJQMiA9IG5hdHVyYWxEZWF0aFllYXJQMjsK</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEdldE5hdHVyYWxEZWF0aFllYXIoUGVyc29uIHBlcnNvbikKICAgICAgICB7CgogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL0FjY291bnRLZXlXaXRoRGV0YWlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tax</last-search>
+      <last-search>primo</last-search>
       <last-offset />
-      <last-pattern>tax</last-pattern>
+      <last-pattern>primo</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -303,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>accountkeywith</entry>
         <entry>accountkeywithde</entry>
         <entry>[]</entry>
         <entry>indkomststatementruletest</entry>
@@ -323,6 +340,7 @@
         <entry>reserve</entry>
         <entry>istax</entry>
         <entry>tax</entry>
+        <entry>primo</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
