@@ -52,7 +52,7 @@
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563196780607">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563196810213">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="122" />
@@ -70,6 +70,12 @@
         <mark key="^" line="10" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1563188807475" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/DkCalculatorWrapper.cs" timestamp="1563197348981">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="62" />
+        <mark key="^" line="36" column="63" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/IBasePensionCashFlowInputItem.cs" timestamp="1563180056704">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="32" />
@@ -117,6 +123,12 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563175073858">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="65" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563197497569">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="21" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="40" column="21" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/RuleCollection/RuleCollection.cs" timestamp="1563194960207" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" timestamp="1563192592482">
@@ -259,28 +271,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_timeService</text>
+        <text>_calculationYear</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>_calculationYear</text>
       </register>
       <register name="/" type="4">
         <text>pickerrulecoll</text>
       </register>
-      <register name="0" type="4">
-        <text>_timeService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBfY2FsY3VsYXRpb25ZZWFyOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpZmVBbmREZWF0aEhhbmRsZXIuTGlmZUFuZERlYXRoSGFuZGxlciBfbGlmZUFuZERlYXRoSGFuZGxlcjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTGlmZUFuZERlYXRoTWFuYWdlcigpIHsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUGVyc29uc1tQZXJzb24uUDFdLkRlYXRoWWVhcgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTGlmZUFuZERlYXRoTWFuYWdlcihJQ2FsY3VsYXRpb25Db250ZXh0IGNhbGN1bGF0aW9uQ29udGV4dCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -293,22 +305,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVTZXJ2aWNlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25hdHVyYWxEZWF0aENvbnRhaW5lciA9IG5ldyBOYXR1cmFsRGVhdGhDb250YWluZXIoCiAgICAgICAgICAgICAgICBjYWxjdWxhdGlvbkNvbnRleHQuUHJvZmlsZS5QZXJzb25zW1BlcnNvbi5QMV0uRGVhdGhZZWFyLAogICAgICAgICAgICAgICAgY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUGVyc29uc1tQZXJzb24uUDJdLkRlYXRoWWVhcik7CiAgICAgICAgICAgIF9oYXNEZWF0aEV2ZW50ID0gY2FsY3VsYXRpb25Db250ZXh0LlNjZW5hcmlvLlNjZW5hcmlvRXZlbnQgPT0gUGVuRXZlbnQuRGVhdGg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVTZXJ2aWNlID0gdGltZVNlcnZpY2U7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhDb250YWluZXIgPSBuZXcgTmF0dXJhbERlYXRoQ29udGFpbmVyKG5hdHVyYWxEZWF0aFllYXJQMSwgbmF0dXJhbERlYXRoWWVhclAyKTsKICAgICAgICAgICAgX2hhc0RlYXRoRXZlbnQgPSBoYXNEZWF0aEV2ZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xpZmVBbmREZWF0aEhhbmRsZXIgPSBuZXcgTGlmZUFuZERlYXRoSGFuZGxlci5MaWZlQW5kRGVhdGhIYW5kbGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVTZXJ2aWNlID0gdGltZVNlcnZpY2U7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhDb250YWluZXIgPSBuZXcgTmF0dXJhbERlYXRoQ29udGFpbmVyKG5hdHVyYWxEZWF0aFllYXJQMSwgbmF0dXJhbERlYXRoWWVhclAyKTsKICAgICAgICAgICAgX2hhc0RlYXRoRXZlbnQgPSBoYXNEZWF0aEV2ZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPT4gdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFBlcnNvbi5QMzoK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGJvb2wgX2hhc0RlYXRoRXZlbnQ7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBOYXR1cmFsRGVhdGhDb250YWluZXIgX25hdHVyYWxEZWF0aENvbnRhaW5lcjsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUaW1lU2VydmljZSBfdGltZVNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -363,9 +375,9 @@
         <entry>%s/Car/Income/g</entry>
         <entry>q</entry>
         <entry>setic</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>set ic</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
