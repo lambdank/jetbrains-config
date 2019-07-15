@@ -31,8 +31,8 @@
         <mark key="." line="201" column="262" />
         <mark key="^" line="201" column="261" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563172490496">
-        <mark key="'" line="961" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563177942852">
+        <mark key="'" line="775" column="54" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/PensionPickerRule.cs" timestamp="1563174674240">
         <mark key="[" line="14" column="0" />
@@ -64,6 +64,12 @@
         <mark key="." line="656" column="0" />
         <mark key="^" line="664" column="28" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1562848254480">
+        <mark key="'" line="36" column="21" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
         <mark key="[" line="25" column="88" />
         <mark key="]" line="25" column="88" />
@@ -80,12 +86,17 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563174744413">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="64" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563176907239">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="39" column="34" />
       </file>
-      <file name="/C# Console" timestamp="1562914068001">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" timestamp="1562851600867">
+        <mark key="'" line="107" column="84" />
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="106" column="34" />
+        <mark key="." line="106" column="33" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/AlivePickerRule.cs" timestamp="1563174889743">
         <mark key="[" line="16" column="37" />
@@ -103,6 +114,12 @@
         <mark key="[" line="312" column="39" />
         <mark key="]" line="312" column="40" />
         <mark key="." line="312" column="40" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" timestamp="1563178147969">
+        <mark key="'" line="204" column="49" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563175073858">
         <mark key="[" line="15" column="49" />
@@ -130,10 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="231" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="419" column="45" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="447" column="50" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="470" column="52" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="399" column="79" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -230,6 +243,10 @@
       <jump line="178" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="960" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="980" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="366" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="787" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="795" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="204" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -264,29 +281,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL0FjY291bnRLZXlXaXRoRGV0YWlscwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>isdeat</text>
+        <text>reserve</text>
       </register>
       <register name="0" type="4">
-        <text>IsDeathCashFlow</text>
+        <text>ReservesikretInput</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
+        <text encoding="base64">ICAgICAgICAvL0FjY291bnRLZXlXaXRoRGV0YWlscwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgQWxpdmVQaWNrZXJSdWxlKElGaW5hbmNpYWxTdGF0ZW1lbnRNYW5hZ2VyIGZpbmFuY2lhbFN0YXRlbWVudE1uZ3IsIElEYXRhUmVuZGVyU3BlY01hbmFnZXIgZGF0YVJlbmRlclNwZWNNbmdyLCBJQXJyYXlPdXRwdXRNYW5hZ2VyIGFycmF5T3V0cHV0TW5nciwgSUVudW1lcmFibGU8VD4gY2FzaEZsb3dzKQogICAgICAgICAgICA6IGJhc2UoZmluYW5jaWFsU3RhdGVtZW50TW5nciwgZGF0YVJlbmRlclNwZWNNbmdyLCBhcnJheU91dHB1dE1uZ3IsIGNhc2hGbG93cykgeyB9CgogICAgICAgIC8vLyA8aW5oZXJpdGRvYyAvPgogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSBib29sIFJ1bGVBcHBsaWVzKGludCB5ZWFyLCBJQ2FsY3VsYXRpb25Db250ZXh0IGNvbnRleHQsIFQgY2FzaEZsb3cpID0+CiAgICAgICAgICAgIGNhc2hGbG93LklzRGVhdGhDYXNoRmxvdyAmJiBiYXNlLlJ1bGVBcHBsaWVzKHllYXIsIGNvbnRleHQsIGNhc2hGbG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3B1YmxpYyB2b2lkIEFkZFN1YkFjY291bnRTbGljZShBY2NvdW50S2V5W10gcGF0aCwgQWNjb3VudERldGFpbHNbXSBkZXRhaWxzLCBBY2NvdW50U2xpY2Ugc2xpY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIGFic3RyYWN0IGNsYXNzIFBlbnNpb25QaWNrZXJSdWxlIDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNDYXRlZ29yeUFueU9mVGhlc2UoCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUmF0ZVBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuS2FwaXRhbFBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUGVuc2lvbkZvclNlbHZzdGFlbmRpZ2UsCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuQWxkZXJzT3BzcGFyaW5nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXV0b21hdGlza1Jlc2VydmVzaWtyZXQgfHwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -299,31 +316,34 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgUmVzZXJ2ZXNpa3JldElucHV0ID0+IF9jYWxjdWxhdGlvbkRhdGEuUmVzZXJ2ZXNpa3JldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgQXV0b21hdGlza1Jlc2VydmVzaWtyZXQgPT4KICAgICAgICAgICAgSXNDYXRlZ29yeUFueU9mVGhlc2UoCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="7" type="4">
+        <text>ProductCategory.RatePension,
+                ProductCategory.KapitalPension,
+                ProductCategory.PensionForSelvstaendige,
+                ProductCategory.AldersOpsparing</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDYXRlZ29yeQogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5SYXRlUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5LYXBpdGFsUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5QZW5zaW9uRm9yU2VsdnN0YWVuZGlnZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5BbGRlcnNPcHNwYXJpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgQWxpdmVQaWNrZXJSdWxlKElGaW5hbmNpYWxTdGF0ZW1lbnRNYW5hZ2VyIGZpbmFuY2lhbFN0YXRlbWVudE1uZ3IsIElEYXRhUmVuZGVyU3BlY01hbmFnZXIgZGF0YVJlbmRlclNwZWNNbmdyLCBJQXJyYXlPdXRwdXRNYW5hZ2VyIGFycmF5T3V0cHV0TW5nciwgSUVudW1lcmFibGU8VD4gY2FzaEZsb3dzKQogICAgICAgICAgICA6IGJhc2UoZmluYW5jaWFsU3RhdGVtZW50TW5nciwgZGF0YVJlbmRlclNwZWNNbmdyLCBhcnJheU91dHB1dE1uZ3IsIGNhc2hGbG93cykgeyB9CgogICAgICAgIC8vLyA8aW5oZXJpdGRvYyAvPgogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSBib29sIFJ1bGVBcHBsaWVzKGludCB5ZWFyLCBJQ2FsY3VsYXRpb25Db250ZXh0IGNvbnRleHQsIFQgY2FzaEZsb3cpID0+CiAgICAgICAgICAgIGNhc2hGbG93LklzRGVhdGhDYXNoRmxvdyAmJiBiYXNlLlJ1bGVBcHBsaWVzKHllYXIsIGNvbnRleHQsIGNhc2hGbG93KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isdeat</last-search>
+      <last-search>reserve</last-search>
       <last-offset />
-      <last-pattern>isdeat</last-pattern>
+      <last-pattern>reserve</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indexoffirst</entry>
-        <entry>valuetuple</entry>
         <entry>accountdetails</entry>
         <entry>mutable</entry>
         <entry>accountkey</entry>
@@ -351,6 +369,8 @@
         <entry>private</entry>
         <entry>iscate</entry>
         <entry>isdeat</entry>
+        <entry>reservesik</entry>
+        <entry>reserve</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
