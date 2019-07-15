@@ -52,7 +52,7 @@
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563194686799">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563196780607">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="122" />
@@ -100,7 +100,9 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsudbetalingsBeskatning/DKPensionsudbetalingsBeskatningCalculate.cs" timestamp="1563188000675" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Udbetaling/UdbetalingInsurancePickerRule.cs" timestamp="1563188236277" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1563174598073" />
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563194327229" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563196540922">
+        <mark key="'" line="88" column="36" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
         <mark key="'" line="144" column="49" />
       </file>
@@ -122,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="232" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="236" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="238" column="62" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -222,6 +223,7 @@
       <jump line="47" column="45" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
       <jump line="49" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
       <jump line="51" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
+      <jump line="88" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -263,7 +265,7 @@
         <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>pickerrulecoll</text>
       </register>
       <register name="0" type="4">
         <text>_timeService</text>
@@ -313,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>pickerrulecoll</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>pickerrulecoll</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -323,7 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indkomststatementruletest</entry>
         <entry>updateaccountkey</entry>
         <entry>setup</entry>
         <entry>setupup</entry>
@@ -343,6 +344,7 @@
         <entry>primo</entry>
         <entry>apply</entry>
         <entry>time</entry>
+        <entry>pickerrulecoll</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
