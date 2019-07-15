@@ -10,12 +10,24 @@
         <mark key="^" line="148" column="122" />
         <mark key="." line="148" column="122" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
+        <mark key="'" line="144" column="49" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" timestamp="1562929463124">
         <mark key="'" line="79" column="70" />
         <mark key="[" line="290" column="15" />
         <mark key="]" line="290" column="15" />
         <mark key="." line="290" column="15" />
         <mark key="^" line="289" column="66" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" timestamp="1562851600867">
+        <mark key="'" line="107" column="84" />
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="106" column="34" />
+        <mark key="." line="106" column="33" />
+      </file>
+      <file name="/C# Console" timestamp="1562914068001">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
         <mark key="'" line="206" column="30" />
@@ -38,6 +50,11 @@
         <mark key="^" line="123" column="39" />
         <mark key="." line="123" column="39" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" timestamp="1563173039301">
+        <mark key="[" line="312" column="39" />
+        <mark key="]" line="312" column="40" />
+        <mark key="." line="312" column="40" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
         <mark key="'" line="459" column="32" />
         <mark key="[" line="534" column="130" />
@@ -58,34 +75,17 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
-        <mark key="[" line="25" column="88" />
-        <mark key="]" line="25" column="88" />
-        <mark key="^" line="25" column="87" />
-        <mark key="." line="25" column="88" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Admin/Advice.Admin.csproj" timestamp="1562851623257">
-        <mark key="'" line="94" column="31" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="43" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
-        <mark key="'" line="144" column="49" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" timestamp="1562851600867">
-        <mark key="'" line="107" column="84" />
-        <mark key="[" line="106" column="33" />
-        <mark key="]" line="106" column="34" />
-        <mark key="." line="106" column="33" />
-      </file>
-      <file name="/C# Console" timestamp="1562914068001">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="27" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
+        <mark key="[" line="25" column="88" />
+        <mark key="]" line="25" column="88" />
+        <mark key="^" line="25" column="87" />
+        <mark key="." line="25" column="88" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
         <mark key="'" line="80" column="34" />
@@ -101,7 +101,11 @@
         <mark key="^" line="90" column="60" />
         <mark key="." line="90" column="51" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1562847310338" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Admin/Advice.Admin.csproj" timestamp="1562851623257">
+        <mark key="'" line="94" column="31" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="141" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
