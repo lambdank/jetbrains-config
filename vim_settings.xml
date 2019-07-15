@@ -10,24 +10,12 @@
         <mark key="^" line="148" column="122" />
         <mark key="." line="148" column="122" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
-        <mark key="'" line="144" column="49" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" timestamp="1562929463124">
         <mark key="'" line="79" column="70" />
         <mark key="[" line="290" column="15" />
         <mark key="]" line="290" column="15" />
         <mark key="." line="290" column="15" />
         <mark key="^" line="289" column="66" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel.DBTests/Advice.Kernel.DBTests.csproj" timestamp="1562851600867">
-        <mark key="'" line="107" column="84" />
-        <mark key="[" line="106" column="33" />
-        <mark key="]" line="106" column="34" />
-        <mark key="." line="106" column="33" />
-      </file>
-      <file name="/C# Console" timestamp="1562914068001">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
         <mark key="'" line="206" column="30" />
@@ -44,16 +32,23 @@
         <mark key="^" line="201" column="261" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563172490496">
-        <mark key="'" line="980" column="0" />
-        <mark key="[" line="123" column="21" />
-        <mark key="]" line="123" column="39" />
-        <mark key="^" line="123" column="39" />
-        <mark key="." line="123" column="39" />
+        <mark key="'" line="961" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" timestamp="1563173039301">
-        <mark key="[" line="312" column="39" />
-        <mark key="]" line="312" column="40" />
-        <mark key="." line="312" column="40" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/PensionPickerRule.cs" timestamp="1563174674240">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="96" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" timestamp="1563174789649">
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="19" column="83" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingLivrentePensionPickerRule.cs" timestamp="1563175189443">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="66" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563174868306">
+        <mark key="[" line="26" column="68" />
+        <mark key="]" line="26" column="91" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
         <mark key="'" line="459" column="32" />
@@ -69,23 +64,55 @@
         <mark key="." line="656" column="0" />
         <mark key="^" line="664" column="28" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRenderKapitalbevaegelser.cs" timestamp="1562848254480">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
+        <mark key="[" line="25" column="88" />
+        <mark key="]" line="25" column="88" />
+        <mark key="^" line="25" column="87" />
+        <mark key="." line="25" column="88" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1563174598073" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
+        <mark key="'" line="144" column="49" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/AlivePensionPickerRule.cs" timestamp="1563175203214">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563174744413">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="64" />
+      </file>
+      <file name="/C# Console" timestamp="1562914068001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/AlivePickerRule.cs" timestamp="1563174889743">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
+        <mark key="[" line="17" column="126" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Dk.Advice.Api.Core.csproj" timestamp="1563173039301">
+        <mark key="[" line="312" column="39" />
+        <mark key="]" line="312" column="40" />
+        <mark key="." line="312" column="40" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563175073858">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="65" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="27" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
-        <mark key="[" line="25" column="88" />
-        <mark key="]" line="25" column="88" />
-        <mark key="^" line="25" column="87" />
-        <mark key="." line="25" column="88" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
         <mark key="'" line="80" column="34" />
@@ -100,11 +127,6 @@
         <mark key="]" line="90" column="51" />
         <mark key="^" line="90" column="60" />
         <mark key="." line="90" column="51" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Admin/Advice.Admin.csproj" timestamp="1562851623257">
-        <mark key="'" line="94" column="31" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -243,28 +265,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AutomatiskReservesikret</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>AutomatiskReservesikret</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>iscate</text>
+        <text>isdeat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgQXV0b21hdGlza1Jlc2VydmVzaWtyZXQgPT4KICAgICAgICAgICAgSXNDYXRlZ29yeUFueU9mVGhlc2UoCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUmF0ZVBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuS2FwaXRhbFBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUGVuc2lvbkZvclNlbHZzdGFlbmRpZ2UsCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuQWxkZXJzT3BzcGFyaW5nKTsK</text>
+      <register name="0" type="4">
+        <text>IsDeathCashFlow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgUmVzZXJ2ZXNpa3JldElucHV0ID0+IF9jYWxjdWxhdGlvbkRhdGEuUmVzZXJ2ZXNpa3JldDsK</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgQWxpdmVQaWNrZXJSdWxlKElGaW5hbmNpYWxTdGF0ZW1lbnRNYW5hZ2VyIGZpbmFuY2lhbFN0YXRlbWVudE1uZ3IsIElEYXRhUmVuZGVyU3BlY01hbmFnZXIgZGF0YVJlbmRlclNwZWNNbmdyLCBJQXJyYXlPdXRwdXRNYW5hZ2VyIGFycmF5T3V0cHV0TW5nciwgSUVudW1lcmFibGU8VD4gY2FzaEZsb3dzKQogICAgICAgICAgICA6IGJhc2UoZmluYW5jaWFsU3RhdGVtZW50TW5nciwgZGF0YVJlbmRlclNwZWNNbmdyLCBhcnJheU91dHB1dE1uZ3IsIGNhc2hGbG93cykgeyB9CgogICAgICAgIC8vLyA8aW5oZXJpdGRvYyAvPgogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSBib29sIFJ1bGVBcHBsaWVzKGludCB5ZWFyLCBJQ2FsY3VsYXRpb25Db250ZXh0IGNvbnRleHQsIFQgY2FzaEZsb3cpID0+CiAgICAgICAgICAgIGNhc2hGbG93LklzRGVhdGhDYXNoRmxvdyAmJiBiYXNlLlJ1bGVBcHBsaWVzKHllYXIsIGNvbnRleHQsIGNhc2hGbG93KTsK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludGVybmFsIGFic3RyYWN0IGNsYXNzIFBlbnNpb25QaWNrZXJSdWxlIDogCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -276,32 +298,32 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgUmVzZXJ2ZXNpa3JldElucHV0ID0+IF9jYWxjdWxhdGlvbkRhdGEuUmVzZXJ2ZXNpa3JldDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDYXRlZ29yeQogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5SYXRlUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5LYXBpdGFsUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5QZW5zaW9uRm9yU2VsdnN0YWVuZGlnZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5BbGRlcnNPcHNwYXJpbmc7Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDYXRlZ29yeQogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5SYXRlUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5LYXBpdGFsUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5QZW5zaW9uRm9yU2VsdnN0YWVuZGlnZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5BbGRlcnNPcHNwYXJpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iscate</last-search>
+      <last-search>isdeat</last-search>
       <last-offset />
-      <last-pattern>iscate</last-pattern>
+      <last-pattern>isdeat</last-pattern>
       <last-replace>Income</last-replace>
       <last-substitute>Car</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>startyearoffset</entry>
         <entry>indexoffirst</entry>
         <entry>valuetuple</entry>
         <entry>accountdetails</entry>
@@ -329,6 +350,7 @@
         <entry>is</entry>
         <entry>private</entry>
         <entry>iscate</entry>
+        <entry>isdeat</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
