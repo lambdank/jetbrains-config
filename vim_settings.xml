@@ -58,9 +58,9 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563180020346">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="44" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563199016967">
+        <mark key="[" line="68" column="68" />
+        <mark key="]" line="68" column="111" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
         <mark key="[" line="57" column="55" />
@@ -68,11 +68,11 @@
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563196810213">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="122" />
-        <mark key="." line="21" column="12" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563198822410">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKPensionsudbetalingsBeskatning/DKPensionsudbetalingsBeskatningInputSourceOutputSink.cs" timestamp="1563188058081" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Indbetaling/IndbetalingPensionPickerRule.cs" timestamp="1563193391895">
@@ -180,11 +180,11 @@
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="65" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563198285843">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="79" column="9" />
-        <mark key="." line="71" column="30" />
-        <mark key="^" line="71" column="30" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563199035643">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="37" />
+        <mark key="." line="81" column="37" />
+        <mark key="^" line="81" column="37" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/RuleCollection/RuleCollection.cs" timestamp="1563194960207" />
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562834820116">
@@ -334,16 +334,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lifeAndDeathManager</text>
+        <text>YearHasDeath</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>YearHasDeath</text>
       </register>
       <register name="/" type="4">
         <text>liuqid</text>
       </register>
       <register name="0" type="4">
-        <text>lifeAndDeathManager</text>
+        <text>GetAccountingPerson(year, cashFlow, context)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhDb250YWluZXIgPSBuZXcgTmF0dXJhbERlYXRoQ29udGFpbmVyKAogICAgICAgICAgICAgICAgY2FsY3VsYXRpb25Db250ZXh0LlByb2ZpbGUuUGVyc29uc1tQZXJzb24uUDFdLkRlYXRoWWVhciwKICAgICAgICAgICAgICAgIGNhbGN1bGF0aW9uQ29udGV4dC5Qcm9maWxlLlBlcnNvbnNbUGVyc29uLlAyXS5EZWF0aFllYXIpOwogICAgICAgICAgICBfaGFzRGVhdGhFdmVudCA9IGNhbGN1bGF0aW9uQ29udGV4dC5TY2VuYXJpby5TY2VuYXJpb0V2ZW50ID09IFBlbkV2ZW50LkRlYXRoOwogICAgICAgICAgICBfY2FsY3VsYXRpb25ZZWFyID0gY2FsY3VsYXRpb25ZZWFyOwogICAgICAgICAgICBfaW5pdGlhbGl6ZWQgPSB0cnVlOwogICAgICAgIH0K</text>
