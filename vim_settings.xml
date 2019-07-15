@@ -17,12 +17,6 @@
         <mark key="." line="290" column="15" />
         <mark key="^" line="289" column="66" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Advice.EconomicSuite.csproj" timestamp="1562851626333">
-        <mark key="'" line="244" column="84" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="43" />
-        <mark key="." line="243" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
         <mark key="'" line="206" column="30" />
         <mark key="[" line="212" column="48" />
@@ -37,12 +31,12 @@
         <mark key="." line="201" column="262" />
         <mark key="^" line="201" column="261" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563170213418">
-        <mark key="'" line="960" column="0" />
-        <mark key="[" line="190" column="98" />
-        <mark key="]" line="191" column="11" />
-        <mark key="." line="191" column="11" />
-        <mark key="^" line="191" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563172490496">
+        <mark key="'" line="980" column="0" />
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="123" column="39" />
+        <mark key="^" line="123" column="39" />
+        <mark key="." line="123" column="39" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
         <mark key="'" line="459" column="32" />
@@ -110,7 +104,6 @@
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1562847310338" />
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="141" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="231" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
       <jump line="419" column="45" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
@@ -210,6 +203,7 @@
       <jump line="327" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="178" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
       <jump line="960" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
+      <jump line="980" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -245,28 +239,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>AutomatiskReservesikret</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>AutomatiskReservesikret</text>
       </register>
       <register name="/" type="4">
         <text>iscate</text>
       </register>
-      <register name="0" type="4">
-        <text>IsCategoryAnyOfThese</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgQXV0b21hdGlza1Jlc2VydmVzaWtyZXQgPT4KICAgICAgICAgICAgSXNDYXRlZ29yeUFueU9mVGhlc2UoCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUmF0ZVBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuS2FwaXRhbFBlbnNpb24sCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuUGVuc2lvbkZvclNlbHZzdGFlbmRpZ2UsCiAgICAgICAgICAgICAgICBQcm9kdWN0Q2F0ZWdvcnkuQWxkZXJzT3BzcGFyaW5nKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgUmVzZXJ2ZXNpa3JldElucHV0ID0+IF9jYWxjdWxhdGlvbkRhdGEuUmVzZXJ2ZXNpa3JldDsK</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDYXRlZ29yeQogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5SYXRlUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5LYXBpdGFsUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5QZW5zaW9uRm9yU2VsdnN0YWVuZGlnZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5BbGRlcnNPcHNwYXJpbmc7Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">X2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSAKX2NhbGN1bGF0aW9uRGF0YS5DYXRlZ29yeSA9PSA=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -278,23 +272,23 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDYXRlZ29yeQogICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5SYXRlUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5LYXBpdGFsUGVuc2lvbiB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5QZW5zaW9uRm9yU2VsdnN0YWVuZGlnZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY2FsY3VsYXRpb25EYXRhLkNhdGVnb3J5ID09IFByb2R1Y3RDYXRlZ29yeS5BbGRlcnNPcHNwYXJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIFZBUklBQkxFIGluIENPTExFQ1RJT04pCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcmllcy5BZ2dyZWdhdGUoZmFsc2UsIChiLCBjYXRlZ29yeSkgPT4gYiB8fCBjYXRlZ29yeS4pIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
