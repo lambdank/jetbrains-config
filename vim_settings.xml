@@ -308,8 +308,8 @@
         <mark key="^" line="52" column="111" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/RuleCollection/RuleCollection.cs" timestamp="1563194960207" />
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563281304879">
-        <mark key="'" line="115" column="17" />
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563281716154">
+        <mark key="'" line="1196" column="56" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562834820116">
         <mark key="'" line="95" column="9" />
@@ -331,58 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" />
-      <jump line="5" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiSkattekode7PensionPickerRule.cs" />
-      <jump line="155" column="66" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" />
-      <jump line="192" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="260" column="172" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="202" column="203" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="990" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="991" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1004" column="71" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1062" column="127" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1030" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="272" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1085" column="125" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1571" column="143" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1711" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1798" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="342" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="345" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="474" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="538" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="963" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="980" column="64" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="982" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="983" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="984" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="987" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="972" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1011" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1845" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="997" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1613" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1563" column="78" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1562" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="969" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="2078" column="119" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="2064" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1991" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1977" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1917" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1881" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1023" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="993" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1648" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1649" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1664" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="468" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="93" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="67" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="207" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="244" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="264" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="284" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="304" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="329" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="350" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
@@ -431,6 +379,58 @@
       <jump line="2299" column="33" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Advice.Web.FormuePlan.csproj" />
       <jump line="479" column="38" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Advice.Web.FormuePlan.csproj" />
       <jump line="115" column="17" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1268" column="0" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1206" column="25" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1286" column="143" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1290" column="143" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1294" column="143" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1409" column="51" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1461" column="54" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1463" column="53" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1465" column="52" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1470" column="21" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1522" column="67" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1525" column="59" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1529" column="78" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1530" column="126" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1555" column="59" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1760" column="72" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1764" column="53" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1766" column="52" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1771" column="25" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2097" column="179" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2130" column="17" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2132" column="55" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2136" column="74" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2137" column="123" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2461" column="17" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2467" column="55" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2470" column="68" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2477" column="21" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2563" column="39" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2567" column="47" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2754" column="38" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2755" column="39" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2759" column="42" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2760" column="43" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3134" column="56" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3137" column="49" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3142" column="21" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3955" column="42" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3956" column="42" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3957" column="43" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3958" column="43" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4041" column="112" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4062" column="231" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4072" column="242" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4080" column="126" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="8007" column="96" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="349" column="61" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="876" column="54" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="944" column="56" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1049" column="54" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1117" column="57" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1196" column="56" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -472,7 +472,7 @@
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>Ages(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
@@ -523,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>Ages(</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>Ages(</last-pattern>
       <last-replace>Skatkode7</last-replace>
       <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
@@ -533,8 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alders</entry>
-        <entry>Kapital</entry>
         <entry>pensionlist</entry>
         <entry>liquid</entry>
         <entry>life</entry>
@@ -553,6 +551,8 @@
         <entry>baseurl</entry>
         <entry>base</entry>
         <entry>url</entry>
+        <entry>ages</entry>
+        <entry>Ages(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/update/remove/g</entry>
