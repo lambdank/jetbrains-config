@@ -27,11 +27,11 @@
       <file name="/a.dummy" timestamp="1563102257748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/sprint_issues.py" timestamp="1563102354039">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/sprint_issues.py" timestamp="1563104555736">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/jiraConnectionHandler.py" timestamp="1555578861416">
         <mark key="[" line="22" column="0" />
@@ -81,11 +81,11 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/request_controller.py" timestamp="1563091784324">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="43" />
-        <mark key="^" line="20" column="43" />
-        <mark key="." line="20" column="43" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/request_controller.py" timestamp="1563104705520">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/IssueStatusRequest.py" timestamp="1563033619857">
         <mark key="[" line="13" column="64" />
@@ -114,25 +114,25 @@
         <mark key="." line="68" column="74" />
         <mark key="^" line="68" column="92" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/issue_move_request.py" timestamp="1563102282249">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/issue_move_request.py" timestamp="1563104663228">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/shared_request_checks.py" timestamp="1563091157945">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/shared_request_checks.py" timestamp="1563104611972">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="66" />
+        <mark key="^" line="10" column="66" />
+        <mark key="." line="10" column="66" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" timestamp="1563102394218">
+      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" timestamp="1563104946757">
         <mark key="'" line="29" column="6" />
         <mark key="k" line="105" column="21" />
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="24" />
-        <mark key="." line="99" column="70" />
-        <mark key="^" line="99" column="70" />
+        <mark key="[" line="109" column="50" />
+        <mark key="]" line="109" column="50" />
+        <mark key="." line="109" column="50" />
+        <mark key="^" line="109" column="53" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/board.py" timestamp="1556455140764">
         <mark key="[" line="0" column="0" />
@@ -182,12 +182,12 @@
         <mark key="^" line="197" column="29" />
         <mark key="." line="177" column="68" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" timestamp="1563090439251">
-        <mark key="'" line="43" column="38" />
-        <mark key="[" line="56" column="72" />
-        <mark key="]" line="56" column="72" />
-        <mark key="^" line="56" column="73" />
-        <mark key="." line="56" column="72" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" timestamp="1563104455420">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="80" column="83" />
+        <mark key="]" line="80" column="87" />
+        <mark key="^" line="80" column="87" />
+        <mark key="." line="80" column="87" />
       </file>
       <file name="/" timestamp="1557686732299">
         <mark key="[" line="0" column="0" />
@@ -222,10 +222,11 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_log_work_request.py" timestamp="1563091037533">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="70" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_log_work_request.py" timestamp="1563104656519">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/GetAccount.cs" timestamp="1556189425266">
         <mark key="[" line="6" column="22" />
@@ -233,8 +234,8 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" timestamp="1563092250803">
-        <mark key="'" line="1715" column="15" />
+      <file name="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" timestamp="1563105536664">
+        <mark key="'" line="3268" column="53" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_status_request.py" timestamp="1563091087445">
         <mark key="[" line="9" column="14" />
@@ -272,7 +273,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1563092347454">
+      <file name="/Python Console" timestamp="1563105667472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1556440664269">
@@ -305,11 +306,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Mappers/command_line_argument_mapper.py" timestamp="1563090898046">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="22" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="34" column="22" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Mappers/command_line_argument_mapper.py" timestamp="1563104741952">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/containers.py" timestamp="1563044352578">
         <mark key="[" line="12" column="86" />
@@ -335,21 +336,17 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/sprint_print_issues.py" timestamp="1563102544251">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-        <mark key="^" line="9" column="44" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/sprint_print_issues.py" timestamp="1563105933802">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src2/Pipfile" timestamp="1555569634259">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/log_work.py" timestamp="1563090534349">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_interpreter.py" timestamp="1557678789702">
         <mark key="[" line="1" column="42" />
@@ -374,10 +371,6 @@
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/IssuePrintRequest.py" timestamp="1563047188277">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/repo/command-line-jira/src/Request/board_request.py" timestamp="1557679772025">
         <mark key="[" line="2" column="4" />
@@ -410,7 +403,7 @@
         <mark key="^" line="98" column="36" />
         <mark key="." line="98" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563092154897">
+      <file name="/Dummy.txt" timestamp="1563104337887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1555008579752">
@@ -448,12 +441,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" timestamp="1563092569034">
-        <mark key="'" line="76" column="49" />
-        <mark key="[" line="83" column="11" />
-        <mark key="]" line="83" column="46" />
-        <mark key="." line="83" column="46" />
-        <mark key="^" line="83" column="46" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" timestamp="1563105665428">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="91" column="76" />
+        <mark key="]" line="91" column="76" />
+        <mark key="." line="91" column="76" />
+        <mark key="^" line="91" column="84" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
         <mark key="[" line="33" column="11" />
@@ -497,11 +490,11 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/sprint.py" timestamp="1563043944005">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/sprint.py" timestamp="1563105019893">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/config.py" timestamp="1555682597464">
         <mark key="[" line="1" column="64" />
@@ -523,91 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="142" filename="C:/repo/bil/build.proj" />
-      <jump line="623" column="27" filename="C:/repo/bec/build.proj" />
-      <jump line="30" column="9" filename="C:/repo/bec/build.proj" />
-      <jump line="40" column="68" filename="C:/repo/bec/build.proj" />
-      <jump line="54" column="63" filename="C:/repo/bec/build.proj" />
-      <jump line="0" column="0" filename="C:/repo/bil/build.proj" />
-      <jump line="0" column="2" filename="C:/repo/bec/build.proj" />
-      <jump line="234" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="36" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="2005" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="4425" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="959" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1118" column="96" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1166" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="701" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1136" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="994" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1070" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1878" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1905" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="138" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="22" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="44" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="46" column="104" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="48" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="55" column="144" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="64" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/handleAddRemovePerson.js" />
-      <jump line="199" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="168" column="43" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="174" column="45" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="184" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="187" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="189" column="33" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="69" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/UI/BP/BudgetResultSituation.cs" />
-      <jump line="7" column="14" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="73" column="60" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="74" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="75" column="78" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="87" column="63" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="88" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="89" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="106" column="109" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/budgetresult.js" />
-      <jump line="857" column="28" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="1740" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="4953" column="0" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="3093" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="4502" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="5044" column="57" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="5090" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="859" column="19" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="1940" column="12" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Budget.cs" />
-      <jump line="762" column="23" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="816" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="872" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1187" column="31" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1193" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1195" column="49" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1222" column="34" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="1900" column="39" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="617" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="618" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="622" column="4" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="639" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="32" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="108" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="151" column="91" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="153" column="67" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/assets/libraries/ReactBridge/ReactBridge.js" />
-      <jump line="846" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="867" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="881" column="11" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/js/functions.js" />
-      <jump line="31" column="23" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="39" column="45" filename="$USER_HOME$/persrepo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/persrepo/command-line-jira/src/config_manager.py" />
-      <jump line="241" column="54" filename="C:/repo/ap/product/Applications/Advice.Web.FormuePlan/Financys/Global.asax.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/repo/command-line-jira/Pipfile.lock" />
-      <jump line="12" column="24" filename="$USER_HOME$/repo/command-line-jira/Pipfile.lock" />
-      <jump line="45" column="36" filename="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="58" column="93" filename="$USER_HOME$/repo/command-line-jira/src/config_manager.py" />
-      <jump line="57" column="23" filename="$USER_HOME$/repo/command-line-jira/src/jira_connection_manager.py" />
-      <jump line="25" column="14" filename="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/issue.py" />
-      <jump line="23" column="111" filename="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/issue.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
-      <jump line="13" column="19" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
       <jump line="29" column="50" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
       <jump line="9" column="0" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_argument_mapper.py" />
       <jump line="36" column="70" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/issue.py" />
@@ -623,31 +531,116 @@
       <jump line="106" column="17" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" />
       <jump line="29" column="6" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" />
       <jump line="1098" column="13" filename="/usr/lib/python3.7/argparse.py" />
+      <jump line="17" column="13" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
+      <jump line="66" column="12" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
+      <jump line="13" column="3" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
+      <jump line="240" column="6" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3067" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3069" column="110" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3071" column="47" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3072" column="49" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3073" column="41" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3092" column="37" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3099" column="91" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3100" column="59" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3102" column="68" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3103" column="59" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3105" column="60" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3107" column="65" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3110" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3111" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3112" column="22" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3113" column="29" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3114" column="16" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3117" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3119" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3132" column="29" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3139" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3144" column="47" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3153" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3157" column="51" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3159" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3164" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3166" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3168" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3169" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3177" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3178" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3179" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3226" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3227" column="24" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3229" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3230" column="46" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3239" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3255" column="17" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3260" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3270" column="12" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3272" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3273" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3274" column="50" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3277" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3280" column="30" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3281" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3283" column="14" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3287" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3301" column="40" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3303" column="61" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3304" column="32" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3305" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3308" column="67" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3367" column="80" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3386" column="40" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3388" column="61" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3390" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="539" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="540" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="541" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="542" column="43" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="543" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3064" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3065" column="25" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3138" column="53" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3140" column="98" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3143" column="39" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3145" column="100" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3152" column="49" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3154" column="98" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3158" column="36" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3162" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3165" column="20" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3171" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3173" column="14" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3267" column="35" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="3268" column="53" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>board</text>
+        <text encoding="base64">bG9sIA==</text>
       </register>
       <register name="-" type="4">
-        <text>board</text>
+        <text encoding="base64">bG9sIA==</text>
       </register>
       <register name="/" type="4">
-        <text>meta</text>
+        <text>sprint_id</text>
       </register>
-      <register name="0" type="4">
-        <text>board</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5famlyYV9hZ2lsZS5zcHJpbnRfaW5mbyhzcHJpbnQuYm9hcmQuaWQsIHNwcmludC5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlX2lzc3VlX2NvbW1hbmQ6IFNwcmludElzc3VlcyA9IGFyZ3MuY29tbWFuZAo=</text>
+        <text encoding="base64">ICAgIGJvYXJkX3BhcnNlci5hZGRfYXJndW1lbnQoIi1zIiwgIi0tc3ByaW50IiwgbmFyZ3M9MSwgbWV0YXZhcj0iU1BSSU5UIiwgaGVscD0iU3BlY2lmaWVzIHRoZSBzcHJpbnQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBDb21tYW5kcy5tb3ZlX2lzc3VlIGltcG9ydCBNb3ZlSXNzdWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwoK</text>
+        <text encoding="base64">ICAgIGJvYXJkX3BhcnNlci5hZGRfc3VicGFyc2VycygpIHwgX2FkZF9nZXRfaXNzdWVzX2luX3NwcmludF9zdWJwYXJzZXIK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -660,31 +653,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0cmFuc2l0aW9uOiBzdHJpbmcpOgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRyYW5zaXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3RyYW5zaXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90cmFuc2l0aW9uID0gdHJhbnNpdGlvbgo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy14JywgbmFyZ3M9MikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldF9pc3N1ZXNfaW5fc3ByaW50X3BhcnNlciA9IHN1YnBhcnNlcnMuYWRkX3BhcnNlcigiaXNzdWVzIiwgYWxpYXNlcz1bIm12Il0sIGhlbHA9Ik1vdmVzIGFuIGlzc3VlIGZyb20gb25lIHN0YXR1cyB0byBhbm90aGVyIikK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjVE9ETzogRmluZCBvdXQgd2hhdCB0aGlzIGRvZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2FyZCA9IGpjbS5nZXRfYm9hcmQoYXJncy5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>meta</last-search>
+      <last-search>sprint_id</last-search>
       <last-offset />
-      <last-pattern>meta</last-pattern>
+      <last-pattern>sprint_id</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -692,10 +685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tax</entry>
-        <entry>beregnetskat</entry>
-        <entry>sumind</entry>
-        <entry>calcindtaegterskat</entry>
         <entry>calcIndtaegter</entry>
         <entry>store</entry>
         <entry>gettax</entry>
@@ -712,6 +701,10 @@
         <entry>server</entry>
         <entry>issue</entry>
         <entry>meta</entry>
+        <entry>JiraSprint</entry>
+        <entry>board</entry>
+        <entry>sprint</entry>
+        <entry>sprint_id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2017/2015</entry>
