@@ -3,644 +3,470 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/shared_request_checks.py" timestamp="1557686596951">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" timestamp="1562929463124">
+        <mark key="'" line="79" column="70" />
+        <mark key="[" line="290" column="15" />
+        <mark key="]" line="290" column="15" />
+        <mark key="." line="290" column="15" />
+        <mark key="^" line="289" column="66" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/Command.py" timestamp="1563034286505">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563258566447">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Config/config_manager.py" timestamp="1563044248756">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="33" />
-        <mark key="." line="72" column="33" />
-        <mark key="^" line="72" column="33" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiPensionPickerRule.cs" timestamp="1563258828513">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
       </file>
-      <file name="/fragment.js" timestamp="1555391482274">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" timestamp="1563264769814">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1563102257748">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleCollectionFactory.cs" timestamp="1563198708365">
+        <mark key="[" line="48" column="221" />
+        <mark key="]" line="48" column="242" />
+        <mark key="." line="48" column="242" />
+        <mark key="^" line="48" column="242" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/sprint_issues.py" timestamp="1563104555736">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1563261078544">
+        <mark key="[" line="84" column="44" />
+        <mark key="]" line="84" column="50" />
+        <mark key="^" line="84" column="50" />
+        <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/jiraConnectionHandler.py" timestamp="1555578861416">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="77" />
-        <mark key="." line="22" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" timestamp="1562935005778">
+        <mark key="'" line="656" column="31" />
+        <mark key="[" line="656" column="0" />
+        <mark key="]" line="656" column="0" />
+        <mark key="." line="656" column="0" />
+        <mark key="^" line="664" column="28" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_input.py" timestamp="1563034382446">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="65" />
-        <mark key="^" line="6" column="65" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger.Test/Api/StandardValuesApiTests.cs" timestamp="1563267481762">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/sprint.py" timestamp="1556455391293">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
+        <mark key="[" line="25" column="88" />
+        <mark key="]" line="25" column="88" />
+        <mark key="^" line="25" column="87" />
+        <mark key="." line="25" column="88" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/argument_stack.py" timestamp="1556438678759">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="86" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/ILifeAndDeathManager.cs" timestamp="1563261128645">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/login_manager.py" timestamp="1555581371038">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="18" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1563256882350">
+        <mark key="[" line="402" column="67" />
+        <mark key="]" line="402" column="73" />
+        <mark key="." line="402" column="73" />
+        <mark key="^" line="402" column="73" />
       </file>
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/GraphLoader.cs" timestamp="1556176744217">
-        <mark key="[" line="740" column="34" />
-        <mark key="]" line="741" column="15" />
-        <mark key="." line="741" column="15" />
-        <mark key="^" line="741" column="15" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/AlivePensionPickerRule.cs" timestamp="1563175203214">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/arguments_parsers/argument_parser.py" timestamp="1555685796677">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="21" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563188128127">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="92" />
+        <mark key="." line="40" column="90" />
       </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/argument_stack.py" timestamp="1555686481847">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/AlivePickerRule.cs" timestamp="1563174889743">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="87" />
+        <mark key="." line="57" column="87" />
+        <mark key="^" line="57" column="87" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" timestamp="1563259251700">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="109" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563259230443">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="26" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" timestamp="1563259328069">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="111" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKeyCreator.cs" timestamp="1563256710160">
+        <mark key="'" line="23" column="43" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="27" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
+        <mark key="'" line="80" column="34" />
+        <mark key="[" line="82" column="94" />
+        <mark key="]" line="82" column="119" />
+        <mark key="." line="82" column="119" />
+        <mark key="^" line="82" column="119" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/ReservesikringPensionPickerRule.cs" timestamp="1563254912441">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringKapitalPensionPickerRule.cs" timestamp="1563259315709">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="111" />
+        <mark key="." line="12" column="109" />
+        <mark key="^" line="12" column="109" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManagerExtensions.cs" timestamp="1562928443452">
+        <mark key="'" line="148" column="41" />
+        <mark key="[" line="148" column="122" />
+        <mark key="]" line="148" column="122" />
+        <mark key="^" line="148" column="122" />
+        <mark key="." line="148" column="122" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/DkCalculatorWrapper.cs" timestamp="1563261282298">
+        <mark key="[" line="50" column="186" />
+        <mark key="]" line="50" column="206" />
+        <mark key="." line="50" column="206" />
+        <mark key="^" line="50" column="206" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/IDKCalculationContext.cs" timestamp="1563253524197">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/IBasePensionCashFlowInputItem.cs" timestamp="1563180056704">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/ILifeAndDeathManager.cs" timestamp="1563269316516">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
+        <mark key="'" line="206" column="30" />
+        <mark key="[" line="212" column="48" />
+        <mark key="]" line="212" column="75" />
+        <mark key="^" line="212" column="75" />
+        <mark key="." line="212" column="75" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiAldersopsparingPensionPickerRule.cs" timestamp="1563258964566">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" timestamp="1562934963485">
+        <mark key="'" line="89" column="49" />
+        <mark key="[" line="201" column="262" />
+        <mark key="]" line="201" column="262" />
+        <mark key="." line="201" column="262" />
+        <mark key="^" line="201" column="261" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" timestamp="1563260075256">
+        <mark key="'" line="155" column="66" />
+        <mark key="[" line="187" column="185" />
+        <mark key="]" line="187" column="185" />
+        <mark key="." line="187" column="185" />
+        <mark key="^" line="187" column="185" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/PensionPickerRule.cs" timestamp="1563193729543">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
-        <mark key="^" line="23" column="34" />
         <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/request_controller.py" timestamp="1563104705520">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="51" />
-        <mark key="^" line="22" column="51" />
-        <mark key="." line="22" column="51" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
+        <mark key="'" line="459" column="32" />
+        <mark key="[" line="534" column="130" />
+        <mark key="]" line="534" column="130" />
+        <mark key="." line="534" column="130" />
+        <mark key="^" line="534" column="130" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/IssueStatusRequest.py" timestamp="1563033619857">
-        <mark key="[" line="13" column="64" />
-        <mark key="]" line="13" column="82" />
-        <mark key="." line="13" column="64" />
-        <mark key="^" line="7" column="65" />
-      </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/FSUtils.cs" timestamp="1556189562524">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringLivrentePensionPickerRule.cs" timestamp="1563259301565">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/LogWork.py" timestamp="1563047145970">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1556176652388">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/jira_command_manager.py" timestamp="1556455869832">
-        <mark key="[" line="68" column="74" />
-        <mark key="]" line="68" column="74" />
-        <mark key="." line="68" column="74" />
-        <mark key="^" line="68" column="92" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/issue_move_request.py" timestamp="1563104663228">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="47" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/shared_request_checks.py" timestamp="1563104611972">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="10" column="66" />
-        <mark key="^" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" timestamp="1563104946757">
-        <mark key="'" line="29" column="6" />
-        <mark key="k" line="105" column="21" />
-        <mark key="[" line="109" column="50" />
-        <mark key="]" line="109" column="50" />
-        <mark key="." line="109" column="50" />
-        <mark key="^" line="109" column="53" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraDataObjects/board.py" timestamp="1556455140764">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/board.py" timestamp="1563041757349">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/main.py" timestamp="1563044435094">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/Pipfile" timestamp="1563036655613">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/parameter_parser.py" timestamp="1555685216080">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/commandLineHandler.py" timestamp="1555578924785">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_controller.py" timestamp="1557687260681">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/handlers/beregnSkat.ashx.cs" timestamp="1555480195776">
-        <mark key="[" line="177" column="68" />
-        <mark key="]" line="177" column="68" />
-        <mark key="^" line="197" column="29" />
-        <mark key="." line="177" column="68" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" timestamp="1563104455420">
-        <mark key="'" line="13" column="3" />
-        <mark key="[" line="80" column="83" />
-        <mark key="]" line="80" column="87" />
-        <mark key="^" line="80" column="87" />
-        <mark key="." line="80" column="87" />
-      </file>
-      <file name="/" timestamp="1557686732299">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/command_line_utilities.py" timestamp="1555685183264">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument.py" timestamp="1557678958241">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/DTO/BeregnSkatResponseDTO.cs" timestamp="1555480211397">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValuesBaseDTO.cs" timestamp="1555478698234">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/IssueRequests/IssueStatusRequest.py" timestamp="1557687516313">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_log_work_request.py" timestamp="1563104656519">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/lib/GetAccount.cs" timestamp="1556189425266">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="66" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" timestamp="1563105536664">
-        <mark key="'" line="3268" column="53" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_status_request.py" timestamp="1563091087445">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/constants.py" timestamp="1555683505147">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/swagger-codegen/local-v8/ConsoleApp1/Program.cs" timestamp="1556188758969">
-        <mark key="[" line="14" column="108" />
-        <mark key="]" line="14" column="107" />
-        <mark key="^" line="14" column="107" />
-        <mark key="." line="14" column="107" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Satser/StandardValues/Model/StandardValueItem.cs" timestamp="1555478491257">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-      </file>
-      <file name="C:/repo/advice_delivery/Customers/FSS-SDC/Advice.Customers.Fss-Sdc.FormuePlan/Services/SDCService.cs" timestamp="1556008749102">
-        <mark key="[" line="105" column="114" />
-        <mark key="]" line="105" column="114" />
-        <mark key="." line="105" column="114" />
-        <mark key="^" line="105" column="114" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/IssueRequests/IssueRequest.py" timestamp="1557685869783">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="/Python Console" timestamp="1563105667472">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1556440664269">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Commands/move_issue.py" timestamp="1563102330761">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="6" column="40" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/login_manager.py" timestamp="1563038567589">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentStack.py" timestamp="1555685970041">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/argument_parser.py" timestamp="1557678099351">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Mappers/command_line_argument_mapper.py" timestamp="1563104741952">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="47" />
-        <mark key="^" line="37" column="47" />
-        <mark key="." line="37" column="47" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/containers.py" timestamp="1563044352578">
-        <mark key="[" line="12" column="86" />
-        <mark key="]" line="12" column="101" />
-        <mark key="^" line="12" column="101" />
-        <mark key="." line="12" column="101" />
-      </file>
-      <file name="$USER_HOME$/bla/financialmodeling/BP Api Client/v8.0.0/src/TestApp/Program.cs" timestamp="1556189527307">
-        <mark key="[" line="65" column="73" />
-        <mark key="]" line="65" column="71" />
-        <mark key="^" line="65" column="71" />
-        <mark key="." line="65" column="71" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/main.py" timestamp="1555682514402">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/SharedRequestChecks.py" timestamp="1557686257139">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/sprint_print_issues.py" timestamp="1563105933802">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src2/Pipfile" timestamp="1555569634259">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_interpreter.py" timestamp="1557678789702">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="39" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_utilities.py" timestamp="1563027947604">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/IssueLogWorkRequest.py" timestamp="1563047456327">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="8" column="16" />
-      </file>
-      <file name="C:/repo/ap/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Company/DKCompanyAccountDetailsProvider.cs" timestamp="1556001758150">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/board_request.py" timestamp="1557679772025">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Issue_print_request.py" timestamp="1563102269133" />
-      <file name="$USER_HOME$/persrepo/command-line-jira/Pipfile" timestamp="1555570103429">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLineHandling/command_line_argument_parser.py" timestamp="1557678259322">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/LoginManagement/login_manager.py" timestamp="1563044265122">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="43" column="40" />
-        <mark key="." line="10" column="48" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/Print/Budget/BudgetPrintParts.cs" timestamp="1555048338523">
-        <mark key="[" line="98" column="21" />
-        <mark key="]" line="98" column="36" />
-        <mark key="^" line="98" column="36" />
-        <mark key="." line="98" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563104337887">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/C# Console" timestamp="1555008579752">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/request_controller.py" timestamp="1557687890681">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="44" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/issue.py" timestamp="1563091638342">
-        <mark key="'" line="43" column="70" />
-        <mark key="[" line="47" column="123" />
-        <mark key="m" line="53" column="35" />
-        <mark key="]" line="47" column="128" />
-        <mark key="^" line="47" column="128" />
-        <mark key="." line="47" column="128" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/Sprint_print_issues.py" timestamp="1563102253355">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/issue.py" timestamp="1555578768767">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="0" column="65" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/issue_request.py" timestamp="1557681261394">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" timestamp="1563105665428">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="91" column="76" />
-        <mark key="]" line="91" column="76" />
-        <mark key="." line="91" column="76" />
-        <mark key="^" line="91" column="84" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/BudgetResult.aspx.cs" timestamp="1555411220797">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="33" column="18" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineHandling/ArgumentParsers/argument_parser.py" timestamp="1555686493510">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/loginHandler.py" timestamp="1555579602844">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/request.py" timestamp="1557686798430">
-        <mark key="[" line="8" column="68" />
-        <mark key="]" line="8" column="68" />
-        <mark key="^" line="8" column="68" />
-        <mark key="." line="8" column="68" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Utilities/MathFunctions.cs" timestamp="1555051705881">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="28" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/Financys/StandardValues/DTO/StandardValueDTO.cs" timestamp="1555478672881">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Request/IssueRequests/IssuePrintRequest.py" timestamp="1557687862879">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/sprint.py" timestamp="1563105019893">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/config.py" timestamp="1555682597464">
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="68" />
-        <mark key="." line="1" column="68" />
-        <mark key="^" line="1" column="68" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/.gitignore" timestamp="1555684107934">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="122" column="6" />
-        <mark key="." line="122" column="6" />
-        <mark key="^" line="122" column="6" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/CommandLineJira/CommandLineJira/Library.fs" timestamp="1555566541100">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="]" line="12" column="112" />
+        <mark key="." line="12" column="110" />
+        <mark key="^" line="12" column="110" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563263867241">
+        <mark key="'" line="468" column="43" />
+        <mark key="[" line="1055" column="22" />
+        <mark key="]" line="1056" column="11" />
+        <mark key="." line="1056" column="11" />
+        <mark key="^" line="1056" column="11" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/BasePensionCashFlowInputItem.cs" timestamp="1563180467126">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" timestamp="1563279304317">
+        <mark key="'" line="502" column="44" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="9" />
+        <mark key="^" line="42" column="9" />
+        <mark key="." line="42" column="9" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
+        <mark key="[" line="17" column="126" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiRatePensionPickerRule.cs" timestamp="1563259373863">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="12" column="103" />
+        <mark key="]" line="12" column="106" />
+        <mark key="." line="12" column="106" />
+        <mark key="^" line="12" column="106" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/LifeAndDeathManager.cs" timestamp="1563269545597">
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="93" />
+        <mark key="." line="40" column="93" />
+        <mark key="^" line="40" column="93" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/CashFlows/ICashFlowInputItemCollection.cs" timestamp="1563254092594">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="71" />
+        <mark key="." line="15" column="8" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiSkattekode7PensionPickerRule.cs" timestamp="1563260024631">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringPensionPickerRule.cs" timestamp="1563258507468">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" timestamp="1563259397223">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="12" column="103" />
+        <mark key="]" line="12" column="107" />
+        <mark key="." line="12" column="107" />
+        <mark key="^" line="12" column="107" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563261218025">
+        <mark key="[" line="52" column="96" />
+        <mark key="]" line="52" column="111" />
+        <mark key="." line="52" column="111" />
+        <mark key="^" line="52" column="111" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562834820116">
+        <mark key="'" line="95" column="9" />
+        <mark key="[" line="90" column="51" />
+        <mark key="]" line="90" column="51" />
+        <mark key="^" line="90" column="60" />
+        <mark key="." line="90" column="51" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" timestamp="1563260012249">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563279319664">
+        <mark key="'" line="1902" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="50" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_argument_mapper.py" />
-      <jump line="36" column="70" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/issue.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="73" column="49" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="1663" column="29" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="1665" column="41" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="1667" column="26" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="1670" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="1707" column="55" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="1715" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="48" column="38" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
-      <jump line="106" column="17" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_command_manager.py" />
-      <jump line="1098" column="13" filename="/usr/lib/python3.7/argparse.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="66" column="12" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="67" column="20" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="259" column="0" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="11" column="30" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="13" column="3" filename="$USER_HOME$/repo/command-line-jira/src/CommandLine/CommandLineArgument/command_line_argument_parser.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/jira_connection_manager.py" />
-      <jump line="240" column="6" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3067" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3069" column="110" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3071" column="47" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3072" column="49" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3073" column="41" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3092" column="37" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3099" column="91" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3100" column="59" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3102" column="68" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3103" column="59" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3105" column="60" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3107" column="65" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3110" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3111" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3112" column="22" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3113" column="29" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3114" column="16" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3117" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3119" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3132" column="29" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3139" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3144" column="47" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3153" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3157" column="51" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3159" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3164" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3166" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3168" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3169" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3177" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3178" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3179" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3226" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3227" column="24" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3229" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3230" column="46" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3239" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3255" column="17" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3260" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3270" column="12" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3272" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3273" column="42" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3274" column="50" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3277" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3280" column="30" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3281" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3283" column="14" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3287" column="52" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3301" column="40" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3303" column="61" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3304" column="32" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3305" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3308" column="67" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3367" column="80" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3386" column="40" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3388" column="61" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3390" column="33" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="539" column="13" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="540" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="541" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="542" column="43" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="543" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3064" column="8" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3065" column="25" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3138" column="53" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3140" column="98" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3143" column="39" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3145" column="100" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3152" column="49" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3154" column="98" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3158" column="36" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3162" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3165" column="20" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3171" column="15" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3173" column="14" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3267" column="35" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
-      <jump line="3268" column="53" filename="$USER_HOME$/repo/command-line-jira/venv/lib/python3.7/site-packages/jira/client.py" />
+      <jump line="9" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
+      <jump line="11" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" />
+      <jump line="0" column="19" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" />
+      <jump line="9" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" />
+      <jump line="0" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiRatePensionPickerRule.cs" />
+      <jump line="8" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiRatePensionPickerRule.cs" />
+      <jump line="24" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiRatePensionPickerRule.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" />
+      <jump line="5" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiSkattekode7PensionPickerRule.cs" />
+      <jump line="155" column="66" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" />
+      <jump line="192" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="260" column="172" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="202" column="203" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="990" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="991" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1004" column="71" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1062" column="127" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1030" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="272" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1085" column="125" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1571" column="143" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1711" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1798" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="342" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="345" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="474" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="538" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="963" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="980" column="64" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="982" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="983" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="984" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="987" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="972" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1011" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1845" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="997" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1613" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1563" column="78" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1562" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="969" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="2078" column="119" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="2064" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1991" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1977" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1917" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1881" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1023" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="993" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1648" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1649" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1664" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="468" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="93" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="67" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="207" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="244" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="264" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="284" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="304" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="329" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="350" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="397" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="492" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="513" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="517" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="669" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="671" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="906" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="916" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="926" column="77" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="1134" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="971" column="87" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="964" column="79" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="954" column="74" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="838" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="1353" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4465" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="42" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="77" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="94" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="103" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="302" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="305" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="308" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="340" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="358" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="377" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="484" column="53" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="487" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="490" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="496" column="53" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="499" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="502" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="69" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="387" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3873" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2042" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1902" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bG9sIA==</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9sIA==</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>sprint_id</text>
+        <text>companycal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5famlyYV9hZ2lsZS5zcHJpbnRfaW5mbyhzcHJpbnQuYm9hcmQuaWQsIHNwcmludC5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvYXJkX3BhcnNlci5hZGRfYXJndW1lbnQoIi1zIiwgIi0tc3ByaW50IiwgbmFyZ3M9MSwgbWV0YXZhcj0iU1BSSU5UIiwgaGVscD0iU3BlY2lmaWVzIHRoZSBzcHJpbnQiKQo=</text>
+        <text encoding="base64">ICAgIC8vLyBXaGF0IGlzIGxpZmUgYW5kIHdoYXQgaXMgZGVhdGg/IFBoaWxvc29waGljYWxseSBpdCBpcyBhIGRpZmZpY3VsdCBxdWVzdGlvbiwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvYXJkX3BhcnNlci5hZGRfc3VicGFyc2VycygpIHwgX2FkZF9nZXRfaXNzdWVzX2luX3NwcmludF9zdWJwYXJzZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPOiBGaXggbWUK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -653,79 +479,80 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGludGVybmFsIHN0cnVjdCBOYXR1cmFsRGVhdGhDb250YWluZXIKICAgIHsKICAgICAgICBwcml2YXRlIGludCBfbmF0dXJhbERlYXRoWWVhclAxOwogICAgICAgIHByaXZhdGUgaW50IF9uYXR1cmFsRGVhdGhZZWFyUDI7CgogICAgICAgIHB1YmxpYyBOYXR1cmFsRGVhdGhDb250YWluZXIoaW50IG5hdHVyYWxEZWF0aFllYXJQMSwgaW50IG5hdHVyYWxEZWF0aFllYXJQMikKICAgICAgICB7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhZZWFyUDEgPSBuYXR1cmFsRGVhdGhZZWFyUDE7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhZZWFyUDIgPSBuYXR1cmFsRGVhdGhZZWFyUDI7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IHRoaXNbUGVyc29uIHBlcnNvbl0KICAgICAgICB7CiAgICAgICAgICAgIGdldAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzd2l0Y2ggKHBlcnNvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIFBlcnNvbi5QMToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9uYXR1cmFsRGVhdGhZZWFyUDE7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBQZXJzb24uUDI6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBfbmF0dXJhbERlYXRoWWVhclAyOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIC8vVE9ETzogRml4IG1lCiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24oIiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy14JywgbmFyZ3M9MikK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldF9pc3N1ZXNfaW5fc3ByaW50X3BhcnNlciA9IHN1YnBhcnNlcnMuYWRkX3BhcnNlcigiaXNzdWVzIiwgYWxpYXNlcz1bIm12Il0sIGhlbHA9Ik1vdmVzIGFuIGlzc3VlIGZyb20gb25lIHN0YXR1cyB0byBhbm90aGVyIikK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gVGhpcyBtZXRob2QgcHJpbWFyaWx5IGhhbmRsZWQgdGhlIGNhc2Ugb2YgdGhlIHN1ZGRlbiBkZWF0aCBldmVudCwKICAgICAgICAvLy8gd2hlcmUgdGhlIHdlIHVzZSB0aGUgcHJpbW8gdmFsdWUgb2YgdGhlIGRlcG90Lgo=</text>
       </register>
       <register name="w" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>of the depot balance
+        /// which should be paid out</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib2FyZCA9IGpjbS5nZXRfYm9hcmQoYXJncy5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gSW4gcmVnYXJkcyB0byByZXNlcnZlc2lrcmluZywgdGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sprint_id</last-search>
+      <last-search>companycal</last-search>
       <last-offset />
-      <last-pattern>sprint_id</last-pattern>
-      <last-replace>bil</last-replace>
-      <last-substitute>bankdata</last-substitute>
+      <last-pattern>companycal</last-pattern>
+      <last-replace>Skatkode7</last-replace>
+      <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>calcIndtaegter</entry>
-        <entry>store</entry>
-        <entry>gettax</entry>
-        <entry>objectfactory</entry>
-        <entry>ldap</entry>
-        <entry>customers</entry>
-        <entry>validatecpr</entry>
-        <entry>profileintid</entry>
-        <entry>http</entry>
-        <entry>user</entry>
-        <entry>config</entry>
-        <entry>Issue</entry>
-        <entry>join</entry>
-        <entry>server</entry>
-        <entry>issue</entry>
-        <entry>meta</entry>
-        <entry>JiraSprint</entry>
-        <entry>board</entry>
-        <entry>sprint</entry>
-        <entry>sprint_id</entry>
+        <entry>ultimo</entry>
+        <entry>period</entry>
+        <entry>keys</entry>
+        <entry>Rate</entry>
+        <entry>alders</entry>
+        <entry>Kapital</entry>
+        <entry>pensionlist</entry>
+        <entry>liquid</entry>
+        <entry>life</entry>
+        <entry>liquiditymanager</entry>
+        <entry>initialize</entry>
+        <entry>calculation</entry>
+        <entry>Getpicket</entry>
+        <entry>getpicker</entry>
+        <entry>calculationcontext</entry>
+        <entry>reset</entry>
+        <entry>report.profil</entry>
+        <entry>report</entry>
+        <entry>company</entry>
+        <entry>companycal</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/2017/2015</entry>
-        <entry>wq</entry>
-        <entry>set so=9999</entry>
-        <entry>set so=0</entry>
-        <entry>s</entry>
-        <entry>setic</entry>
-        <entry>%s/expense/deduction</entry>
-        <entry>%s/Expense/Deduction</entry>
-        <entry>%s/Expense/Deduction/g</entry>
-        <entry>%s/expense/deduction/g</entry>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry>redo</entry>
-        <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
+        <entry>%s/update/remove/g</entry>
+        <entry>%s/Update/Remove/g</entry>
+        <entry>%s/companys/companiesg</entry>
+        <entry>%s/companys/companies/g</entry>
+        <entry>%s/Companys/Companies/g</entry>
+        <entry>%s/Deduction/Company/g</entry>
+        <entry>%s/deduction/company/g</entry>
+        <entry>%s/car/income/g</entry>
+        <entry>%s/Car/Income/g</entry>
         <entry>q</entry>
-        <entry>%s/bankdata/nordea/g</entry>
-        <entry>%s/bankdata/bil/g</entry>
+        <entry>setic</entry>
+        <entry>W</entry>
         <entry>set ic</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
+        <entry>%s/Rate/Kapital/g</entry>
+        <entry>%s/Kapital/Aldersopsparingg</entry>
+        <entry>%s/Kapital/Livrente/g</entry>
+        <entry>%s/Kapital/Rate/g</entry>
+        <entry>%s/Kapital/Skatkode7/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -788,9 +615,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
