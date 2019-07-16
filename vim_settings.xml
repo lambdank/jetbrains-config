@@ -224,11 +224,17 @@
         <mark key="." line="1056" column="11" />
         <mark key="^" line="1056" column="11" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
+        <mark key="'" line="144" column="49" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/BasePensionCashFlowInputItem.cs" timestamp="1563180467126">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="21" />
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" timestamp="1563275253201">
+        <mark key="'" line="838" column="27" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
         <mark key="[" line="17" column="126" />
@@ -295,31 +301,14 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" timestamp="1563256332341">
+        <mark key="'" line="100" column="51" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563275145934">
+        <mark key="'" line="671" column="47" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="161" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="188" column="101" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="201" column="91" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="264" column="35" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="265" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="269" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="270" column="44" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="271" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1073" column="142" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1559" column="143" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1636" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="1786" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="64" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="266" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="85" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="274" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
-      <jump line="60" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="132" column="66" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="316" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="319" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="397" column="8" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="398" column="47" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
       <jump line="420" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
       <jump line="39" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
@@ -397,6 +386,29 @@
       <jump line="1649" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="1664" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="468" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="93" column="21" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="67" column="20" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="207" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="244" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="264" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="284" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="304" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="329" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="350" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="397" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="492" column="97" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="513" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="517" column="35" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="669" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="671" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="906" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="916" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="926" column="77" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="1134" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="971" column="87" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="964" column="79" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="954" column="74" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="838" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -438,7 +450,7 @@
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>reset</text>
+        <text>report</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
@@ -489,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reset</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>reset</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace>Skatkode7</last-replace>
       <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
@@ -499,8 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
-        <entry>pickerrulecoll</entry>
         <entry>liquidity</entry>
         <entry>liuqid</entry>
         <entry>ultimo</entry>
@@ -519,6 +529,8 @@
         <entry>getpicker</entry>
         <entry>calculationcontext</entry>
         <entry>reset</entry>
+        <entry>report.profil</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry>%s/update/remove/g</entry>
