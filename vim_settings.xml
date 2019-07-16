@@ -113,6 +113,9 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKeyCreator.cs" timestamp="1563256710160">
+        <mark key="'" line="23" column="43" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Obex.Platform/Dk/Case/EventSourcing/CaseModel/Events/Appliers/EngagementAppliers/PackageAddedEventApplier.cs" timestamp="1562842697330">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
@@ -224,17 +227,18 @@
         <mark key="." line="1056" column="11" />
         <mark key="^" line="1056" column="11" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/DataRender/DataRender.cs" timestamp="1562848545913">
-        <mark key="'" line="144" column="49" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/BasePensionCashFlowInputItem.cs" timestamp="1563180467126">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="21" />
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" timestamp="1563275253201">
-        <mark key="'" line="838" column="27" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" timestamp="1563279304317">
+        <mark key="'" line="502" column="44" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="9" />
+        <mark key="^" line="42" column="9" />
+        <mark key="." line="42" column="9" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
         <mark key="[" line="17" column="126" />
@@ -301,36 +305,11 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" timestamp="1563256332341">
-        <mark key="'" line="100" column="51" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563278360507">
-        <mark key="'" line="1353" column="17" />
+      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563279319664">
+        <mark key="'" line="1902" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="42" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="46" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="49" column="38" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="50" column="30" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="54" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="55" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="61" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="93" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="95" column="64" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="100" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="17" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKeyCreator.cs" />
-      <jump line="34" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKeyCreator.cs" />
-      <jump line="60" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="7" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
-      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringKapitalPensionPickerRule.cs" />
-      <jump line="24" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringKapitalPensionPickerRule.cs" />
-      <jump line="1" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringKapitalPensionPickerRule.cs" />
-      <jump line="6" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringLivrentePensionPickerRule.cs" />
-      <jump line="10" column="4" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
       <jump line="9" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
       <jump line="11" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" />
@@ -409,6 +388,28 @@
       <jump line="954" column="74" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="838" column="27" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="1353" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="4465" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="42" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="77" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="94" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="103" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="302" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="305" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="308" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="340" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="358" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="377" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="484" column="53" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="487" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="490" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="496" column="53" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="499" column="42" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="502" column="44" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
+      <jump line="69" column="25" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="387" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="3873" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="2042" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1902" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,7 +451,7 @@
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>report</text>
+        <text>companycal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
@@ -501,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search>report</last-search>
+      <last-search>companycal</last-search>
       <last-offset />
-      <last-pattern>report</last-pattern>
+      <last-pattern>companycal</last-pattern>
       <last-replace>Skatkode7</last-replace>
       <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>liquidity</entry>
-        <entry>liuqid</entry>
         <entry>ultimo</entry>
         <entry>period</entry>
         <entry>keys</entry>
@@ -531,6 +530,8 @@
         <entry>reset</entry>
         <entry>report.profil</entry>
         <entry>report</entry>
+        <entry>company</entry>
+        <entry>companycal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/update/remove/g</entry>
