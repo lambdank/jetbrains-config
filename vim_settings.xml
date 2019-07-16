@@ -33,10 +33,6 @@
         <mark key="^" line="102" column="14" />
         <mark key="." line="102" column="23" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingLivrentePensionPickerRule.cs" timestamp="1563175189443">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="66" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563174868306">
         <mark key="[" line="26" column="68" />
         <mark key="]" line="26" column="91" />
@@ -112,14 +108,6 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/DKCalculationContextConverter.cs" timestamp="1563258406498">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="52" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Indbetaling/IndbetalingPensionPickerRule.cs" timestamp="1563193391895">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="66" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
         <mark key="'" line="80" column="34" />
         <mark key="[" line="82" column="94" />
@@ -192,10 +180,6 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/ValueProvider.cs" timestamp="1563192941488">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="40" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
         <mark key="'" line="459" column="32" />
         <mark key="[" line="534" column="130" />
@@ -210,12 +194,12 @@
         <mark key="." line="12" column="110" />
         <mark key="^" line="12" column="110" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563198526853">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="189" column="144" />
-        <mark key="]" line="189" column="163" />
-        <mark key="." line="189" column="144" />
-        <mark key="^" line="189" column="143" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563263867241">
+        <mark key="'" line="468" column="43" />
+        <mark key="[" line="1055" column="22" />
+        <mark key="]" line="1056" column="11" />
+        <mark key="." line="1056" column="11" />
+        <mark key="^" line="1056" column="11" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
         <mark key="[" line="17" column="126" />
@@ -286,49 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="659" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" />
-      <jump line="459" column="32" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" />
-      <jump line="188" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="9" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="92" column="41" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="24" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="810" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="826" column="65" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="828" column="39" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="830" column="100" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="831" column="56" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="832" column="109" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="846" column="66" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="848" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="850" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="852" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="854" column="81" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="856" column="89" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="872" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="873" column="61" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="169" column="68" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="187" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="196" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="327" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="178" column="20" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="960" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="980" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="366" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="787" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="795" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="204" column="49" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Account/MutableAccount.cs" />
-      <jump line="171" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="726" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="31" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="102" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="100" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/PensionCashFlowInputItem.cs" />
-      <jump line="16" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.BasicTypes/Time/Year.cs" />
-      <jump line="15" column="16" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
-      <jump line="59" column="19" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
-      <jump line="0" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
-      <jump line="47" column="45" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
-      <jump line="49" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
-      <jump line="51" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRule.cs" />
       <jump line="88" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="161" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
       <jump line="188" column="101" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
@@ -386,6 +327,49 @@
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" />
       <jump line="5" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiSkattekode7PensionPickerRule.cs" />
       <jump line="155" column="66" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" />
+      <jump line="192" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="260" column="172" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="202" column="203" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="990" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="991" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1004" column="71" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1062" column="127" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1030" column="31" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="272" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1085" column="125" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1571" column="143" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1711" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1798" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="342" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="345" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="474" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="538" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="963" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="980" column="64" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="982" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="983" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="984" column="51" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="987" column="40" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="972" column="21" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1011" column="37" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1845" column="36" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="997" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1613" column="34" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1563" column="78" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1562" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="969" column="57" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="2078" column="119" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="2064" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1991" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1977" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1917" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1881" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1023" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="993" column="54" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1648" column="15" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1649" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="1664" column="25" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
+      <jump line="468" column="43" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,30 +404,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>GetDKParamters</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>GetDKParamters</text>
+        <text>Con</text>
       </register>
       <register name="/" type="4">
-        <text>pensionlist</text>
+        <text>reset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElDYWxjdWxhdGlvbkNvbnRleHQgX2NhbGN1bGF0aW9uWWVhcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlxdWlkaXR5TWFuYWdlci5SZXNldCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlmZUFuZERlYXRoTWFuYWdlci5SZXNldCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIElDYWxjdWxhdGlvbkNvbnRleHQgX2NvbnRleHQ7Cg==</text>
-      </register>
-      <register name="3" type="8">
-        <text>_ruleCollectionFactory.
-_ruleCollectionFactory.</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -455,32 +438,33 @@ _ruleCollectionFactory.</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRSdWxlKG5ldyBHYXJhbnRpTGl2cmVudGVQZW5zaW9uUGlja2VyUnVsZShfZmluYW5jaWFsU3RhdGVtZW50TW5nciwgX2RhdGFSZW5kZXJTcGVjTWFuYWdlciwgX2FycmF5T3V0cHV0TWFuYWdlciwgX2xpZmVBbmREZWF0aE1hbmFnZXIsIHBlbnNpb25MaXN0KSkK</text>
+      <register name="5" type="8">
+        <text>_ruleCollectionFactory.
+_ruleCollectionFactory.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRSdWxlKG5ldyBHYXJhbnRpTGl2cmVudGVQZW5zaW9uUGlja2VyUnVsZShfZmluYW5jaWFsU3RhdGVtZW50TW5nciwgX2RhdGFSZW5kZXJTcGVjTWFuYWdlciwgX2FycmF5T3V0cHV0TWFuYWdlciwgX2xpZmVBbmREZWF0aE1hbmFnZXIsIHBlbnNpb25MaXN0KSkK</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRSdWxlKG5ldyBSZXNlcnZlc2lrcmluZ0thcGl0YWwpUGVuc2lvblBpY2tlclJ1bGUoX2ZpbmFuY2lhbFN0YXRlbWVudE1uZ3IsIF9kYXRhUmVuZGVyU3BlY01hbmFnZXIsIF9hcnJheU91dHB1dE1hbmFnZXIsIF9saWZlQW5kRGVhdGhNYW5hZ2VyLCBwZW5zaW9uTGlzdCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQWRkUnVsZShuZXcgUmVzZXJ2ZXNpa3JpbmdBbGRlcnNvcHNwYXJpbmdQZW5zaW9uUGlja2VyUnVsZShfZmluYW5jaWFsU3RhdGVtZW50TW5nciwgX2RhdGFSZW5kZXJTcGVjTWFuYWdlciwgX2FycmF5T3V0cHV0TWFuYWdlciwgX2xpZmVBbmREZWF0aE1hbmFnZXIsIHBlbnNpb25MaXN0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3JlZ2lvbiBEb2VkZmFsZHNpa3JpbmcKICAgICAgICAgICAgX3BlbnNpb25QaWNrZXJSdWxlcy4KICAgICAgICAgICAgCgogICAgICAgICAgICAjZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pensionlist</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>pensionlist</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>Skatkode7</last-replace>
       <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
@@ -488,18 +472,9 @@ _ruleCollectionFactory.</text>
     </search>
     <history>
       <history-search>
-        <entry>reservesik</entry>
-        <entry>tax codes</entry>
-        <entry>reserve</entry>
-        <entry>istax</entry>
-        <entry>tax</entry>
-        <entry>primo</entry>
-        <entry>apply</entry>
         <entry>time</entry>
         <entry>pickerrulecoll</entry>
         <entry>liquidity</entry>
-        <entry>liquid</entry>
-        <entry>life</entry>
         <entry>liuqid</entry>
         <entry>ultimo</entry>
         <entry>period</entry>
@@ -508,6 +483,15 @@ _ruleCollectionFactory.</text>
         <entry>alders</entry>
         <entry>Kapital</entry>
         <entry>pensionlist</entry>
+        <entry>liquid</entry>
+        <entry>life</entry>
+        <entry>liquiditymanager</entry>
+        <entry>initialize</entry>
+        <entry>calculation</entry>
+        <entry>Getpicket</entry>
+        <entry>getpicker</entry>
+        <entry>calculationcontext</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/update/remove/g</entry>
