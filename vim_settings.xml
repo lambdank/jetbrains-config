@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingKapitalPensionPickerRule.cs" timestamp="1563188318957">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="117" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" timestamp="1562929463124">
         <mark key="'" line="79" column="70" />
         <mark key="[" line="290" column="15" />
@@ -32,10 +28,6 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563174868306">
-        <mark key="[" line="26" column="68" />
-        <mark key="]" line="26" column="91" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleCollectionFactory.cs" timestamp="1563198708365">
         <mark key="[" line="48" column="221" />
         <mark key="]" line="48" column="242" />
@@ -55,9 +47,10 @@
         <mark key="." line="656" column="0" />
         <mark key="^" line="664" column="28" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563188297177">
-        <mark key="[" line="26" column="96" />
-        <mark key="]" line="26" column="124" />
+      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger.Test/Api/StandardValuesApiTests.cs" timestamp="1563267481762">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/ILifeAndDeathManager.cs" timestamp="1563261128645">
         <mark key="[" line="10" column="24" />
@@ -71,15 +64,16 @@
         <mark key="." line="402" column="73" />
         <mark key="^" line="402" column="73" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563188128127">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="92" />
+        <mark key="." line="40" column="90" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/AlivePickerRule.cs" timestamp="1563174889743">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563199016967">
-        <mark key="[" line="68" column="68" />
-        <mark key="]" line="68" column="111" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
         <mark key="[" line="57" column="55" />
@@ -219,10 +213,6 @@
         <mark key="." line="47" column="79" />
         <mark key="^" line="47" column="79" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563258588754">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="1" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/CashFlows/ICashFlowInputItemCollection.cs" timestamp="1563254092594">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -248,10 +238,6 @@
         <mark key="]" line="12" column="107" />
         <mark key="." line="12" column="107" />
         <mark key="^" line="12" column="107" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingPensionPickerRule.cs" timestamp="1563175073858">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="15" column="65" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563261218025">
         <mark key="[" line="52" column="96" />
@@ -409,11 +395,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">SW5pdGlhbGl6ZXMg</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW5pdGlhbGl6ZXMg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -421,17 +409,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gSW5pdGlhbGl6ZXMgdGhlIGxpZmUgYW5kIGRlYXRoIG1hbmFnZXIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEluaXRpYWxpemVzIHRoZSBsaWZlIGFuZCBkZWF0aCBtYW5hZ2VyCiAgICAgICAgLy8vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEluaXRpYWxpemVzIHRoZSBsaWZlIGFuZCBkZWF0aCBtYW5hZ2VyCiAgICAgICAgLy8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIHB1YmxpYyBvdmVycmlkZSBib29sIEdhcmFudGlLYW5VZGJldGFsZXMgPT4gUmVzZXJ2ZXNpa3JldElucHV0ICYmICFJc1RheENvZGUxOwo+Pj4+Pj4+IFtBUEQtMjA4MF0gLW0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -444,22 +434,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIHB1YmxpYyBvdmVycmlkZSBib29sIEdhcmFudGlLYW5VZGJldGFsZXMgPT4gUmVzZXJ2ZXNpa3JldElucHV0ICYmICFJc1RheENvZGUxOwo+Pj4+Pj4+IFtBUEQtMjA4MF0gLW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIHB1YmxpYyBib29sIEdhcmFudGlLYW5VZGJldGFsZXMgPT4gUmVzZXJ2ZXNpa3JldElucHV0ICYmICFJc1RheENvZGUxOwo+Pj4+Pj4+IFtBUEQtMjA3OV0gQWRkZWQgYXV0b21hdGlzayByZXZlcnNpa3JpbmcgYW5kIGNsZWFuZWQgdXAgYSBiaXQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgcHJpdmF0ZSBib29sIF9yZXNlcnZlc2lrcmV0SW5wdXQgPT4gX2NhbGN1bGF0aW9uRGF0YS5SZXNlcnZlc2lrcmV0OwoKICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBSZXNlcnZlU2lrcmluZ0thblVkYmV0YWxlcyA9PgogICAgICAgICAgICBfcmVzZXJ2ZXNpa3JldElucHV0ICYmIElzQ2F0ZWdvcnlBbnlPZlRoZXNlKAo9PT09PT09Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIHB1YmxpYyBib29sIEdhcmFudGlLYW5VZGJldGFsZXMgPT4gUmVzZXJ2ZXNpa3JldElucHV0ICYmICFJc1RheENvZGUxOwo+Pj4+Pj4+IFtBUEQtMjA3OV0gQWRkZWQgYXV0b21hdGlzayByZXZlcnNpa3JpbmcgYW5kIGNsZWFuZWQgdXAgYSBiaXQK</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbQVBELTIwNzldIEFkZGVkIGF1dG9tYXRpc2sgcmV2ZXJzaWtyaW5nIGFuZCBjbGVhbmVkIHVwIGEgYml0Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgcHJpdmF0ZSBib29sIF9yZXNlcnZlc2lrcmV0SW5wdXQgPT4gX2NhbGN1bGF0aW9uRGF0YS5SZXNlcnZlc2lrcmV0OwoKICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBSZXNlcnZlU2lrcmluZ0thblVkYmV0YWxlcyA9PgogICAgICAgICAgICBfcmVzZXJ2ZXNpa3JldElucHV0ICYmIElzQ2F0ZWdvcnlBbnlPZlRoZXNlKAo9PT09PT09Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBbQVBELTIwNzldIEFkZGVkIGF1dG9tYXRpc2sgcmV2ZXJzaWtyaW5nIGFuZCBjbGVhbmVkIHVwIGEgYml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
