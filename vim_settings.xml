@@ -115,7 +115,7 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1563427064412" />
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/ProductRepository.cs" timestamp="1563446971604" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Udbetaling/UdbetalingInsurancePickerRule.cs" timestamp="1563188236277" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Liquidity/LiquidityManager.cs" timestamp="1563198028266" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/Udbetaling/UdbetalingAldersopsparingPensionPickerRule.cs" timestamp="1563174598073" />
@@ -169,6 +169,9 @@
       </file>
       <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/Graph.cs" timestamp="1563280801313" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Rule/RuleCollection/RuleCollection.cs" timestamp="1563194960207" />
+      <file name="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" timestamp="1563447021073">
+        <mark key="'" line="1246" column="83" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/Context/CalculationContext.cs" timestamp="1563254636093" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" timestamp="1563260012249">
         <mark key="'" line="0" column="0" />
@@ -351,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="671" column="47" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="906" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="916" column="56" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="926" column="77" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="1134" column="46" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
@@ -451,6 +452,8 @@
       <jump line="159" column="50" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/Product.cs" />
       <jump line="155" column="48" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/Product.cs" />
       <jump line="151" column="20" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Data/Product.cs" />
+      <jump line="1245" column="8" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="1246" column="83" filename="C:/repo/nordea/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -492,7 +495,7 @@
         <text>Reservesikring</text>
       </register>
       <register name="/" type="4">
-        <text>disabled</text>
+        <text>152</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
@@ -542,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disabled</last-search>
+      <last-search>152</last-search>
       <last-offset />
-      <last-pattern>disabled</last-pattern>
+      <last-pattern>152</last-pattern>
       <last-replace>doedssikring</last-replace>
       <last-substitute>reservesikring</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>life</entry>
         <entry>liquiditymanager</entry>
         <entry>initialize</entry>
         <entry>calculation</entry>
@@ -572,6 +574,7 @@
         <entry>Ages(</entry>
         <entry>reservesikring</entry>
         <entry>disabled</entry>
+        <entry>152</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Update/Remove/g</entry>
