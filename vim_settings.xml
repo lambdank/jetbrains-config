@@ -155,6 +155,9 @@
         <mark key="." line="50" column="206" />
         <mark key="^" line="50" column="206" />
       </file>
+      <file name="/Python Console" timestamp="1563305011191">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/IDKCalculationContext.cs" timestamp="1563253524197">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="10" />
@@ -206,11 +209,11 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/sprint_print_issues.py" timestamp="1563303825265">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/repo/command-line-jira/src/Requests/IssueRequests/sprint_print_issues.py" timestamp="1563304975055">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="55" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
         <mark key="'" line="459" column="32" />
@@ -218,6 +221,10 @@
         <mark key="]" line="534" column="130" />
         <mark key="." line="534" column="130" />
         <mark key="^" line="534" column="130" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/CommandLine/command_line_utilities.py" timestamp="1563304968870">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringLivrentePensionPickerRule.cs" timestamp="1563259301565">
         <mark key="'" line="7" column="0" />
@@ -264,6 +271,13 @@
         <mark key="]" line="40" column="93" />
         <mark key="." line="40" column="93" />
         <mark key="^" line="40" column="93" />
+      </file>
+      <file name="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/issue.py" timestamp="1563305174765">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="73" column="103" />
+        <mark key="]" line="73" column="103" />
+        <mark key="." line="73" column="103" />
+        <mark key="^" line="55" column="24" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/CashFlows/ICashFlowInputItemCollection.cs" timestamp="1563254092594">
         <mark key="[" line="15" column="8" />
@@ -316,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="33" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
       <jump line="11" column="29" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" />
       <jump line="0" column="19" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" />
@@ -416,6 +429,7 @@
       <jump line="3873" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="2042" column="32" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="1902" column="29" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
+      <jump line="42" column="8" filename="$USER_HOME$/repo/command-line-jira/src/JiraInteractions/JiraDataObjects/issue.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,28 +465,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>and</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>companycal</text>
+        <text>pprint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+VGhlIHBlcnNvbiB0aGF0IGZvcmNlcyB0aGUgcGF5b3V0IG9mIHJlc2VydmVzaWtyaW5nPC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+VGhlIHRpbWUgb2YgdGhlIGRlcG90IGJhbGFuY2UgdXNlZCBmb3IgcGF5aW5nIG91dCByZXNlcnZlc2lrcmluZzwvcmV0dXJucz4K</text>
+      <register name="0" type="4">
+        <text>write_to_console</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vLyBXaGF0IGlzIGxpZmUgYW5kIHdoYXQgaXMgZGVhdGg/IFBoaWxvc29waGljYWxseSBpdCBpcyBhIGRpZmZpY3VsdCBxdWVzdGlvbiwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPOiBGaXggbWUK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBqaXJhIGltcG9ydCBJc3N1ZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">a2V5CiAgICA=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -485,32 +499,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIHN0cnVjdCBOYXR1cmFsRGVhdGhDb250YWluZXIKICAgIHsKICAgICAgICBwcml2YXRlIGludCBfbmF0dXJhbERlYXRoWWVhclAxOwogICAgICAgIHByaXZhdGUgaW50IF9uYXR1cmFsRGVhdGhZZWFyUDI7CgogICAgICAgIHB1YmxpYyBOYXR1cmFsRGVhdGhDb250YWluZXIoaW50IG5hdHVyYWxEZWF0aFllYXJQMSwgaW50IG5hdHVyYWxEZWF0aFllYXJQMikKICAgICAgICB7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhZZWFyUDEgPSBuYXR1cmFsRGVhdGhZZWFyUDE7CiAgICAgICAgICAgIF9uYXR1cmFsRGVhdGhZZWFyUDIgPSBuYXR1cmFsRGVhdGhZZWFyUDI7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IHRoaXNbUGVyc29uIHBlcnNvbl0KICAgICAgICB7CiAgICAgICAgICAgIGdldAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzd2l0Y2ggKHBlcnNvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIFBlcnNvbi5QMToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9uYXR1cmFsRGVhdGhZZWFyUDE7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBQZXJzb24uUDI6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBfbmF0dXJhbERlYXRoWWVhclAyOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIC8vVE9ETzogRml4IG1lCiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24oIiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBlcnNvbiI+PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gVGhpcyBtZXRob2QgcHJpbWFyaWx5IGhhbmRsZWQgdGhlIGNhc2Ugb2YgdGhlIHN1ZGRlbiBkZWF0aCBldmVudCwKICAgICAgICAvLy8gd2hlcmUgdGhlIHdlIHVzZSB0aGUgcHJpbW8gdmFsdWUgb2YgdGhlIGRlcG90Lgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2wpCg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
-      <register name="8" type="4">
-        <text>of the depot balance
-        /// which should be paid out</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPGluaGVyaXRkb2MgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gSW4gcmVnYXJkcyB0byByZXNlcnZlc2lrcmluZywgdGgK</text>
+        <text encoding="base64">ICAgIC8vLyBXaGF0IGlzIGxpZmUgYW5kIHdoYXQgaXMgZGVhdGg/IFBoaWxvc29waGljYWxseSBpdCBpcyBhIGRpZmZpY3VsdCBxdWVzdGlvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>companycal</last-search>
+      <last-search>pprint</last-search>
       <last-offset />
-      <last-pattern>companycal</last-pattern>
+      <last-pattern>pprint</last-pattern>
       <last-replace>Skatkode7</last-replace>
       <last-substitute>Kapital</last-substitute>
       <last-dir>1</last-dir>
@@ -518,8 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ultimo</entry>
-        <entry>period</entry>
         <entry>keys</entry>
         <entry>Rate</entry>
         <entry>alders</entry>
@@ -538,6 +549,8 @@
         <entry>report</entry>
         <entry>company</entry>
         <entry>companycal</entry>
+        <entry>prprint</entry>
+        <entry>pprint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/update/remove/g</entry>
