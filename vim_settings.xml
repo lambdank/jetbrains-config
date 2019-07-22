@@ -179,11 +179,11 @@
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563799603999">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="40" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563801875822">
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="16" />
+        <mark key="^" line="45" column="76" />
+        <mark key="." line="45" column="16" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxCodes/TaxCode.cs" timestamp="1563793709332">
         <mark key="[" line="10" column="0" />
@@ -406,16 +406,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>doedsfaldssi</text>
       </register>
       <register name="0" type="4">
-        <text>false</text>
+        <text>person</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJlaG9sZG5pbmcgPSByZXN1bHQuR2V0UHJpbW9BbW91bnQoUGVyc29uLlAxLCBuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvbkJlaG9sZG5pbmcgfSwgaXNEZWF0aEV2ZW50ID8gdmVyaWZpY2F0aW9uWWVhci0xIDogdmVyaWZpY2F0aW9uWWVhcik7IC8vIFRoaXMgbWlnaHQgbm90IHdvcmsgc2luY2UgdGhlIHBlcnNvbiBpcyBzb21ldGltZXMgZGVhZCwgaWYgbm90IGdldCB1bHRpbW8gdGhlIHllYXIgYmVmb3JlIGluIHRoZSBuYXR1cmFsIGRlYXRoIGNhc2VzCg==</text>
