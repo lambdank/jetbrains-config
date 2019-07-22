@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionDoedsfaldsSikringTests.cs" timestamp="1563800035976">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionDoedsfaldsSikringTests.cs" timestamp="1563801216935">
         <mark key="'" line="24" column="80" />
-        <mark key="[" line="213" column="105" />
-        <mark key="]" line="213" column="105" />
-        <mark key="." line="213" column="105" />
-        <mark key="^" line="214" column="11" />
+        <mark key="[" line="90" column="59" />
+        <mark key="]" line="90" column="63" />
+        <mark key="." line="90" column="63" />
+        <mark key="^" line="90" column="63" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563258566447">
         <mark key="[" line="11" column="0" />
@@ -406,16 +406,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXNEZWF0aEV2ZW50ID8gdmVyaWZpY2F0aW9uWWVhci0xIDog</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXNEZWF0aEV2ZW50ID8gdmVyaWZpY2F0aW9uWWVhci0xIDog</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>doedsfaldssi</text>
       </register>
       <register name="0" type="4">
-        <text>verificationYear</text>
+        <text>false</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJlaG9sZG5pbmcgPSByZXN1bHQuR2V0UHJpbW9BbW91bnQoUGVyc29uLlAxLCBuZXdbXSB7IERLQWNjb3VudFR5cGUuUGVuc2lvbkJlaG9sZG5pbmcgfSwgaXNEZWF0aEV2ZW50ID8gdmVyaWZpY2F0aW9uWWVhci0xIDogdmVyaWZpY2F0aW9uWWVhcik7IC8vIFRoaXMgbWlnaHQgbm90IHdvcmsgc2luY2UgdGhlIHBlcnNvbiBpcyBzb21ldGltZXMgZGVhZCwgaWYgbm90IGdldCB1bHRpbW8gdGhlIHllYXIgYmVmb3JlIGluIHRoZSBuYXR1cmFsIGRlYXRoIGNhc2VzCg==</text>
