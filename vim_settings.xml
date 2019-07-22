@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Account/Mappers/DKAccountMapperTests.cs" timestamp="1562929463124">
-        <mark key="'" line="79" column="70" />
-        <mark key="[" line="290" column="15" />
-        <mark key="]" line="290" column="15" />
-        <mark key="." line="290" column="15" />
-        <mark key="^" line="289" column="66" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionDoedsfaldsSikringTests.cs" timestamp="1563784972405">
+        <mark key="[" line="215" column="86" />
+        <mark key="]" line="215" column="109" />
+        <mark key="." line="214" column="101" />
+        <mark key="^" line="214" column="101" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563258566447">
         <mark key="[" line="11" column="0" />
@@ -21,18 +20,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="26" column="39" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.BudgetPlan/client/src/BP/sagas/updateStandardValues.js" timestamp="1563534994130">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="C:/repo/nordea/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/LifeAndDeathManager.cs" timestamp="1563426232359">
-        <mark key="'" line="84" column="34" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="8" />
-        <mark key="." line="166" column="8" />
-        <mark key="^" line="134" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/RuleCollectionFactory.cs" timestamp="1563198708365">
         <mark key="[" line="48" column="221" />
@@ -52,18 +39,6 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/FinancialStatement/Mocks/FinancialStatementManagerMockHelpers.cs" timestamp="1562935005778">
-        <mark key="'" line="656" column="31" />
-        <mark key="[" line="656" column="0" />
-        <mark key="]" line="656" column="0" />
-        <mark key="." line="656" column="0" />
-        <mark key="^" line="664" column="28" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/OpenAPI-Clients/ObexCalcAPIPensureClient/src/IO.Swagger.Test/Api/StandardValuesApiTests.cs" timestamp="1563267481762">
-        <mark key="[" line="73" column="12" />
-        <mark key="]" line="73" column="12" />
-        <mark key="." line="73" column="12" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
         <mark key="[" line="25" column="88" />
         <mark key="]" line="25" column="88" />
@@ -76,11 +51,15 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1563256882350">
-        <mark key="[" line="402" column="67" />
-        <mark key="]" line="402" column="73" />
-        <mark key="." line="402" column="73" />
-        <mark key="^" line="402" column="73" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/UdbetalingVedDoedPensionPickerRule.cs" timestamp="1563783505437">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="145" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Internal/DKInternalAccountType.cs" timestamp="1563785010194">
+        <mark key="[" line="409" column="82" />
+        <mark key="]" line="409" column="82" />
+        <mark key="." line="409" column="82" />
+        <mark key="^" line="409" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/AlivePensionPickerRule.cs" timestamp="1563175203214">
         <mark key="[" line="18" column="37" />
@@ -88,23 +67,11 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/BasePensionPickerRule.cs" timestamp="1563188128127">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="92" />
-        <mark key="." line="40" column="90" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/AlivePickerRule.cs" timestamp="1563174889743">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" timestamp="1563773076087">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="13" column="17" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
         <mark key="[" line="57" column="55" />
@@ -117,13 +84,6 @@
         <mark key="]" line="44" column="60" />
         <mark key="." line="42" column="74" />
         <mark key="^" line="42" column="74" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiKapitalPensionPickerRule.cs" timestamp="1563773003908">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="13" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.Kernel/Enums.cs" timestamp="1563775427684">
         <mark key="[" line="1619" column="16" />
@@ -143,32 +103,11 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto.Tests/JsonConverters/SubClassedJsonConverterTests.cs" timestamp="1562836345877">
-        <mark key="'" line="80" column="34" />
-        <mark key="[" line="82" column="94" />
-        <mark key="]" line="82" column="119" />
-        <mark key="." line="82" column="119" />
-        <mark key="^" line="82" column="119" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/ReservesikringPensionPickerRule.cs" timestamp="1563254912441">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="48" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringKapitalPensionPickerRule.cs" timestamp="1563773117152">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="109" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManagerExtensions.cs" timestamp="1562928443452">
-        <mark key="'" line="148" column="41" />
-        <mark key="[" line="148" column="122" />
-        <mark key="]" line="148" column="122" />
-        <mark key="^" line="148" column="122" />
-        <mark key="." line="148" column="122" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculatorDk/DkCalculatorWrapper.cs" timestamp="1563261282298">
         <mark key="[" line="50" column="186" />
@@ -192,18 +131,18 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringInputSourceOutputSink.cs" timestamp="1563785700392">
+        <mark key="'" line="64" column="90" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="69" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/ILifeAndDeathManager.cs" timestamp="1563269316516">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/IFinancialStatementManager.cs" timestamp="1562928352518">
-        <mark key="'" line="206" column="30" />
-        <mark key="[" line="212" column="48" />
-        <mark key="]" line="212" column="75" />
-        <mark key="^" line="212" column="75" />
-        <mark key="." line="212" column="75" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiAldersopsparingPensionPickerRule.cs" timestamp="1563772739226">
         <mark key="[" line="4" column="0" />
@@ -211,39 +150,21 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK.Tests/Rules/Statement/Indkomst/IndkomstStatementRuleTest.cs" timestamp="1562934963485">
-        <mark key="'" line="89" column="49" />
-        <mark key="[" line="201" column="262" />
-        <mark key="]" line="201" column="262" />
-        <mark key="." line="201" column="262" />
-        <mark key="^" line="201" column="261" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" timestamp="1563260075256">
-        <mark key="'" line="155" column="66" />
-        <mark key="[" line="187" column="185" />
-        <mark key="]" line="187" column="185" />
-        <mark key="." line="187" column="185" />
-        <mark key="^" line="187" column="185" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/PensionPickerRule.cs" timestamp="1563193729543">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1562934376170">
-        <mark key="'" line="459" column="32" />
-        <mark key="[" line="534" column="130" />
-        <mark key="]" line="534" column="130" />
-        <mark key="." line="534" column="130" />
-        <mark key="^" line="534" column="130" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatSatsSource.cs" timestamp="1563783384221">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="32" column="5" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" timestamp="1563780616826">
-        <mark key="'" line="98" column="23" />
-        <mark key="[" line="110" column="135" />
-        <mark key="]" line="111" column="11" />
-        <mark key="." line="111" column="11" />
-        <mark key="^" line="111" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" timestamp="1563783107820">
+        <mark key="[" line="78" column="55" />
+        <mark key="]" line="78" column="55" />
+        <mark key="." line="78" column="55" />
+        <mark key="^" line="78" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1563773697654">
         <mark key="'" line="296" column="8" />
@@ -252,19 +173,15 @@
         <mark key="." line="228" column="69" />
         <mark key="^" line="229" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringLivrentePensionPickerRule.cs" timestamp="1563773110369">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="110" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" timestamp="1563785186395">
+        <mark key="'" line="44" column="77" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="26" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Skat/Skat.cs" timestamp="1563263867241">
-        <mark key="'" line="468" column="43" />
-        <mark key="[" line="1055" column="22" />
-        <mark key="]" line="1056" column="11" />
-        <mark key="." line="1056" column="11" />
-        <mark key="^" line="1056" column="11" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringCalculate.cs" timestamp="1563785072401">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/CashFlows/Items/Pension/BasePensionCashFlowInputItem.cs" timestamp="1563180467126">
         <mark key="[" line="23" column="14" />
@@ -272,25 +189,11 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" timestamp="1563279304317">
-        <mark key="'" line="502" column="44" />
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="42" column="9" />
-        <mark key="^" line="42" column="9" />
-        <mark key="." line="42" column="9" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Alive/AlivePensionPickerRule.cs" timestamp="1563175019361">
         <mark key="[" line="17" column="126" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiRatePensionPickerRule.cs" timestamp="1563773018359">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="106" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/LifeAndDeathManager.cs" timestamp="1563269545597">
         <mark key="[" line="40" column="45" />
@@ -304,11 +207,6 @@
         <mark key="." line="165" column="95" />
         <mark key="^" line="165" column="95" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563773103247">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/CashFlows/ICashFlowInputItemCollection.cs" timestamp="1563254092594">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -320,25 +218,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="157" column="1" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiSkattekode7PensionPickerRule.cs" timestamp="1563773027943">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="14" column="32" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringPensionPickerRule.cs" timestamp="1563258507468">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="49" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
-      </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringAldersopsparingPensionPickerRule.cs" timestamp="1563773043120">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="107" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathManager/LifeAndDeathManager.cs" timestamp="1563261218025">
         <mark key="[" line="52" column="96" />
@@ -346,31 +230,18 @@
         <mark key="." line="52" column="111" />
         <mark key="^" line="52" column="111" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/Api/v0/CalculationController.cs" timestamp="1562834820116">
-        <mark key="'" line="95" column="9" />
-        <mark key="[" line="90" column="51" />
-        <mark key="]" line="90" column="51" />
-        <mark key="^" line="90" column="60" />
-        <mark key="." line="90" column="51" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Satser/DanishSatsProvider.cs" timestamp="1563783457658" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringSatsSource.cs" timestamp="1563783624055">
+        <mark key="'" line="0" column="95" />
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="27" column="147" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringSkattekode7PensionPickerRule.cs" timestamp="1563773092760">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="14" column="39" />
-      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKFribil.cs" timestamp="1563782898510" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKJobfradrag.cs" timestamp="1563775115095" />
     </filemarks>
     <jumps>
-      <jump line="4465" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
-      <jump line="42" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="77" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="94" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="103" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="302" column="65" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="305" column="50" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
-      <jump line="308" column="70" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="340" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="358" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="377" column="36" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
@@ -463,6 +334,14 @@
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKBundskat.cs" />
       <jump line="0" column="18" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" />
       <jump line="100" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" />
+      <jump line="0" column="95" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringSatsSource.cs" />
+      <jump line="11" column="17" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" />
+      <jump line="6" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringCalculate.cs" />
+      <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringCalculate.cs" />
+      <jump line="46" column="12" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringCalculate.cs" />
+      <jump line="44" column="77" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKBundskat/DKBundskatInputSourceOutputSink.cs" />
+      <jump line="40" column="90" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikring/DKDoedsfaldssikringInputSourceOutputSink.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -498,28 +377,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>TaxCode</text>
+        <text>DKInternalAccountType taxCodeAccount</text>
       </register>
       <register name="/" type="4">
-        <text>Bundskat</text>
+        <text>doeds</text>
       </register>
       <register name="0" type="4">
-        <text>doedsfaldssikring.Value</text>
+        <text>GetPensionsudbetalingAccountByTaxCode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRvZWRzZmFsZHNzaWtyaW5nVGF4ID0gbmV3IERpY3Rpb25hcnk8VGF4Q29kZSwgZGVjaW1hbD4oKTsKCgogICAgICAgICAgICBmb3JlYWNoICh2YXIgdGF4Q29kZSBpbiBkb2Vkc2ZhbGRzc2lrcmluZ2VyLktleXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGRvZWRzZmFsZHNzaWtyaW5nVGF4W3RheENvZGVdID0gVGF4RG9lZHNmYWxkc3Npa3Jpbmcoc2F0c0lucHV0LCB0YXhDb2RlLCBkb2Vkc2ZhbGRzc2lrcmluZ2VyW3RheENvZGVdKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGRvZWRzZmFsZHNzaWtyaW5nVGF4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Lk91dHB1dC5HYXJhbnRpU2thdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBES0ludGVybmFsQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmdBbGRlcgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -532,31 +411,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBES0ludGVybmFsQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmdTa2F0dGVrb2RlNwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBES0ludGVybmFsQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmdLYXBpdGFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkb2Vkc2ZhbGRzc2lrcmluZyA9IGRvZWRzZmFsZHNzaWtyaW5nZXJbdGF4Q29kZV07CiAgICAgICAgICAgICAgICBpZiAoZG9lZHNmYWxkc3Npa3JpbmcgPD0gMCkgY29udGludWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBES0ludGVybmFsQWNjb3VudFR5cGUuUGVuc2lvblVkYmV0YWxpbmdSYXRlCg==</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAodGF4Q29kZSkKICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bundskat</last-search>
+      <last-search>doeds</last-search>
       <last-offset />
-      <last-pattern>Bundskat</last-pattern>
+      <last-pattern>doeds</last-pattern>
       <last-replace>Doedsfaldssikring</last-replace>
       <last-substitute>Bundskat</last-substitute>
       <last-dir>1</last-dir>
@@ -564,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Getpicket</entry>
         <entry>getpicker</entry>
         <entry>calculationcontext</entry>
         <entry>reset</entry>
@@ -584,6 +462,7 @@
         <entry>doedsfaldss</entry>
         <entry>doedsfald</entry>
         <entry>Bundskat</entry>
+        <entry>doeds</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companys/companiesg</entry>
