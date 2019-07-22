@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionDoedsfaldsSikringTests.cs" timestamp="1563795787036">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="27" column="9" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/PensionTests/PensionDoedsfaldsSikringTests.cs" timestamp="1563797436962">
+        <mark key="[" line="24" column="80" />
+        <mark key="]" line="24" column="80" />
+        <mark key="." line="24" column="80" />
+        <mark key="^" line="24" column="81" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/ReservesikringRatePensionPickerRule.cs" timestamp="1563258566447">
         <mark key="[" line="11" column="0" />
@@ -177,11 +177,11 @@
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563773482181">
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="60" />
-        <mark key="." line="42" column="74" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/DoedsfaldsikringPensionPickerRule.cs" timestamp="1563797397049">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="^" line="42" column="74" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxCodes/TaxCode.cs" timestamp="1563793709332">
         <mark key="[" line="10" column="0" />
@@ -225,6 +225,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="39" column="59" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/FinancialStatementOutputHelper.cs" timestamp="1563796890583" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKFagligeKontingenterFradrag/DKFagligeKontingenterFradragCalculate.cs" timestamp="1563794977407">
         <mark key="[" line="11" column="150" />
         <mark key="]" line="11" column="181" />
@@ -402,26 +403,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGcm9tID0gVGltZS5DYWxjdWxhdGlvbiwK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGVuc2lvbkdhcmFudGkg</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>doedsfaldssi</text>
       </register>
-      <register name="0" type="4">
-        <text>Reservesikring</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW91dFllYXIgPSBfbGlmZUFuZERlYXRoTWFuYWdlci5HZXREb2Vkc3Npa3JpbmdEZXBvdFllYXIocGVyc29uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGcm9tID0gVGltZS5DYWxjdWxhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBheW91dFllYXIgPSBfbGlmZUFuZERlYXRoTWFuYWdlci4ocGVyc29uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGcm9tID0gVGltZS5DYWxjdWxhdGlvbiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLktlcm5lbC5FbnVtczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNpbmcgQWR2aWNlLktlcm5lbC5FbnVtczsK</text>
@@ -437,22 +438,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLktlcm5lbC5FbnVtczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIEFkdmljZS5CYXNpY1R5cGVzLlRpbWU7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkNvbnRleHQ7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkRLLkZpbmFuY2lhbFN0YXRlbWVudDsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50LlN0YXRlbWVudC5JbnRlcm5hbC5FeHRlbnNpb25zOwo=</text>
+        <text encoding="base64">dXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuRmluYW5jaWFsU3RhdGVtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBES0ZhZ2xpZ2VLb250aW5nZW50ZXJGcmFkcmFnQ2FsY3VsYXRlIDogSUFkYXB0ZXJSdWxlQ2FsY3VsYXRlPERLRmFnbGlnZUtvbnRpbmdlbnRlckZyYWRyYWdJbnB1dCwgREtGYWdsaWdlS29udGluZ2VudGVyRnJhZHJhZ1NhdHNJbnB1dCwgRW1wdHlSdWxlU3RhdHVzSW5wdXQsIERLRmFnbGlnZUtvbnRpbmdlbnRlckZyYWRyYWdPdXRwdXQ+Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIEFkdmljZS5CYXNpY1R5cGVzLlRpbWU7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkNvbnRleHQ7CnVzaW5nIEFkdmljZS5FY29ub21pY1N1aXRlLkRLLkZpbmFuY2lhbFN0YXRlbWVudDsKdXNpbmcgQWR2aWNlLkVjb25vbWljU3VpdGUuREsuRmluYW5jaWFsU3RhdGVtZW50LlN0YXRlbWVudC5JbnRlcm5hbC5FeHRlbnNpb25zOwo=</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBES0ZhZ2xpZ2VLb250aW5nZW50ZXJGcmFkcmFnQ2FsY3VsYXRlIDogSUFkYXB0ZXJSdWxlQ2FsY3VsYXRlPERLRmFnbGlnZUtvbnRpbmdlbnRlckZyYWRyYWdJbnB1dCwgREtGYWdsaWdlS29udGluZ2VudGVyRnJhZHJhZ1NhdHNJbnB1dCwgRW1wdHlSdWxlU3RhdHVzSW5wdXQsIERLRmFnbGlnZUtvbnRpbmdlbnRlckZyYWRyYWdPdXRwdXQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlY2ltYWwgR2V0RG9lZHNmYWxkc3Npa3JpbmcoREtJbnRlcm5hbEFjY291bnRUeXBlIHRheENvZGVBY2NvdW50KSA9PgogICAgICAgICAgICAgICAgICAgIF9zdGF0ZW1lbnRNYW5hZ2VyLkdldEFjY291bnRFbnRyeShuZXdbXSB7REtJbnRlcm5hbEFjY291bnRUeXBlLkRvZWRmYWxkc2lrcmluZywgZG9lZHNmYWxkc3Npa3JpbmdUeXBlLCB0YXhDb2RlQWNjb3VudH0sIHBlcnNvbiwgdGltZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
