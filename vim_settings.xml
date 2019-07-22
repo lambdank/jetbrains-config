@@ -238,12 +238,12 @@
         <mark key="." line="534" column="130" />
         <mark key="^" line="534" column="130" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" timestamp="1563777953145">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="115" column="15" />
-        <mark key="." line="126" column="0" />
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" timestamp="1563780616826">
+        <mark key="'" line="98" column="23" />
+        <mark key="[" line="110" column="135" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
+        <mark key="^" line="111" column="11" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Standard/DKAccountType.cs" timestamp="1563773697654">
         <mark key="'" line="296" column="8" />
@@ -363,7 +363,6 @@
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKJobfradrag.cs" timestamp="1563775115095" />
     </filemarks>
     <jumps>
-      <jump line="1353" column="17" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="4465" column="8" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/ReportElement.cs" />
       <jump line="42" column="9" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
       <jump line="77" column="26" filename="C:/repo/advice_productcustomer/product/Applications/Advice.Web.FormuePlan/Financys/Print/Report.cs" />
@@ -463,6 +462,7 @@
       <jump line="111" column="24" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKBundskat.cs" />
       <jump line="0" column="0" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKBundskat.cs" />
       <jump line="0" column="18" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" />
+      <jump line="100" column="23" filename="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikring.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -498,28 +498,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3dpdGNoQXR0cmlidXRlIA==</text>
+        <text>TaxCode</text>
       </register>
       <register name="/" type="4">
         <text>Bundskat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnYXJhbnRpCg==</text>
+      <register name="0" type="4">
+        <text>doedsfaldssikring.Value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFRheENvZGUuVGhyZWU6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRvZWRzZmFsZHNzaWtyaW5nVGF4ID0gbmV3IERpY3Rpb25hcnk8VGF4Q29kZSwgZGVjaW1hbD4oKTsKCgogICAgICAgICAgICBmb3JlYWNoICh2YXIgdGF4Q29kZSBpbiBkb2Vkc2ZhbGRzc2lrcmluZ2VyLktleXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGRvZWRzZmFsZHNzaWtyaW5nVGF4W3RheENvZGVdID0gVGF4RG9lZHNmYWxkc3Npa3Jpbmcoc2F0c0lucHV0LCB0YXhDb2RlLCBkb2Vkc2ZhbGRzc2lrcmluZ2VyW3RheENvZGVdKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGRvZWRzZmFsZHNzaWtyaW5nVGF4Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChnYXJhbnRpID4gMCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBnYXJhbnRpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -532,22 +532,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkb2Vkc2ZhbGRzc2lrcmluZyA9IGRvZWRzZmFsZHNzaWtyaW5nZXJbdGF4Q29kZV07CiAgICAgICAgICAgICAgICBpZiAoZG9lZHNmYWxkc3Npa3JpbmcgPD0gMCkgY29udGludWU7Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdydW5kbGFnID0gMG07IHZhciBncnVuZGxhZ1Nwb3VzZSA9IDBtOwoKICAgICAgICAgICAgaWYgKHN0YXR1c0lucHV0LkdpZnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGdydW5kbGFnID0gQ2FsY3VsYXRlRG9lZHNmYWxkc3Npa3JpbmdHcnVuZGxhZyhpbnB1dC5JbnB1dC5QZXJzb25saWdJbmRrb21zdCwgaW5wdXQuSW5wdXRTcG91c2UuUGVyc29ubGlnSW5ka29tc3QsIGlucHV0LklucHV0LkthcGl0YWxJbmRrb21zdCwgaW5wdXQuSW5wdXRTcG91c2UuS2FwaXRhbEluZGtvbXN0KTsKICAgICAgICAgICAgICAgIGdydW5kbGFnU3BvdXNlID0gQ2FsY3VsYXRlRG9lZHNmYWxkc3Npa3JpbmdHcnVuZGxhZyhpbnB1dC5JbnB1dFNwb3VzZS5QZXJzb25saWdJbmRrb21zdCwgaW5wdXQuSW5wdXQuUGVyc29ubGlnSW5ka29tc3QsIGlucHV0LklucHV0U3BvdXNlLkthcGl0YWxJbmRrb21zdCwgaW5wdXQuSW5wdXQuS2FwaXRhbEluZGtvbXN0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGdydW5kbGFnID0gQ2FsY3VsYXRlRG9lZHNmYWxkc3Npa3JpbmdHcnVuZGxhZyhpbnB1dC5JbnB1dC5QZXJzb25saWdJbmRrb21zdCwgMG0sIGlucHV0LklucHV0LkthcGl0YWxJbmRrb21zdCwgMG0pOwogICAgICAgICAgICAgICAgZ3J1bmRsYWdTcG91c2UgPSBDYWxjdWxhdGVEb2Vkc2ZhbGRzc2lrcmluZ0dydW5kbGFnKGlucHV0LklucHV0U3BvdXNlLlBlcnNvbmxpZ0luZGtvbXN0LCAwbSwgaW5wdXQuSW5wdXRTcG91c2UuS2FwaXRhbEluZGtvbXN0LCAwbSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBza2F0ID0gQ2FsY3VsYXRlRG9lZHNmYWxkc3Npa3JpbmcoZ3J1bmRsYWcsIHNhdHNJbnB1dC5CdW5kKTsKICAgICAgICAgICAgdmFyIHNrYXRTcG91c2UgPSBDYWxjdWxhdGVEb2Vkc2ZhbGRzc2lrcmluZyhncnVuZGxhZ1Nwb3VzZSwgc2F0c0lucHV0LkJ1bmQpOwoKICAgICAgICAgICAgcmV0dXJuIG5ldyBES0RvZWRzZmFsZHNzaWtyaW5nT3V0cHV0KG5ldyBES0RvZWRzZmFsZHNzaWtyaW5nUGVyc29uT3V0cHV0KGdydW5kbGFnLCBza2F0KSwgbmV3IERLRG9lZHNmYWxkc3Npa3JpbmdQZXJzb25PdXRwdXQoZ3J1bmRsYWdTcG91c2UsIHNrYXRTcG91c2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAodGF4Q29kZSkKICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
