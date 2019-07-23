@@ -76,11 +76,11 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" timestamp="1563869634697">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Reservesikring/ReservesikringPensionPickerRule.cs" timestamp="1563872526012">
         <mark key="'" line="0" column="19" />
-        <mark key="[" line="30" column="85" />
-        <mark key="]" line="30" column="85" />
-        <mark key="." line="30" column="85" />
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="85" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/FinancialStatement/Account/Keys/Standard/DKAccountKeyCreator.cs" timestamp="1563859609134">
@@ -547,11 +547,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>livrente</text>
