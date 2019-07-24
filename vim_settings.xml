@@ -232,10 +232,12 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="33" column="65" />
       </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan.Tests/App.config" timestamp="1563972371840">
+      <file name="C:/repo/bankdata/product/Applications/Advice.Web.BudgetPlan.Tests/App.config" timestamp="1563973539782">
         <mark key="'" line="192" column="41" />
         <mark key="[" line="505" column="80" />
-        <mark key="]" line="505" column="101" />
+        <mark key="]" line="505" column="80" />
+        <mark key="." line="505" column="80" />
+        <mark key="^" line="505" column="80" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Udbetaling/ReservesikringPensionPickerRule.cs" timestamp="1563254912441">
         <mark key="[" line="20" column="0" />
@@ -487,8 +489,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Udv_MitBudget_20150723</text>
+      <register name="&quot;" type="8">
+        <text>Udv_MitBudget_20150723
+Udv_MitBudget_20140930
+Udv_MitBudget_20140930</text>
       </register>
       <register name="-" type="4">
         <text>typeof(_deathEvent)</text>
@@ -499,17 +503,19 @@
       <register name="0" type="4">
         <text>Udv_MitBudget_20150723</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>Udv_MitBudget_20150723
+Udv_MitBudget_20140930
+Udv_MitBudget_20140930</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjcmVnaW9uIEhlbHBlcnMKCgogICAgICAgICNlbmRyZWdpb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENoZWNrcyBpZiBpbiBhIERlYXRoIHNjZW5hcmlvIHdpdGggQXBwbGljYWJsZVBlcnNvbiBkZWFkCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImNvbnRleHQiPlBpY2tlciBydWxlIGNvbnRleHQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iY2FzaGZsb3ciPkNhc2ggZmxvdzwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPlRydWUgaWYgRGVhdGggc2NlbmFyaW8gd2l0aCBBcHBsaWNhYmxlUGVyc29uIGRlYWQsIGVsc2UgZmFsc2U8L3JldHVybnM+CiAgICAgICAgcHJvdGVjdGVkIGJvb2wgSXNBcHBsaWNhYmxlUGVyc29uRGVhdGgoSUNhbGN1bGF0aW9uQ29udGV4dCBjb250ZXh0LCBJSW5zdXJhbmNlQ2FzaGZsb3dJbnB1dEl0ZW0gY2FzaGZsb3cpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5TY2VuYXJpby5TY2VuYXJpb0V2ZW50ID09IFBlbkV2ZW50LkRlYXRoICYmIGNhc2hmbG93LkNhbGN1bGF0aW9uRGF0YS5BcHBsaWNhYmxlUGVyc29uID09IGNvbnRleHQuU2NlbmFyaW8uUGVyc29uOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAjcmVnaW9uIEhlbHBlcnMKCgogICAgICAgICNlbmRyZWdpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQZXJzb24uUDM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENoZWNrcyBpZiBpbiBhIERlYXRoIHNjZW5hcmlvIHdpdGggQXBwbGljYWJsZVBlcnNvbiBkZWFkCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImNvbnRleHQiPlBpY2tlciBydWxlIGNvbnRleHQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iY2FzaGZsb3ciPkNhc2ggZmxvdzwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPlRydWUgaWYgRGVhdGggc2NlbmFyaW8gd2l0aCBBcHBsaWNhYmxlUGVyc29uIGRlYWQsIGVsc2UgZmFsc2U8L3JldHVybnM+CiAgICAgICAgcHJvdGVjdGVkIGJvb2wgSXNBcHBsaWNhYmxlUGVyc29uRGVhdGgoSUNhbGN1bGF0aW9uQ29udGV4dCBjb250ZXh0LCBJSW5zdXJhbmNlQ2FzaGZsb3dJbnB1dEl0ZW0gY2FzaGZsb3cpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5TY2VuYXJpby5TY2VuYXJpb0V2ZW50ID09IFBlbkV2ZW50LkRlYXRoICYmIGNhc2hmbG93LkNhbGN1bGF0aW9uRGF0YS5BcHBsaWNhYmxlUGVyc29uID09IGNvbnRleHQuU2NlbmFyaW8uUGVyc29uOwogICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -522,25 +528,25 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBQZXJzb24uUDM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="w" type="4">
         <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -594,8 +600,8 @@
         <entry>e</entry>
         <entry>%s/Bundskat/Doedsfaldssikring/g</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
