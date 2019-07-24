@@ -57,7 +57,7 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1563261078544">
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Calculators/DkCalculator.cs" timestamp="1563970460496">
         <mark key="[" line="84" column="44" />
         <mark key="]" line="84" column="50" />
         <mark key="^" line="84" column="50" />
@@ -105,6 +105,7 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/CalculationApi/InternalExecutors/Calculation/InternalCalculationApiExecutor.cs" timestamp="1563970440009" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
         <mark key="[" line="57" column="55" />
         <mark key="]" line="57" column="87" />
@@ -141,6 +142,7 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Context/Scenarios/DeathScenario.cs" timestamp="1563951319438" />
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Indbetaling/IndbetalingPramieFritagelseInsurancePickerRule.cs" timestamp="1563951816589">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="28" />
