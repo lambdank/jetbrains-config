@@ -197,12 +197,6 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeath/ILifeAndDeathManager.cs" timestamp="1563953003203">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/Doedsfaldsikring/Garanti/GarantiAldersopsparingPensionPickerRule.cs" timestamp="1563874579761">
         <mark key="[" line="13" column="94" />
         <mark key="]" line="13" column="115" />
@@ -237,6 +231,13 @@
         <mark key="]" line="179" column="15" />
         <mark key="." line="179" column="15" />
         <mark key="^" line="179" column="15" />
+      </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite/FinancialStatement/Statement/FinancialStatementManager.cs" timestamp="1563970683252">
+        <mark key="'" line="459" column="32" />
+        <mark key="[" line="519" column="26" />
+        <mark key="]" line="519" column="42" />
+        <mark key="." line="534" column="130" />
+        <mark key="^" line="534" column="130" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxCodes/InternalAccountToTaxCodeMapper.cs" timestamp="1563861488977">
         <mark key="[" line="17" column="56" />
