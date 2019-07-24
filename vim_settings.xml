@@ -209,9 +209,6 @@
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/PickerRuleCollection.cs" timestamp="1563958412736">
         <mark key="'" line="155" column="66" />
-        <mark key="[" line="145" column="176" />
-        <mark key="]" line="145" column="198" />
-        <mark key="." line="145" column="176" />
         <mark key="^" line="138" column="197" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/PensionPickerRule.cs" timestamp="1563193729543">
@@ -264,10 +261,10 @@
         <mark key="." line="2" column="13" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Udbetaling/UdbetalingSkattekode3InsurancePickerRule.cs" timestamp="1563958400300">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="12" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Indbetaling/IndbetalingInsurancePickerRule.cs" timestamp="1563954905841">
         <mark key="[" line="63" column="23" />
