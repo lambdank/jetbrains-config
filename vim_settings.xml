@@ -157,6 +157,7 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="12" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/TaxAndBenefits/TaxRules/DKDoedsfaldssikringBeskatning.cs" timestamp="1564056113416" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F4E71FDA-2BEE-4A21-9080-583F707D55EF/cb/0fabd9bb/DKInternalAccountType.cs" timestamp="1564039729055">
         <mark key="[" line="240" column="67" />
         <mark key="]" line="240" column="68" />
@@ -256,10 +257,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="/LifeAndDeathManager.cs" timestamp="1564043166290">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="40" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Tests/FinancialStatement/Mocks/TestAccountMapper.cs" timestamp="1562928623966">
         <mark key="[" line="25" column="88" />
         <mark key="]" line="25" column="88" />
@@ -278,6 +275,9 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/TaxAndBenefits/AdapterRules/TaxRules/DKDoedsfaldssikringBeskatning/DKDoedsfaldssikringBeskatningCalculate.cs" timestamp="1564056017026">
+        <mark key="." line="13" column="78" />
+      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Pension/AlivePensionPickerRule.cs" timestamp="1563175203214">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="39" />
@@ -290,19 +290,11 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api/StandardValuesApi/InternalExecutors/InternalStandardValuesApiExecutor.cs" timestamp="1564033097936">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="49" />
-      </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/LifeAndDeathHandler/LifeAndDeathHandler.cs" timestamp="1563194583148">
         <mark key="[" line="57" column="55" />
         <mark key="]" line="57" column="87" />
         <mark key="." line="57" column="87" />
         <mark key="^" line="57" column="87" />
-      </file>
-      <file name="C:/repo/bankdata/product/Applications/Advice.Web.FormuePlan.Tests/App.config" timestamp="1563972244899">
-        <mark key="[" line="11" column="80" />
-        <mark key="]" line="11" column="96" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.DK/Rules/PickerRules/Insurance/Indbetaling/IndbetalingRateInsurancePickerRule.cs" timestamp="1563951846745">
         <mark key="[" line="21" column="12" />
