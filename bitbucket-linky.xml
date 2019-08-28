@@ -10,5 +10,5 @@
       <record scheme="ssh" hostname="git.schantz.com" port="7999" path="/" uuid="257a7ff9-2aad-3949-9e4d-272a1ab3eda7" />
     </lookup>
   </component>
-  <component name="Instance" id="9135e320-1939-442a-9bf7-5c39e0ade88c" version="7.2" />
+  <component name="Instance" id="9135e320-1939-442a-9bf7-5c39e0ade88c" version="7.3" />
 </application>
