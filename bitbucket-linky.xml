@@ -11,12 +11,4 @@
     </lookup>
   </component>
   <component name="Instance" id="9135e320-1939-442a-9bf7-5c39e0ade88c" version="7.4" />
-  <component name="UsageLog">
-    <event name="OpenFile" place="ChangesBrowser" timestamp="2019-09-30T08:33:49.199592300Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
