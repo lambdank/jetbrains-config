@@ -16,12 +16,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572598749179">
-        <mark key="'" line="56" column="20" />
-        <mark key="[" line="168" column="22" />
-        <mark key="]" line="169" column="3" />
-        <mark key="." line="169" column="3" />
-        <mark key="^" line="169" column="3" />
+      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572600992023">
+        <mark key="'" line="280" column="3" />
+        <mark key="k" line="202" column="6" />
+        <mark key="[" line="321" column="19" />
+        <mark key="]" line="321" column="19" />
+        <mark key="^" line="213" column="37" />
+        <mark key="." line="321" column="19" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -35,7 +36,7 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1572598318874">
+      <file name="/a.dummy" timestamp="1572600352642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Dto/Utils/ProfileBuilder.cs" timestamp="1556778866156">
@@ -245,42 +246,50 @@
       <jump line="210" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="185" column="30" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="251" column="56" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
-      <jump line="86" column="69" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="271" column="36" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="107" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="96" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
-      <jump line="272" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="30" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="37" column="10" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="54" column="86" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
-      <jump line="82" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="35" column="3" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="56" column="20" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="331" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="313" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="291" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="86" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="296" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="84" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="272" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="82" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="295" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="204" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="280" column="3" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>_text.text)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>_text.text)</text>
       </register>
       <register name="/" type="4">
-        <text>closets</text>
+        <text>full</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldmlld2VyX3RleHQpCg==</text>
+      <register name="0" type="4">
+        <text>pull_request_info</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvID0ganNvbi5sb2FkcyhyZXNwb25zZV90ZXh0LnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgPT0gMjAwOgo=</text>
+        <text encoding="base64">ICAgICA9IGpzb24ubG9hZHMocmVzcG9uc2VfdGV4dC50ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2luZm9ybWF0aW9uID0gCiAgICBlbHNlOgogICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvcm1hdGlvbiA9IGpzb24ubG9hZHMocmVzcG9uc2VfdGV4dC50ZXh0KQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -293,31 +302,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgPT0gMjAwOgo=</text>
+        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgIT0gMjAwOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiR290IGFuIGVycm9uZW91cyByZXNwb25zZSBmcm9tIGJpdGJ1Y2tldCByZXN0IEFQSTpcbiIgKyBzdHIocmVzcG9uc2VfdGV4dCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBlbWFpbEFkZHJlc3M6CiAgICA6cGFyYW0gZ2l0VXJsOgo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaW5mb3JtYXRpb24gPSAK</text>
+        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgPT0gMjAwOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>closets</last-search>
+      <last-search>full</last-search>
       <last-offset />
-      <last-pattern>closets</last-pattern>
+      <last-pattern>full</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -325,9 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preseria</entry>
-        <entry>urlversion</entry>
-        <entry>basepath</entry>
         <entry>localhost</entry>
         <entry>null</entry>
         <entry>utils</entry>
@@ -345,6 +351,9 @@
         <entry>allan</entry>
         <entry>current</entry>
         <entry>closets</entry>
+        <entry>printhlep</entry>
+        <entry>printhelp</entry>
+        <entry>full</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
