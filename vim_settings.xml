@@ -16,13 +16,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572600992023">
-        <mark key="'" line="280" column="3" />
-        <mark key="k" line="202" column="6" />
-        <mark key="[" line="321" column="19" />
-        <mark key="]" line="321" column="19" />
-        <mark key="^" line="213" column="37" />
-        <mark key="." line="321" column="19" />
+      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572609438211">
+        <mark key="'" line="8" column="0" />
+        <mark key="k" line="219" column="6" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="134" column="34" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -265,31 +265,33 @@
       <jump line="295" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="204" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="280" column="3" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="312" column="15" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="8" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_text.text)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncyA9IFsnZ2l0J10gKyBhcmd1bWVudHMK</text>
       </register>
       <register name="-" type="4">
-        <text>_text.text)</text>
+        <text>repo_path</text>
       </register>
       <register name="/" type="4">
-        <text>full</text>
+        <text>add_reviewers</text>
       </register>
       <register name="0" type="4">
-        <text>pull_request_info</text>
+        <text>directory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncyA9IFsnZ2l0J10gKyBhcmd1bWVudHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvID0ganNvbi5sb2FkcyhyZXNwb25zZV90ZXh0LnRleHQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICA9IGpzb24ubG9hZHMocmVzcG9uc2VfdGV4dC50ZXh0KQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvcm1hdGlvbiA9IGpzb24ubG9hZHMocmVzcG9uc2VfdGV4dC50ZXh0KQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSByZXF1ZXN0OiAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -302,31 +304,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgIT0gMjAwOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiR290IGFuIGVycm9uZW91cyByZXNwb25zZSBmcm9tIGJpdGJ1Y2tldCByZXN0IEFQSTpcbiIgKyBzdHIocmVzcG9uc2VfdGV4dCkpCg==</text>
+        <text encoding="base64">ICAgIGZpbGVzID0gW10KICAgIGZvciBmaWxlIGluIHB1bGxfcmVxdWVzdF9pbmZvWyd2YWx1ZXMnXToKICAgICAgICBwYXRoID0gZmlsZVsncGF0aCddWyd0b1N0cmluZyddCiAgICAgICAgaWYgcGF0aCBpcyBub3QgTm9uZToKICAgICAgICAgICAgZmlsZXMuYXBwZW5kKHBhdGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1bGxfcmVxdWVzdF9pbmZvID0gCg==</text>
+        <text encoding="base64">ICAgIFtmaWxlWydwYXRoJ11bJ3RvU3RyaW5nJ10gZm9yIGZpbGUgaW4gcHVsbF9yZXF1ZXN0X2luZm9bJ3ZhbHVlcyddIGlmIGZpbGVbJ3BhdGgnXVsndG9TdHJpbmcnXSBpcyBub3QgTm9uZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwdWxsX3JlcXVlc3Q6IAogICAgOnBhcmFtIGdpdF91cmw6IAogICAgOnBhcmFtIHByb2plY3Rfa2V5OiAKICAgIDpwYXJhbSByZXBvc2l0b3J5OiAK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlX3RleHQuc3RhdHVzX2NvZGUgPT0gMjAwOgo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwdWxsX3JlcXVlc3Q6IAogICAgOnBhcmFtIGdpdF91cmw6IAogICAgOnBhcmFtIHByb2plY3Rfa2V5OiAKICAgIDpwYXJhbSByZXBvc2l0b3J5OiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>full</last-search>
+      <last-search>add_reviewers</last-search>
       <last-offset />
-      <last-pattern>full</last-pattern>
+      <last-pattern>add_reviewers</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localhost</entry>
         <entry>null</entry>
         <entry>utils</entry>
         <entry>calculatebound</entry>
@@ -354,6 +355,7 @@
         <entry>printhlep</entry>
         <entry>printhelp</entry>
         <entry>full</entry>
+        <entry>add_reviewers</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
