@@ -9,19 +9,19 @@
         <mark key="." line="123" column="16" />
         <mark key="^" line="123" column="87" />
       </file>
-      <file name="/Python Console" timestamp="1557154993319">
+      <file name="/Python Console" timestamp="1572594774376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Standard/Advice.EconomicSuite.Api.Test/TaxCalculatorDk/LegislativeChanges/Skattereform2018/TaxCalculatorDkAktiespareKontoTests.cs" timestamp="1556781988298">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572591484970">
-        <mark key="'" line="211" column="4" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572594734239">
+        <mark key="'" line="272" column="0" />
+        <mark key="[" line="271" column="75" />
+        <mark key="]" line="271" column="74" />
+        <mark key="." line="271" column="74" />
+        <mark key="^" line="271" column="74" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -150,7 +150,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="73" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557157189550">
+      <file name="/Dummy.txt" timestamp="1572594404969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
@@ -240,31 +240,38 @@
     </filemarks>
     <jumps>
       <jump line="210" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="185" column="30" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="251" column="56" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="86" column="69" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="271" column="36" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="107" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="96" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="272" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.filter()</text>
       </register>
       <register name="-" type="4">
-        <text>parseCommandlineArgs()</text>
+        <text>.filter()</text>
       </register>
       <register name="/" type="4">
-        <text>dea</text>
+        <text>current</text>
       </register>
       <register name="0" type="4">
-        <text>get_remaining_estimate</text>
+        <text>getAutomaticReviewers(pullRequestId, gitUrl, projectKey, repository, repoPath):</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcG9QYXRoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldmlld2VycyA9IFtdCgogICAgZmlsZXNDaGFuZ2VkID0gZ2V0RmlsZXNDaGFuZ2VkKHB1bGxSZXF1ZXN0SWQsIGdpdFVybCwgcHJvamVjdEtleSwgcmVwb3NpdG9yeSkKICAgIGZyb21CcmFuY2ggPSBnZXRGcm9tUmVmKHB1bGxSZXF1ZXN0SWQsIGdpdFVybCwgcHJvamVjdEtleSwgcmVwb3NpdG9yeSkKICAgIHJldmlld01hcCA9IGdldFJldmlld2VycyhyZXBvUGF0aCwgIm9yaWdpbi8lcyIgJSAoZnJvbUJyYW5jaCkpCgogICAgZm9yIGZpbGUgaW4gZmlsZXNDaGFuZ2VkOgogICAgICAgIHRlbXAgPSBmaW5kQ2xvc2VzdFJldmlld2VyRmlsZShyZXZpZXdNYXAsIGZpbGUpCiAgICAgICAgaWYgdGVtcCBpcyBOb25lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciByZXZpZXcgaW4gdGVtcDoKICAgICAgICAgICAgcmV2aWV3ZXJzICs9IHRlbXBbcmV2aWV3XQogICAgcmV2aWV3ZXJzID0gKGxpc3Qoc2V0KHJldmlld2VycykpKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -277,31 +284,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZ2l0VXJsJywgJy11JywgaGVscD0iVXJsIHRvIHRoZSBnaXQgc2VydmVyIGxpa2UgdGhpZSBodHRwczovL2dpdC5zY2hhbnR6LmNvbSIsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb1BhdGgnLCAnLXInLCBoZWxwPSdQYXRoIHRvIHJlcG9zaXRvcnksIGRlZmF1bHQgd2lsbCBiZSBjdXJyZW50JywgdHlwZT1zdHIsIGRlZmF1bHQ9Ii4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1wcm9qZWN0S2V5JywgJy1wJywgaGVscD0nUHJvamVjdCBLZXkgaXMgdGhlIGtleSBvZiB0aGUgcHJvamVjdCB3aXRoIHRoZSByZXBvc2l0b3J5IGluICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb3NpdG9yeU5hbWUnLCAnLXJuJywgaGVscD0nUmVwb3NpdG9yeSBuYW1lIGlzIHRoZSByZXBvc2l0b3J5IG5hbWUgb24gdGhlICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcHVsbFJlcXVlc3RJZCcsICctaWQnLCBoZWxwPSdUaGUgbnVtZXJpYyBwdWxsIHJlcXVlc3QgSUQnLCB0eXBlPXN0ciwgIHJlcXVpcmVkPVRydWUpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWZldGNoJywgaGVscD0iSWYgeW91IG5lZWQgdG8gZmV0Y2ggYmVmb3JlIHJ1bm5pbmcgc2NyaXB0IiwgZGVmYXVsdD1GYWxzZSwgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCBzeXMK</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmlzc3VlLmZpZWxkcy5hZ2dyZWdhdGV0aW1lZXN0aW1hdGUgLyA2MCAvIDYwIC8gNikK</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZ2l0VXJsJywgJy11JywgaGVscD0iVXJsIHRvIHRoZSBnaXQgc2VydmVyIGxpa2UgdGhpZSBodHRwczovL2dpdC5zY2hhbnR6LmNvbSIsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb1BhdGgnLCAnLXInLCBoZWxwPSdQYXRoIHRvIHJlcG9zaXRvcnksIGRlZmF1bHQgd2lsbCBiZSBjdXJyZW50JywgdHlwZT1zdHIsIGRlZmF1bHQ9Ii4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1wcm9qZWN0S2V5JywgJy1wJywgaGVscD0nUHJvamVjdCBLZXkgaXMgdGhlIGtleSBvZiB0aGUgcHJvamVjdCB3aXRoIHRoZSByZXBvc2l0b3J5IGluICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb3NpdG9yeU5hbWUnLCAnLXJuJywgaGVscD0nUmVwb3NpdG9yeSBuYW1lIGlzIHRoZSByZXBvc2l0b3J5IG5hbWUgb24gdGhlICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcHVsbFJlcXVlc3RJZCcsICctaWQnLCBoZWxwPSdUaGUgbnVtZXJpYyBwdWxsIHJlcXVlc3QgSUQnLCB0eXBlPXN0ciwgIHJlcXVpcmVkPVRydWUpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWZldGNoJywgaGVscD0iSWYgeW91IG5lZWQgdG8gZmV0Y2ggYmVmb3JlIHJ1bm5pbmcgc2NyaXB0IiwgZGVmYXVsdD1GYWxzZSwgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dea</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>dea</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -309,10 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>full</entry>
-        <entry>custom</entry>
-        <entry>v</entry>
-        <entry>v9</entry>
         <entry>geturl</entry>
         <entry>preseria</entry>
         <entry>urlversion</entry>
@@ -329,6 +332,10 @@
         <entry>given_twoPerson</entry>
         <entry>p1</entry>
         <entry>dea</entry>
+        <entry>lower</entry>
+        <entry>filter</entry>
+        <entry>allan</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
