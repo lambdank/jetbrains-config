@@ -16,12 +16,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572594734239">
-        <mark key="'" line="272" column="0" />
-        <mark key="[" line="271" column="75" />
-        <mark key="]" line="271" column="74" />
-        <mark key="." line="271" column="74" />
-        <mark key="^" line="271" column="74" />
+      <file name="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" timestamp="1572595700504">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="39" column="90" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
       <file name="C:/repo/advice_productcustomer/product/Api/Dk/Dk.Advice.Api.Core/CustomFilters/BasePathDocumentFilter.cs" timestamp="1556773539091">
         <mark key="[" line="19" column="32" />
@@ -247,31 +247,36 @@
       <jump line="107" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="96" column="44" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
       <jump line="272" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="30" column="0" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="35" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="37" column="10" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="54" column="86" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
+      <jump line="82" column="4" filename="C:/repo/schantzbuildtools/autoReviewers/findReviewers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.filter()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.filter()</text>
+        <text>currentReviewers</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
       </register>
       <register name="0" type="4">
-        <text>getAutomaticReviewers(pullRequestId, gitUrl, projectKey, repository, repoPath):</text>
+        <text>reviewers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcG9QYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIk5vdCBhZGRpbmcgcmV2aWV3ZXJzIikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldmlld2VycyA9IFtdCgogICAgZmlsZXNDaGFuZ2VkID0gZ2V0RmlsZXNDaGFuZ2VkKHB1bGxSZXF1ZXN0SWQsIGdpdFVybCwgcHJvamVjdEtleSwgcmVwb3NpdG9yeSkKICAgIGZyb21CcmFuY2ggPSBnZXRGcm9tUmVmKHB1bGxSZXF1ZXN0SWQsIGdpdFVybCwgcHJvamVjdEtleSwgcmVwb3NpdG9yeSkKICAgIHJldmlld01hcCA9IGdldFJldmlld2VycyhyZXBvUGF0aCwgIm9yaWdpbi8lcyIgJSAoZnJvbUJyYW5jaCkpCgogICAgZm9yIGZpbGUgaW4gZmlsZXNDaGFuZ2VkOgogICAgICAgIHRlbXAgPSBmaW5kQ2xvc2VzdFJldmlld2VyRmlsZShyZXZpZXdNYXAsIGZpbGUpCiAgICAgICAgaWYgdGVtcCBpcyBOb25lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciByZXZpZXcgaW4gdGVtcDoKICAgICAgICAgICAgcmV2aWV3ZXJzICs9IHRlbXBbcmV2aWV3XQogICAgcmV2aWV3ZXJzID0gKGxpc3Qoc2V0KHJldmlld2VycykpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -284,13 +289,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHB1bGxSZXF1ZXN0T3duZXIgaW4gcmV2aWV3ZXJzOgogICAgICAgIHJldmlld2Vycy5yZW1vdmUocHVsbFJlcXVlc3RPd25lcikKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgUmVtb3ZpbmcgT3duZXIgb2YgcHVsbCByZXF1ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
@@ -299,7 +304,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZ2l0VXJsJywgJy11JywgaGVscD0iVXJsIHRvIHRoZSBnaXQgc2VydmVyIGxpa2UgdGhpZSBodHRwczovL2dpdC5zY2hhbnR6LmNvbSIsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb1BhdGgnLCAnLXInLCBoZWxwPSdQYXRoIHRvIHJlcG9zaXRvcnksIGRlZmF1bHQgd2lsbCBiZSBjdXJyZW50JywgdHlwZT1zdHIsIGRlZmF1bHQ9Ii4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1wcm9qZWN0S2V5JywgJy1wJywgaGVscD0nUHJvamVjdCBLZXkgaXMgdGhlIGtleSBvZiB0aGUgcHJvamVjdCB3aXRoIHRoZSByZXBvc2l0b3J5IGluICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcmVwb3NpdG9yeU5hbWUnLCAnLXJuJywgaGVscD0nUmVwb3NpdG9yeSBuYW1lIGlzIHRoZSByZXBvc2l0b3J5IG5hbWUgb24gdGhlICcsIHR5cGU9c3RyLCAgcmVxdWlyZWQ9VHJ1ZSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcHVsbFJlcXVlc3RJZCcsICctaWQnLCBoZWxwPSdUaGUgbnVtZXJpYyBwdWxsIHJlcXVlc3QgSUQnLCB0eXBlPXN0ciwgIHJlcXVpcmVkPVRydWUpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWZldGNoJywgaGVscD0iSWYgeW91IG5lZWQgdG8gZmV0Y2ggYmVmb3JlIHJ1bm5pbmcgc2NyaXB0IiwgZGVmYXVsdD1GYWxzZSwgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRSZXZpZXdlcnMgPSBnZXRDdXJyZW50UmV2aWV3ZXJzKHB1bGxSZXF1ZXN0SWQsIGdpdFVybCwgcHJvamVjdEtleSwgcmVwb3NpdG9yeSkKCiAgICBwcmludCgiQ3VycmVudCByZXZpd2VycyBvZiBwdWxsIHJlcXVlc3Q6ICIgKyBzdHIoY3VycmVudFJldmlld2VycykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
