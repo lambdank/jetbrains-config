@@ -30,11 +30,12 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575451646781">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575453162942">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="19" column="60" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/command_controller.py" timestamp="1557158276075">
         <mark key="[" line="18" column="44" />
@@ -260,31 +261,35 @@
         <mark key="'" line="5050" column="58" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="30" column="0" filename="C:/repo/obex.platform/Ecosystem/src/database.py" />
+      <jump line="31" column="0" filename="C:/repo/obex.platform/Ecosystem/src/database.py" />
+      <jump line="0" column="0" filename="C:/repo/obex.platform/Ecosystem/src/database.py" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>subprocess.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hpbGUgKFRydWUpOgogICAgMSsxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>subprocess.</text>
+        <text>shell=True</text>
       </register>
       <register name="/" type="4">
         <text>\.reviewers</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGIuY3JlYXRlKCkK</text>
+      <register name="0" type="4">
+        <text>stdout=DEVNULL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIucmVtb3ZlKCkK</text>
+        <text encoding="base64">d2hpbGUgKFRydWUpOgogICAgMSsxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIucmVtb3ZkZGUoKQo=</text>
+        <text encoding="base64">ZGIuY3JlYXRlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNsZXBwIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFwK</text>
+        <text encoding="base64">b3Muc2xlZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -297,22 +302,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T1NFcnJvci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oZG9ja2VyX2NvbW1hbmQpCg==</text>
+        <text encoding="base64">c2xlZXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICctZSBQT1NUR1JFU19QQVNTV09SRD0ie3NlbGYuX2RiX3Bhc3N3b3JkfSIgJyAKICAgICAgICAgICAgICAgICAgICAgICAgICdwb3N0Z3JlczsnKQo=</text>
+        <text encoding="base64">ZGIucmVtb3ZlKCkK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICctZSBQT1NUR1JFU19VU0VSPSJ7fSIgJyAK</text>
+        <text encoding="base64">ZGIucmVtb3ZkZGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICcie30iICcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
