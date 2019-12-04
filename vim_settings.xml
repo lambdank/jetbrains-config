@@ -30,11 +30,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575449992508">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-        <mark key="^" line="16" column="68" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575451646781">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/command_controller.py" timestamp="1557158276075">
         <mark key="[" line="18" column="44" />
@@ -263,30 +263,28 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>subprocess.</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>subprocess.</text>
       </register>
       <register name="/" type="4">
         <text>\.reviewers</text>
       </register>
-      <register name="0" type="4">
-        <text>db_password</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGIuY3JlYXRlKCkK</text>
       </register>
-      <register name="1" type="8">
-        <text>'
-'
-'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGIucmVtb3ZlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1lIFBPU1RHUkVTX0RCPSJ7c2VsZi5fZGJfbmFtZX0iCg==</text>
+        <text encoding="base64">ZGIucmVtb3ZkZGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfc2VydmljZV9uYW1lID0gc2VydmljZV9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oIiBkb2NrZXIgc2VydmljZSBjcmVhdGUge2FzZGZ9IikK</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -299,22 +297,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oZG9ja2VyX2NvbW1hbmQpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBwdWxsX3JlcXVlc3Q6IAogICAgOnBhcmFtIGdpdF91cmw6IAogICAgOnBhcmFtIHByb2plY3Rfa2V5OiAKICAgIDpwYXJhbSByZXBvc2l0b3J5OiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICctZSBQT1NUR1JFU19QQVNTV09SRD0ie3NlbGYuX2RiX3Bhc3N3b3JkfSIgJyAKICAgICAgICAgICAgICAgICAgICAgICAgICdwb3N0Z3JlczsnKQo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSByZXBvX3BhdGg6IAogICAgOnBhcmFtIGJyYW5jaDogCiAgICA6cGFyYW0gZmlsZV9wYXRoOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICctZSBQT1NUR1JFU19VU0VSPSJ7fSIgJyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSByZXBvX3BhdGg6IAogICAgOnBhcmFtIGJyYW5jaDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICcie30iICcgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
