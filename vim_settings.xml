@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="/main" timestamp="1575532651110">
+      <file name="/main" timestamp="1575534918780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1575531404257">
@@ -90,11 +90,12 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575532712213">
-        <mark key="[" line="50" column="68" />
-        <mark key="]" line="50" column="68" />
-        <mark key="^" line="50" column="68" />
-        <mark key="." line="50" column="68" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575534905483">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
         <mark key="[" line="25" column="8" />
@@ -147,31 +148,41 @@
       <jump line="0" column="0" filename="C:/repo/obex.platform/Ecosystem/ExternalServices/case.json" />
       <jump line="46" column="42" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
       <jump line="43" column="19" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="55" column="7" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="53" column="0" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="54" column="0" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="5" column="0" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="18" column="37" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="57" column="24" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="4" column="21" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="68" column="41" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="61" column="0" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="71" column="0" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>All services have been created!</text>
+        <text>services</text>
       </register>
       <register name="-" type="4">
-        <text>All services have been created!</text>
+        <text>services</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>service_map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBbGwgc2VydmljZXMgaGF2ZSBiZWVuIGNyZWF0ZWQhIikK</text>
+      <register name="0" type="4">
+        <text>external_services</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2xbMF0uYXR0cnMpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGF0YWJhc2VfbWFwcGVyID0gRGF0YWJhc2VNYXBwZXIoZG9ja2VyX2NsaWVudCwgbmV0d29yay5pZCkKZm9yIGZpbGUgaW4gb3MubGlzdGRpcigiLi4vRGF0YWJhc2VzIik6CiAgICB3aXRoIG9wZW4oIi4uL0RhdGFiYXNlcy8iICsgZmlsZSwgInIiKSBhcyBkYXRhYmFzZV9qc29uOgogICAgICAgIGRhdGFiYXNlcy5hcHBlbmQoZGF0YWJhc2VfbWFwcGVyLm1hcChmaWxlLCBkYXRhYmFzZV9qc29uKSkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZmlsZSA9IGZkb3BlbihvcGVuKCIuLi8uLi8iK3NlbGYuX3BhdGgrc2VsZi5fZmlsZSwgT19SRFdSKSwgInIiKSBpZiBzZWxmLl9maWxlIGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgICAgICNsb2wgPSBzZWxmLl9kb2NrZXIuaW1hZ2VzLmJ1aWxkKHBhdGg9Ii4uLy4uLyIrc2VsZi5fcGF0aCwgdGFnPXNlbGYuX25hbWUsIGZpbGVvYmo9ZmlsZSwgYnVpbGRhcmdzPXNlbGYuX2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgZGF0YWJhc2U6ICIgKyBzZWxmLmRiX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -184,31 +195,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW1vdmUoc2VsZik6CiAgICAgICAgc2VsZi5fZG9ja2VyX3NlcnZpY2UucmVtb3ZlKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlIGluIG9zLmxpc3RkaXIoIi4uL0RhdGFiYXNlcyIpOgo=</text>
+        <text encoding="base64">Zm9yIGZpbGUgaW4gZXh0ZXJuYWxfc2VydmljZV9uYW1lczoKICAgIHdpdGggb3BlbigiLi4vRXh0ZXJuYWxTZXJ2aWNlcy8lcy5qc29uIiAlIGZpbGUsICJyIikgYXMgc2VydmljZV9qc29uOgogICAgICAgIHNlcnZpY2VzLmFwcGVuZChzZXJ2aWNlX21hcHBlci5tYXAoZmlsZSwgc2VydmljZV9qc29uKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBmb3IgZmlsZSBpbiBvcy5saXN0ZGlyKCIuLi9EYXRhYmFzZXMiKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
+        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGludGVybmFsX3NlcnZpY2VfbmFtZXM6CiAgICAgICAgd2l0aCBvcGVuKCIuLi9JbnRlcm5hbFNlcnZpY2VzLyVzLmpzb24iICUgZmlsZSwgInIiKSBhcyBzZXJ2aWNlX2pzb246CiAgICAgICAgICAgIGludGVybmFsX3NlcnZpY2VzLmFwcGVuZChzZXJ2aWNlX21hcHBlci5tYXAoZmlsZSwgc2VydmljZV9qc29uKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
+        <text encoding="base64">c2VydmljZV9tYXBwZXIgPSBTZXJ2aWNlTWFwcGVyKGRvY2tlcl9jbGllbnQsIG5ldHdvcmsuaWQsIGRhdGFiYXNlcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>service_map</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>service_map</last-pattern>
       <last-replace>bil</last-replace>
       <last-substitute>bankdata</last-substitute>
       <last-dir>1</last-dir>
@@ -216,7 +227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calculationbo</entry>
         <entry>calculate</entry>
         <entry>mock</entry>
         <entry>setup</entry>
@@ -236,6 +246,7 @@
         <entry>.reviewers</entry>
         <entry>\.reviewers</entry>
         <entry>image</entry>
+        <entry>service_map</entry>
       </history-search>
       <history-cmd>
         <entry>set so=0</entry>
