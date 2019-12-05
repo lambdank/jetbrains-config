@@ -3,29 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575462782713">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1575466864933">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/model/image.py" timestamp="1575469248452">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/Images/case.json" timestamp="1575474659763">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="C:/repo/obex.platform/Ecosystem/ExternalServices/calculation.json" timestamp="1575473988787">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="22" />
@@ -38,67 +15,42 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/Databases/case_readmodel.json" timestamp="1575465580782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575475116123">
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/model/service.py" timestamp="1575474028856">
-        <mark key="'" line="5" column="74" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="^" line="20" column="51" />
-      </file>
-      <file name="/Python Console" timestamp="1575471720115">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/InternalServices/update_database.json" timestamp="1575475062657">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="26" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/service_mapper.py" timestamp="1575474462170">
-        <mark key="[" line="23" column="89" />
-        <mark key="]" line="23" column="89" />
-        <mark key="." line="23" column="89" />
-        <mark key="^" line="32" column="72" />
-      </file>
-      <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-      </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/database_mapper.py" timestamp="1575469233424">
-        <mark key="'" line="11" column="71" />
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="71" />
-        <mark key="." line="11" column="71" />
-        <mark key="^" line="11" column="71" />
-      </file>
       <file name="/Dummy.txt" timestamp="1575465972451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
+      <file name="/main" timestamp="1575531801444">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1575531404257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/repo/obex.platform/Ecosystem/Images/calculation.json" timestamp="1575474655354">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="74" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/database.py" timestamp="1575462782713">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1575531972781">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/images_mapper.py" timestamp="1575474739520">
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="81" />
         <mark key="." line="12" column="81" />
         <mark key="^" line="11" column="54" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/InternalServices/update_database.json" timestamp="1575475062657">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="C:/repo/obex.platform/Ecosystem/ExternalServices/case.json" timestamp="1575474997423">
         <mark key="'" line="0" column="0" />
@@ -107,11 +59,30 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
+      <file name="C:/repo/obex.platform/Ecosystem/Databases/case_readmodel.json" timestamp="1575465580782">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/service_mapper.py" timestamp="1575531938824">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="35" column="116" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="C:/repo/obex.platform/Ecosystem/src/database_creator.py" timestamp="1575448852919">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/model/image.py" timestamp="1575531447535">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="103" />
+        <mark key="^" line="15" column="91" />
+        <mark key="." line="15" column="93" />
       </file>
       <file name="C:/repo/obex.platform/Ecosystem/src/model/database.py" timestamp="1575471693856">
         <mark key="[" line="21" column="44" />
@@ -119,11 +90,46 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575532081460">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+      </file>
       <file name="C:/repo/obex.platform/Ecosystem/Databases/case_eventflow.json" timestamp="1575471025236">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/Ecosystem-vynMGnrp/Lib/site-packages/docker/errors.py" timestamp="1575529877140">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="23" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/model/service.py" timestamp="1575474028856">
+        <mark key="'" line="5" column="74" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/database_mapper.py" timestamp="1575469233424">
+        <mark key="'" line="11" column="71" />
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="71" />
+        <mark key="." line="11" column="71" />
+        <mark key="^" line="11" column="71" />
+      </file>
+      <file name="C:/repo/obex.platform/Ecosystem/Images/case.json" timestamp="1575474659763">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -139,31 +145,33 @@
       <jump line="31" column="44" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
       <jump line="3" column="21" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
       <jump line="0" column="0" filename="C:/repo/obex.platform/Ecosystem/ExternalServices/case.json" />
+      <jump line="46" column="42" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
+      <jump line="43" column="19" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmljZV9tYXBwZXIgPSBTZXJ2aWNlTWFwcGVyKGRvY2tlcl9jbGllbnQsIG5ldHdvcmssIGRhdGFiYXNlcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
-      <register name="0" type="4">
-        <text>internal_services</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAnZW52JyBub3QgaW4gZGF0YToKICAgICAgICAgICAgZGF0YVsnZW52J10gPSBbXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmljZV9tYXBwZXIgPSBTZXJ2aWNlTWFwcGVyKGRvY2tlcl9jbGllbnQsIG5ldHdvcmssIGRhdGFiYXNlcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZW52IjogWwogICAgIkV2ZW50RGF0YWJhc2VTZXR0aW5nczpVc2VQZXJzaXN0ZW50TWVtb3J5PXRydWUiLAogICAgIlJlYWRNb2RlbERhdGFiYXNlU2V0dGluZ3M6VXNlUGVyc2lzdGVudE1lbW9yeT10cnVlIgogIF0sCg==</text>
+        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicG9ydCI6IDkwMDEsCg==</text>
+        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicG9ydCI6IDkwMDEsCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2FkKGZpbGUpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -176,22 +184,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewogICJwYXRoIjogIkRrL0FwaS9DYXNlU2VydmljZS9DYXNlU2VydmljZS8iLAogICJmaWxlIjogIlVwZGF0ZURhdGFiYXNlLkRvY2tlcmZpbGUiCn0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZWxldmFudF9kYXRhYmFzZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9maWxlIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hcmdzID0gWyItcCAlczo4MCIgJSBwb3J0XQo=</text>
+        <text encoding="base64">ICAgIFtkYi5pcCgpIGZvciBkYiBpbiBkYXRhYmFzZXNdCg==</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJFdmVudERhdGFiYXNlU2V0dGluZ3M6VXNlUGVyc2lzdGVudE1lbW9yeT10cnVlIiwKICAgICJSZWFkTW9kZWxEYXRhYmFzZVNldHRpbmdzOlVzZVBlcnNpc3RlbnRNZW1vcnk9dHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImNvbm5lY3Rpb25TdHJpbmdWYXJpYWJsZSI6ICJFdmVudERhdGFiYXNlU2V0dGluZ3M6Q29ubmVjdGlvblN0cmluZyIsCiAgICAgICJkYXRhYmFzZSI6ICJjYXNlX2V2ZW50ZmxvdyIKICAgIH0sCiAgICB7CiAgICAgICJjb25uZWN0aW9uU3RyaW5nVmFyaWFibGUiOiAiUmVhZE1vZGVsRGF0YWJhc2VTZXR0aW5nczpDb25uZWN0aW9uU3RyaW5nIiwKICAgICAgImRhdGFiYXNlIjogImNhc2VfcmVhZG1vZGVsIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
