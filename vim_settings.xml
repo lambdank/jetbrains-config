@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="/main" timestamp="1575531801444">
+      <file name="/main" timestamp="1575532651110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1575531404257">
@@ -65,11 +65,11 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/service_mapper.py" timestamp="1575531938824">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="35" column="116" />
-        <mark key="^" line="18" column="30" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/service_mapper.py" timestamp="1575532302712">
+        <mark key="[" line="35" column="129" />
+        <mark key="]" line="35" column="128" />
+        <mark key="." line="35" column="128" />
+        <mark key="^" line="35" column="128" />
       </file>
       <file name="C:/repo/obex.platform/Ecosystem/src/database_creator.py" timestamp="1575448852919">
         <mark key="[" line="0" column="9" />
@@ -77,24 +77,24 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/model/image.py" timestamp="1575531447535">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="93" />
-        <mark key="]" line="15" column="103" />
-        <mark key="^" line="15" column="91" />
-        <mark key="." line="15" column="93" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/model/image.py" timestamp="1575532618650">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="30" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/model/database.py" timestamp="1575471693856">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/model/database.py" timestamp="1575532588878">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="53" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="38" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575532081460">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+      <file name="C:/repo/obex.platform/Ecosystem/src/main.py" timestamp="1575532712213">
+        <mark key="[" line="50" column="68" />
+        <mark key="]" line="50" column="68" />
+        <mark key="^" line="50" column="68" />
+        <mark key="." line="50" column="68" />
       </file>
       <file name="$USER_HOME$/persrepo/command-line-jira/src/JiraDataObjects/issue.py" timestamp="1557158286935">
         <mark key="[" line="25" column="8" />
@@ -111,12 +111,12 @@
         <mark key="[" line="42" column="13" />
         <mark key="]" line="42" column="23" />
       </file>
-      <file name="C:/repo/obex.platform/Ecosystem/src/model/service.py" timestamp="1575474028856">
+      <file name="C:/repo/obex.platform/Ecosystem/src/model/service.py" timestamp="1575532638543">
         <mark key="'" line="5" column="74" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="^" line="20" column="51" />
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="63" />
       </file>
       <file name="C:/repo/obex.platform/Ecosystem/src/json_mapper/database_mapper.py" timestamp="1575469233424">
         <mark key="'" line="11" column="71" />
@@ -149,29 +149,29 @@
       <jump line="43" column="19" filename="C:/repo/obex.platform/Ecosystem/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
+      <register name="&quot;" type="4">
+        <text>All services have been created!</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>All services have been created!</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnZW52JyBub3QgaW4gZGF0YToKICAgICAgICAgICAgZGF0YVsnZW52J10gPSBbXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJBbGwgc2VydmljZXMgaGF2ZSBiZWVuIGNyZWF0ZWQhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2xbMF0uYXR0cnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
+        <text encoding="base64">ICAgICAgICAjZmlsZSA9IGZkb3BlbihvcGVuKCIuLi8uLi8iK3NlbGYuX3BhdGgrc2VsZi5fZmlsZSwgT19SRFdSKSwgInIiKSBpZiBzZWxmLl9maWxlIGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgICAgICNsb2wgPSBzZWxmLl9kb2NrZXIuaW1hZ2VzLmJ1aWxkKHBhdGg9Ii4uLy4uLyIrc2VsZi5fcGF0aCwgdGFnPXNlbGYuX25hbWUsIGZpbGVvYmo9ZmlsZSwgYnVpbGRhcmdzPXNlbGYuX2FyZ3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2FkKGZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgZGF0YWJhc2U6ICIgKyBzZWxmLmRiX25hbWUpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -184,22 +184,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWxldmFudF9kYXRhYmFzZXMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZW1vdmUoc2VsZik6CiAgICAgICAgc2VsZi5fZG9ja2VyX3NlcnZpY2UucmVtb3ZlKCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9maWxlIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgIGZvciBmaWxlIGluIG9zLmxpc3RkaXIoIi4uL0RhdGFiYXNlcyIpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtkYi5pcCgpIGZvciBkYiBpbiBkYXRhYmFzZXNdCg==</text>
+        <text encoding="base64">CiAgICBmb3IgZmlsZSBpbiBvcy5saXN0ZGlyKCIuLi9EYXRhYmFzZXMiKToK</text>
       </register>
       <register name="w" type="4">
         <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydlbnYnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiCg==</text>
+        <text encoding="base64">IyBbZGIucmVtb3ZlKCkgZm9yIGRiIGluIGRhdGFiYXNlc10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
