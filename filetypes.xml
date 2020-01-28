@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="command_line_argument.py" type="PLAIN_TEXT" />
       <mapping pattern="update_database.json" type="PLAIN_TEXT" />
       <mapping pattern="pension_info.json" type="PLAIN_TEXT" />
-      <mapping pattern="ArgumentStack.py" type="PLAIN_TEXT" />
-      <mapping pattern="command_line_argument.py" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="ArgumentStack.py" type="PLAIN_TEXT" />
       <mapping ext="configure" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
