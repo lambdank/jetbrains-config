@@ -18,8 +18,8 @@
         <entry>2w</entry>
         <entry>wq</entry>
         <entry>set ic</entry>
-        <entry>w</entry>
         <entry encoding="base64">dyA=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -78,8 +78,6 @@
         <mark key="." line="30" column="101" />
         <mark key="^" line="30" column="102" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/Todo.cs" timestamp="1589719846654" />
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Dto/Todo.cs" timestamp="1589720315606" />
       <file name="$USER_HOME$/glowing-tribble/Todo.API/appsettings.json" timestamp="1589734685093">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="35" />
@@ -104,8 +102,12 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589736082459">
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589737784289">
         <mark key="j" line="25" column="0" />
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="45" />
+        <mark key="." line="37" column="37" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.cs" timestamp="1589713010441">
         <mark key="[" line="22" column="32" />
@@ -136,12 +138,12 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589735521998">
-        <mark key="'" line="82" column="69" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="98" column="14" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589737419270">
+        <mark key="'" line="84" column="69" />
+        <mark key="[" line="84" column="50" />
+        <mark key="]" line="84" column="58" />
+        <mark key="^" line="84" column="58" />
+        <mark key="." line="84" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -177,16 +179,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0.0.0.0</text>
+        <text>$&quot;Description: {consumeResult.Message.Key}, due: {consumeResult.Message.Value.due}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0.0.0.0</text>
+        <text>$&quot;Description: {consumeResult.Message.Key}, due: {consumeResult.Message.Value.due}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHRvZG9UYXNrLmR1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIkRlc2NyaXB0aW9uOiB7Y29uc3VtZVJlc3VsdC5NZXNzYWdlLktleX0sIGR1ZToge2NvbnN1bWVSZXN1bHQuTWVzc2FnZS5WYWx1ZS5kdWV9Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -216,7 +218,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwSWQgPSAidG9kby1hcHBsaWNhdGlvbiIK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">dyA=</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
