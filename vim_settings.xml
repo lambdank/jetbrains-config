@@ -65,6 +65,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" timestamp="1589733712719">
         <mark key="'" line="79" column="93" />
       </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" timestamp="1589738247840">
+        <mark key="'" line="153" column="47" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.avsc" timestamp="1589715919202">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="10" />
@@ -102,7 +109,7 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589737784289">
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589738028005">
         <mark key="j" line="25" column="0" />
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="37" />
@@ -174,15 +181,18 @@
       <jump line="84" column="69" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="16" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" />
       <jump line="79" column="93" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" />
+      <jump line="3" column="33" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
+      <jump line="153" column="47" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>$&quot;Description: {consumeResult.Message.Key}, due: {consumeResult.Message.Value.due}&quot;</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>$&quot;Description: {consumeResult.Message.Key}, due: {consumeResult.Message.Value.due}&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
@@ -191,31 +201,95 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIkRlc2NyaXB0aW9uOiB7Y29uc3VtZVJlc3VsdC5NZXNzYWdlLktleX0sIGR1ZToge2NvbnN1bWVSZXN1bHQuTWVzc2FnZS5WYWx1ZS5kdWV9Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>version: '3'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:5.1.0
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+    image: confluentinc/cp-kafka:5.1.0
+    depends_on:
+      - zookeeper
+    ports:
+      - 9092:9092
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+
+  schema-registry:
+      image: confluentinc/cp-schema-registry:5.1.0
+      depends_on:
+        - kafka
+        - zookeeper
+      environment:
+            SCHEMA_REGISTRY_HOST_NAME: schema-registry
+            SCHEMA_REGISTRY_KAFKASTORE_CONNECTION_URL: zookeeper:2181
+            SCHEMA_REGISTRY_LISTENERS: http://0.0.0.0:8081
+      ports:
+        - &quot;8081:8081&quot;
+
+  rest-proxy:
+      image: confluentinc/cp-kafka-rest:5.1.0
+      depends_on:
+        - zookeeper
+        - kafka
+        - schema-registry
+      environment:
+            KAFKA_REST_HOST_NAME: rest-proxy
+            KAFKA_REST_ZOOKEEPER_CONNECT: zookeeper:2181
+            KAFKA_REST_BOOTSTRAP_SERVERS: kafka:29092
+            KAFKA_REST_LISTENERS: http://0.0.0.0:8082
+            KAFKA_REST_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      ports:
+        - &quot;8082:8082&quot;
+
+  ksql-server:
+      image: &quot;confluentinc/cp-ksql-server:5.1.0&quot;
+      depends_on:
+        - kafka
+        - schema-registry
+      environment:
+        KSQL_BOOTSTRAP_SERVERS: kafka:29092
+        KSQL_LISTENERS: http://0.0.0.0:8088
+        KSQL_KSQL_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      ports:
+        - &quot;8088:8088&quot;
+
+  ksql-cli:
+      image: confluentinc/cp-ksql-cli:5.1.0
+      entrypoint: /bin/sh
+      tty: true</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF2cm9TZXJpYWxpemVyQ29uZmlnID0gbmV3IEF2cm9TZXJpYWxpemVyQ29uZmlnCiAgICAgICAgICAgIHsKICAgICAgICAgICAgfTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZmZlckJ5dGVzID0gMTAwCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsIEF2cm8gc2VyaWFsaXplciBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgQnVmZmVyQnl0ZXMgPSAxMDAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF2cm9TZXJpYWxpemVyQ29uZmlnID0gbmV3IEF2cm9TZXJpYWxpemVyQ29uZmlnCiAgICAgICAgICAgIHsKICAgICAgICAgICAgfTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZmZlckJ5dGVzID0gMTAwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsIEF2cm8gc2VyaWFsaXplciBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgQnVmZmVyQnl0ZXMgPSAxMDAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cyA9IG5ldyBDYW5jZWxsYXRpb25Ub2tlblNvdXJjZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwSWQgPSAiYXZyby1zcGVjaWZpYy1leGFtcGxlLWdyb3VwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cyA9IG5ldyBDYW5jZWxsYXRpb25Ub2tlblNvdXJjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwSWQgPSAidG9kby1hcHBsaWNhdGlvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwSWQgPSAiYXZyby1zcGVjaWZpYy1leGFtcGxlLWdyb3VwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
