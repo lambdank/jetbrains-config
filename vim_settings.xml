@@ -51,6 +51,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -65,12 +68,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" timestamp="1589733712719">
         <mark key="'" line="79" column="93" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" timestamp="1589738247840">
-        <mark key="'" line="153" column="47" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" timestamp="1589740856189">
+        <mark key="'" line="121" column="47" />
+        <mark key="[" line="18" column="82" />
+        <mark key="]" line="18" column="82" />
+        <mark key="." line="18" column="82" />
+        <mark key="^" line="18" column="83" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.avsc" timestamp="1589715919202">
         <mark key="'" line="0" column="0" />
@@ -90,11 +93,9 @@
         <mark key="]" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" timestamp="1589715739344">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="37" />
+      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" timestamp="1589740343372">
+        <mark key="'" line="96" column="1" />
+        <mark key="^" line="108" column="37" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/GreeterService.cs" timestamp="1589720031680">
         <mark key="[" line="15" column="50" />
@@ -109,13 +110,7 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589738028005">
-        <mark key="j" line="25" column="0" />
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="37" />
-        <mark key="^" line="37" column="45" />
-        <mark key="." line="37" column="37" />
-      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589740295542" />
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.cs" timestamp="1589713010441">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="35" />
@@ -145,19 +140,17 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589737419270">
-        <mark key="'" line="84" column="69" />
-        <mark key="[" line="84" column="50" />
-        <mark key="]" line="84" column="58" />
-        <mark key="^" line="84" column="58" />
-        <mark key="." line="84" column="57" />
+      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589740389957">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="126" column="1" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="1" />
       </file>
     </filemarks>
     <jumps>
       <jump line="136" column="23" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="10" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="173" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="135" column="63" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="32" column="6" filename="$USER_HOME$/glowing-tribble/g/docker-compose.yml" />
       <jump line="10" column="9" filename="$USER_HOME$/glowing-tribble/g/docker-compose.yml" />
@@ -184,112 +177,60 @@
       <jump line="3" column="33" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
       <jump line="153" column="47" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
+      <jump line="53" column="24" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" />
+      <jump line="96" column="1" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" />
+      <jump line="106" column="21" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIkRlc2NyaXB0aW9uOiB7Y29uc3VtZVJlc3VsdC5NZXNzYWdlLktleX0sIGR1ZToge2NvbnN1bWVSZXN1bHQuTWVzc2FnZS5WYWx1ZS5kdWV9Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>avroSerializerConfig</text>
       </register>
       <register name="1" type="2">
-        <text>version: '3'
-services:
-  zookeeper:
-    image: confluentinc/cp-zookeeper:5.1.0
-    environment:
-      ZOOKEEPER_CLIENT_PORT: 2181
-      ZOOKEEPER_TICK_TIME: 2000
-
-  kafka:
-    image: confluentinc/cp-kafka:5.1.0
-    depends_on:
-      - zookeeper
-    ports:
-      - 9092:9092
-    environment:
-      KAFKA_BROKER_ID: 1
-      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
-      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
-      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
-      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
-
-  schema-registry:
-      image: confluentinc/cp-schema-registry:5.1.0
-      depends_on:
-        - kafka
-        - zookeeper
-      environment:
-            SCHEMA_REGISTRY_HOST_NAME: schema-registry
-            SCHEMA_REGISTRY_KAFKASTORE_CONNECTION_URL: zookeeper:2181
-            SCHEMA_REGISTRY_LISTENERS: http://0.0.0.0:8081
-      ports:
-        - &quot;8081:8081&quot;
-
-  rest-proxy:
-      image: confluentinc/cp-kafka-rest:5.1.0
-      depends_on:
-        - zookeeper
-        - kafka
-        - schema-registry
-      environment:
-            KAFKA_REST_HOST_NAME: rest-proxy
-            KAFKA_REST_ZOOKEEPER_CONNECT: zookeeper:2181
-            KAFKA_REST_BOOTSTRAP_SERVERS: kafka:29092
-            KAFKA_REST_LISTENERS: http://0.0.0.0:8082
-            KAFKA_REST_SCHEMA_REGISTRY_URL: http://schema-registry:8081
-      ports:
-        - &quot;8082:8082&quot;
-
-  ksql-server:
-      image: &quot;confluentinc/cp-ksql-server:5.1.0&quot;
-      depends_on:
-        - kafka
-        - schema-registry
-      environment:
-        KSQL_BOOTSTRAP_SERVERS: kafka:29092
-        KSQL_LISTENERS: http://0.0.0.0:8088
-        KSQL_KSQL_SCHEMA_REGISTRY_URL: http://schema-registry:8081
-      ports:
-        - &quot;8088:8088&quot;
-
-  ksql-cli:
-      image: confluentinc/cp-ksql-cli:5.1.0
-      entrypoint: /bin/sh
-      tty: true</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IDIwMTggQ29uZmx1ZW50IEluYy4KLy8KLy8gTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7Ci8vIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KLy8gWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0Ci8vCi8vIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAovLwovLyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCi8vIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCi8vIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgovLyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCi8vIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgovLwovLyBSZWZlciB0byBMSUNFTlNFIGZvciBtb3JlIGluZm9ybWF0aW9uLgoKdXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwp1c2luZyBDb25mbHVlbnQuS2Fma2EuU3luY092ZXJBc3luYzsKdXNpbmcgQ29uZmx1ZW50LlNjaGVtYVJlZ2lzdHJ5Owp1c2luZyBDb25mbHVlbnQuU2NoZW1hUmVnaXN0cnkuU2VyZGVzOwoKbmFtZXNwYWNlIENvbmZsdWVudC5LYWZrYS5FeGFtcGxlcy5BdnJvU3BlY2lmaWMKewogICAgY2xhc3MgUHJvZ3JhbQogICAgewogICAgICAgIHN0YXRpYyBhc3luYyBUYXNrIE1haW4oc3RyaW5nW10gYXJncykKICAgICAgICB7CiAgICAgICAgICAgIGlmIChhcmdzLkxlbmd0aCAhPSAzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiVXNhZ2U6IC4uIGJvb3RzdHJhcFNlcnZlcnMgc2NoZW1hUmVnaXN0cnlVcmwgdG9waWNOYW1lIik7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHN0cmluZyBib290c3RyYXBTZXJ2ZXJzID0gYXJnc1swXTsKICAgICAgICAgICAgc3RyaW5nIHNjaGVtYVJlZ2lzdHJ5VXJsID0gYXJnc1sxXTsKICAgICAgICAgICAgc3RyaW5nIHRvcGljTmFtZSA9IGFyZ3NbMl07CgogICAgICAgICAgICB2YXIgcHJvZHVjZXJDb25maWcgPSBuZXcgUHJvZHVjZXJDb25maWcKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQm9vdHN0cmFwU2VydmVycyA9IGJvb3RzdHJhcFNlcnZlcnMKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHZhciBzY2hlbWFSZWdpc3RyeUNvbmZpZyA9IG5ldyBTY2hlbWFSZWdpc3RyeUNvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBOb3RlOiB5b3UgY2FuIHNwZWNpZnkgbW9yZSB0aGFuIG9uZSBzY2hlbWEgcmVnaXN0cnkgdXJsIHVzaW5nIHRoZQogICAgICAgICAgICAgICAgLy8gc2NoZW1hLnJlZ2lzdHJ5LnVybCBwcm9wZXJ0eSBmb3IgcmVkdW5kYW5jeSAoY29tbWEgc2VwYXJhdGVkIGxpc3QpLiAKICAgICAgICAgICAgICAgIC8vIFRoZSBwcm9wZXJ0eSBuYW1lIGlzIG5vdCBwbHVyYWwgdG8gZm9sbG93IHRoZSBjb252ZW50aW9uIHNldCBieQogICAgICAgICAgICAgICAgLy8gdGhlIEphdmEgaW1wbGVtZW50YXRpb24uCiAgICAgICAgICAgICAgICBVcmwgPSBzY2hlbWFSZWdpc3RyeVVybAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgdmFyIGNvbnN1bWVyQ29uZmlnID0gbmV3IENvbnN1bWVyQ29uZmlnCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEJvb3RzdHJhcFNlcnZlcnMgPSBib290c3RyYXBTZXJ2ZXJzLAogICAgICAgICAgICAgICAgR3JvdXBJZCA9ICJhdnJvLXNwZWNpZmljLWV4YW1wbGUtZ3JvdXAiCiAgICAgICAgICAgIH07CgogICAgICAgICAgICB2YXIgYXZyb1NlcmlhbGl6ZXJDb25maWcgPSBuZXcgQXZyb1NlcmlhbGl6ZXJDb25maWcKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy8gb3B0aW9uYWwgQXZybyBzZXJpYWxpemVyIHByb3BlcnRpZXM6CiAgICAgICAgICAgICAgICBCdWZmZXJCeXRlcyA9IDEwMAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgQ2FuY2VsbGF0aW9uVG9rZW5Tb3VyY2UgY3RzID0gbmV3IENhbmNlbGxhdGlvblRva2VuU291cmNlKCk7CiAgICAgICAgICAgIHZhciBjb25zdW1lVGFzayA9IFRhc2suUnVuKCgpID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgc2NoZW1hUmVnaXN0cnkgPSBuZXcgQ2FjaGVkU2NoZW1hUmVnaXN0cnlDbGllbnQoc2NoZW1hUmVnaXN0cnlDb25maWcpKQogICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb25zdW1lciA9CiAgICAgICAgICAgICAgICAgICAgbmV3IENvbnN1bWVyQnVpbGRlcjxzdHJpbmcsIFRvZG9UYXNrPihjb25zdW1lckNvbmZpZykKICAgICAgICAgICAgICAgICAgICAgICAgLlNldEtleURlc2VyaWFsaXplcihuZXcgQXZyb0Rlc2VyaWFsaXplcjxzdHJpbmc+KHNjaGVtYVJlZ2lzdHJ5KS5Bc1N5bmNPdmVyQXN5bmMoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLlNldFZhbHVlRGVzZXJpYWxpemVyKG5ldyBBdnJvRGVzZXJpYWxpemVyPFRvZG9UYXNrPihzY2hlbWFSZWdpc3RyeSkuQXNTeW5jT3ZlckFzeW5jKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5TZXRFcnJvckhhbmRsZXIoKF8sIGUpID0+IENvbnNvbGUuV3JpdGVMaW5lKCQiRXJyb3I6IHtlLlJlYXNvbn0iKSkKICAgICAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY29uc3VtZXIuU3Vic2NyaWJlKHRvcGljTmFtZSk7CgogICAgICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJjb25zdW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNvbnN1bWVSZXN1bHQgPSBjb25zdW1lci5Db25zdW1lKGN0cy5Ub2tlbik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJEZXNjcmlwdGlvbjoge2NvbnN1bWVSZXN1bHQuTWVzc2FnZS5LZXl9LCBkdWU6IHtjb25zdW1lUmVzdWx0Lk1lc3NhZ2UuVmFsdWUuZHVlfSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2F0Y2ggKENvbnN1bWVFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIkNvbnN1bWUgZXJyb3I6IHtlLkVycm9yLlJlYXNvbn0iKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBjYXRjaCAoT3BlcmF0aW9uQ2FuY2VsZWRFeGNlcHRpb24pCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5DbG9zZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIC8vYXdhaXQgY29uc3VtZVRhc2s7CgogICAgICAgICAgICB1c2luZyAodmFyIHNjaGVtYVJlZ2lzdHJ5ID0gbmV3IENhY2hlZFNjaGVtYVJlZ2lzdHJ5Q2xpZW50KHNjaGVtYVJlZ2lzdHJ5Q29uZmlnKSkKICAgICAgICAgICAgdXNpbmcgKHZhciBwcm9kdWNlciA9CiAgICAgICAgICAgICAgICBuZXcgUHJvZHVjZXJCdWlsZGVyPHN0cmluZywgVG9kb1Rhc2s+KHByb2R1Y2VyQ29uZmlnKQogICAgICAgICAgICAgICAgICAgIC8vLlNldEtleVNlcmlhbGl6ZXIobmV3IEF2cm9TZXJpYWxpemVyPHN0cmluZz4oc2NoZW1hUmVnaXN0cnksIGF2cm9TZXJpYWxpemVyQ29uZmlnKSkKICAgICAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oc2NoZW1hUmVnaXN0cnksIGF2cm9TZXJpYWxpemVyQ29uZmlnKSkKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJ7cHJvZHVjZXIuTmFtZX0gcHJvZHVjaW5nIG9uIHt0b3BpY05hbWV9LiBFbnRlciB1c2VyIG5hbWVzLCBxIHRvIGV4aXQuIik7CgogICAgICAgICAgICAgICAgc3RyaW5nIHRleHQ7CiAgICAgICAgICAgICAgICB3aGlsZSAoKHRleHQgPSBDb25zb2xlLlJlYWRMaW5lKCkpICE9ICJxIikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgdG9kb1Rhc2sgPSBuZXcgVG9kb1Rhc2sgeyBkZXNjcmlwdGlvbiA9IHRleHQsIGR1ZSA9ICJ0b21tb3JvdyIgfTsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0b2RvVGFzayk7CiAgICAgICAgICAgICAgICAgICAgYXdhaXQgcHJvZHVjZXIKICAgICAgICAgICAgICAgICAgICAgICAgLlByb2R1Y2VBc3luYyh0b3BpY05hbWUsIG5ldyBNZXNzYWdlPHN0cmluZywgVG9kb1Rhc2s+IHsgS2V5ID0gdGV4dCwgVmFsdWUgPSB0b2RvVGFzayB9KQogICAgICAgICAgICAgICAgICAgICAgICAuQ29udGludWVXaXRoKHRhc2sgPT4gdGFzay5Jc0ZhdWx0ZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gJCJlcnJvciBwcm9kdWNpbmcgbWVzc2FnZToge3Rhc2suRXhjZXB0aW9uLk1lc3NhZ2V9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAkInByb2R1Y2VkIHRvOiB7dGFzay5SZXN1bHQuVG9waWNQYXJ0aXRpb25PZmZzZXR9Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGN0cy5DYW5jZWwoKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>namespace Confluent.Kafka.Examples.AvroSpecific
+{
+    public class User
+    {
+        
+    }
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF2cm9TZXJpYWxpemVyQ29uZmlnID0gbmV3IEF2cm9TZXJpYWxpemVyQ29uZmlnCiAgICAgICAgICAgIHsKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwp1c2luZyBDb25mbHVlbnQuS2Fma2E7CnVzaW5nIENvbmZsdWVudC5LYWZrYS5TeW5jT3ZlckFzeW5jOwp1c2luZyBDb25mbHVlbnQuU2NoZW1hUmVnaXN0cnk7CnVzaW5nIENvbmZsdWVudC5TY2hlbWFSZWdpc3RyeS5TZXJkZXM7CnVzaW5nIEdvb2dsZS5Qcm90b2J1Zi5XZWxsS25vd25UeXBlczsKdXNpbmcgR3JwYy5Db3JlOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5Db25maWd1cmF0aW9uOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5Mb2dnaW5nOwp1c2luZyBUb2RvLkFQSS5EdG87CnVzaW5nIFRvZG8uRHRvOwoKbmFtZXNwYWNlIFRvZG8uQVBJLlNlcnZpY2VzCnsKICAgIHB1YmxpYyBjbGFzcyBUb2RvU2VydmljZSA6IER0by5Ub2RvU2VydmljZS5Ub2RvU2VydmljZUJhc2UKICAgIHsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8VG9kb1NlcnZpY2U+IF9sb2dnZXI7CiAgICAgICAgcHJpdmF0ZSBzdHJpbmcgX2Jvb3RzdHJhcFNlcnZlcnM7CiAgICAgICAgcHJpdmF0ZSBzdHJpbmcgX3NjaGVtYVJlZ2lzdHJ5VXJsOwoKICAgICAgICBwdWJsaWMgVG9kb1NlcnZpY2UoSUxvZ2dlcjxUb2RvU2VydmljZT4gbG9nZ2VyLCBJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQogICAgICAgIHsKICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsKICAgICAgICAgICAgX2Jvb3RzdHJhcFNlcnZlcnMgPSBjb25maWd1cmF0aW9uLkdldFZhbHVlPHN0cmluZz4oIkJvb3RzdHJhcFNlcnZlcnMiKTsKICAgICAgICAgICAgX3NjaGVtYVJlZ2lzdHJ5VXJsID0gY29uZmlndXJhdGlvbi5HZXRWYWx1ZTxzdHJpbmc+KCJTY2hlbWFSZWdpc3RyeSIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIG92ZXJyaWRlIGFzeW5jIFRhc2s8RW1wdHk+IEFkZFRvZG8oQWRkVG9kb1JlcXVlc3QgcmVxdWVzdCwgU2VydmVyQ2FsbENvbnRleHQgY29udGV4dCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBwcm9kdWNlckNvbmZpZyA9IG5ldyBQcm9kdWNlckNvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBCb290c3RyYXBTZXJ2ZXJzID0gImxvY2FsaG9zdDo5MDkyIgogICAgICAgICAgICB9OwoKICAgICAgICAgICAgdmFyIHNjaGVtYVJlZ2lzdHJ5Q29uZmlnID0gbmV3IFNjaGVtYVJlZ2lzdHJ5Q29uZmlnCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFVybCA9ICJsb2NhbGhvc3Q6ODA4MSIKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHZhciBhdnJvU2VyaWFsaXplckNvbmZpZyA9IG5ldyBBdnJvU2VyaWFsaXplckNvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBvcHRpb25hbCBBdnJvIHNlcmlhbGl6ZXIgcHJvcGVydGllczoKICAgICAgICAgICAgICAgIEJ1ZmZlckJ5dGVzID0gMTAwCiAgICAgICAgICAgIH07CgogICAgICAgICAgICBjb25zdCBzdHJpbmcgdG9waWNOYW1lID0gImFkZC10b2RvIjsKCiAgICAgICAgICAgIHVzaW5nICh2YXIgc2NoZW1hUmVnaXN0cnkgPSBuZXcgQ2FjaGVkU2NoZW1hUmVnaXN0cnlDbGllbnQoc2NoZW1hUmVnaXN0cnlDb25maWcpKQogICAgICAgICAgICB1c2luZyAodmFyIHByb2R1Y2VyID0KICAgICAgICAgICAgICAgIG5ldyBQcm9kdWNlckJ1aWxkZXI8c3RyaW5nLCBUb2RvVGFzaz4ocHJvZHVjZXJDb25maWcpCiAgICAgICAgICAgICAgICAgICAgLlNldEtleVNlcmlhbGl6ZXIobmV3IEF2cm9TZXJpYWxpemVyPHN0cmluZz4oc2NoZW1hUmVnaXN0cnksIGF2cm9TZXJpYWxpemVyQ29uZmlnKS5Bc1N5bmNPdmVyQXN5bmMoKSkKICAgICAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oc2NoZW1hUmVnaXN0cnksIGF2cm9TZXJpYWxpemVyQ29uZmlnKS5Bc1N5bmNPdmVyQXN5bmMoKSkKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRvZG9UYXNrID0gbmV3IFRvZG9UYXNrIHsgZGVzY3JpcHRpb24gPSByZXF1ZXN0LkRlc2NyaXB0aW9uLCBkdWUgPSByZXF1ZXN0LkR1ZSB9OwogICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUodG9kb1Rhc2suZGVzY3JpcHRpb24pOwogICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUodG9kb1Rhc2suZHVlKTsKICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHRvZG9UYXNrLlNjaGVtYSk7CiAgICAgICAgICAgICAgICB2YXIgYXNkZiA9IGF3YWl0IHByb2R1Y2VyCiAgICAgICAgICAgICAgICAgICAgLlByb2R1Y2VBc3luYyh0b3BpY05hbWUsIG5ldyBNZXNzYWdlPHN0cmluZywgVG9kb1Rhc2s+IHsgS2V5ID0gImFzZGYiLCBWYWx1ZSA9IHRvZG9UYXNrIH0pCiAgICAgICAgICAgICAgICAgICAgLkNvbnRpbnVlV2l0aCh0YXNrID0+IHRhc2suSXNGYXVsdGVkCiAgICAgICAgICAgICAgICAgICAgICAgID8gJCJlcnJvciBwcm9kdWNpbmcgbWVzc2FnZToge3Rhc2suRXhjZXB0aW9ufSIKICAgICAgICAgICAgICAgICAgICAgICAgOiAkInByb2R1Y2VkIHRvOiB7dGFzay5SZXN1bHQuVG9waWNQYXJ0aXRpb25PZmZzZXR9Iik7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShhc2RmKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIG5ldyBFbXB0eSgpOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZmZlckJ5dGVzID0gMTAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOncK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsIEF2cm8gc2VyaWFsaXplciBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgQnVmZmVyQnl0ZXMgPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0cyA9IG5ldyBDYW5jZWxsYXRpb25Ub2tlblNvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwSWQgPSAiYXZyby1zcGVjaWZpYy1leGFtcGxlLWdyb3VwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
