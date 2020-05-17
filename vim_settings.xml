@@ -45,6 +45,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/greet.proto" timestamp="1589719415939">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/Downloads/AvroBlogExamples/MessageTypes/LogLevel.cs" timestamp="1589118329994">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -57,11 +63,57 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/Todo.cs" timestamp="1589719846654" />
+      <file name="$USER_HOME$/glowing-tribble/g/docker-compose.yml" timestamp="1589711732819">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="65" column="13" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Dto/Todo.cs" timestamp="1589720315606" />
+      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" timestamp="1589715739344">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/GreeterService.cs" timestamp="1589720031680">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="50" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1589720238576">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1589719985394">
+        <mark key="'" line="19" column="47" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.cs" timestamp="1589713010441">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="35" />
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Startup.cs" timestamp="1589720000409">
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="51" />
+        <mark key="^" line="50" column="52" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/API/Program.cs" timestamp="1589718957754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.avsc" timestamp="1589712318192">
         <mark key="[" line="5" column="48" />
@@ -75,25 +127,12 @@
         <mark key="^" line="11" column="56" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/g/docker-compose.yml" timestamp="1589711732819">
-        <mark key="'" line="65" column="12" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="65" column="13" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589717722011">
         <mark key="'" line="85" column="52" />
         <mark key="[" line="100" column="12" />
         <mark key="]" line="100" column="14" />
         <mark key="^" line="100" column="14" />
         <mark key="." line="100" column="13" />
-      </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" timestamp="1589715739344">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -114,48 +153,56 @@
       <jump line="29" column="8" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="86" column="52" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.avsc" />
+      <jump line="16" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" />
+      <jump line="18" column="47" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>HelloRequest</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>HelloRequest</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdmlydHVhbCBTY2hlbWEgU2NoZW1hCgkJewoJCQlnZXQKCQkJewoJCQkJcmV0dXJuIFVzZXIuX1NDSEVNQTsKCQkJfQoJCX0K</text>
+      <register name="0" type="4">
+        <text>TodoService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTWVzc2FnZSA9ICJIZWxsbyAiICsgcmVxdWVzdC5OYW1lCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>namespace Todo.API.Services
+{
+    public class TodoService
+    {
+        
+    }
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQ29uc29sZUFwcDE7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdmlydHVhbCBTY2hlbWEgU2NoZW1hCgkJewoJCQlnZXQKCQkJewoJCQkJcmV0dXJuIF9TQ0hFTUE7CgkJCX0KCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY2FzZSAxOiB0aGlzLmZhdm9yaXRlX251bWJlciA9IChTeXN0ZW0uTnVsbGFibGU8U3lzdGVtLkludDMyPilmaWVsZFZhbHVlOyBicmVhazsK</text>
+        <text encoding="base64">Ly8gVGhlIHJlc3BvbnNlIG1lc3NhZ2UgY29udGFpbmluZyB0aGUgZ3JlZXRpbmdzLgptZXNzYWdlIEhlbGxvUmVwbHkgewogIHN0cmluZyBtZXNzYWdlID0gMTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY2FzZSAyOiB0aGlzLmZhdm9yaXRlX2NvbG9yID0gKFN5c3RlbS5TdHJpbmcpZmllbGRWYWx1ZTsgYnJlYWs7CgkJCWNhc2UgMzogdGhpcy5ob3VybHlfcmF0ZSA9IChBdnJvLkF2cm9EZWNpbWFsKWZpZWxkVmFsdWU7IGJyZWFrOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICBwdWJsaWMgdm9pZCBQdXQoaW50IGZpZWxkUG9zLCBvYmplY3QgZmllbGRWYWx1ZSkKCSAgICB7CgkJICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKCSAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLklPOwp1c2luZyBTeXN0ZW0uTGlucTsKdXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgc2NoZW1hID0gRmlsZS5SZWFkQWxsVGV4dChAIlRhc2suYXZzYyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
