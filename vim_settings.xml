@@ -68,11 +68,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" timestamp="1589733712719">
         <mark key="'" line="79" column="93" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" timestamp="1589742702546">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" timestamp="1589911415017" />
       <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Task.avsc" timestamp="1589715919202">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="10" />
@@ -172,7 +168,6 @@
       <jump line="16" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" />
       <jump line="79" column="93" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF70B9BC-7041-4BDB-B10C-33C9BF11FC23/2d/6a9162bc/ConsumerConfig.cs" />
       <jump line="3" column="33" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
       <jump line="153" column="47" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
       <jump line="53" column="24" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
@@ -182,15 +177,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
       <jump line="31" column="81" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
+      <jump line="9" column="16" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/docker-compose.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>def</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>def</text>
+        <text>0.0.0.0</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
@@ -199,31 +196,31 @@
         <text encoding="base64">ICAgIGltYWdlOiBjb25mbHVlbnRpbmMvY3Ata2Fma2E6NS4xLjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgVG9kby5BUEkuRHRvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgVG9kby5BUEkuU2VydmljZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgVG9kby5BUEkuRHRvOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY2hlbWEtcmVnaXN0cnk6CiAgICBpbWFnZTogYml0bmFtaS9zY2hlbWEtcmVnaXN0cnk6bGF0ZXN0CiAgICBkZXBlbmRzX29uOgogICAgICAtIGthZmthCiAgICAgIC0gem9va2VlcGVyCiAgICBlbnZpcm9ubWVudDoKICAgICAgU0NIRU1BX1JFR0lTVFJZX0hPU1RfTkFNRTogc2NoZW1hLXJlZ2lzdHJ5CiAgICAgIFNDSEVNQV9SRUdJU1RSWV9LQUZLQVNUT1JFX0NPTk5FQ1RJT05fVVJMOiB6b29rZWVwZXI6MjE4MQogICAgICBTQ0hFTUFfUkVHSVNUUllfTElTVEVORVJTOiBodHRwOi8vMC4wLjAuMDo4MDgxCiAgICBwb3J0czoKICAgICAgLSAiODA4MTo4MDgxIg==</text>
+        <text encoding="base64">dXNpbmcgVG9kby5BUEkuU2VydmljZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzY2hlbWEtcmVnaXN0cnk6CiAgICBpbWFnZTogYml0bmFtaS9zY2hlbWEtcmVnaXN0cnk6bGF0ZXN0CiAgICBkZXBlbmRzX29uOgogICAgICAtIGthZmthCiAgICAgIC0gem9va2VlcGVyCiAgICBlbnZpcm9ubWVudDoKICAgICAgU0NIRU1BX1JFR0lTVFJZX0hPU1RfTkFNRTogc2NoZW1hLXJlZ2lzdHJ5CiAgICAgIFNDSEVNQV9SRUdJU1RSWV9LQUZLQVNUT1JFX0NPTk5FQ1RJT05fVVJMOiB6b29rZWVwZXI6MjE4MQogICAgICBTQ0hFTUFfUkVHSVNUUllfTElTVEVORVJTOiBodHRwOi8vMC4wLjAuMDo4MDgxCiAgICBwb3J0czoKICAgICAgLSAiODA4MTo4MDgxIg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlcnNpb246ICcyJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VydmljZXM6CiAgem9va2VlcGVyOgogICAgaW1hZ2U6ICdiaXRuYW1pL3pvb2tlZXBlcjpsYXRlc3QnCiAgICBwb3J0czoKICAgICAgLSAnMjE4MToyMTgxJwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gWk9PX0VOQUJMRV9BVVRIPXllcwogICAgICAtIFpPT19TRVJWRVJfVVNFUlM9a2Fma2EKICAgICAgLSBaT09fU0VSVkVSX1BBU1NXT1JEUz1rYWZrYV9wYXNzd29yZAogIGthZmthOgogICAgaW1hZ2U6ICdiaXRuYW1pL2thZmthOmxhdGVzdCcKICAgIGhvc3RuYW1lOiBrYWZrYS5leGFtcGxlLmNvbQogICAgcG9ydHM6CiAgICAgIC0gJzkwOTInCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBLQUZLQV9DRkdfWk9PS0VFUEVSX0NPTk5FQ1Q9em9va2VlcGVyOjIxODEKICAgICAgLSBLQUZLQV9DRkdfTElTVEVORVJTPVNBU0xfU1NMOi8vOjkwOTIKICAgICAgLSBLQUZLQV9DRkdfQURWRVJUSVNFRF9MSVNURU5FUlM9U0FTTF9TU0w6Ly86OTA5MgogICAgICAtIEtBRktBX1pPT0tFRVBFUl9VU0VSPWthZmthCiAgICAgIC0gS0FGS0FfWk9PS0VFUEVSX1BBU1NXT1JEPWthZmthX3Bhc3N3b3JkCiAgICAgIC0gS0FGS0FfSU5URVJfQlJPS0VSX1VTRVI9aW50ZXJ1c2VyCiAgICAgIC0gS0FGS0FfSU5URVJfQlJPS0VSX1BBU1NXT1JEPWludGVycGFzc3dvcmQKICAgICAgLSBLQUZLQV9CUk9LRVJfVVNFUj11c2VyCiAgICAgIC0gS0FGS0FfQlJPS0VSX1BBU1NXT1JEPXBhc3N3b3JkCiAgICAgIC0gS0FGS0FfQ0VSVElGSUNBVEVfUEFTU1dPUkQ9Y2VydGlmaWNhdGVQYXNzd29yZDEyMwogICAgdm9sdW1lczoKICAgICAgLSAnLi9rYWZrYS5rZXlzdG9yZS5qa3M6L29wdC9iaXRuYW1pL2thZmthL2NvbmYvY2VydHMva2Fma2Eua2V5c3RvcmUuamtzOnJvJwogICAgICAtICcuL2thZmthLnRydXN0c3RvcmUuamtzOi9vcHQvYml0bmFtaS9rYWZrYS9jb25mL2NlcnRzL2thZmthLnRydXN0c3RvcmUuamtzOnJvJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBlcnNpb246ICcyJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2VydmljZXM6CiAgem9va2VlcGVyOgogICAgaW1hZ2U6ICdiaXRuYW1pL3pvb2tlZXBlcjpsYXRlc3QnCiAgICBwb3J0czoKICAgICAgLSAnMjE4MToyMTgxJwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gWk9PX0VOQUJMRV9BVVRIPXllcwogICAgICAtIFpPT19TRVJWRVJfVVNFUlM9a2Fma2EKICAgICAgLSBaT09fU0VSVkVSX1BBU1NXT1JEUz1rYWZrYV9wYXNzd29yZAogIGthZmthOgogICAgaW1hZ2U6ICdiaXRuYW1pL2thZmthOmxhdGVzdCcKICAgIGhvc3RuYW1lOiBrYWZrYS5leGFtcGxlLmNvbQogICAgcG9ydHM6CiAgICAgIC0gJzkwOTInCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBLQUZLQV9DRkdfWk9PS0VFUEVSX0NPTk5FQ1Q9em9va2VlcGVyOjIxODEKICAgICAgLSBLQUZLQV9DRkdfTElTVEVORVJTPVNBU0xfU1NMOi8vOjkwOTIKICAgICAgLSBLQUZLQV9DRkdfQURWRVJUSVNFRF9MSVNURU5FUlM9U0FTTF9TU0w6Ly86OTA5MgogICAgICAtIEtBRktBX1pPT0tFRVBFUl9VU0VSPWthZmthCiAgICAgIC0gS0FGS0FfWk9PS0VFUEVSX1BBU1NXT1JEPWthZmthX3Bhc3N3b3JkCiAgICAgIC0gS0FGS0FfSU5URVJfQlJPS0VSX1VTRVI9aW50ZXJ1c2VyCiAgICAgIC0gS0FGS0FfSU5URVJfQlJPS0VSX1BBU1NXT1JEPWludGVycGFzc3dvcmQKICAgICAgLSBLQUZLQV9CUk9LRVJfVVNFUj11c2VyCiAgICAgIC0gS0FGS0FfQlJPS0VSX1BBU1NXT1JEPXBhc3N3b3JkCiAgICAgIC0gS0FGS0FfQ0VSVElGSUNBVEVfUEFTU1dPUkQ9Y2VydGlmaWNhdGVQYXNzd29yZDEyMwogICAgdm9sdW1lczoKICAgICAgLSAnLi9rYWZrYS5rZXlzdG9yZS5qa3M6L29wdC9iaXRuYW1pL2thZmthL2NvbmYvY2VydHMva2Fma2Eua2V5c3RvcmUuamtzOnJvJwogICAgICAtICcuL2thZmthLnRydXN0c3RvcmUuamtzOi9vcHQvYml0bmFtaS9rYWZrYS9jb25mL2NlcnRzL2thZmthLnRydXN0c3RvcmUuamtzOnJvJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLSAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmVyc2lvbjogJzInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
