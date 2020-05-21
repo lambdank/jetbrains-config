@@ -16,6 +16,7 @@
         <entry>aaaa</entry>
         <entry>Todo.dto</entry>
         <entry>todo.dto</entry>
+        <entry>adm</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -143,11 +144,8 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590068488491">
-        <mark key="[" line="21" column="73" />
-        <mark key="]" line="21" column="74" />
-        <mark key="." line="21" column="73" />
-        <mark key="^" line="21" column="74" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590070119098">
+        <mark key="'" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Model/Todo.cs" timestamp="1590066063537">
         <mark key="'" line="6" column="4" />
@@ -248,18 +246,19 @@
       <jump line="43" column="1" filename="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" />
       <jump line="25" column="36" filename="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" />
       <jump line="6" column="4" filename="$USER_HOME$/glowing-tribble/Todo.Model/Todo.cs" />
+      <jump line="6" column="21" filename="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>Test</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
-        <text>todo.dto</text>
+        <text>adm</text>
       </register>
       <register name="0" type="4">
         <text>todo.Id</text>
@@ -306,9 +305,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>todo.dto</last-search>
+      <last-search>adm</last-search>
       <last-offset />
-      <last-pattern>todo.dto</last-pattern>
+      <last-pattern>adm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
