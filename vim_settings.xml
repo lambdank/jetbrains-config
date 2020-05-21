@@ -129,11 +129,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590080136964">
-        <mark key="[" line="60" column="68" />
-        <mark key="]" line="60" column="68" />
-        <mark key="^" line="58" column="87" />
-        <mark key="." line="60" column="68" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590083465645">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" timestamp="1590065501209">
         <mark key="'" line="17" column="36" />
@@ -252,7 +252,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.Message</text>
+        <text>_producerConfig</text>
       </register>
       <register name="-" type="4">
         <text>.Message</text>
@@ -261,42 +261,42 @@
         <text>adm</text>
       </register>
       <register name="0" type="4">
-        <text>todo.Id</text>
+        <text>_producerConfig</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG5ldyBQcm9kdWNlckNvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBCb290c3RyYXBTZXJ2ZXJzID0gImxvY2FsaG9zdDo5MDkyIgogICAgICAgICAgICB9Ow==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9TZXJ2ZXIgc2V0dGluZ3MKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0KICAgICAgICAgICAgdmFyIG1vbmdvQ2xpZW50ID0gbmV3IE1vbmdvQ2xpZW50KHNldHRpbmdzKTsKICAgICAgICAgICAgdmFyIHRlc3QgPSBtb25nb0NsaWVudC5HZXREYXRhYmFzZSgidGVzdCIpOwogICAgICAgICAgICAgICB0ZXN0LgogICAgICAgICAgICAgICAvL25ldyBEQigidGVzdCIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERCKAogICAgICAgICAgICAgICAgbmV3IE1vbmdvQ2xpZW50U2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmVkZW50aWFscyA9IG5ld1tdIHsgY3JlZGVudGlhbCB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZlciA9IG5ldyBNb25nb1NlcnZlckFkZHJlc3MoIjIwLjI0MS4xMzEuMTk0IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICBsb2wuCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9TZXJ2ZXIgc2V0dGluZ3MKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0KICAgICAgICAgICAgdmFyIG1vbmdvQ2xpZW50ID0gbmV3IE1vbmdvQ2xpZW50KHNldHRpbmdzKTsKICAgICAgICAgICAgdmFyIHRlc3QgPSBtb25nb0NsaWVudC5HZXREYXRhYmFzZSgidGVzdCIpOwogICAgICAgICAgICAgICB0ZXN0LgogICAgICAgICAgICAgICAvL25ldyBEQigidGVzdCIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IERCKAogICAgICAgICAgICAgICAgbmV3IE1vbmdvQ2xpZW50U2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmVkZW50aWFscyA9IG5ld1tdIHsgY3JlZGVudGlhbCB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZlciA9IG5ldyBNb25nb1NlcnZlckFkZHJlc3MoIjIwLjI0MS4xMzEuMTk0IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICBsb2wuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+      </register>
+      <register name="7" type="8">
         <text>//
 //
 //
 //
 //</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>new MongoClientSettings
             {
                 Credentials = new[] { credential },
                 Server = new MongoServerAddress(&quot;20.241.131.194&quot;)
             };</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
