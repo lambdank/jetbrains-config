@@ -17,6 +17,7 @@
         <entry>Todo.dto</entry>
         <entry>todo.dto</entry>
         <entry>adm</entry>
+        <entry>complete</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -89,6 +90,11 @@
         <mark key="." line="67" column="1" />
         <mark key="^" line="67" column="3" />
       </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" timestamp="1590085016493">
+        <mark key="'" line="60" column="30" />
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="60" column="67" />
+      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Dto/generate-class.sh" timestamp="1590050472385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -105,10 +111,6 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/User.cs" timestamp="1589740343372">
-        <mark key="'" line="96" column="1" />
-        <mark key="^" line="108" column="37" />
-      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/AddTodoEventHandler.cs" timestamp="1590066162921">
         <mark key="j" line="13" column="33" />
         <mark key="[" line="32" column="0" />
@@ -116,12 +118,19 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590050849953">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" timestamp="1590085278666">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590084850918">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Database/Database.cs" timestamp="1590066113767">
         <mark key="[" line="10" column="0" />
@@ -129,11 +138,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590083465645">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="30" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590085212491">
+        <mark key="'" line="32" column="50" />
+        <mark key="[" line="54" column="105" />
+        <mark key="]" line="54" column="119" />
+        <mark key="." line="54" column="105" />
+        <mark key="^" line="54" column="95" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" timestamp="1590065501209">
         <mark key="'" line="17" column="36" />
@@ -153,11 +163,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590058129541">
+      <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590083899460">
         <mark key="[" line="22" column="0" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="17" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/IEventHandler.cs" timestamp="1590055282819">
         <mark key="[" line="6" column="29" />
@@ -247,56 +256,54 @@
       <jump line="25" column="36" filename="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" />
       <jump line="6" column="4" filename="$USER_HOME$/glowing-tribble/Todo.Model/Todo.cs" />
       <jump line="6" column="21" filename="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
+      <jump line="26" column="17" filename="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" />
+      <jump line="42" column="50" filename="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" />
+      <jump line="59" column="51" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
+      <jump line="70" column="39" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
+      <jump line="60" column="30" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_producerConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSVByb2R1Y2VyPHN0cmluZywgVG9kb1Rhc2s+IEdldEFkZFRhc2tQcm9kdWNlcigpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFByb2R1Y2VyQnVpbGRlcjxzdHJpbmcsIFRvZG9UYXNrPihfcHJvZHVjZXJDb25maWcpCiAgICAgICAgICAgICAgICAuU2V0S2V5U2VyaWFsaXplcihuZXcgQXZyb1NlcmlhbGl6ZXI8c3RyaW5nPihfc2NoZW1hUmVnaXN0cnksIF9hdnJvU2VyaWFsaXplckNvbmZpZykpCiAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oX3NjaGVtYVJlZ2lzdHJ5LCBfYXZyb1NlcmlhbGl6ZXJDb25maWcpKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.Message</text>
+        <text>todoTask</text>
       </register>
       <register name="/" type="4">
-        <text>adm</text>
+        <text>complete</text>
       </register>
-      <register name="0" type="4">
-        <text>_producerConfig</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSVByb2R1Y2VyPHN0cmluZywgVG9kb1Rhc2s+IEdldEFkZFRhc2tQcm9kdWNlcigpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFByb2R1Y2VyQnVpbGRlcjxzdHJpbmcsIFRvZG9UYXNrPihfcHJvZHVjZXJDb25maWcpCiAgICAgICAgICAgICAgICAuU2V0S2V5U2VyaWFsaXplcihuZXcgQXZyb1NlcmlhbGl6ZXI8c3RyaW5nPihfc2NoZW1hUmVnaXN0cnksIF9hdnJvU2VyaWFsaXplckNvbmZpZykpCiAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oX3NjaGVtYVJlZ2lzdHJ5LCBfYXZyb1NlcmlhbGl6ZXJDb25maWcpKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IG5ldyBQcm9kdWNlckNvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBCb290c3RyYXBTZXJ2ZXJzID0gImxvY2FsaG9zdDo5MDkyIgogICAgICAgICAgICB9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9TZXJ2ZXIgc2V0dGluZ3MKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0KICAgICAgICAgICAgdmFyIG1vbmdvQ2xpZW50ID0gbmV3IE1vbmdvQ2xpZW50KHNldHRpbmdzKTsKICAgICAgICAgICAgdmFyIHRlc3QgPSBtb25nb0NsaWVudC5HZXREYXRhYmFzZSgidGVzdCIpOwogICAgICAgICAgICAgICB0ZXN0LgogICAgICAgICAgICAgICAvL25ldyBEQigidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERCKAogICAgICAgICAgICAgICAgbmV3IE1vbmdvQ2xpZW50U2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmVkZW50aWFscyA9IG5ld1tdIHsgY3JlZGVudGlhbCB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZlciA9IG5ldyBNb25nb1NlcnZlckFkZHJlc3MoIjIwLjI0MS4xMzEuMTk0IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICBsb2wuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+        <text encoding="base64">c2VydmljZSBUb2RvU2VydmljZSB7CiAgcnBjIEFkZFRvZG8gKEFkZFRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>new MongoClientSettings
-            {
-                Credentials = new[] { credential },
-                Server = new MongoServerAddress(&quot;20.241.131.194&quot;)
-            };</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2VydmljZSBDb21wbGV0ZVRvZG8gewogIHN0cmluZyB0b2RvSWQgPSAxOwp9CgpzZXJ2aWNlIFJlbW92ZVRvZG8gewogIHN0cmluZyB0b2RvSWQgPSAxOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -305,9 +312,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>adm</last-search>
+      <last-search>complete</last-search>
       <last-offset />
-      <last-pattern>adm</last-pattern>
+      <last-pattern>complete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
