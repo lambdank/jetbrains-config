@@ -101,8 +101,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590070119098">
-        <mark key="'" line="6" column="21" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590085519798">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Model/Todo.cs" timestamp="1590066063537">
         <mark key="'" line="6" column="4" />
@@ -111,26 +114,26 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/AddTodoEventHandler.cs" timestamp="1590066162921">
-        <mark key="j" line="13" column="33" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="36" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/AddTodoEventHandler.cs" timestamp="1590085489757">
+        <mark key="j" line="12" column="33" />
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" timestamp="1590085278666">
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" timestamp="1590085331381">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="27" column="8" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="32" column="61" />
+        <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590084850918">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590086086427">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Database/Database.cs" timestamp="1590066113767">
         <mark key="[" line="10" column="0" />
@@ -138,12 +141,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590085212491">
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Services/TodoService.cs" timestamp="1590085388470">
         <mark key="'" line="32" column="50" />
-        <mark key="[" line="54" column="105" />
-        <mark key="]" line="54" column="119" />
-        <mark key="." line="54" column="105" />
-        <mark key="^" line="54" column="95" />
+        <mark key="[" line="50" column="74" />
+        <mark key="]" line="50" column="74" />
+        <mark key="." line="50" column="74" />
+        <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Database/Class1.cs" timestamp="1590065501209">
         <mark key="'" line="17" column="36" />
@@ -266,44 +269,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSVByb2R1Y2VyPHN0cmluZywgVG9kb1Rhc2s+IEdldEFkZFRhc2tQcm9kdWNlcigpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFByb2R1Y2VyQnVpbGRlcjxzdHJpbmcsIFRvZG9UYXNrPihfcHJvZHVjZXJDb25maWcpCiAgICAgICAgICAgICAgICAuU2V0S2V5U2VyaWFsaXplcihuZXcgQXZyb1NlcmlhbGl6ZXI8c3RyaW5nPihfc2NoZW1hUmVnaXN0cnksIF9hdnJvU2VyaWFsaXplckNvbmZpZykpCiAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oX3NjaGVtYVJlZ2lzdHJ5LCBfYXZyb1NlcmlhbGl6ZXJDb25maWcpKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Complete</text>
       </register>
       <register name="-" type="4">
-        <text>todoTask</text>
+        <text>Complete</text>
       </register>
       <register name="/" type="4">
         <text>complete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSVByb2R1Y2VyPHN0cmluZywgVG9kb1Rhc2s+IEdldEFkZFRhc2tQcm9kdWNlcigpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFByb2R1Y2VyQnVpbGRlcjxzdHJpbmcsIFRvZG9UYXNrPihfcHJvZHVjZXJDb25maWcpCiAgICAgICAgICAgICAgICAuU2V0S2V5U2VyaWFsaXplcihuZXcgQXZyb1NlcmlhbGl6ZXI8c3RyaW5nPihfc2NoZW1hUmVnaXN0cnksIF9hdnJvU2VyaWFsaXplckNvbmZpZykpCiAgICAgICAgICAgICAgICAuU2V0VmFsdWVTZXJpYWxpemVyKG5ldyBBdnJvU2VyaWFsaXplcjxUb2RvVGFzaz4oX3NjaGVtYVJlZ2lzdHJ5LCBfYXZyb1NlcmlhbGl6ZXJDb25maWcpKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBycGMgQ29tcGxldGVUb2RvIChDb21wbGV0ZVRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBuZXcgQ29uY3VycmVudERpY3Rpb25hcnk8R3VpZCwgVG9kbz4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbmN1cnJlbnREaWN0aW9uYXJ5PEd1aWQsIFRvZG8+IF9kYXRhOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhc2RmID0gcmVxdWVzdC5Ub2RvSWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b2RvVGFzayA9IG5ldyBUb2RvVGFzayB7IGlkID0gcmVxdWVzdC5Ub2RvSWQgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmljZSBUb2RvU2VydmljZSB7CiAgcnBjIEFkZFRvZG8gKEFkZFRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmljZSBDb21wbGV0ZVRvZG8gewogIHN0cmluZyB0b2RvSWQgPSAxOwp9CgpzZXJ2aWNlIFJlbW92ZVRvZG8gewogIHN0cmluZyB0b2RvSWQgPSAxOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
