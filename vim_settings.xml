@@ -66,6 +66,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -140,10 +143,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590067358432">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/glowing-tribble/Todo.Application/Program.cs" timestamp="1590068488491">
+        <mark key="[" line="21" column="73" />
+        <mark key="]" line="21" column="74" />
+        <mark key="." line="21" column="73" />
+        <mark key="^" line="21" column="74" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Model/Todo.cs" timestamp="1590066063537">
         <mark key="'" line="6" column="4" />
@@ -249,10 +253,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>todo.dto</text>
@@ -261,31 +265,39 @@
         <text>todo.Id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREIuQXV0aAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREIuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9uZXcgQWRkVG9kb0V2ZW50SGFuZGxlcihjb25zdW1lckZhY3RvcnksIGRhdGEpLkdldEV2ZW50SGFuZGxlcigpLlJ1blN5bmNocm9ub3VzbHkoKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9TZXJ2ZXIgc2V0dGluZ3MKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0KICAgICAgICAgICAgdmFyIG1vbmdvQ2xpZW50ID0gbmV3IE1vbmdvQ2xpZW50KHNldHRpbmdzKTsKICAgICAgICAgICAgdmFyIHRlc3QgPSBtb25nb0NsaWVudC5HZXREYXRhYmFzZSgidGVzdCIpOwogICAgICAgICAgICAgICB0ZXN0LgogICAgICAgICAgICAgICAvL25ldyBEQigidGVzdCIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IERCKAogICAgICAgICAgICAgICAgbmV3IE1vbmdvQ2xpZW50U2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmVkZW50aWFscyA9IG5ld1tdIHsgY3JlZGVudGlhbCB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZlciA9IG5ldyBNb25nb1NlcnZlckFkZHJlc3MoIjIwLjI0MS4xMzEuMTk0IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICBsb2wuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2RhdGEuVHJ5QWRkKHRvZG8uSWQsIHRvZG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWRlbnRpYWwgPSBNb25nb0NyZWRlbnRpYWwuQ3JlYXRlTW9uZ29DUkNyZWRlbnRpYWwoInRlc3QiLCAicm9vdCIsICJleGFtcGxlIik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3ICAK</text>
+      <register name="8" type="4">
+        <text>new MongoClientSettings
+            {
+                Credentials = new[] { credential },
+                Server = new MongoServerAddress(&quot;20.241.131.194&quot;)
+            };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
