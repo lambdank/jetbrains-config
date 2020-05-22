@@ -121,8 +121,8 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590130241942">
-        <mark key="[" line="47" column="0" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590132043649">
+        <mark key="[" line="48" column="40" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="29" />
