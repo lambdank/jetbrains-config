@@ -83,13 +83,6 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/aaaaa.cs" timestamp="1589913063098">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="67" column="1" />
-        <mark key="]" line="67" column="1" />
-        <mark key="." line="67" column="1" />
-        <mark key="^" line="67" column="3" />
-      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" timestamp="1590085016493">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="60" column="56" />
@@ -166,6 +159,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1590328023225" />
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590083899460">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
