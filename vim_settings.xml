@@ -114,11 +114,11 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590132043649">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="29" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590669614396">
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" timestamp="1590085331381">
         <mark key="'" line="24" column="17" />
@@ -127,7 +127,7 @@
         <mark key="^" line="32" column="61" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590086086427">
+      <file name="$USER_HOME$/glowing-tribble/Todo.API/Protos/todo.proto" timestamp="1590669420127">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="24" />
@@ -159,7 +159,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1590328023225" />
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590083899460">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -263,11 +262,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>{BasePath}/</text>
       </register>
       <register name="-" type="4">
-        <text>BasePath</text>
+        <text>{BasePath}/</text>
       </register>
       <register name="/" type="4">
         <text>complete</text>
