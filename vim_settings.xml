@@ -114,11 +114,11 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590669614396">
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="48" column="33" />
-        <mark key="." line="48" column="33" />
-        <mark key="^" line="47" column="30" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Swagger/SwaggerConfigurationBase.cs" timestamp="1590672169599">
+        <mark key="[" line="61" column="65" />
+        <mark key="]" line="61" column="65" />
+        <mark key="." line="61" column="65" />
+        <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/ProducerFactory.cs" timestamp="1590085331381">
         <mark key="'" line="24" column="17" />
@@ -263,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{BasePath}/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{BasePath}/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>complete</text>
@@ -275,31 +275,31 @@
         <text encoding="base64">ICBycGMgQ29tcGxldGVUb2RvIChDb21wbGV0ZVRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBuZXcgQ29uY3VycmVudERpY3Rpb25hcnk8R3VpZCwgVG9kbz4oKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBuZXcgQ29uY3VycmVudERpY3Rpb25hcnk8R3VpZCwgVG9kbz4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbmN1cnJlbnREaWN0aW9uYXJ5PEd1aWQsIFRvZG8+IF9kYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhc2RmID0gcmVxdWVzdC5Ub2RvSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbmN1cnJlbnREaWN0aW9uYXJ5PEd1aWQsIFRvZG8+IF9kYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b2RvVGFzayA9IG5ldyBUb2RvVGFzayB7IGlkID0gcmVxdWVzdC5Ub2RvSWQgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhc2RmID0gcmVxdWVzdC5Ub2RvSWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b2RvVGFzayA9IG5ldyBUb2RvVGFzayB7IGlkID0gcmVxdWVzdC5Ub2RvSWQgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
