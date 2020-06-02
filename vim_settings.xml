@@ -159,6 +159,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1591079506192">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="53" />
+      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590083899460">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -189,12 +195,10 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" timestamp="1589913340521">
-        <mark key="'" line="117" column="69" />
-        <mark key="[" line="117" column="69" />
-        <mark key="]" line="117" column="69" />
-        <mark key="^" line="104" column="52" />
-        <mark key="." line="117" column="69" />
+      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" timestamp="1591080050299">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -262,11 +266,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuVmlzdWFsU3R1ZGlvLldlYi5Db2RlR2VuZXJhdGlvbi5Ub29scyIgVmVyc2lvbj0iMi4wLjQiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>complete</text>
@@ -275,31 +279,31 @@
         <text encoding="base64">ICBycGMgQ29tcGxldGVUb2RvIChDb21wbGV0ZVRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuVmlzdWFsU3R1ZGlvLldlYi5Db2RlR2VuZXJhdGlvbi5Ub29scyIgVmVyc2lvbj0iMi4wLjQiIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBuZXcgQ29uY3VycmVudERpY3Rpb25hcnk8R3VpZCwgVG9kbz4oKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBuZXcgQ29uY3VycmVudERpY3Rpb25hcnk8R3VpZCwgVG9kbz4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbmN1cnJlbnREaWN0aW9uYXJ5PEd1aWQsIFRvZG8+IF9kYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhc2RmID0gcmVxdWVzdC5Ub2RvSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbmN1cnJlbnREaWN0aW9uYXJ5PEd1aWQsIFRvZG8+IF9kYXRhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b2RvVGFzayA9IG5ldyBUb2RvVGFzayB7IGlkID0gcmVxdWVzdC5Ub2RvSWQgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhc2RmID0gcmVxdWVzdC5Ub2RvSWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBndWlkID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b2RvVGFzayA9IG5ldyBUb2RvVGFzayB7IGlkID0gcmVxdWVzdC5Ub2RvSWQgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
