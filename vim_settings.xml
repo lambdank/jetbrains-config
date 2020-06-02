@@ -18,6 +18,7 @@
         <entry>todo.dto</entry>
         <entry>adm</entry>
         <entry>complete</entry>
+        <entry>codegen</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -76,13 +77,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Dto/TodoTask.cs" timestamp="1589913471925">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" timestamp="1590085016493">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="60" column="56" />
@@ -106,6 +100,12 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/Dockerfile" timestamp="1591081465956">
+        <mark key="[" line="17" column="75" />
+        <mark key="]" line="17" column="76" />
+        <mark key="^" line="17" column="76" />
+        <mark key="." line="17" column="75" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/AddTodoEventHandler.cs" timestamp="1590085489757">
         <mark key="j" line="12" column="33" />
@@ -176,13 +176,6 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/glowing-tribble/ConsoleApp1/TodoTask.cs" timestamp="1589913441687">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="35" />
-      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Dto/TodoTask.avsc" timestamp="1590078539347">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="17" />
@@ -195,7 +188,8 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" timestamp="1591080050299">
+      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" timestamp="1591080680527">
+        <mark key="'" line="47" column="68" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -262,21 +256,23 @@
       <jump line="59" column="51" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
       <jump line="70" column="39" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
       <jump line="60" column="30" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
+      <jump line="16" column="47" filename="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" />
+      <jump line="47" column="68" filename="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuVmlzdWFsU3R1ZGlvLldlYi5Db2RlR2VuZXJhdGlvbi5Ub29scyIgVmVyc2lvbj0iMi4wLjQiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>complete</text>
+        <text>codegen</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBycGMgQ29tcGxldGVUb2RvIChDb21wbGV0ZVRvZG9SZXF1ZXN0KSByZXR1cm5zIChnb29nbGUucHJvdG9idWYuRW1wdHkpOwo=</text>
+      <register name="0" type="4">
+        <text>IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuVmlzdWFsU3R1ZGlvLldlYi5Db2RlR2VuZXJhdGlvbi5Ub29scyIgVmVyc2lvbj0iMi4wLjQiIC8+Cg==</text>
@@ -312,9 +308,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>complete</last-search>
+      <last-search>codegen</last-search>
       <last-offset />
-      <last-pattern>complete</last-pattern>
+      <last-pattern>codegen</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
