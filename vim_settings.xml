@@ -77,6 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repo/obex.platform/Case/Dk/Dk.Obex.Platform.Api.Case.Service/Startup.cs" timestamp="1591790766923">
+        <mark key="[" line="55" column="72" />
+        <mark key="]" line="55" column="91" />
+        <mark key="^" line="55" column="91" />
+        <mark key="." line="55" column="90" />
+      </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" timestamp="1590085016493">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="60" column="56" />
@@ -263,10 +269,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity</text>
+        <text>IHostingEnvironment</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>IHostingEnvironment</text>
       </register>
       <register name="/" type="4">
         <text>codegen</text>
