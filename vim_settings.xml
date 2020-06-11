@@ -171,16 +171,11 @@
         <mark key="." line="11" column="52" />
         <mark key="^" line="11" column="53" />
       </file>
+      <file name="$USER_HOME$/repo/obex.platform/Calculation/Dk/Dk.Obex.Platform.Api.Calculation.Internal.Service.IntegrationTests/Controllers/CalculationControllerTests.cs" timestamp="1591857567169" />
       <file name="$USER_HOME$/glowing-tribble/Todo.Application/ConsumerFactory.cs" timestamp="1590083899460">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/glowing-tribble/Todo.Application/EventHandler/IEventHandler.cs" timestamp="1590055282819">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/glowing-tribble/Todo.Dto/TodoTask.avsc" timestamp="1590078539347">
         <mark key="[" line="6" column="15" />
@@ -264,6 +259,7 @@
       <jump line="60" column="30" filename="$USER_HOME$/glowing-tribble/Todo.API/obj/Debug/netcoreapp3.1/TodoGrpc.cs" />
       <jump line="16" column="47" filename="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" />
       <jump line="47" column="68" filename="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.Admin/Obex.Platform.Api.Skoruba.IdentityServer4.Admin.csproj" />
+      <jump line="10" column="37" filename="$USER_HOME$/repo/obex.platform/Calculation/Dk/Dk.Obex.Platform.Api.Calculation.Internal.Service.IntegrationTests/Controllers/CalculationControllerTests.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
