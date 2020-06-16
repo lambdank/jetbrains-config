@@ -151,11 +151,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592298003532">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592298245384">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="38" column="30" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1591079506192">
         <mark key="[" line="11" column="48" />
@@ -265,44 +265,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Configuration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Configuration</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tracing</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxJV2ViSG9zdEVudmlyb25tZW50PigpLkFwcGxpY2F0aW9uTmFtZTs=</text>
+        <text>serviceName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFjZXIgPSBuZXcgVHJhY2VyLkJ1aWxkZXIoc2VydmljZU5hbWUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhTYW1wbGVyKG5ldyBDb25zdFNhbXBsZXIodHJ1ZSkpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgd2lsbCBsb2cgdG8gYSBkZWZhdWx0IGxvY2FsaG9zdCBpbnN0YWxsYXRpb24gb2YgSmFlZ2VyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7CiAgICAgICAgICAgICAgICAvLyBUaGlzIHdpbGwgbG9nIHRvIGEgZGVmYXVsdCBsb2NhbGhvc3QgaW5zdGFsbGF0aW9uIG9mIEphZWdlci4KICAgICAgICAgICAgICAgIEphZWdlci5Db25maWd1cmF0aW9uIGNvbmZpZyA9IEphZWdlci5Db25maWd1cmF0aW9uLkZyb21FbnYoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gY29uZmlnLkdldFRyYWNlcigpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlczsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFjZXIgPSBuZXcgVHJhY2VyLkJ1aWxkZXIoc2VydmljZU5hbWUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhTYW1wbGVyKG5ldyBDb25zdFNhbXBsZXIodHJ1ZSkpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50cy5NYXBDb250cm9sbGVycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1ldHJpY1NlcnZlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
