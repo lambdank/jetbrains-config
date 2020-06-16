@@ -185,6 +185,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/repo/obex.platform/Case/Dk/Dk.Obex.Platform.Api.Case.Service/Controllers/CaseController.cs" timestamp="1592291224474">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="55" column="28" />
+      </file>
       <file name="$USER_HOME$/repo/obex.platform/Authentication/Obex.Platform.Api.Authentication.Service/Startup.cs" timestamp="1591862245586">
         <mark key="^" line="49" column="8" />
       </file>
@@ -265,15 +272,16 @@
       <jump line="86" column="0" filename="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" />
       <jump line="70" column="35" filename="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" />
       <jump line="71" column="35" filename="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" />
+      <jump line="47" column="0" filename="$USER_HOME$/repo/obex.platform/Case/Dk/Dk.Obex.Platform.Api.Case.Service/Controllers/CaseController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>GlobalTracer.Instance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalTracer.Instance</text>
+        <text>TickTock</text>
       </register>
       <register name="/" type="4">
         <text>tracing</text>
@@ -282,31 +290,31 @@
         <text encoding="base64">c2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxJV2ViSG9zdEVudmlyb25tZW50PigpLkFwcGxpY2F0aW9uTmFtZTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ampqamoKICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgc3RhdGljIHJlYWRvbmx5IENvdW50ZXIgVGlja1RvY2sgPSBNZXRyaWNzLkNyZWF0ZUNvdW50ZXIoInNhbXBsZWFwcF90aWNrc190b3RhbCIsICJKdXN0IGtlZXBzIG9uIHRpY2tpbmciKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLlNsZWVwKFRpbWVTcGFuLkZyb21TZWNvbmRzKDEpKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2VydmVyID0gbmV3IE1ldHJpY1NlcnZlcihob3N0bmFtZTogImxvY2FsaG9zdCIsIHBvcnQ6IDEyMzQpOwogICAgICAgICAgICAgICAgICAgIHNlcnZlci5TdGFydCgpOwogICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB3aGlsZSAodHJ1ZSkKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgd2lsbCBsb2cgdG8gYSBkZWZhdWx0IGxvY2FsaG9zdCBpbnN0YWxsYXRpb24gb2YgSmFlZ2VyLgogICAgICAgICAgICAgICAgdmFyIHRyYWNlciA9IG5ldyBUcmFjZXIuQnVpbGRlcihzZXJ2aWNlTmFtZSkKICAgICAgICAgICAgICAgICAgICAuV2l0aFNhbXBsZXIobmV3IENvbnN0U2FtcGxlcih0cnVlKSkKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgICAgICAvLyBBbGxvd3MgY29kZSB0aGF0IGNhbid0IHVzZSBESSB0byBhbHNvIGFjY2VzcyB0aGUgdHJhY2VyLgogICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHN0YXRpYyB2b2lkIE1haW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxQcm9qZWN0UmVmZXJlbmNlIEluY2x1ZGU9Ii4uXE9iZXguUGxhdGZvcm0uQXBpLlRyYWNpbmdcT2JleC5QbGF0Zm9ybS5BcGkuVHJhY2luZy5jc3Byb2oiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgc3RhdGljIHJlYWRvbmx5IENvdW50ZXIgVGlja1RvY2sgPQogICAgICAgICAgICAgICAgICAgIE1ldHJpY3MuQ3JlYXRlQ291bnRlcigic2FtcGxlYXBwX3RpY2tzX3RvdGFsIiwgIkp1c3Qga2VlcHMgb24gdGlja2luZyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3MgUHJvZ3JhbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InNlcnZpY2VzIj48L3BhcmFtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
