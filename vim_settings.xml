@@ -112,11 +112,6 @@
         <mark key="^" line="17" column="76" />
         <mark key="." line="17" column="75" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/BaseServiceStartup.cs" timestamp="1592293056473">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api.Tracing/ServiceTracing.cs" timestamp="1591863821509">
         <mark key="'" line="16" column="69" />
         <mark key="[" line="16" column="34" />
@@ -152,9 +147,9 @@
       </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" timestamp="1592211790809">
         <mark key="'" line="59" column="35" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592291463204">
         <mark key="[" line="28" column="0" />
@@ -183,12 +178,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/obex.platform/Case/Dk/Dk.Obex.Platform.Api.Case.Service/Controllers/CaseController.cs" timestamp="1592292426578">
-        <mark key="[" line="31" column="107" />
-        <mark key="]" line="31" column="107" />
-        <mark key="^" line="31" column="108" />
-        <mark key="." line="31" column="107" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/Authentication/Obex.Platform.Api.Authentication.Service/Startup.cs" timestamp="1591862245586">
         <mark key="^" line="49" column="8" />
@@ -277,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tracing</text>
@@ -289,31 +278,31 @@
         <text encoding="base64">c2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxJV2ViSG9zdEVudmlyb25tZW50PigpLkFwcGxpY2F0aW9uTmFtZTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1ldHJpY1NlcnZlcigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VNZXRyaWNTZXJ2ZXIoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50cy5NYXBDb250cm9sbGVycygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIAogICAg</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1ldHJpY1NlcnZlcigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICBHbG9iYWxUcmFjZXIuUmVnaXN0ZXIodHJhY2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VNZXRyaWNTZXJ2ZXIoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgc3RhdGljIHJlYWRvbmx5IENvdW50ZXIgVGlja1RvY2sgPSBNZXRyaWNzLkNyZWF0ZUNvdW50ZXIoInNhbXBsZWFwcF90aWNrc190b3RhbCIsICJKdXN0IGtlZXBzIG9uIHRpY2tpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICBHbG9iYWxUcmFjZXIuUmVnaXN0ZXIodHJhY2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
