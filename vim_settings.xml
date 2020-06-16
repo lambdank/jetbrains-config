@@ -151,11 +151,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592298245384">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="38" column="30" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592300764680">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1591079506192">
         <mark key="[" line="11" column="48" />
@@ -266,7 +266,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBKYWVnZXI7CnVzaW5nIEphZWdlci5TYW1wbGVyczsKdXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSG9zdGluZzsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -278,31 +278,31 @@
         <text>serviceName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBKYWVnZXI7CnVzaW5nIEphZWdlci5TYW1wbGVyczsKdXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSG9zdGluZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgd2lsbCBsb2cgdG8gYSBkZWZhdWx0IGxvY2FsaG9zdCBpbnN0YWxsYXRpb24gb2YgSmFlZ2VyLgo=</text>
+        <text encoding="base64">dXNpbmcgT3BlblRyYWNpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSk7CiAgICAgICAgICAgICAgICAvLyBUaGlzIHdpbGwgbG9nIHRvIGEgZGVmYXVsdCBsb2NhbGhvc3QgaW5zdGFsbGF0aW9uIG9mIEphZWdlci4KICAgICAgICAgICAgICAgIEphZWdlci5Db25maWd1cmF0aW9uIGNvbmZpZyA9IEphZWdlci5Db25maWd1cmF0aW9uLkZyb21FbnYoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gY29uZmlnLkdldFRyYWNlcigpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZXJ2aWNlTmFtZSA9IHNlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8SVdlYkhvc3RFbnZpcm9ubWVudD4oKS5BcHBsaWNhdGlvbk5hbWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFjZXIgPSBuZXcgVHJhY2VyLkJ1aWxkZXIoc2VydmljZU5hbWUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhTYW1wbGVyKG5ldyBDb25zdFNhbXBsZXIodHJ1ZSkpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudmlyb25tZW50LlNldEVudmlyb25tZW50VmFyaWFibGUoIkpBRUdFUl9TRVJWSUNFX05BTUUiLCBzZXJ2aWNlTmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgd2lsbCBsb2cgdG8gYSBkZWZhdWx0IGxvY2FsaG9zdCBpbnN0YWxsYXRpb24gb2YgSmFlZ2VyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7CiAgICAgICAgICAgICAgICAvLyBUaGlzIHdpbGwgbG9nIHRvIGEgZGVmYXVsdCBsb2NhbGhvc3QgaW5zdGFsbGF0aW9uIG9mIEphZWdlci4KICAgICAgICAgICAgICAgIEphZWdlci5Db25maWd1cmF0aW9uIGNvbmZpZyA9IEphZWdlci5Db25maWd1cmF0aW9uLkZyb21FbnYoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gY29uZmlnLkdldFRyYWNlcigpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
