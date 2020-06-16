@@ -151,10 +151,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592296514954">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/ServiceTracing.cs" timestamp="1592298003532">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1591079506192">
         <mark key="[" line="11" column="48" />
@@ -264,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Configuration</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Configuration</text>
       </register>
       <register name="/" type="4">
         <text>tracing</text>
@@ -277,31 +278,31 @@
         <text encoding="base64">c2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxJV2ViSG9zdEVudmlyb25tZW50PigpLkFwcGxpY2F0aW9uTmFtZTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFjZXIgPSBuZXcgVHJhY2VyLkJ1aWxkZXIoc2VydmljZU5hbWUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhTYW1wbGVyKG5ldyBDb25zdFNhbXBsZXIodHJ1ZSkpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghR2xvYmFsVHJhY2VyLklzUmVnaXN0ZXJlZCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEFsbG93cyBjb2RlIHRoYXQgY2FuJ3QgdXNlIERJIHRvIGFsc28gYWNjZXNzIHRoZSB0cmFjZXIuCiAgICAgICAgICAgICAgICAgICAgR2xvYmFsVHJhY2VyLlJlZ2lzdGVyKHRyYWNlcik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50cy5NYXBDb250cm9sbGVycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50cy5NYXBDb250cm9sbGVycygpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgIAogICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1ldHJpY1NlcnZlcigpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1ldHJpY1NlcnZlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
