@@ -145,6 +145,12 @@
         <mark key="]" line="97" column="9" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/repo/velliv/Velliv.External.ProjectionService/appsettings.json" timestamp="1594188022099">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" timestamp="1592211790809">
         <mark key="'" line="59" column="35" />
         <mark key="[" line="86" column="0" />
@@ -156,12 +162,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repo/obex.platform/IdentityServer4/Obex.Platform.Api.Skoruba.IdentityServer4.STS.Identity/appsettings.json" timestamp="1591079506192">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api.External/Obex.Platform.Api.External.csproj" timestamp="1591863788382">
         <mark key="[" line="0" column="0" />
@@ -182,6 +182,7 @@
       <file name="$USER_HOME$/repo/obex.platform/Authentication/Obex.Platform.Api.Authentication.Service/Startup.cs" timestamp="1591862245586">
         <mark key="^" line="49" column="8" />
       </file>
+      <file name="$USER_HOME$/repo/velliv/Velliv.External.ProjectionService/Dockerfile" timestamp="1594187914007" />
     </filemarks>
     <jumps>
       <jump line="136" column="23" filename="$USER_HOME$/glowing-tribble/ConsoleApp1/Program.cs" />
