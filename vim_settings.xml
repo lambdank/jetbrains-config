@@ -145,11 +145,11 @@
         <mark key="]" line="97" column="9" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/repo/velliv/Velliv.External.ProjectionService/appsettings.json" timestamp="1594188022099">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="35" />
+      <file name="$USER_HOME$/repo/velliv/Velliv.External.ProjectionService/appsettings.json" timestamp="1594188404695">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/repo/obex.platform/Shared/Obex.Platform.Api/Obex.Platform.Api.csproj" timestamp="1592211790809">
         <mark key="'" line="59" column="35" />
@@ -270,10 +270,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiRG9jdW1lbnRhdGlvblBhdGgiOiAiYXNkZiIK</text>
       </register>
       <register name="-" type="4">
-        <text>JAEGER_SERVICENAME</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>tracing</text>
@@ -282,31 +282,31 @@
         <text>JAEGER_SERVICE_NAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiRG9jdW1lbnRhdGlvblBhdGgiOiAiYXNkZiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb25maWcuU2VydmljZU5hbWUgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb25maWcuU2VydmljZU5hbWUgPSBBcHBsaWNhdGlvbk5hbWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb25maWcuU2VydmljZU5hbWUgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb25maWcuU2VydmljZU5hbWUgPSBBcHBsaWNhdGlvbk5hbWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">77u/dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZy5TZXJ2aWNlTmFtZQo=</text>
+        <text encoding="base64">77u/dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZy5TZXJ2aWNlTmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudmlyb25tZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlci4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudmlyb25tZW50Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
