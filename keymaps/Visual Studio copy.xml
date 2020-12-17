@@ -39,6 +39,11 @@
   <action id="EditorPreviousWord" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt end" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl z" />
   </action>
