@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="-c &quot;./dev_publishToMavenLocal.sh TEST&quot;" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/repos/deon-dsl" />
+    </exec>
+  </tool>
+</toolSet>
