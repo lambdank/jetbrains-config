@@ -2,7 +2,7 @@
   <tool name="Build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="bash" />
-      <option name="PARAMETERS" value="-c &quot;source ~/.bashrc;./dev_publishToMavenLocal.sh&quot;" />
+      <option name="PARAMETERS" value="-c &quot;PATH=~/java/bin:$PATH;./dev_publishToMavenLocal.sh&quot;" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/repos/deon-dsl" />
     </exec>
   </tool>
