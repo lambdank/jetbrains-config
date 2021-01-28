@@ -9,7 +9,7 @@
   <tool name="dil-service" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="bash" />
-      <option name="PARAMETERS" value="-c &quot;dil-service-exe &amp;&quot;" />
+      <option name="PARAMETERS" value="-c &quot;killall -9 dil-service-exe || true &amp;&amp; dil-service-exe &amp;&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
