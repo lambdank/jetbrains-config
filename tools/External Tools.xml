@@ -16,7 +16,7 @@
   <tool name="consolidated-tests-service" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="bash" />
-      <option name="PARAMETERS" value="-c &quot;killall -9 consolidated-te &amp;&amp; consolidated-tests-service-exe 4000 &amp;&quot;" />
+      <option name="PARAMETERS" value="-c &quot;(killall -w -q consolidated-te || true) &amp;&amp; consolidated-tests-service-exe 4000 &amp;&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
